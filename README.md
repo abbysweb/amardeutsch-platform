@@ -70,7 +70,7 @@ This project is organized as a high-velocity **Turborepo Monorepo**:
 ### 1. Clone & Install Dependencies
 From the root directory, install all workspace packages in a single command:
 ```bash
-git clone https://github.com/your-username/amardeutsch-platform.git
+git clone https://github.com/abbysweb/amardeutsch-platform.git
 cd amardeutsch-platform
 npm install
 ```
