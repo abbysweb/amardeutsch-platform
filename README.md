@@ -124,7 +124,7 @@ Now grab a cup of coffee and open up your local instances:
 Designed and engineered under an advanced multi-agent supervisory framework by:
 
 **Abdullah Al Mamun**  
-*M.Sc. and B.Sc. Software Engineering *  
+*M.Sc. and B.Sc. In Software Engineering *  
 *TU Wien (Vienna, Austria) & Daffodil International University*  
 
 * 📧 Email: [`mamun.swe.de@gmail.com`](mailto:mamun.swe.de@gmail.com)  
