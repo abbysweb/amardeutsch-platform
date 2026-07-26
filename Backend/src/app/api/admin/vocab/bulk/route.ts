@@ -12,7 +12,7 @@ export async function POST(req: Request) {
     }
 
     let insertedCount = 0;
-    const errors = [];
+    const errors: any[] = [];
 
     // Process sequentially to handle unique constraints properly with SQLite
     for (const item of data) {

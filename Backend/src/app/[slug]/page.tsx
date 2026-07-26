@@ -15,7 +15,7 @@ export default async function DynamicAdminPage({ params }: { params: Promise<{ s
   const { slug } = await params;
   const normalized = (slug || '').toLowerCase().trim();
 
-  let content = null;
+  let content: React.ReactNode = null;
   let title = "";
 
   switch (normalized) {

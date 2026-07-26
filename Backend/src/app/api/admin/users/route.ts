@@ -12,7 +12,7 @@ export async function GET() {
     });
     
     // Omit sensitive password hashes before responding to clients
-    const safeUsers = users.map(user => {
+    const safeUsers = (users as any[]).map((user: any) => {
       const { passwordHash, ...safeUser } = user;
       return safeUser;
     });
@@ -125,7 +125,7 @@ export async function DELETE(req: Request) {
     
     // Support Bulk Deletions
     if (ids) {
-      const idArray = ids.split(',').map(item => parseInt(item.trim())).filter(num => !isNaN(num));
+      const idArray = ids.split(',').map((item: string) => parseInt(item.trim())).filter((num: number) => !isNaN(num));
       if (idArray.length > 0) {
         const deleted = await prisma.user.deleteMany({
           where: { id: { in: idArray } }

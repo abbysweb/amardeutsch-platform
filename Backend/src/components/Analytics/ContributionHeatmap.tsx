@@ -27,10 +27,10 @@ export default function ContributionHeatmap({ activities }: Props) {
 
     let activeCount = 0;
     let maxXp = 0;
-    const generatedWeeks = [];
+    const generatedWeeks: any[][] = [];
 
     for (let w = numWeeks - 1; w >= 0; w--) {
-      const weekDays = [];
+      const weekDays: any[] = [];
       for (let i = 0; i < 7; i++) {
         const dayOffset = w * 7 + (6 - i);
         const targetDate = new Date(today.getTime() - dayOffset * 24 * 60 * 60 * 1000);
