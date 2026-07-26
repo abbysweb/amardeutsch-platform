@@ -4,8 +4,8 @@ const nextConfig: NextConfig = {
   basePath: '/backend',
   compress: true,
   outputFileTracingIncludes: {
-    '/api/**': ['./dev.db', './prisma/dev.db'],
-    '/**': ['./dev.db', './prisma/dev.db'],
+    '/api/**': ['./prisma/dev.db', './dev.db'],
+    '/**': ['./prisma/dev.db', './dev.db'],
   },
   async redirects() {
     return [

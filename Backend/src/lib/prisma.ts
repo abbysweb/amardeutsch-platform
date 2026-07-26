@@ -19,14 +19,15 @@ if (process.env.VERCEL || process.env.VERCEL_ENV || process.env.AWS_LAMBDA_FUNCT
     if (!fs.existsSync(tmpDbPath)) {
       const cwd = process.cwd();
       const possibleSources = [
-        path.join(/*turbopackIgnore: true*/ cwd, 'dev.db'),
         path.join(/*turbopackIgnore: true*/ cwd, 'prisma', 'dev.db'),
+        path.join(/*turbopackIgnore: true*/ __dirname, '..', '..', '..', 'prisma', 'dev.db'),
+        path.resolve(/*turbopackIgnore: true*/ './prisma/dev.db'),
+        path.join(/*turbopackIgnore: true*/ cwd, 'Backend', 'prisma', 'dev.db'),
+        path.join(/*turbopackIgnore: true*/ cwd, 'dev.db'),
         path.join(/*turbopackIgnore: true*/ cwd, 'Backend', 'dev.db'),
         path.join(/*turbopackIgnore: true*/ cwd, '..', 'dev.db'),
         path.join(/*turbopackIgnore: true*/ __dirname, '..', '..', '..', 'dev.db'),
-        path.join(/*turbopackIgnore: true*/ __dirname, '..', '..', '..', 'prisma', 'dev.db'),
-        path.resolve(/*turbopackIgnore: true*/ './dev.db'),
-        path.resolve(/*turbopackIgnore: true*/ './prisma/dev.db')
+        path.resolve(/*turbopackIgnore: true*/ './dev.db')
       ];
 
       for (const src of possibleSources) {
