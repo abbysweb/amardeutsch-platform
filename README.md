@@ -1,4 +1,3 @@
-# 🇩🇪 AmarDeutsch (`amardeutsch.com`)
 ### Advanced Gamified German Learning Suite & Behavioral Intelligence Platform
 
 [![Next.js 16](https://img.shields.io/badge/Next.js%2016-Black?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org)
