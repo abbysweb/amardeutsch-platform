@@ -1,7 +1,5 @@
 import { NextResponse } from 'next/server';
-import { PrismaClient } from '@prisma/client';
-
-const prisma = new PrismaClient();
+import { prisma } from '@/lib/prisma';
 const TATOEBA_API = 'https://api.tatoeba.org/v1/sentences';
 
 function sleep(ms: number) {

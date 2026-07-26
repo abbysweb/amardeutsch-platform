@@ -1,10 +1,5 @@
-import { PrismaClient } from '@prisma/client';
+import { prisma } from '@/lib/prisma';
 import { IContentRepository, ContentIdentifier } from './IRepository';
-
-// Singleton instance to prevent multiple connections during dev
-const globalForPrisma = globalThis as unknown as { prisma: PrismaClient };
-const prisma = globalForPrisma.prisma || new PrismaClient();
-if (process.env.NODE_ENV !== 'production') globalForPrisma.prisma = prisma;
 
 export class PrismaRepository implements IContentRepository {
   async readContent(id: ContentIdentifier): Promise<any> {

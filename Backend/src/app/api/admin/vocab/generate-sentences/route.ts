@@ -7,11 +7,9 @@
  * template sentence using grammar rules based on the word's article or verb status.
  */
 import { NextResponse } from 'next/server';
-import { PrismaClient } from '@prisma/client';
+import { prisma } from '@/lib/prisma';
 import fs from 'fs';
 import path from 'path';
-
-const prisma = new PrismaClient();
 
 const LEVELS = ['a1', 'a2', 'b1', 'b2'];
 

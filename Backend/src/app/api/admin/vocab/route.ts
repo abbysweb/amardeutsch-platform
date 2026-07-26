@@ -6,10 +6,9 @@
  * sentences to words via the `SentenceMatcherService`.
  */
 import { NextResponse } from 'next/server';
-import { PrismaClient } from '@prisma/client';
+import { prisma } from '@/lib/prisma';
 import { SentenceMatcherService } from '@/services/SentenceMatcherService';
 
-const prisma = new PrismaClient();
 const sentenceMatcher = new SentenceMatcherService();
 
 /**

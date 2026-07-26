@@ -19,8 +19,7 @@
 # Database & Environment variables
 **/*.db
 **/*.db-journal
-dev.db
-dev.db-journal
+!**/dev.db
 .env
 .env.local
 .env.development.local

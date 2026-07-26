@@ -27,8 +27,7 @@ next-env.d.ts
 # database files
 *.db
 *.db-journal
-dev.db
-dev.db-journal
+!dev.db
 
 # misc & os
 .DS_Store
