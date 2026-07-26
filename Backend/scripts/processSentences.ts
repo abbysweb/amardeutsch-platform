@@ -36,13 +36,13 @@ async function run() {
   
   // 1. Find all sentences (entries with > 1 space)
   const allVocab = await prisma.vocabulary.findMany();
-  const sentencesToDelete = allVocab.filter(v => v.german.split(' ').length > 2);
+  const sentencesToDelete = allVocab.filter((v: any) => v.german.split(' ').length > 2);
   
   console.log(`Found ${sentencesToDelete.length} sentences to delete.`);
 
   // 2. Delete them
   let deletedCount = 0;
-  for (const s of sentencesToDelete) {
+  for (const s of (sentencesToDelete as any[])) {
     try {
       await prisma.vocabulary.delete({ where: { id: s.id } });
       deletedCount++;
