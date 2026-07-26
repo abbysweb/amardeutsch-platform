@@ -1,0 +1,114 @@
+{
+  "id": "A1-exam",
+  "level": "A1",
+  "title": "A1 German Exam",
+  "description": "Complete A1 level German proficiency exam",
+  "totalTimeMinutes": 90,
+  "sections": [
+    {
+      "id": "listening",
+      "title": "Hören (Listening)",
+      "description": "Listen to short dialogues and answer questions",
+      "timeLimitMinutes": 20,
+      "questions": [
+        {
+          "id": 1,
+          "type": "multiple-choice",
+          "question": "What does the person order?",
+          "options": ["Coffee", "Tea", "Water", "Beer"],
+          "correctAnswer": 0,
+          "explanation": "The dialogue mentions 'Einen Kaffee, bitte.'",
+          "points": 5
+        },
+        {
+          "id": 2,
+          "type": "multiple-choice",
+          "question": "Where does the conversation take place?",
+          "options": ["At a restaurant", "At a train station", "At a supermarket", "At home"],
+          "correctAnswer": 0,
+          "explanation": "They are ordering food and drinks.",
+          "points": 5
+        }
+      ],
+      "passingScore": 60
+    },
+    {
+      "id": "reading",
+      "title": "Lesen (Reading)",
+      "description": "Read short texts and answer comprehension questions",
+      "timeLimitMinutes": 25,
+      "questions": [
+        {
+          "id": 1,
+          "type": "multiple-choice",
+          "question": "What is the text about?",
+          "options": ["A family", "A house", "A job", "A holiday"],
+          "correctAnswer": 0,
+          "explanation": "The text describes family members.",
+          "points": 10
+        },
+        {
+          "id": 2,
+          "type": "fill-blank",
+          "question": "Complete: 'Das ist ____ Vater.'",
+          "options": ["mein", "meine", "meines", "meiner"],
+          "correctAnswer": "mein",
+          "explanation": "Vater is masculine nominative, so 'mein'.",
+          "points": 10
+        }
+      ],
+      "passingScore": 60
+    },
+    {
+      "id": "writing",
+      "title": "Schreiben (Writing)",
+      "description": "Write short texts about familiar topics",
+      "timeLimitMinutes": 20,
+      "questions": [
+        {
+          "id": 1,
+          "type": "translation",
+          "question": "Translate: 'I live in Berlin.'",
+          "correctAnswer": "Ich wohne in Berlin.",
+          "explanation": "ich wohne = I live",
+          "points": 10
+        },
+        {
+          "id": 2,
+          "type": "translation",
+          "question": "Translate: 'My name is Anna.'",
+          "correctAnswer": "Ich heiße Anna. / Mein Name ist Anna.",
+          "explanation": "ich heiße = my name is / I am called",
+          "points": 10
+        }
+      ],
+      "passingScore": 60
+    },
+    {
+      "id": "speaking",
+      "title": "Sprechen (Speaking)",
+      "description": "Oral exam with examiner",
+      "timeLimitMinutes": 15,
+      "questions": [
+        {
+          "id": 1,
+          "type": "speaking",
+          "question": "Introduce yourself (name, country, profession).",
+          "correctAnswer": "Ich heiße... Ich komme aus... Ich bin...",
+          "explanation": "Basic self-introduction",
+          "points": 20
+        },
+        {
+          "id": 2,
+          "type": "speaking",
+          "question": "Describe your daily routine.",
+          "correctAnswer": "Ich stehe um 7 Uhr auf. Ich frühstücke um 7:30 Uhr. Ich arbeite von 9 bis 17 Uhr.",
+          "explanation": "Daily routine with times",
+          "points": 20
+        }
+      ],
+      "passingScore": 60
+    }
+  ],
+  "passingScore": 60
+}

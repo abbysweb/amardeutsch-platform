@@ -1,0 +1,1712 @@
+[
+  {
+    "id": 19,
+    "title": "Action Verbs, Stem Changes & Modals (Q101–Q115)",
+    "description": "Master regular conjugation (machen, arbeiten), stem-vowel shifts (essen, schlafen, fahren, sehen), and modal verb structures.",
+    "category": "Verb Conjugation",
+    "level": "A1",
+    "quizType": "multiple_choice",
+    "questions": [
+      {
+        "id": 1901,
+        "question": "Wie heißt die Form von 'machen' für 'ich'?",
+        "english": "What is the form of 'machen' (to make/do) for 'ich'?",
+        "options": ["ich mache", "ich machst", "ich macht", "ich machen"],
+        "correctIndex": 0,
+        "explanation": "'Ich mache' ist die korrekte Form."
+      },
+      {
+        "id": 1902,
+        "question": "Wie heißt die Form von 'arbeiten' für 'du'?",
+        "english": "What is the form of 'arbeiten' (to work) for 'du'?",
+        "options": ["du arbeitest", "du arbeitet", "du arbeitst", "du arbeiten"],
+        "correctIndex": 0,
+        "explanation": "'Du arbeitest' – Verben auf -ten bekommen ein 'e' vor der Endung."
+      },
+      {
+        "id": 1903,
+        "question": "Wie heißt die Form von 'wohnen' für 'er'?",
+        "english": "What is the form of 'wohnen' (to reside/live) for 'er'?",
+        "options": ["er wohnt", "er wohnst", "er wohne", "er wohnen"],
+        "correctIndex": 0,
+        "explanation": "'Er wohnt' ist korrekt."
+      },
+      {
+        "id": 1904,
+        "question": "Wie heißt die Form von 'essen' für 'du'?",
+        "english": "What is the form of 'essen' (to eat) for 'du'?",
+        "options": ["du isst", "du essest", "du esst", "du esse"],
+        "correctIndex": 0,
+        "explanation": "'Du isst' – Stammvokalwechsel e → i."
+      },
+      {
+        "id": 1905,
+        "question": "Wie heißt die Form von 'essen' für 'ihr'?",
+        "english": "What is the form of 'essen' for 'ihr'?",
+        "options": ["ihr esst", "ihr isst", "ihr esset", "ihr esse"],
+        "correctIndex": 0,
+        "explanation": "'Ihr esst' – bei ihr bleibt der Stamm meist erhalten."
+      },
+      {
+        "id": 1906,
+        "question": "Wie heißt die Form von 'trinken' für 'wir'?",
+        "english": "What is the form of 'trinken' (to drink) for 'wir'?",
+        "options": ["wir trinken", "wir trinkt", "wir trinkst", "wir trinke"],
+        "correctIndex": 0,
+        "explanation": "'Wir trinken' ist korrekt."
+      },
+      {
+        "id": 1907,
+        "question": "Wie heißt die Form von 'schlafen' für 'er'?",
+        "english": "What is the form of 'schlafen' (to sleep) for 'er'?",
+        "options": ["er schläft", "er schlaft", "er schlafst", "er schlafe"],
+        "correctIndex": 0,
+        "explanation": "'Er schläft' – Stammvokalwechsel a → ä."
+      },
+      {
+        "id": 1908,
+        "question": "Wie heißt die Form von 'fahren' für 'du'?",
+        "english": "What is the form of 'fahren' (to drive/ride) for 'du'?",
+        "options": ["du fährst", "du fahrest", "du fahrt", "du fahren"],
+        "correctIndex": 0,
+        "explanation": "'Du fährst' – Stammvokalwechsel a → ä."
+      },
+      {
+        "id": 1909,
+        "question": "Wie heißt die Form von 'sehen' für 'er'?",
+        "english": "What is the form of 'sehen' (to see) for 'er'?",
+        "options": ["er sieht", "er seht", "er sehst", "er sehe"],
+        "correctIndex": 0,
+        "explanation": "'Er sieht' – Stammvokalwechsel e → ie."
+      },
+      {
+        "id": 1910,
+        "question": "Wie heißt die Form von 'hören' für 'ihr'?",
+        "english": "What is the form of 'hören' (to hear/listen) for 'ihr'?",
+        "options": ["ihr hört", "ihr höret", "ihr hörst", "ihr hören"],
+        "correctIndex": 0,
+        "explanation": "'Ihr hört' ist korrekt."
+      },
+      {
+        "id": 1911,
+        "question": "Wie heißt die Form von 'spielen' für 'wir'?",
+        "english": "What is the form of 'spielen' (to play) for 'wir'?",
+        "options": ["wir spielen", "wir spielt", "wir spielst", "wir spiele"],
+        "correctIndex": 0,
+        "explanation": "'Wir spielen' ist korrekt."
+      },
+      {
+        "id": 1912,
+        "question": "Wie heißt die Form von 'kaufen' für 'ich'?",
+        "english": "What is the form of 'kaufen' (to buy) for 'ich'?",
+        "options": ["ich kaufe", "ich kaufst", "ich kauft", "ich kaufen"],
+        "correctIndex": 0,
+        "explanation": "'Ich kaufe' ist korrekt."
+      },
+      {
+        "id": 1913,
+        "question": "Wie heißt die Form von 'dürfen' für 'ich'?",
+        "english": "What is the form of 'dürfen' (may/to be allowed) for 'ich'?",
+        "options": ["ich darf", "ich dürfe", "ich dürfte", "ich darfst"],
+        "correctIndex": 0,
+        "explanation": "'Ich darf' – Modalverb mit Umlautwechsel in Singular."
+      },
+      {
+        "id": 1914,
+        "question": "Wie heißt die Form von 'sollen' für 'du'?",
+        "english": "What is the form of 'sollen' (should/ought to) for 'du'?",
+        "options": ["du sollst", "du sollest", "du sollt", "du sollen"],
+        "correctIndex": 0,
+        "explanation": "'Du sollst' – Modalverb ohne Umlaut."
+      },
+      {
+        "id": 1915,
+        "question": "Wo steht das zweite Verb bei 'Ich kann heute nicht kommen.'?",
+        "english": "Where is the second verb located in 'Ich kann heute nicht kommen.'?",
+        "options": ["am Ende", "in der Mitte", "am Anfang", "nach 'nicht'"],
+        "correctIndex": 0,
+        "explanation": "Bei Modalverben steht der Infinitiv am Ende (Verbklammer)."
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "title": "Separable Verbs, Core Prepositions & Interrogatives (Q116–Q131)",
+    "description": "Construct separable sentences (einkaufen, fernsehen), apply essential prepositions (mit, ohne, für, durch), and ask Warum / Wie viel.",
+    "category": "Prepositions & Verbs",
+    "level": "A1",
+    "quizType": "multiple_choice",
+    "questions": [
+      {
+        "id": 2001,
+        "question": "Was ist die richtige Satzstellung: 'Ich kaufe morgen ein.'?",
+        "english": "What is the correct sentence order for einkaufen (to go shopping)?",
+        "options": ["Ich kaufe morgen ein.", "Ich ein kaufe morgen.", "Ich kaufe ein morgen.", "Ich kauf ein morgen."],
+        "correctIndex": 0,
+        "explanation": "'einkaufen' – trennbar: 'Ich kaufe ... ein.'"
+      },
+      {
+        "id": 2002,
+        "question": "Wie heißt der Satz: 'Ich sehe heute Abend fern.'?",
+        "english": "What is the correct structure for fernsehen (to watch TV)?",
+        "options": ["Ich sehe heute Abend fern.", "Ich fern sehe heute Abend.", "Ich sehe fern heute Abend.", "Ich sehe heute Abend fern."],
+        "correctIndex": 0,
+        "explanation": "'fernsehen' – 'Ich sehe ... fern.'"
+      },
+      {
+        "id": 2003,
+        "question": "Wann ___ du mit der Arbeit ___? (fängst ... an / anfängst ...)",
+        "english": "When do you begin work?",
+        "options": ["fängst ... an", "anfängst", "fängst an ...", "an ... fängst"],
+        "correctIndex": 0,
+        "explanation": "'anfangen' – 'Wann fängst du an?'"
+      },
+      {
+        "id": 2004,
+        "question": "Ich gehe ___ meinem Freund ins Kino. (mit/ohne/für)",
+        "english": "I am going to the cinema with my friend.",
+        "options": ["mit", "ohne", "für", "bei"],
+        "correctIndex": 0,
+        "explanation": "'Mit' bedeutet zusammen mit jemandem (Dativ)."
+      },
+      {
+        "id": 2005,
+        "question": "Ich kann nicht ___ Handy leben. (mit/ohne/für)",
+        "english": "I cannot live without a cell phone.",
+        "options": ["mit", "ohne", "für", "bei"],
+        "correctIndex": 1,
+        "explanation": "'Ohne' bedeutet 'without' (Akkusativ)."
+      },
+      {
+        "id": 2006,
+        "question": "Das Geschenk ist ___ dich. (für/mit/ohne)",
+        "english": "The present is for you.",
+        "options": ["für", "mit", "ohne", "bei"],
+        "correctIndex": 0,
+        "explanation": "'Für' drückt den Empfänger aus (Akkusativ)."
+      },
+      {
+        "id": 2007,
+        "question": "Ich bin ___ Mülltrennung. (für/gegen/ohne)",
+        "english": "I am in favor of waste separation.",
+        "options": ["für", "gegen", "ohne", "mit"],
+        "correctIndex": 0,
+        "explanation": "'Für' bedeutet 'for' (zustimmend); 'gegen' wäre dagegen."
+      },
+      {
+        "id": 2008,
+        "question": "Ich warte ___ 18 Uhr. (bis/ab/seit)",
+        "english": "I will wait until 6 PM.",
+        "options": ["bis", "ab", "seit", "für"],
+        "correctIndex": 0,
+        "explanation": "'Bis' gibt den Endzeitpunkt an."
+      },
+      {
+        "id": 2009,
+        "question": "Das Geschenk ist ___ mir. (von/für/aus)",
+        "english": "The present is from me.",
+        "options": ["von", "für", "aus", "mit"],
+        "correctIndex": 0,
+        "explanation": "'Von' gibt den Ursprung/Geber an (Dativ)."
+      },
+      {
+        "id": 2010,
+        "question": "Ich gehe ___ meiner Oma. (zu/nach/in)",
+        "english": "I am going to my grandma's place.",
+        "options": ["zu", "nach", "in", "bei"],
+        "correctIndex": 0,
+        "explanation": "'Zu' bei Personen: 'zu meiner Oma'."
+      },
+      {
+        "id": 2011,
+        "question": "Fliegst du ___ Frankreich? (nach/in/zu)",
+        "english": "Are you flying to France?",
+        "options": ["nach", "in", "zu", "bei"],
+        "correctIndex": 0,
+        "explanation": "'Nach' bei Ländern ohne Artikel (Frankreich)."
+      },
+      {
+        "id": 2012,
+        "question": "Kommst du ___ der Türkei? (aus/von/nach)",
+        "english": "Do you come from Turkey?",
+        "options": ["aus", "von", "nach", "zu"],
+        "correctIndex": 0,
+        "explanation": "'Aus' bei Ländern mit Artikel (die Türkei -> aus der Türkei)."
+      },
+      {
+        "id": 2013,
+        "question": "Wir gehen ___ den Park. (durch/über/unter)",
+        "english": "We are walking through the park.",
+        "options": ["durch", "über", "unter", "auf"],
+        "correctIndex": 0,
+        "explanation": "'Durch' bedeutet 'through' (Akkusativ)."
+      },
+      {
+        "id": 2014,
+        "question": "Die Brücke geht ___ den Fluss. (über/unter/durch)",
+        "english": "The bridge spans over the river.",
+        "options": ["über", "unter", "durch", "auf"],
+        "correctIndex": 0,
+        "explanation": "'Über' bei einer Brücke über einen Fluss."
+      },
+      {
+        "id": 2015,
+        "question": "___ kommst du zu spät? (Warum/Wie/Wo)",
+        "english": "Why are you arriving too late?",
+        "options": ["Warum", "Wie", "Wo", "Wann"],
+        "correctIndex": 0,
+        "explanation": "'Warum' fragt nach dem Grund (Why)."
+      },
+      {
+        "id": 2016,
+        "question": "___ kostet das? (Wie viel/Was/Wie)",
+        "english": "How much does that cost?",
+        "options": ["Wie viel", "Was", "Wie", "Warum"],
+        "correctIndex": 0,
+        "explanation": "'Wie viel' fragt nach dem Preis (How much)."
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "title": "Ordinals, Calendar Sequencing & Time Expressions (Q132–Q140)",
+    "description": "Form ordinal date numbers (erster, fünfter), navigate yesterday/after-tomorrow logic, and sequence months and days.",
+    "category": "Dates & Calendar",
+    "level": "A1",
+    "quizType": "multiple_choice",
+    "questions": [
+      {
+        "id": 2101,
+        "question": "Wie heißt die Ordnungszahl von '5' (im Datum: 5. Mai)?",
+        "english": "What is the ordinal number for '5' (e.g. 5th of May)?",
+        "options": ["fünfter", "fünf", "fünft", "fünfte"],
+        "correctIndex": 0,
+        "explanation": "5. = fünfter (maskulin für Monatstag)."
+      },
+      {
+        "id": 2102,
+        "question": "Wie heißt 1. (erster Tag) im Monat?",
+        "english": "What is the 1st (first day) in a month called?",
+        "options": ["erster", "erste", "erstes", "eins"],
+        "correctIndex": 0,
+        "explanation": "1. = erster."
+      },
+      {
+        "id": 2103,
+        "question": "Wenn heute Freitag ist, was war gestern?",
+        "english": "If today is Friday, what day was yesterday?",
+        "options": ["Donnerstag", "Samstag", "Mittwoch", "Montag"],
+        "correctIndex": 0,
+        "explanation": "Vor Freitag war Donnerstag."
+      },
+      {
+        "id": 2104,
+        "question": "Wenn heute Dienstag ist, was ist übermorgen?",
+        "english": "If today is Tuesday, what day is the day after tomorrow?",
+        "options": ["Mittwoch", "Donnerstag", "Freitag", "Samstag"],
+        "correctIndex": 1,
+        "explanation": "Dienstag → morgen Mittwoch → übermorgen Donnerstag."
+      },
+      {
+        "id": 2105,
+        "question": "Wie heißt der Plural von 'Montag'?",
+        "english": "What is the plural of 'Montag' (Monday)?",
+        "options": ["die Montage", "die Montags", "die Montagen", "der Montag"],
+        "correctIndex": 0,
+        "explanation": "Plural von Montag = Montage."
+      },
+      {
+        "id": 2106,
+        "question": "Wann frühstückst du? – Ich frühstücke ___. (morgens/mittags/abends)",
+        "english": "When do you eat breakfast? - I have breakfast in the mornings.",
+        "options": ["morgens", "mittags", "abends", "nachts"],
+        "correctIndex": 0,
+        "explanation": "Frühstück ist morgens."
+      },
+      {
+        "id": 2107,
+        "question": "Wann isst du zu Mittag? – Ich esse ___. (mittags/morgens/abends)",
+        "english": "When do you have lunch? - I eat around noon.",
+        "options": ["mittags", "morgens", "abends", "nachts"],
+        "correctIndex": 0,
+        "explanation": "Mittagessen ist mittags."
+      },
+      {
+        "id": 2108,
+        "question": "Welcher Monat kommt nach April?",
+        "english": "Which month comes after April?",
+        "options": ["Mai", "März", "Juni", "Juli"],
+        "correctIndex": 0,
+        "explanation": "Nach April kommt Mai."
+      },
+      {
+        "id": 2109,
+        "question": "Welcher Monat kommt vor Dezember?",
+        "english": "Which month comes before December?",
+        "options": ["November", "Oktober", "Januar", "Februar"],
+        "correctIndex": 0,
+        "explanation": "Vor Dezember kommt November."
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "title": "Shopping, Prices, Payment & Navigation (Q141–Q147)",
+    "description": "Navigate bakery transactions, evaluate price fairness (billig/teuer), select cash/card payment methods, and ask directions.",
+    "category": "Shopping & Directions",
+    "level": "A1",
+    "quizType": "multiple_choice",
+    "questions": [
+      {
+        "id": 2201,
+        "question": "Wo kaufst du Brot? – Ich kaufe Brot ___ Bäckerei. (in der/bei der/zur)",
+        "english": "Where do you buy bread? - I buy bread in the bakery.",
+        "options": ["in der", "bei der", "zur", "auf der"],
+        "correctIndex": 0,
+        "explanation": "'In der Bäckerei' (Ort, Dativ)."
+      },
+      {
+        "id": 2202,
+        "question": "Das Brot kostet 2 Euro. Das ist ___. (teuer/billig/günstig)",
+        "english": "The bread costs 2 Euros. That is cheap/inexpensive.",
+        "options": ["billig", "teuer", "günstig", "preiswert"],
+        "correctIndex": 0,
+        "explanation": "2 Euro für Brot ist meist billig."
+      },
+      {
+        "id": 2203,
+        "question": "Wie bezahlst du? – Ich bezahle ___ Karte. (mit/ohne/für)",
+        "english": "How are you paying? - I am paying by card.",
+        "options": ["mit", "ohne", "für", "durch"],
+        "correctIndex": 0,
+        "explanation": "'Mit Karte' = mit EC-/Kreditkarte."
+      },
+      {
+        "id": 2204,
+        "question": "Ich bezahle ___. (bar/mit Karte/online)",
+        "english": "I pay cash.",
+        "options": ["bar", "mit Karte", "online", "mit Scheck"],
+        "correctIndex": 0,
+        "explanation": "'Bar' bedeutet mit Bargeld."
+      },
+      {
+        "id": 2205,
+        "question": "Wo ist die Toilette? – Die Toilette ist ___. (links/rechts/geradeaus)",
+        "english": "Where is the toilet? - The toilet is on the left.",
+        "options": ["links", "rechts", "geradeaus", "hinten"],
+        "correctIndex": 0,
+        "explanation": "'Links' bedeutet auf der linken Seite."
+      },
+      {
+        "id": 2206,
+        "question": "Gehst du geradeaus? – Ja, ich gehe ___. (geradeaus/links/rechts)",
+        "english": "Are you going straight ahead? - Yes, I am going straight ahead.",
+        "options": ["geradeaus", "links", "rechts", "zurück"],
+        "correctIndex": 0,
+        "explanation": "'Geradeaus' bedeutet nach vorne / gerade weiter."
+      },
+      {
+        "id": 2207,
+        "question": "An der Ampel musst du rechts abbiegen. – Was machst du?",
+        "english": "At the traffic light you must turn right. What do you do?",
+        "options": ["Ich biege rechts ab.", "Ich gehe rechts.", "Ich fahre rechts.", "Ich laufe rechts."],
+        "correctIndex": 0,
+        "explanation": "'abbiegen' – trennbar: 'Ich biege rechts ab.'"
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "title": "Transit, Train Tickets & Extended Family (Q148–Q152)",
+    "description": "Report transport modes (Bus, Bahnhof), purchase automated train tickets, and identify in-laws (Schwager, Schwägerin).",
+    "category": "Transit & Family",
+    "level": "A1",
+    "quizType": "multiple_choice",
+    "questions": [
+      {
+        "id": 2301,
+        "question": "Ich fahre mit dem Bus zur Arbeit. – Wie fährst du zur Arbeit?",
+        "english": "I go by bus to work. How do you go to work?",
+        "options": ["Mit dem Bus.", "Mit dem Auto.", "Mit dem Zug.", "Mit dem Fahrrad."],
+        "correctIndex": 0,
+        "explanation": "Die Antwort wiederholt das Verkehrsmittel aus der Situation."
+      },
+      {
+        "id": 2302,
+        "question": "Wo steigst du in den Zug? – Am ___. (Bahnhof/Flughafen/Haltestelle)",
+        "english": "Where do you board the train? - At the train station.",
+        "options": ["Bahnhof", "Flughafen", "Haltestelle", "Busstation"],
+        "correctIndex": 0,
+        "explanation": "In den Zug steigt man am Bahnhof."
+      },
+      {
+        "id": 2303,
+        "question": "Wo kaufst du eine Fahrkarte?",
+        "english": "Where do you buy a transit ticket?",
+        "options": ["Am Automaten.", "Im Supermarkt.", "Bei der Post.", "In der Bäckerei."],
+        "correctIndex": 0,
+        "explanation": "Fahrkarten kauft man am Automaten oder am Schalter."
+      },
+      {
+        "id": 2304,
+        "question": "Der Bruder meiner Frau ist mein ___. (Schwager/Onkel/Cousin)",
+        "english": "The brother of my wife is my brother-in-law.",
+        "options": ["Schwager", "Onkel", "Cousin", "Neffe"],
+        "correctIndex": 0,
+        "explanation": "Der Bruder der Ehefrau ist der Schwager."
+      },
+      {
+        "id": 2305,
+        "question": "Die Schwester meines Mannes ist meine ___. (Schwägerin/Tante/Cousine)",
+        "english": "The sister of my husband is my sister-in-law.",
+        "options": ["Schwägerin", "Tante", "Cousine", "Nichte"],
+        "correctIndex": 0,
+        "explanation": "Die Schwester des Ehemanns ist die Schwägerin."
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "title": "Winter Clothing, Anatomy Articles & Illnesses (Q153–Q160)",
+    "description": "Name head & neck wear (Mütze, Schal), pluralize garments, assign body part articles, and describe colds and sore throats.",
+    "category": "Clothing & Health",
+    "level": "A1",
+    "quizType": "multiple_choice",
+    "questions": [
+      {
+        "id": 2401,
+        "question": "Was trägst du auf dem Kopf?",
+        "english": "What do you wear on your head?",
+        "options": ["eine Mütze", "einen Schal", "eine Tasche", "einen Gürtel"],
+        "correctIndex": 0,
+        "explanation": "Eine Mütze (beanie/cap) trägt man auf dem Kopf."
+      },
+      {
+        "id": 2402,
+        "question": "Was trägst du um den Hals?",
+        "english": "What do you wear around your neck?",
+        "options": ["einen Schal", "einen Gürtel", "eine Brille", "eine Tasche"],
+        "correctIndex": 0,
+        "explanation": "Einen Schal (scarf) trägt man um den Hals."
+      },
+      {
+        "id": 2403,
+        "question": "Wie heißt der Plural von 'die Jacke'?",
+        "english": "What is the plural of 'die Jacke' (jacket)?",
+        "options": ["die Jacken", "die Jackes", "die Jäckchen", "die Jacke"],
+        "correctIndex": 0,
+        "explanation": "Plural von Jacke = Jacken."
+      },
+      {
+        "id": 2404,
+        "question": "Wie heißt der Plural von 'der Arm'?",
+        "english": "What is the plural of 'der Arm'?",
+        "options": ["die Arme", "die Armen", "die Armes", "der Arme"],
+        "correctIndex": 0,
+        "explanation": "Plural von Arm = Arme."
+      },
+      {
+        "id": 2405,
+        "question": "Welcher Artikel ist richtig für 'Bein'?",
+        "english": "Which article is correct for 'Bein' (leg)?",
+        "options": ["das Bein", "der Bein", "die Bein", "ein Bein"],
+        "correctIndex": 0,
+        "explanation": "Bein ist neutral, also 'das Bein'."
+      },
+      {
+        "id": 2406,
+        "question": "Welcher Artikel ist richtig für 'Hand'?",
+        "english": "Which article is correct for 'Hand'?",
+        "options": ["die Hand", "der Hand", "das Hand", "eine Hand"],
+        "correctIndex": 0,
+        "explanation": "Hand ist feminin, also 'die Hand'."
+      },
+      {
+        "id": 2407,
+        "question": "Ich habe Halsschmerzen. – Was ist los?",
+        "english": "I have a sore throat. - What is the matter?",
+        "options": ["Mein Hals tut weh.", "Mein Kopf tut weh.", "Mein Bauch tut weh.", "Mein Bein tut weh."],
+        "correctIndex": 0,
+        "explanation": "Halsschmerzen bedeuten, der Hals tut weh."
+      },
+      {
+        "id": 2408,
+        "question": "Ich bin erkältet. – Was fehlt dir?",
+        "english": "I have a cold. - What is ailing you?",
+        "options": ["Ich bin krank.", "Ich bin müde.", "Ich bin hungrig.", "Ich bin durstig."],
+        "correctIndex": 0,
+        "explanation": "'Erkältet' bedeutet 'krank' (mit Husten/Schnupfen)."
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "title": "Pharmacy, Medical Appointments & Home Layout (Q161–Q168)",
+    "description": "Locate pharmacies and doctor waiting rooms, schedule precise times (um 10 Uhr), and locate home items (auf dem Tisch, im Regal).",
+    "category": "Medical & Home",
+    "level": "A1",
+    "quizType": "multiple_choice",
+    "questions": [
+      {
+        "id": 2501,
+        "question": "Wo bekommst du Medikamente? – In der ___. (Apotheke/Arztpraxis/Krankenhaus)",
+        "english": "Where do you obtain medicine? - In the pharmacy.",
+        "options": ["Apotheke", "Arztpraxis", "Krankenhaus", "Drogerie"],
+        "correctIndex": 0,
+        "explanation": "Medikamente gibt es in der Apotheke."
+      },
+      {
+        "id": 2502,
+        "question": "Ich habe einen Termin beim Arzt. – Wann?",
+        "english": "I have a doctor's appointment. - When?",
+        "options": ["Am Montag um 10 Uhr.", "Am Montag in 10 Uhr.", "Am Montag zu 10 Uhr.", "Am Montag auf 10 Uhr."],
+        "correctIndex": 0,
+        "explanation": "Uhrzeit mit 'um': 'um 10 Uhr'."
+      },
+      {
+        "id": 2503,
+        "question": "Wo wartest du beim Arzt? – Im ___. (Wartezimmer/Stadt/Büro)",
+        "english": "Where do you wait at the doctor's? - In the waiting room.",
+        "options": ["Wartezimmer", "Stadt", "Büro", "Supermarkt"],
+        "correctIndex": 0,
+        "explanation": "Im Wartezimmer wartet man beim Arzt."
+      },
+      {
+        "id": 2504,
+        "question": "Ich wohne in einer ___. (Wohnung/Haus/Stadt)",
+        "english": "I live in an apartment.",
+        "options": ["Wohnung", "Haus", "Stadt", "Straße"],
+        "correctIndex": 0,
+        "explanation": "'In einer Wohnung' – mit unbestimmtem Artikel für feminin Dativ."
+      },
+      {
+        "id": 2505,
+        "question": "In welchem Stock wohnst du? – Ich wohne im ___. (Erdgeschoss/ersten Stock)",
+        "english": "On which floor do you live? - I live on the ground floor.",
+        "options": ["Erdgeschoss", "ersten Stock", "zweiten Stock", "dritten Stock"],
+        "correctIndex": 0,
+        "explanation": "'Im Erdgeschoss' (ground floor)."
+      },
+      {
+        "id": 2506,
+        "question": "Welcher Artikel ist richtig für 'Stuhl'?",
+        "english": "Which article is correct for 'Stuhl' (chair)?",
+        "options": ["der Stuhl", "die Stuhl", "das Stuhl", "ein Stuhl"],
+        "correctIndex": 0,
+        "explanation": "Stuhl ist maskulin, also 'der Stuhl'."
+      },
+      {
+        "id": 2507,
+        "question": "Wo steht die Vase? – Die Vase steht auf dem ___. (Tisch/Stuhl/Regal)",
+        "english": "Where is the vase standing? - On the table.",
+        "options": ["Tisch", "Stuhl", "Regal", "Schrank"],
+        "correctIndex": 0,
+        "explanation": "'Auf dem Tisch' ist eine typische Position."
+      },
+      {
+        "id": 2508,
+        "question": "Wo stehen die Bücher? – Die Bücher stehen im ___. (Regal/Schrank/Tisch)",
+        "english": "Where are the books? - In the bookcase / shelf.",
+        "options": ["Regal", "Schrank", "Tisch", "Stuhl"],
+        "correctIndex": 0,
+        "explanation": "Bücher stehen oft im Regal."
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "title": "Meals, Drinks, Fresh Produce & Supermarket Units (Q169–Q177)",
+    "description": "Distinguish Frühstück/Abendessen, affirm beverage likes, identify produce colors (Banane, Gurke), and convert Kilo and Liter units.",
+    "category": "Food & Units",
+    "level": "A1",
+    "quizType": "multiple_choice",
+    "questions": [
+      {
+        "id": 2601,
+        "question": "Wie heißt das Essen am Morgen?",
+        "english": "What is morning meal called in German?",
+        "options": ["Frühstück", "Mittagessen", "Abendessen", "Zwischenmahlzeit"],
+        "correctIndex": 0,
+        "explanation": "Am Morgen frühstückt man (Frühstück)."
+      },
+      {
+        "id": 2602,
+        "question": "Wie heißt das Essen am Abend?",
+        "english": "What is evening meal called in German?",
+        "options": ["Abendessen", "Frühstück", "Mittagessen", "Nachtisch"],
+        "correctIndex": 0,
+        "explanation": "Abendessen isst man abends."
+      },
+      {
+        "id": 2603,
+        "question": "Ich trinke gern Kaffee. – Magst du Kaffee?",
+        "english": "I enjoy drinking coffee. - Do you like coffee?",
+        "options": ["Ja, ich mag Kaffee.", "Nein, ich mag Tee.", "Ja, ich trinke Kaffee.", "Nein, ich mag Wasser."],
+        "correctIndex": 0,
+        "explanation": "Die Antwort muss genau zur Frage passen: 'Ja, ich mag Kaffee.'"
+      },
+      {
+        "id": 2604,
+        "question": "Ich trinke keinen Tee. – Was trinkst du?",
+        "english": "I don't drink tea. - What do you drink?",
+        "options": ["Ich trinke Wasser.", "Ich trinke Tee.", "Ich trinke Kaffee.", "Ich trinke Cola."],
+        "correctIndex": 0,
+        "explanation": "Wenn jemand keinen Tee trinkt, antwortet er zum Beispiel: 'Ich trinke Wasser.'"
+      },
+      {
+        "id": 2605,
+        "question": "Welches Obst ist gelb?",
+        "english": "Which fruit is yellow?",
+        "options": ["Banane", "Apfel", "Tomate", "Gurke"],
+        "correctIndex": 0,
+        "explanation": "Eine Banane ist gelb."
+      },
+      {
+        "id": 2606,
+        "question": "Welches Gemüse ist grün?",
+        "english": "Which vegetable is green?",
+        "options": ["Gurke", "Karotte", "Paprika rot", "Kartoffel"],
+        "correctIndex": 0,
+        "explanation": "Eine Gurke (cucumber) ist grün."
+      },
+      {
+        "id": 2607,
+        "question": "Wo kaufst du Äpfel? – Im ___ (Supermarkt/Obststand/Markt)",
+        "english": "Where do you buy apples? - In the supermarket.",
+        "options": ["Supermarkt", "Obststand", "Markt", "alle möglich"],
+        "correctIndex": 0,
+        "explanation": "Äpfel kauft man im Supermarkt (maskulin Dativ: im Supermarkt)."
+      },
+      {
+        "id": 2608,
+        "question": "Ich kaufe ein Kilo Äpfel. – Wie viel ist das?",
+        "english": "I am buying a kilogram of apples. How much is that in grams?",
+        "options": ["1000 Gramm", "500 Gramm", "200 Gramm", "100 Gramm"],
+        "correctIndex": 0,
+        "explanation": "1 Kilo = 1000 Gramm."
+      },
+      {
+        "id": 2609,
+        "question": "Ich kaufe einen Liter Milch. – Wie viel ist das?",
+        "english": "I am buying one liter of milk. How much is that in milliliters?",
+        "options": ["1000 Milliliter", "500 Milliliter", "200 Milliliter", "100 Milliliter"],
+        "correctIndex": 0,
+        "explanation": "1 Liter = 1000 Milliliter."
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "title": "Big Numbers, Official vs Informal Time & Daily Routines (Q178–Q187)",
+    "description": "Express 1000 and 1 Million, decode clock fractions (halb drei, Viertel nach, Viertel vor), and describe morning routines.",
+    "category": "Numbers & Routines",
+    "level": "A1",
+    "quizType": "multiple_choice",
+    "questions": [
+      {
+        "id": 2701,
+        "question": "Wie heißt die Zahl 1000 auf Deutsch?",
+        "english": "What is the number 1000 in German?",
+        "options": ["tausend", "zehnhundert", "hunderte", "zehnausend"],
+        "correctIndex": 0,
+        "explanation": "1000 = tausend."
+      },
+      {
+        "id": 2702,
+        "question": "Wie heißt 1.000.000 auf Deutsch?",
+        "english": "What is 1,000,000 in German?",
+        "options": ["eine Million", "tausendtausend", "eine Milliarde", "zehn hunderttausend"],
+        "correctIndex": 0,
+        "explanation": "1.000.000 = eine Million."
+      },
+      {
+        "id": 2703,
+        "question": "Wie spät ist es? – Es ist 14 Uhr. – Wie spät ist es?",
+        "english": "What time is it? - It is 14:00 (2 PM).",
+        "options": ["Es ist 14 Uhr.", "Es ist 2 Uhr.", "Es ist Viertel nach 2.", "Es ist halb 2."],
+        "correctIndex": 0,
+        "explanation": "14 Uhr ist die offizielle Zeit."
+      },
+      {
+        "id": 2704,
+        "question": "Wie viel Uhr ist es, wenn es 'halb drei' ist?",
+        "english": "What time is it in numbers when it is 'halb drei'?",
+        "options": ["14:30", "15:30", "13:30", "16:30"],
+        "correctIndex": 0,
+        "explanation": "'Halb drei' = 14:30 Uhr."
+      },
+      {
+        "id": 2705,
+        "question": "Wie viel Uhr ist es, wenn es 'Viertel nach drei' ist?",
+        "english": "What time is it in numbers when it is 'Viertel nach drei'?",
+        "options": ["15:15", "14:15", "15:45", "14:45"],
+        "correctIndex": 0,
+        "explanation": "Viertel nach drei = 15:15."
+      },
+      {
+        "id": 2706,
+        "question": "Wie viel Uhr ist es, wenn es 'Viertel vor fünf' ist?",
+        "english": "What time is it in numbers when it is 'Viertel vor fünf'?",
+        "options": ["16:45", "17:15", "16:15", "17:45"],
+        "correctIndex": 0,
+        "explanation": "Viertel vor fünf = 16:45."
+      },
+      {
+        "id": 2707,
+        "question": "Was machst du morgens zuerst?",
+        "english": "What do you do first thing in the morning?",
+        "options": ["Ich stehe auf.", "Ich gehe zur Arbeit.", "Ich esse Mittag.", "Ich gehe schlafen."],
+        "correctIndex": 0,
+        "explanation": "Morgens steht man zuerst auf (aufstehen)."
+      },
+      {
+        "id": 2708,
+        "question": "Was machst du abends vor dem Schlafen?",
+        "english": "What do you do in the evening before sleeping?",
+        "options": ["Ich putze mir die Zähne.", "Ich frühstücke.", "Ich gehe zur Schule.", "Ich koche Mittag."],
+        "correctIndex": 0,
+        "explanation": "Vor dem Schlafen putzt man die Zähne."
+      },
+      {
+        "id": 2709,
+        "question": "An welchem Tag gehst du zur Schule? – Am ___. (Montag/Dienstag/Samstag)",
+        "english": "On which day do you go to school? - On Monday.",
+        "options": ["Montag", "Dienstag", "Samstag", "Sonntag"],
+        "correctIndex": 0,
+        "explanation": "Montag bis Freitag sind Schultage."
+      },
+      {
+        "id": 2710,
+        "question": "Am Wochenende gehe ich ___. (ins Kino/ins Büro/in die Schule)",
+        "english": "On the weekend I go to the movie theater.",
+        "options": ["ins Kino", "ins Büro", "in die Schule", "in den Supermarkt"],
+        "correctIndex": 0,
+        "explanation": "Am Wochenende geht man oft ins Kino zur Freizeit."
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "title": "Communication Verbs, Politeness & Regional Greetings (Q188–Q200)",
+    "description": "Use verbs of communication (schreiben, lesen, anrufen), express polite thanks/apologies, and localize Grüß Gott and Moin.",
+    "category": "Communication & Culture",
+    "level": "A1",
+    "quizType": "multiple_choice",
+    "questions": [
+      {
+        "id": 2801,
+        "question": "Ich schreibe einen Brief. – Was machst du?",
+        "english": "I am writing a letter. - What are you doing?",
+        "options": ["Ich schreibe einen Brief.", "Ich lese einen Brief.", "Ich schicke einen Brief.", "Ich bekomme einen Brief."],
+        "correctIndex": 0,
+        "explanation": "'Ich schreibe einen Brief' passt genau zur Frage."
+      },
+      {
+        "id": 2802,
+        "question": "Ich lese ein Buch. – Was machst du?",
+        "english": "I am reading a book. - What are you doing?",
+        "options": ["Ich lese ein Buch.", "Ich schreibe ein Buch.", "Ich kaufe ein Buch.", "Ich habe ein Buch."],
+        "correctIndex": 0,
+        "explanation": "'Ich lese ein Buch' ist die korrekte Antwort."
+      },
+      {
+        "id": 2803,
+        "question": "Was machst du am Abend? – Ich sehe ___. (fern/aus/an)",
+        "english": "What do you do in the evening? - I watch TV.",
+        "options": ["fern", "aus", "an", "zu"],
+        "correctIndex": 0,
+        "explanation": "'fernsehen' – 'Ich sehe fern.'"
+      },
+      {
+        "id": 2804,
+        "question": "Ich rufe meine Mutter an. – Wen rufst du an?",
+        "english": "I am calling my mother. - Whom are you calling?",
+        "options": ["Meine Mutter.", "Meinen Vater.", "Meinen Bruder.", "Meine Schwester."],
+        "correctIndex": 0,
+        "explanation": "Die Antwort muss genau zur Situation passen: 'Meine Mutter.'"
+      },
+      {
+        "id": 2805,
+        "question": "Wie sagst du 'Please' auf Deutsch?",
+        "english": "How do you say 'Please' in German?",
+        "options": ["Bitte", "Danke", "Gerne", "Entschuldigung"],
+        "correctIndex": 0,
+        "explanation": "'Bitte' ist das deutsche Wort für 'please'."
+      },
+      {
+        "id": 2806,
+        "question": "Wie sagst du 'Thank you' auf Deutsch?",
+        "english": "How do you say 'Thank you' in German?",
+        "options": ["Danke", "Bitte", "Gerne", "Hallo"],
+        "correctIndex": 0,
+        "explanation": "'Danke' bedeutet 'thank you'."
+      },
+      {
+        "id": 2807,
+        "question": "Auf 'Danke' antwortet man mit:",
+        "english": "How do you respond to 'Danke' (thank you)?",
+        "options": ["Bitte sehr.", "Hallo.", "Tschüss.", "Auf Wiedersehen."],
+        "correctIndex": 0,
+        "explanation": "'Bitte sehr' (you are welcome) ist eine höfliche Antwort auf 'Danke'."
+      },
+      {
+        "id": 2808,
+        "question": "Wenn du etwas nicht verstehst, sagst du:",
+        "english": "When you do not understand something, what do you say?",
+        "options": ["Wie bitte?", "Danke.", "Hallo.", "Tschüss."],
+        "correctIndex": 0,
+        "explanation": "'Wie bitte?' (pardon / say that again please?) fragt man, wenn man etwas nicht versteht."
+      },
+      {
+        "id": 2809,
+        "question": "Wenn du jemanden anrempelst, sagst du:",
+        "english": "If you bump into someone, what do you say?",
+        "options": ["Entschuldigung!", "Danke!", "Hallo!", "Tschüss!"],
+        "correctIndex": 0,
+        "explanation": "'Entschuldigung' (excuse me / sorry) sagt man, wenn man jemanden stört oder anrempelt."
+      },
+      {
+        "id": 2810,
+        "question": "Was bedeutet 'Bis bald'?",
+        "english": "What does 'Bis bald' mean?",
+        "options": ["See you soon.", "Goodbye forever.", "See you tomorrow.", "See you later."],
+        "correctIndex": 0,
+        "explanation": "'Bis bald' bedeutet 'see you soon'."
+      },
+      {
+        "id": 2811,
+        "question": "Was bedeutet 'Bis morgen'?",
+        "english": "What does 'Bis morgen' mean?",
+        "options": ["See you tomorrow.", "See you soon.", "See you later.", "Goodbye."],
+        "correctIndex": 0,
+        "explanation": "'Bis morgen' bedeutet 'see you tomorrow'."
+      },
+      {
+        "id": 2812,
+        "question": "Wo sagt man 'Grüß Gott'?",
+        "english": "Where do people typically greet with 'Grüß Gott'?",
+        "options": ["In Süddeutschland und Österreich.", "In Norddeutschland.", "In der Schweiz.", "In Frankreich."],
+        "correctIndex": 0,
+        "explanation": "'Grüß Gott' ist ein traditioneller Gruß in Süddeutschland (z.B. Bayern) und Österreich."
+      },
+      {
+        "id": 2813,
+        "question": "Wo sagt man 'Moin'?",
+        "english": "Where do people typically greet with 'Moin'?",
+        "options": ["In Norddeutschland.", "In Süddeutschland.", "In Österreich.", "In der Schweiz."],
+        "correctIndex": 0,
+        "explanation": "'Moin' ist ein beliebter Gruß in Norddeutschland (z.B. Hamburg, Bremen)."
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "title": "🏆 Ultimate A1 Batch 2 Master Challenge (Q101–Q200)",
+    "description": "Test your stamina on Batch 2! Answer all 100 new practice questions (101 to 200) in one massive interactive review test.",
+    "category": "Master Exam",
+    "level": "A1",
+    "quizType": "multiple_choice",
+    "questions": [
+      {
+        "id": 2901,
+        "question": "Wie heißt die Form von 'machen' für 'ich'?",
+        "english": "What is the form of 'machen' for 'ich'?",
+        "options": ["ich mache", "ich machst", "ich macht", "ich machen"],
+        "correctIndex": 0,
+        "explanation": "'Ich mache' ist die korrekte Form."
+      },
+      {
+        "id": 2902,
+        "question": "Wie heißt die Form von 'arbeiten' für 'du'?",
+        "english": "What is the form of 'arbeiten' for 'du'?",
+        "options": ["du arbeitest", "du arbeitet", "du arbeitst", "du arbeiten"],
+        "correctIndex": 0,
+        "explanation": "'Du arbeitest' – Verben auf -ten bekommen ein 'e'."
+      },
+      {
+        "id": 2903,
+        "question": "Wie heißt die Form von 'wohnen' für 'er'?",
+        "english": "What is the form of 'wohnen' for 'er'?",
+        "options": ["er wohnt", "er wohnst", "er wohne", "er wohnen"],
+        "correctIndex": 0,
+        "explanation": "'Er wohnt' ist korrekt."
+      },
+      {
+        "id": 2904,
+        "question": "Wie heißt die Form von 'essen' für 'du'?",
+        "english": "What is the form of 'essen' for 'du'?",
+        "options": ["du isst", "du essest", "du esst", "du esse"],
+        "correctIndex": 0,
+        "explanation": "'Du isst' – Stammvokalwechsel e → i."
+      },
+      {
+        "id": 2905,
+        "question": "Wie heißt die Form von 'essen' für 'ihr'?",
+        "english": "What is the form of 'essen' for 'ihr'?",
+        "options": ["ihr esst", "ihr isst", "ihr esset", "ihr esse"],
+        "correctIndex": 0,
+        "explanation": "'Ihr esst' ist korrekt."
+      },
+      {
+        "id": 2906,
+        "question": "Wie heißt die Form von 'trinken' für 'wir'?",
+        "english": "What is the form of 'trinken' for 'wir'?",
+        "options": ["wir trinken", "wir trinkt", "wir trinkst", "wir trinke"],
+        "correctIndex": 0,
+        "explanation": "'Wir trinken' ist korrekt."
+      },
+      {
+        "id": 2907,
+        "question": "Wie heißt die Form von 'schlafen' für 'er'?",
+        "english": "What is the form of 'schlafen' for 'er'?",
+        "options": ["er schläft", "er schlaft", "er schlafst", "er schlafe"],
+        "correctIndex": 0,
+        "explanation": "'Er schläft' – Stammvokalwechsel a → ä."
+      },
+      {
+        "id": 2908,
+        "question": "Wie heißt die Form von 'fahren' für 'du'?",
+        "english": "What is the form of 'fahren' for 'du'?",
+        "options": ["du fährst", "du fahrest", "du fahrt", "du fahren"],
+        "correctIndex": 0,
+        "explanation": "'Du fährst' – Stammvokalwechsel a → ä."
+      },
+      {
+        "id": 2909,
+        "question": "Wie heißt die Form von 'sehen' für 'er'?",
+        "english": "What is the form of 'sehen' for 'er'?",
+        "options": ["er sieht", "er seht", "er sehst", "er sehe"],
+        "correctIndex": 0,
+        "explanation": "'Er sieht' – Stammvokalwechsel e → ie."
+      },
+      {
+        "id": 2910,
+        "question": "Wie heißt die Form von 'hören' für 'ihr'?",
+        "english": "What is the form of 'hören' for 'ihr'?",
+        "options": ["ihr hört", "ihr höret", "ihr hörst", "ihr hören"],
+        "correctIndex": 0,
+        "explanation": "'Ihr hört' ist korrekt."
+      },
+      {
+        "id": 2911,
+        "question": "Wie heißt die Form von 'spielen' für 'wir'?",
+        "english": "What is the form of 'spielen' for 'wir'?",
+        "options": ["wir spielen", "wir spielt", "wir spielst", "wir spiele"],
+        "correctIndex": 0,
+        "explanation": "'Wir spielen' ist korrekt."
+      },
+      {
+        "id": 2912,
+        "question": "Wie heißt die Form von 'kaufen' für 'ich'?",
+        "english": "What is the form of 'kaufen' for 'ich'?",
+        "options": ["ich kaufe", "ich kaufst", "ich kauft", "ich kaufen"],
+        "correctIndex": 0,
+        "explanation": "'Ich kaufe' ist korrekt."
+      },
+      {
+        "id": 2913,
+        "question": "Wie heißt die Form von 'dürfen' für 'ich'?",
+        "english": "What is the form of 'dürfen' for 'ich'?",
+        "options": ["ich darf", "ich dürfe", "ich dürfte", "ich darfst"],
+        "correctIndex": 0,
+        "explanation": "'Ich darf' ist korrekt."
+      },
+      {
+        "id": 2914,
+        "question": "Wie heißt die Form von 'sollen' für 'du'?",
+        "english": "What is the form of 'sollen' for 'du'?",
+        "options": ["du sollst", "du sollest", "du sollt", "du sollen"],
+        "correctIndex": 0,
+        "explanation": "'Du sollst' ist korrekt."
+      },
+      {
+        "id": 2915,
+        "question": "Wo steht das zweite Verb bei 'Ich kann heute nicht kommen.'?",
+        "english": "Where is the second verb in 'Ich kann heute nicht kommen.'?",
+        "options": ["am Ende", "in der Mitte", "am Anfang", "nach 'nicht'"],
+        "correctIndex": 0,
+        "explanation": "Bei Modalverben steht der Infinitiv am Ende."
+      },
+      {
+        "id": 2916,
+        "question": "Was ist die richtige Satzstellung: 'Ich kaufe morgen ein.'?",
+        "english": "What is the correct sentence order for einkaufen?",
+        "options": ["Ich kaufe morgen ein.", "Ich ein kaufe morgen.", "Ich kaufe ein morgen.", "Ich kauf ein morgen."],
+        "correctIndex": 0,
+        "explanation": "'einkaufen' – trennbar: 'Ich kaufe ... ein.'"
+      },
+      {
+        "id": 2917,
+        "question": "Wie heißt der Satz: 'Ich sehe heute Abend fern.'?",
+        "english": "What is the correct sentence order for fernsehen?",
+        "options": ["Ich sehe heute Abend fern.", "Ich fern sehe heute Abend.", "Ich sehe fern heute Abend.", "Ich sehe heute Abend fern."],
+        "correctIndex": 0,
+        "explanation": "'fernsehen' – 'Ich sehe ... fern.'"
+      },
+      {
+        "id": 2918,
+        "question": "Wann ___ du mit der Arbeit ___? (fängst ... an / anfängst ...)",
+        "english": "When do you start with work?",
+        "options": ["fängst ... an", "anfängst", "fängst an ...", "an ... fängst"],
+        "correctIndex": 0,
+        "explanation": "'anfangen' – 'Wann fängst du an?'"
+      },
+      {
+        "id": 2919,
+        "question": "Ich gehe ___ meinem Freund ins Kino. (mit/ohne/für)",
+        "english": "I am going to the cinema with my friend.",
+        "options": ["mit", "ohne", "für", "bei"],
+        "correctIndex": 0,
+        "explanation": "'Mit' bedeutet zusammen mit jemandem."
+      },
+      {
+        "id": 2920,
+        "question": "Ich kann nicht ___ Handy leben. (mit/ohne/für)",
+        "english": "I cannot live without a cell phone.",
+        "options": ["mit", "ohne", "für", "bei"],
+        "correctIndex": 1,
+        "explanation": "'Ohne' bedeutet 'without'."
+      },
+      {
+        "id": 2921,
+        "question": "Das Geschenk ist ___ dich. (für/mit/ohne)",
+        "english": "The gift is for you.",
+        "options": ["für", "mit", "ohne", "bei"],
+        "correctIndex": 0,
+        "explanation": "'Für' drückt den Empfänger aus."
+      },
+      {
+        "id": 2922,
+        "question": "Ich bin ___ Mülltrennung. (für/gegen/ohne)",
+        "english": "I am in favor of waste separation.",
+        "options": ["für", "gegen", "ohne", "mit"],
+        "correctIndex": 0,
+        "explanation": "'Für' bedeutet 'for'."
+      },
+      {
+        "id": 2923,
+        "question": "Ich warte ___ 18 Uhr. (bis/ab/seit)",
+        "english": "I will wait until 6 PM.",
+        "options": ["bis", "ab", "seit", "für"],
+        "correctIndex": 0,
+        "explanation": "'Bis' gibt den Endzeitpunkt an."
+      },
+      {
+        "id": 2924,
+        "question": "Das Geschenk ist ___ mir. (von/für/aus)",
+        "english": "The gift is from me.",
+        "options": ["von", "für", "aus", "mit"],
+        "correctIndex": 0,
+        "explanation": "'Von' gibt den Ursprung/Geber an."
+      },
+      {
+        "id": 2925,
+        "question": "Ich gehe ___ meiner Oma. (zu/nach/in)",
+        "english": "I am going to my grandma.",
+        "options": ["zu", "nach", "in", "bei"],
+        "correctIndex": 0,
+        "explanation": "'Zu' bei Personen."
+      },
+      {
+        "id": 2926,
+        "question": "Fliegst du ___ Frankreich? (nach/in/zu)",
+        "english": "Are you flying to France?",
+        "options": ["nach", "in", "zu", "bei"],
+        "correctIndex": 0,
+        "explanation": "'Nach' bei Ländern ohne Artikel."
+      },
+      {
+        "id": 2927,
+        "question": "Kommst du ___ der Türkei? (aus/von/nach)",
+        "english": "Do you come from Turkey?",
+        "options": ["aus", "von", "nach", "zu"],
+        "correctIndex": 0,
+        "explanation": "'Aus' bei Ländern mit Artikel."
+      },
+      {
+        "id": 2928,
+        "question": "Wir gehen ___ den Park. (durch/über/unter)",
+        "english": "We are walking through the park.",
+        "options": ["durch", "über", "unter", "auf"],
+        "correctIndex": 0,
+        "explanation": "'Durch' bedeutet 'through'."
+      },
+      {
+        "id": 2929,
+        "question": "Die Brücke geht ___ den Fluss. (über/unter/durch)",
+        "english": "The bridge goes over the river.",
+        "options": ["über", "unter", "durch", "auf"],
+        "correctIndex": 0,
+        "explanation": "'Über' bei einer Brücke."
+      },
+      {
+        "id": 2930,
+        "question": "___ kommst du zu spät? (Warum/Wie/Wo)",
+        "english": "Why are you late?",
+        "options": ["Warum", "Wie", "Wo", "Wann"],
+        "correctIndex": 0,
+        "explanation": "'Warum' fragt nach dem Grund."
+      },
+      {
+        "id": 2931,
+        "question": "___ kostet das? (Wie viel/Was/Wie)",
+        "english": "How much does that cost?",
+        "options": ["Wie viel", "Was", "Wie", "Warum"],
+        "correctIndex": 0,
+        "explanation": "'Wie viel' fragt nach dem Preis."
+      },
+      {
+        "id": 2932,
+        "question": "Wie heißt die Ordnungszahl von '5' (im Datum: 5. Mai)?",
+        "english": "What is the ordinal number for '5'?",
+        "options": ["fünfter", "fünf", "fünft", "fünfte"],
+        "correctIndex": 0,
+        "explanation": "5. = fünfter."
+      },
+      {
+        "id": 2933,
+        "question": "Wie heißt 1. (erster Tag) im Monat?",
+        "english": "What is the 1st (first day) of the month called?",
+        "options": ["erster", "erste", "erstes", "eins"],
+        "correctIndex": 0,
+        "explanation": "1. = erster."
+      },
+      {
+        "id": 2934,
+        "question": "Wenn heute Freitag ist, was war gestern?",
+        "english": "If today is Friday, what day was yesterday?",
+        "options": ["Donnerstag", "Samstag", "Mittwoch", "Montag"],
+        "correctIndex": 0,
+        "explanation": "Vor Freitag war Donnerstag."
+      },
+      {
+        "id": 2935,
+        "question": "Wenn heute Dienstag ist, was ist übermorgen?",
+        "english": "If today is Tuesday, what day is the day after tomorrow?",
+        "options": ["Mittwoch", "Donnerstag", "Freitag", "Samstag"],
+        "correctIndex": 1,
+        "explanation": "Übermorgen von Dienstag ist Donnerstag."
+      },
+      {
+        "id": 2936,
+        "question": "Wie heißt der Plural von 'Montag'?",
+        "english": "What is the plural of 'Montag'?",
+        "options": ["die Montage", "die Montags", "die Montagen", "der Montag"],
+        "correctIndex": 0,
+        "explanation": "Plural von Montag = Montage."
+      },
+      {
+        "id": 2937,
+        "question": "Wann frühstückst du? – Ich frühstücke ___. (morgens/mittags/abends)",
+        "english": "When do you have breakfast?",
+        "options": ["morgens", "mittags", "abends", "nachts"],
+        "correctIndex": 0,
+        "explanation": "Frühstück ist morgens."
+      },
+      {
+        "id": 2938,
+        "question": "Wann isst du zu Mittag? – Ich esse ___. (mittags/morgens/abends)",
+        "english": "When do you have lunch?",
+        "options": ["mittags", "morgens", "abends", "nachts"],
+        "correctIndex": 0,
+        "explanation": "Mittagessen ist mittags."
+      },
+      {
+        "id": 2939,
+        "question": "Welcher Monat kommt nach April?",
+        "english": "Which month comes after April?",
+        "options": ["Mai", "März", "Juni", "Juli"],
+        "correctIndex": 0,
+        "explanation": "Nach April kommt Mai."
+      },
+      {
+        "id": 2940,
+        "question": "Welcher Monat kommt vor Dezember?",
+        "english": "Which month comes before December?",
+        "options": ["November", "Oktober", "Januar", "Februar"],
+        "correctIndex": 0,
+        "explanation": "Vor Dezember kommt November."
+      },
+      {
+        "id": 2941,
+        "question": "Wo kaufst du Brot? – Ich kaufe Brot ___ Bäckerei. (in der/bei der/zur)",
+        "english": "Where do you buy bread?",
+        "options": ["in der", "bei der", "zur", "auf der"],
+        "correctIndex": 0,
+        "explanation": "'In der Bäckerei' ist korrekt."
+      },
+      {
+        "id": 2942,
+        "question": "Das Brot kostet 2 Euro. Das ist ___. (teuer/billig/günstig)",
+        "english": "The bread costs 2 Euros. That is cheap.",
+        "options": ["billig", "teuer", "günstig", "preiswert"],
+        "correctIndex": 0,
+        "explanation": "2 Euro für Brot ist billig."
+      },
+      {
+        "id": 2943,
+        "question": "Wie bezahlst du? – Ich bezahle ___ Karte. (mit/ohne/für)",
+        "english": "How do you pay? - I pay by card.",
+        "options": ["mit", "ohne", "für", "durch"],
+        "correctIndex": 0,
+        "explanation": "'Mit Karte' ist korrekt."
+      },
+      {
+        "id": 2944,
+        "question": "Ich bezahle ___. (bar/mit Karte/online)",
+        "english": "I pay cash.",
+        "options": ["bar", "mit Karte", "online", "mit Scheck"],
+        "correctIndex": 0,
+        "explanation": "'Bar' bedeutet mit Bargeld."
+      },
+      {
+        "id": 2945,
+        "question": "Wo ist die Toilette? – Die Toilette ist ___. (links/rechts/geradeaus)",
+        "english": "Where is the toilet? - On the left.",
+        "options": ["links", "rechts", "geradeaus", "hinten"],
+        "correctIndex": 0,
+        "explanation": "'Links' bedeutet auf der linken Seite."
+      },
+      {
+        "id": 2946,
+        "question": "Gehst du geradeaus? – Ja, ich gehe ___. (geradeaus/links/rechts)",
+        "english": "Are you going straight ahead?",
+        "options": ["geradeaus", "links", "rechts", "zurück"],
+        "correctIndex": 0,
+        "explanation": "'Geradeaus' bedeutet nach vorne."
+      },
+      {
+        "id": 2947,
+        "question": "An der Ampel musst du rechts abbiegen. – Was machst du?",
+        "english": "At the traffic light you must turn right. What do you do?",
+        "options": ["Ich biege rechts ab.", "Ich gehe rechts.", "Ich fahre rechts.", "Ich laufe rechts."],
+        "correctIndex": 0,
+        "explanation": "'abbiegen' – trennbar: 'Ich biege rechts ab.'"
+      },
+      {
+        "id": 2948,
+        "question": "Ich fahre mit dem Bus zur Arbeit. – Wie fährst du zur Arbeit?",
+        "english": "How do you go to work? - By bus.",
+        "options": ["Mit dem Bus.", "Mit dem Auto.", "Mit dem Zug.", "Mit dem Fahrrad."],
+        "correctIndex": 0,
+        "explanation": "Mit dem Bus."
+      },
+      {
+        "id": 2949,
+        "question": "Wo steigst du in den Zug? – Am ___. (Bahnhof/Flughafen/Haltestelle)",
+        "english": "Where do you board the train?",
+        "options": ["Bahnhof", "Flughafen", "Haltestelle", "Busstation"],
+        "correctIndex": 0,
+        "explanation": "In den Zug steigt man am Bahnhof."
+      },
+      {
+        "id": 2950,
+        "question": "Wo kaufst du eine Fahrkarte?",
+        "english": "Where do you buy a ticket?",
+        "options": ["Am Automaten.", "Im Supermarkt.", "Bei der Post.", "In der Bäckerei."],
+        "correctIndex": 0,
+        "explanation": "Fahrkarten kauft man am Automaten."
+      },
+      {
+        "id": 2951,
+        "question": "Der Bruder meiner Frau ist mein ___. (Schwager/Onkel/Cousin)",
+        "english": "The brother of my wife is my brother-in-law.",
+        "options": ["Schwager", "Onkel", "Cousin", "Neffe"],
+        "correctIndex": 0,
+        "explanation": "Der Bruder der Ehefrau ist der Schwager."
+      },
+      {
+        "id": 2952,
+        "question": "Die Schwester meines Mannes ist meine ___. (Schwägerin/Tante/Cousine)",
+        "english": "The sister of my husband is my sister-in-law.",
+        "options": ["Schwägerin", "Tante", "Cousine", "Nichte"],
+        "correctIndex": 0,
+        "explanation": "Die Schwester des Ehemanns ist die Schwägerin."
+      },
+      {
+        "id": 2953,
+        "question": "Was trägst du auf dem Kopf?",
+        "english": "What do you wear on your head?",
+        "options": ["eine Mütze", "einen Schal", "eine Tasche", "einen Gürtel"],
+        "correctIndex": 0,
+        "explanation": "Eine Mütze trägt man auf dem Kopf."
+      },
+      {
+        "id": 2954,
+        "question": "Was trägst du um den Hals?",
+        "english": "What do you wear around your neck?",
+        "options": ["einen Schal", "einen Gürtel", "eine Brille", "eine Tasche"],
+        "correctIndex": 0,
+        "explanation": "Einen Schal trägt man um den Hals."
+      },
+      {
+        "id": 2955,
+        "question": "Wie heißt der Plural von 'die Jacke'?",
+        "english": "What is the plural of 'die Jacke'?",
+        "options": ["die Jacken", "die Jackes", "die Jäckchen", "die Jacke"],
+        "correctIndex": 0,
+        "explanation": "Plural von Jacke = Jacken."
+      },
+      {
+        "id": 2956,
+        "question": "Wie heißt der Plural von 'der Arm'?",
+        "english": "What is the plural of 'der Arm'?",
+        "options": ["die Arme", "die Armen", "die Armes", "der Arme"],
+        "correctIndex": 0,
+        "explanation": "Plural von Arm = Arme."
+      },
+      {
+        "id": 2957,
+        "question": "Welcher Artikel ist richtig für 'Bein'?",
+        "english": "Which article is correct for 'Bein'?",
+        "options": ["das Bein", "der Bein", "die Bein", "ein Bein"],
+        "correctIndex": 0,
+        "explanation": "Bein ist neutral, also 'das Bein'."
+      },
+      {
+        "id": 2958,
+        "question": "Welcher Artikel ist richtig für 'Hand'?",
+        "english": "Which article is correct for 'Hand'?",
+        "options": ["die Hand", "der Hand", "das Hand", "eine Hand"],
+        "correctIndex": 0,
+        "explanation": "Hand ist feminin, also 'die Hand'."
+      },
+      {
+        "id": 2959,
+        "question": "Ich habe Halsschmerzen. – Was ist los?",
+        "english": "I have a sore throat.",
+        "options": ["Mein Hals tut weh.", "Mein Kopf tut weh.", "Mein Bauch tut weh.", "Mein Bein tut weh."],
+        "correctIndex": 0,
+        "explanation": "Halsschmerzen bedeuten, der Hals tut weh."
+      },
+      {
+        "id": 2960,
+        "question": "Ich bin erkältet. – Was fehlt dir?",
+        "english": "I have a cold.",
+        "options": ["Ich bin krank.", "Ich bin müde.", "Ich bin hungrig.", "Ich bin durstig."],
+        "correctIndex": 0,
+        "explanation": "'Erkältet' bedeutet 'krank'."
+      },
+      {
+        "id": 2961,
+        "question": "Wo bekommst du Medikamente? – In der ___. (Apotheke/Arztpraxis/Krankenhaus)",
+        "english": "Where do you get medicine? - In the pharmacy.",
+        "options": ["Apotheke", "Arztpraxis", "Krankenhaus", "Drogerie"],
+        "correctIndex": 0,
+        "explanation": "Medikamente gibt es in der Apotheke."
+      },
+      {
+        "id": 2962,
+        "question": "Ich habe einen Termin beim Arzt. – Wann?",
+        "english": "When is your doctor's appointment?",
+        "options": ["Am Montag um 10 Uhr.", "Am Montag in 10 Uhr.", "Am Montag zu 10 Uhr.", "Am Montag auf 10 Uhr."],
+        "correctIndex": 0,
+        "explanation": "Uhrzeit mit 'um': 'um 10 Uhr'."
+      },
+      {
+        "id": 2963,
+        "question": "Wo wartest du beim Arzt? – Im ___. (Wartezimmer/Stadt/Büro)",
+        "english": "Where do you wait at the doctor's?",
+        "options": ["Wartezimmer", "Stadt", "Büro", "Supermarkt"],
+        "correctIndex": 0,
+        "explanation": "Im Wartezimmer wartet man beim Arzt."
+      },
+      {
+        "id": 2964,
+        "question": "Ich wohne in einer ___. (Wohnung/Haus/Stadt)",
+        "english": "I live in an apartment.",
+        "options": ["Wohnung", "Haus", "Stadt", "Straße"],
+        "correctIndex": 0,
+        "explanation": "'In einer Wohnung' ist korrekt."
+      },
+      {
+        "id": 2965,
+        "question": "In welchem Stock wohnst du? – Ich wohne im ___. (Erdgeschoss/ersten Stock)",
+        "english": "On which floor do you live? - Ground floor.",
+        "options": ["Erdgeschoss", "ersten Stock", "zweiten Stock", "dritten Stock"],
+        "correctIndex": 0,
+        "explanation": "'Im Erdgeschoss' (ground floor)."
+      },
+      {
+        "id": 2966,
+        "question": "Welcher Artikel ist richtig für 'Stuhl'?",
+        "english": "Which article is correct for 'Stuhl'?",
+        "options": ["der Stuhl", "die Stuhl", "das Stuhl", "ein Stuhl"],
+        "correctIndex": 0,
+        "explanation": "Stuhl ist maskulin, also 'der Stuhl'."
+      },
+      {
+        "id": 2967,
+        "question": "Wo steht die Vase? – Die Vase steht auf dem ___. (Tisch/Stuhl/Regal)",
+        "english": "Where is the vase?",
+        "options": ["Tisch", "Stuhl", "Regal", "Schrank"],
+        "correctIndex": 0,
+        "explanation": "'Auf dem Tisch' ist eine typische Position."
+      },
+      {
+        "id": 2968,
+        "question": "Wo stehen die Bücher? – Die Bücher stehen im ___. (Regal/Schrank/Tisch)",
+        "english": "Where are the books?",
+        "options": ["Regal", "Schrank", "Tisch", "Stuhl"],
+        "correctIndex": 0,
+        "explanation": "Bücher stehen oft im Regal."
+      },
+      {
+        "id": 2969,
+        "question": "Wie heißt das Essen am Morgen?",
+        "english": "What is morning meal called?",
+        "options": ["Frühstück", "Mittagessen", "Abendessen", "Zwischenmahlzeit"],
+        "correctIndex": 0,
+        "explanation": "Am Morgen frühstückt man."
+      },
+      {
+        "id": 2970,
+        "question": "Wie heißt das Essen am Abend?",
+        "english": "What is evening meal called?",
+        "options": ["Abendessen", "Frühstück", "Mittagessen", "Nachtisch"],
+        "correctIndex": 0,
+        "explanation": "Abendessen isst man abends."
+      },
+      {
+        "id": 2971,
+        "question": "Ich trinke gern Kaffee. – Magst du Kaffee?",
+        "english": "Do you like coffee?",
+        "options": ["Ja, ich mag Kaffee.", "Nein, ich mag Tee.", "Ja, ich trinke Kaffee.", "Nein, ich mag Wasser."],
+        "correctIndex": 0,
+        "explanation": "'Ja, ich mag Kaffee.'"
+      },
+      {
+        "id": 2972,
+        "question": "Ich trinke keinen Tee. – Was trinkst du?",
+        "english": "What do you drink instead of tea?",
+        "options": ["Ich trinke Wasser.", "Ich trinke Tee.", "Ich trinke Kaffee.", "Ich trinke Cola."],
+        "correctIndex": 0,
+        "explanation": "'Ich trinke Wasser.'"
+      },
+      {
+        "id": 2973,
+        "question": "Welches Obst ist gelb?",
+        "english": "Which fruit is yellow?",
+        "options": ["Banane", "Apfel", "Tomate", "Gurke"],
+        "correctIndex": 0,
+        "explanation": "Eine Banane ist gelb."
+      },
+      {
+        "id": 2974,
+        "question": "Welches Gemüse ist grün?",
+        "english": "Which vegetable is green?",
+        "options": ["Gurke", "Karotte", "Paprika rot", "Kartoffel"],
+        "correctIndex": 0,
+        "explanation": "Eine Gurke ist grün."
+      },
+      {
+        "id": 2975,
+        "question": "Wo kaufst du Äpfel? – Im ___ (Supermarkt/Obststand/Markt)",
+        "english": "Where do you buy apples?",
+        "options": ["Supermarkt", "Obststand", "Markt", "alle möglich"],
+        "correctIndex": 0,
+        "explanation": "Im Supermarkt."
+      },
+      {
+        "id": 2976,
+        "question": "Ich kaufe ein Kilo Äpfel. – Wie viel ist das?",
+        "english": "How much is one kilogram?",
+        "options": ["1000 Gramm", "500 Gramm", "200 Gramm", "100 Gramm"],
+        "correctIndex": 0,
+        "explanation": "1 Kilo = 1000 Gramm."
+      },
+      {
+        "id": 2977,
+        "question": "Ich kaufe einen Liter Milch. – Wie viel ist das?",
+        "english": "How much is one liter in milliliters?",
+        "options": ["1000 Milliliter", "500 Milliliter", "200 Milliliter", "100 Milliliter"],
+        "correctIndex": 0,
+        "explanation": "1 Liter = 1000 Milliliter."
+      },
+      {
+        "id": 2978,
+        "question": "Wie heißt die Zahl 1000 auf Deutsch?",
+        "english": "What is the number 1000 in German?",
+        "options": ["tausend", "zehnhundert", "hunderte", "zehnausend"],
+        "correctIndex": 0,
+        "explanation": "1000 = tausend."
+      },
+      {
+        "id": 2979,
+        "question": "Wie heißt 1.000.000 auf Deutsch?",
+        "english": "What is 1,000,000 in German?",
+        "options": ["eine Million", "tausendtausend", "eine Milliarde", "zehn hunderttausend"],
+        "correctIndex": 0,
+        "explanation": "1.000.000 = eine Million."
+      },
+      {
+        "id": 2980,
+        "question": "Wie spät ist es? – Es ist 14 Uhr. – Wie spät ist es?",
+        "english": "What time is it? - 14:00.",
+        "options": ["Es ist 14 Uhr.", "Es ist 2 Uhr.", "Es ist Viertel nach 2.", "Es ist halb 2."],
+        "correctIndex": 0,
+        "explanation": "14 Uhr."
+      },
+      {
+        "id": 2981,
+        "question": "Wie viel Uhr ist es, wenn es 'halb drei' ist?",
+        "english": "What time is 'halb drei' in digits?",
+        "options": ["14:30", "15:30", "13:30", "16:30"],
+        "correctIndex": 0,
+        "explanation": "'Halb drei' = 14:30 Uhr."
+      },
+      {
+        "id": 2982,
+        "question": "Wie viel Uhr ist es, wenn es 'Viertel nach drei' ist?",
+        "english": "What time is 'Viertel nach drei'?",
+        "options": ["15:15", "14:15", "15:45", "14:45"],
+        "correctIndex": 0,
+        "explanation": "Viertel nach drei = 15:15."
+      },
+      {
+        "id": 2983,
+        "question": "Wie viel Uhr ist es, wenn es 'Viertel vor fünf' ist?",
+        "english": "What time is 'Viertel vor fünf'?",
+        "options": ["16:45", "17:15", "16:15", "17:45"],
+        "correctIndex": 0,
+        "explanation": "Viertel vor fünf = 16:45."
+      },
+      {
+        "id": 2984,
+        "question": "Was machst du morgens zuerst?",
+        "english": "What do you do first in the morning?",
+        "options": ["Ich stehe auf.", "Ich gehe zur Arbeit.", "Ich esse Mittag.", "Ich gehe schlafen."],
+        "correctIndex": 0,
+        "explanation": "Morgens steht man zuerst auf."
+      },
+      {
+        "id": 2985,
+        "question": "Was machst du abends vor dem Schlafen?",
+        "english": "What do you do before sleeping?",
+        "options": ["Ich putze mir die Zähne.", "Ich frühstücke.", "Ich gehe zur Schule.", "Ich koche Mittag."],
+        "correctIndex": 0,
+        "explanation": "Vor dem Schlafen putzt man die Zähne."
+      },
+      {
+        "id": 2986,
+        "question": "An welchem Tag gehst du zur Schule? – Am ___. (Montag/Dienstag/Samstag)",
+        "english": "On which day do you go to school?",
+        "options": ["Montag", "Dienstag", "Samstag", "Sonntag"],
+        "correctIndex": 0,
+        "explanation": "Montag bis Freitag sind Schultage."
+      },
+      {
+        "id": 2987,
+        "question": "Am Wochenende gehe ich ___. (ins Kino/ins Büro/in die Schule)",
+        "english": "On the weekend I go to the cinema.",
+        "options": ["ins Kino", "ins Büro", "in die Schule", "in den Supermarkt"],
+        "correctIndex": 0,
+        "explanation": "Am Wochenende geht man oft ins Kino."
+      },
+      {
+        "id": 2988,
+        "question": "Ich schreibe einen Brief. – Was machst du?",
+        "english": "I am writing a letter. What are you doing?",
+        "options": ["Ich schreibe einen Brief.", "Ich lese einen Brief.", "Ich schicke einen Brief.", "Ich bekomme einen Brief."],
+        "correctIndex": 0,
+        "explanation": "'Ich schreibe einen Brief.'"
+      },
+      {
+        "id": 2989,
+        "question": "Ich lese ein Buch. – Was machst du?",
+        "english": "I am reading a book. What are you doing?",
+        "options": ["Ich lese ein Buch.", "Ich schreibe ein Buch.", "Ich kaufe ein Buch.", "Ich habe ein Buch."],
+        "correctIndex": 0,
+        "explanation": "'Ich lese ein Buch.'"
+      },
+      {
+        "id": 2990,
+        "question": "Was machst du am Abend? – Ich sehe ___. (fern/aus/an)",
+        "english": "What do you do in the evening? - I watch TV.",
+        "options": ["fern", "aus", "an", "zu"],
+        "correctIndex": 0,
+        "explanation": "'fernsehen' – 'Ich sehe fern.'"
+      },
+      {
+        "id": 2991,
+        "question": "Ich rufe meine Mutter an. – Wen rufst du an?",
+        "english": "Whom are you calling? - My mother.",
+        "options": ["Meine Mutter.", "Meinen Vater.", "Meinen Bruder.", "Meine Schwester."],
+        "correctIndex": 0,
+        "explanation": "Meine Mutter."
+      },
+      {
+        "id": 2992,
+        "question": "Wie sagst du 'Please' auf Deutsch?",
+        "english": "How do you say 'Please' in German?",
+        "options": ["Bitte", "Danke", "Gerne", "Entschuldigung"],
+        "correctIndex": 0,
+        "explanation": "'Bitte' ist das deutsche Wort für 'please'."
+      },
+      {
+        "id": 2993,
+        "question": "Wie sagst du 'Thank you' auf Deutsch?",
+        "english": "How do you say 'Thank you' in German?",
+        "options": ["Danke", "Bitte", "Gerne", "Hallo"],
+        "correctIndex": 0,
+        "explanation": "'Danke' bedeutet 'thank you'."
+      },
+      {
+        "id": 2994,
+        "question": "Auf 'Danke' antwortet man mit:",
+        "english": "How do you respond to 'Danke'?",
+        "options": ["Bitte sehr.", "Hallo.", "Tschüss.", "Auf Wiedersehen."],
+        "correctIndex": 0,
+        "explanation": "'Bitte sehr' ist eine höfliche Antwort auf 'Danke'."
+      },
+      {
+        "id": 2995,
+        "question": "Wenn du etwas nicht verstehst, sagst du:",
+        "english": "If you don't understand something, what do you say?",
+        "options": ["Wie bitte?", "Danke.", "Hallo.", "Tschüss."],
+        "correctIndex": 0,
+        "explanation": "'Wie bitte?' fragt man, wenn man nicht versteht."
+      },
+      {
+        "id": 2996,
+        "question": "Wenn du jemanden anrempelst, sagst du:",
+        "english": "If you bump into someone, what do you say?",
+        "options": ["Entschuldigung!", "Danke!", "Hallo!", "Tschüss!"],
+        "correctIndex": 0,
+        "explanation": "'Entschuldigung' sagt man zum Verzeihen."
+      },
+      {
+        "id": 2997,
+        "question": "Was bedeutet 'Bis bald'?",
+        "english": "What does 'Bis bald' mean?",
+        "options": ["See you soon.", "Goodbye forever.", "See you tomorrow.", "See you later."],
+        "correctIndex": 0,
+        "explanation": "'Bis bald' bedeutet 'see you soon'."
+      },
+      {
+        "id": 2998,
+        "question": "Was bedeutet 'Bis morgen'?",
+        "english": "What does 'Bis morgen' mean?",
+        "options": ["See you tomorrow.", "See you soon.", "See you later.", "Goodbye."],
+        "correctIndex": 0,
+        "explanation": "'Bis morgen' bedeutet 'see you tomorrow'."
+      },
+      {
+        "id": 2999,
+        "question": "Wo sagt man 'Grüß Gott'?",
+        "english": "Where do people say 'Grüß Gott'?",
+        "options": ["In Süddeutschland und Österreich.", "In Norddeutschland.", "In der Schweiz.", "In Frankreich."],
+        "correctIndex": 0,
+        "explanation": "'Grüß Gott' sagt man in Süddeutschland und Österreich."
+      },
+      {
+        "id": 3000,
+        "question": "Wo sagt man 'Moin'?",
+        "english": "Where do people say 'Moin'?",
+        "options": ["In Norddeutschland.", "In Süddeutschland.", "In Österreich.", "In der Schweiz."],
+        "correctIndex": 0,
+        "explanation": "'Moin' sagt man in Norddeutschland."
+      }
+    ]
+  }
+]

@@ -1,0 +1,1652 @@
+[
+  {
+    "id": 90,
+    "title": "Section A: Fill in the Gaps (Q901–Q920)",
+    "description": "Examine polite preference requests (möchte), separable verb dynamics (weggehen/mitbringen/aufstehen), and directional prepositions (zu/von).",
+    "category": "Sentence Fill-in",
+    "level": "A1",
+    "quizType": "multiple_choice",
+    "questions": [
+      {
+        "id": 9001,
+        "question": "Ich ___ gern ein Glas Wasser. (möchte - Höflichkeit)",
+        "english": "I would like a glass of water.",
+        "options": ["möchte", "möchtest", "möchten", "möchtet"],
+        "correctIndex": 0,
+        "explanation": "'ich möchte' – höfliche Wunschform in der 1. Person Singular."
+      },
+      {
+        "id": 9002,
+        "question": "___ ihr Geschwister? (haben - 2. Person Plural)",
+        "english": "Do you all have siblings?",
+        "options": ["Habt", "Haben", "Hast", "Hat"],
+        "correctIndex": 0,
+        "explanation": "'ihr habt' – 2. Person Plural des Verbs haben."
+      },
+      {
+        "id": 9003,
+        "question": "___ einer Stunde beginnt der Film.",
+        "english": "The movie starts in one hour.",
+        "options": ["In", "Nach", "Ab", "Seit"],
+        "correctIndex": 0,
+        "explanation": "Zukünftige Ereignisse ab dem Jetzt markiert man temporal mit 'in' + Dativ: 'in einer Stunde'."
+      },
+      {
+        "id": 9004,
+        "question": "Das ist ___ schöne Stadt.",
+        "english": "That is a beautiful city.",
+        "options": ["eine", "ein", "einen", "einem"],
+        "correctIndex": 0,
+        "explanation": "'Stadt' ist feminin Nominativ → 'eine schöne Stadt'."
+      },
+      {
+        "id": 9005,
+        "question": "Warum ___ du so früh ___? (weggehen)",
+        "english": "Why are you leaving so early?",
+        "options": ["gehst ... weg", "weggehst", "gehst weg", "weg ... gehst"],
+        "correctIndex": 0,
+        "explanation": "Das trennbare Verb 'weggehen' zerlegt man im Hauptsatz: 'Warum gehst du ... weg?'"
+      },
+      {
+        "id": 9006,
+        "question": "Das ist ___ mein Tisch, sondern deiner.",
+        "english": "That is not my table, but yours.",
+        "options": ["nicht", "kein", "keine", "keinen"],
+        "correctIndex": 0,
+        "explanation": "Vor dem Possessivartikel verneint man Aussagen mit 'nicht mein Tisch'."
+      },
+      {
+        "id": 9007,
+        "question": "___ ihr schon mal in Berlin?",
+        "english": "Have you all ever been to Berlin?",
+        "options": ["Wart", "Warst", "Waren", "War"],
+        "correctIndex": 0,
+        "explanation": "Präteritum von sein in der 2. Person Plural ist 'Wart ihr...?'"
+      },
+      {
+        "id": 9008,
+        "question": "Ich gehe ___ meinem Freund.",
+        "english": "I am going to my boyfriend/friend.",
+        "options": ["zu", "nach", "in", "an"],
+        "correctIndex": 0,
+        "explanation": "Bei Personen verwendet man zur Richtungsangabe 'zu' + Dativ: 'zu meinem Freund'."
+      },
+      {
+        "id": 9009,
+        "question": "Das ist ___ Tasche. (ihr/ihre/ihren - sie = 3. Person Singular feminine)",
+        "english": "That is her bag.",
+        "options": ["ihre", "ihr", "ihren", "ihrs"],
+        "correctIndex": 0,
+        "explanation": "'Tasche' feminin Nominativ → 'ihre Tasche'."
+      },
+      {
+        "id": 9010,
+        "question": "Wir ___ heute Abend kochen. (müssen / wollen)",
+        "english": "We want to cook tonight.",
+        "options": ["wollen", "will", "wollt", "willst"],
+        "correctIndex": 0,
+        "explanation": "1. Person Plural des Modalverbs wollen: 'wir wollen'."
+      },
+      {
+        "id": 9011,
+        "question": "Der Fluss ist ___ als der Bach. (breit)",
+        "english": "The river is wider than the stream.",
+        "options": ["breiter", "breit", "am breitesten", "breite"],
+        "correctIndex": 0,
+        "explanation": "Komparativ vor 'als' lautet 'breiter'."
+      },
+      {
+        "id": 9012,
+        "question": "Ich zeige ___ den Weg. (dir/dich/du)",
+        "english": "I show you the way.",
+        "options": ["dir", "dich", "du", "dein"],
+        "correctIndex": 0,
+        "explanation": "'zeigen' verlangt den Dativ für die Person, der etwas gezeigt wird: 'dir'."
+      },
+      {
+        "id": 9013,
+        "question": "Ich ___ ein Eis gegessen.",
+        "english": "I ate an ice cream.",
+        "options": ["habe", "bin", "war", "werde"],
+        "correctIndex": 0,
+        "explanation": "'essen' verlangt als transitives Verb haben im Perfekt: 'Ich habe ... gegessen.'"
+      },
+      {
+        "id": 9014,
+        "question": "Ich habe nichts ___ den Vorschlag. (gegen/für/mit/ohne)",
+        "english": "I have nothing against the suggestion.",
+        "options": ["gegen", "für", "mit", "ohne"],
+        "correctIndex": 0,
+        "explanation": "'etwas gegen jemanden/etwas haben' verwendet die Akkusativpräposition 'gegen'."
+      },
+      {
+        "id": 9015,
+        "question": "Er weiß, ___ du gut Deutsch sprichst.",
+        "english": "He knows that you speak German well.",
+        "options": ["dass", "weil", "wenn", "obwohl"],
+        "correctIndex": 0,
+        "explanation": "'dass' leitet den nachfolgenden Objektsatz ein und befördert das Verb ans Ende."
+      },
+      {
+        "id": 9016,
+        "question": "Ich schenke ___ Blume. (der Frau / die Frau / den Frau)",
+        "english": "I give the woman a flower as a gift.",
+        "options": ["der Frau", "die Frau", "den Frau", "dem Frau"],
+        "correctIndex": 0,
+        "explanation": "'schenken' verlangt im Dativ Singular feminin 'der Frau'."
+      },
+      {
+        "id": 9017,
+        "question": "Ich esse ___ Pizza. (am liebsten / liebste / lieber)",
+        "english": "I prefer eating pizza most.",
+        "options": ["am liebsten", "liebste", "lieber", "gern"],
+        "correctIndex": 0,
+        "explanation": "Superlative Prädikatvorm für Vorlieben: 'am liebsten'."
+      },
+      {
+        "id": 9018,
+        "question": "___ einem Monat lerne ich hier.",
+        "english": "I have been learning here for a month.",
+        "options": ["Seit", "Vor", "In", "Ab"],
+        "correctIndex": 0,
+        "explanation": "Anhaltende Lernprozesse, die in der Vergangenheit begannen und andauern, erfordern 'Seit' + Dativ."
+      },
+      {
+        "id": 9019,
+        "question": "Ich ___ ein Geschenk ___ (mitbringen).",
+        "english": "I am bringing a gift along.",
+        "options": ["bringe ... mit", "mitbringe", "bringe mit", "mit ... bringe"],
+        "correctIndex": 0,
+        "explanation": "Das trennbare Verb 'mitbringen' teilt sich: 'Ich bringe ... mit.'"
+      },
+      {
+        "id": 9020,
+        "question": "Du ___ nicht rauchen. (dürfen - Verbot)",
+        "english": "You must not smoke.",
+        "options": ["darfst", "dürfen", "darf", "dürft"],
+        "correctIndex": 0,
+        "explanation": "2. Person Singular des Verbs dürfen im Verbotssatz ist 'du darfst nicht'."
+      }
+    ]
+  },
+  {
+    "id": 91,
+    "title": "Section B: Sentence Completion (Q921–Q940)",
+    "description": "Complete sentence combinations using clause connectors (denn/deshalb/aber), indirect speech structures, and past participle formations.",
+    "category": "Sentence Fill-in",
+    "level": "A1",
+    "quizType": "multiple_choice",
+    "questions": [
+      {
+        "id": 9101,
+        "question": "Ich möchte ein Auto kaufen, ___ mir fehlt das Geld.",
+        "english": "I want to buy a car, but I lack the money.",
+        "options": ["aber", "weil", "denn", "oder"],
+        "correctIndex": 0,
+        "explanation": "'aber' drückt eine Einschränkung oder einen Gegensatz aus."
+      },
+      {
+        "id": 9102,
+        "question": "Kannst du mir sagen, ___?",
+        "english": "Can you tell me where the hospital is?",
+        "options": ["wo das Krankenhaus ist", "wo ist das Krankenhaus", "das Krankenhaus wo ist", "ist wo das Krankenhaus"],
+        "correctIndex": 0,
+        "explanation": "In der indirekten Frage rückt das konjugierte Verb 'ist' ans Ende."
+      },
+      {
+        "id": 9103,
+        "question": "Er bleibt zu Hause, weil das Wetter schlecht ___.",
+        "english": "He stays home because the weather is bad.",
+        "options": ["ist", "habe", "hast", "sein"],
+        "correctIndex": 0,
+        "explanation": "Im weil-Nebensatz rückt 'ist' ganz nach hinten."
+      },
+      {
+        "id": 9104,
+        "question": "Dieser Kuchen schmeckt besser ___ der andere.",
+        "english": "This cake tastes better than the other.",
+        "options": ["als", "wie", "so", "denn"],
+        "correctIndex": 0,
+        "explanation": "Der Komparativ 'besser' verlangt 'als'."
+      },
+      {
+        "id": 9105,
+        "question": "Ich habe Fieber, ___ bleibe ich heute im Bett.",
+        "english": "I have a fever, therefore I stay in bed today.",
+        "options": ["deshalb", "weil", "denn", "aber"],
+        "correctIndex": 0,
+        "explanation": "'deshalb' steht auf Position 1 des Hauptsatzes, gefolgt vom konjugierten Verb 'bleibe'."
+      },
+      {
+        "id": 9106,
+        "question": "Ich gehe früh schlafen, ___ ich muss morgen früh aufstehen.",
+        "english": "I go to bed early, for I must get up early tomorrow.",
+        "options": ["denn", "weil", "deshalb", "dass"],
+        "correctIndex": 0,
+        "explanation": "'denn' begründet den ersten Satz auf Position 0 eines Hauptsatzes."
+      },
+      {
+        "id": 9107,
+        "question": "Ich kümmere mich ___ mein kleines Geschwisterchen.",
+        "english": "I take care of my little sibling.",
+        "options": ["um", "über", "für", "an"],
+        "correctIndex": 0,
+        "explanation": "'sich kümmern um' verlangt Akkusativ."
+      },
+      {
+        "id": 9108,
+        "question": "Du kannst mir deinen Computer ___?",
+        "english": "Can you give me your computer?",
+        "options": ["geben", "gibst", "gebe", "gab"],
+        "correctIndex": 0,
+        "explanation": "Nach dem Modalverb steht der reine Infinitiv am Schlusspunkt: 'geben'."
+      },
+      {
+        "id": 9109,
+        "question": "Das ist der Hund, ___ ich füttern muss.",
+        "english": "That is the dog whom/which I have to feed.",
+        "options": ["den", "dem", "der", "die"],
+        "correctIndex": 0,
+        "explanation": "'füttern' verlangt Akkusativ. Für 'der Hund' ist das Relativpronomen 'den'."
+      },
+      {
+        "id": 9110,
+        "question": "Mein Bruder ist gestern in Mailand ___.",
+        "english": "My brother arrived in Milan yesterday.",
+        "options": ["angekommen", "ankommt", "kam an", "ankommen"],
+        "correctIndex": 0,
+        "explanation": "Perfekt von ankommen mit sein: 'ist ... angekommen'."
+      },
+      {
+        "id": 9111,
+        "question": "Ich esse kein Fleisch, ___ ich mag Vegetarisches.",
+        "english": "I don't eat meat, for I like vegetarian food.",
+        "options": ["denn", "weil", "deshalb", "aber"],
+        "correctIndex": 0,
+        "explanation": "'denn' verbindet zwei im Indikativ stehende Hauptsätze zur Begründung."
+      },
+      {
+        "id": 9112,
+        "question": "Der Schlüssel gehört nicht mir, sondern ___.",
+        "english": "The key belongs to him, not me.",
+        "options": ["ihm", "dich", "du", "sein"],
+        "correctIndex": 0,
+        "explanation": "'gehören' erfordert den Dativ für den Besitzertitel: 'ihm'."
+      },
+      {
+        "id": 9113,
+        "question": "Ich habe vergessen, ___ Brot aufzuschneiden.",
+        "english": "I forgot to slice the bread.",
+        "options": ["das", "der", "dem", "den"],
+        "correctIndex": 0,
+        "explanation": "'Brot' ist neutral im Akkusativ → 'das Brot'."
+      },
+      {
+        "id": 9114,
+        "question": "Das Wasser ist hier tiefer ___ am Ufer.",
+        "english": "The water is deeper here than at the shore.",
+        "options": ["als", "wie", "so", "denn"],
+        "correctIndex": 0,
+        "explanation": "Komparativ 'tiefer' erfordert 'als'."
+      },
+      {
+        "id": 9115,
+        "question": "___ es regnet, nehme ich den Regenschirm.",
+        "english": "If/when it rains, I take the umbrella.",
+        "options": ["Wenn", "Weil", "Dass", "Deshalb"],
+        "correctIndex": 0,
+        "explanation": "'Wenn' leitet den Konditionalnebensatz ein."
+      },
+      {
+        "id": 9116,
+        "question": "Ich habe noch nie eine Oper ___.",
+        "english": "I have never seen an opera before.",
+        "options": ["gesehen", "sehen", "sah", "sieht"],
+        "correctIndex": 0,
+        "explanation": "Perfekt von sehen: 'Ich habe ... gesehen.'"
+      },
+      {
+        "id": 9117,
+        "question": "Er ist so fröhlich, dass er laut ___.",
+        "english": "He is so cheerful that he sings loudly.",
+        "options": ["singt", "singen", "gesungen", "sang"],
+        "correctIndex": 0,
+        "explanation": "Im dass-Nebensatz steht 'singt' am Satzende."
+      },
+      {
+        "id": 9118,
+        "question": "Wir wollen morgen Früh ___.",
+        "english": "We want to go jogging tomorrow morning.",
+        "options": ["joggen gehen", "gehen joggen", "gejoggt gehen", "joggen gegangen"],
+        "correctIndex": 0,
+        "explanation": "Doppelinfinitiv am Satzende: 'joggen gehen'."
+      },
+      {
+        "id": 9119,
+        "question": "Hast du die Nachricht schon ___?",
+        "english": "Have you heard the news already?",
+        "options": ["gehört", "hören", "hörst", "höre"],
+        "correctIndex": 0,
+        "explanation": "Perfekt von hören: 'Hast du ... gehört?'"
+      },
+      {
+        "id": 9120,
+        "question": "Ich habe den Zug verpasst, ___ ich spät komme.",
+        "english": "I missed the train, which is why I am arriving late.",
+        "options": ["weshalb", "weil", "denn", "dass"],
+        "correctIndex": 0,
+        "explanation": "'weshalb' knüpfte konsekutiv an das vorherige Ereignis mit Nebensatzstellung an."
+      }
+    ]
+  },
+  {
+    "id": 92,
+    "title": "Section C: Short Reading Comprehension (Q941–Q960)",
+    "description": "Examine 10 short reading texts checking comprehension of transit arrivals, grocery billing, weather changes, birthday parties, and workplace titles.",
+    "category": "Reading Comprehension",
+    "level": "A1",
+    "quizType": "multiple_choice",
+    "questions": [
+      {
+        "id": 9201,
+        "question": "Text: 'Herr Becker ist Koch in einem Restaurant. Er kocht sehr gern italienisches Essen.' -> Was ist Herr Becker von Beruf?",
+        "english": "What is Mr. Becker's profession?",
+        "options": ["Koch.", "Arzt.", "Lehrer.", "Kellner."],
+        "correctIndex": 0,
+        "explanation": "'Herr Becker ist Koch...'"
+      },
+      {
+        "id": 9202,
+        "question": "Text: 'Herr Becker ist Koch in einem Restaurant. Er kocht sehr gern italienisches Essen.' -> Was kocht er besonders gern?",
+        "english": "What cuisine does he love to cook?",
+        "options": ["Italienisches Essen.", "Französisches Essen.", "Deutsches Essen.", "Spanisches Essen."],
+        "correctIndex": 0,
+        "explanation": "'Er kocht sehr gern italienisches Essen.'"
+      },
+      {
+        "id": 9203,
+        "question": "Text: 'Der Sprachkurs beginnt am 10. Mai. Er geht 4 Wochen und kostet 200 Euro.' -> Wann beginnt der Kurs?",
+        "english": "When does the course begin?",
+        "options": ["Am 10. Mai.", "Am 1. Mai.", "Am 10. Juni.", "Am 1. Juni."],
+        "correctIndex": 0,
+        "explanation": "'... beginnt am 10. Mai.'"
+      },
+      {
+        "id": 9204,
+        "question": "Text: 'Der Sprachkurs beginnt am 10. Mai. Er geht 4 Wochen und kostet 200 Euro.' -> Wie lange dauert der Kurs?",
+        "english": "How long does the course last?",
+        "options": ["4 Wochen.", "6 Wochen.", "8 Wochen.", "2 Wochen."],
+        "correctIndex": 0,
+        "explanation": "'Er geht 4 Wochen...'"
+      },
+      {
+        "id": 9205,
+        "question": "Text: 'Der Sprachkurs beginnt am 10. Mai. Er geht 4 Wochen und kostet 200 Euro.' -> Was kostet der Kurs?",
+        "english": "How much does the course cost?",
+        "options": ["200 Euro.", "150 Euro.", "250 Euro.", "300 Euro."],
+        "correctIndex": 0,
+        "explanation": "'... kostet 200 Euro.'"
+      },
+      {
+        "id": 9206,
+        "question": "Text: 'Ich spiele Fußball und Handball, aber ich kann überhaupt nicht schwimmen.' -> Welche Sportart spielt die Person?",
+        "english": "What sport does the person play?",
+        "options": ["Fußball und Handball.", "Tennis und Golf.", "Basketball.", "Eishockey."],
+        "correctIndex": 0,
+        "explanation": "'Ich spiele Fußball und Handball...'"
+      },
+      {
+        "id": 9207,
+        "question": "Text: 'Ich spiele Fußball und Handball, aber ich kann überhaupt nicht schwimmen.' -> Kann die Person gut schwimmen?",
+        "english": "Can the person swim well?",
+        "options": ["Nein, überhaupt nicht.", "Ja, sehr gut.", "Nur im Schwimmbad.", "Ein bisschen."],
+        "correctIndex": 0,
+        "explanation": "'... kann überhaupt nicht schwimmen.'"
+      },
+      {
+        "id": 9208,
+        "question": "Text: 'Gestern war Donnerstag. Deshalb habe ich viel gearbeitet.' -> Welcher Tag war gestern?",
+        "english": "What day was yesterday?",
+        "options": ["Donnerstag.", "Mittwoch.", "Freitag.", "Dienstag."],
+        "correctIndex": 0,
+        "explanation": "'Gestern war Donnerstag.'"
+      },
+      {
+        "id": 9209,
+        "question": "Text: 'Gestern war Donnerstag. Deshalb habe ich viel gearbeitet.' -> Was hat die Person gestern gemacht?",
+        "english": "What did the person do yesterday?",
+        "options": ["Viel gearbeitet.", "Gefaulenzt.", "Einen Ausflug gemacht.", "Gefeiert."],
+        "correctIndex": 0,
+        "explanation": "'... habe ich viel gearbeitet.'"
+      },
+      {
+        "id": 9210,
+        "question": "Text: 'Mein Bruder hat ein Kind. Das Kind heißt Tim und ist 3 Jahre alt.' -> Wer hat ein Kind?",
+        "english": "Who has a child?",
+        "options": ["Der Bruder.", "Der Vater.", "Der Onkel.", "Die Schwester."],
+        "correctIndex": 0,
+        "explanation": "'Mein Bruder hat ein Kind.'"
+      },
+      {
+        "id": 9211,
+        "question": "Text: 'Mein Bruder hat ein Kind. Das Kind heißt Tim und ist 3 Jahre alt.' -> Wie alt ist Tim?",
+        "english": "How old is Tim?",
+        "options": ["3 Jahre alt.", "4 Jahre alt.", "2 Jahre alt.", "5 Jahre alt."],
+        "correctIndex": 0,
+        "explanation": "'... und ist 3 Jahre alt.'"
+      },
+      {
+        "id": 9212,
+        "question": "Text: 'Im Frühling scheint oft die Sonne und Blumen blühen.' -> Was macht die Sonne im Frühling oft?",
+        "english": "What does the sun often do in spring?",
+        "options": ["Sie scheint.", "Sie verschwindet.", "Sie untergeht.", "Sie scheint nicht."],
+        "correctIndex": 0,
+        "explanation": "'Im Frühling scheint oft die Sonne...'"
+      },
+      {
+        "id": 9213,
+        "question": "Text: 'Im Frühling scheint oft die Sonne und Blumen blühen.' -> Was machen die Blumen?",
+        "english": "What do the flowers do?",
+        "options": ["Sie blühen.", "Sie verwelken.", "Sie sterben ab.", "Sie bleiben geschlossen."],
+        "correctIndex": 0,
+        "explanation": "'... und Blumen blühen.'"
+      },
+      {
+        "id": 9214,
+        "question": "Text: 'Ich kaufe 1 Kilo Äpfel für 2,50 Euro und eine Flasche Milch für 1 Euro.' -> Wie viel kosten die Äpfel?",
+        "english": "How much are the apples?",
+        "options": ["2,50 Euro.", "2,00 Euro.", "3,00 Euro.", "1,50 Euro."],
+        "correctIndex": 0,
+        "explanation": "'... 1 Kilo Äpfel für 2,50 Euro...'"
+      },
+      {
+        "id": 9215,
+        "question": "Text: 'Ich kaufe 1 Kilo Äpfel für 2,50 Euro und eine Flasche Milch für 1 Euro.' -> Was kostet alles zusammen?",
+        "english": "What is the total cost?",
+        "options": ["3,50 Euro.", "2,50 Euro.", "4,00 Euro.", "3,00 Euro."],
+        "correctIndex": 0,
+        "explanation": "2,50 Euro + 1,00 Euro = 3,50 Euro."
+      },
+      {
+        "id": 9216,
+        "question": "Text: 'Mein Onkel ist 40 Jahre alt und ist Architekt.' -> Wie alt ist der Onkel?",
+        "english": "How old is the uncle?",
+        "options": ["40.", "45.", "35.", "50."],
+        "correctIndex": 0,
+        "explanation": "'Mein Onkel ist 40 Jahre alt...'"
+      },
+      {
+        "id": 9217,
+        "question": "Text: 'Mein Onkel ist 40 Jahre alt und ist Architekt.' -> Was ist er von Beruf?",
+        "english": "What is his occupation?",
+        "options": ["Architekt.", "Arzt.", "Lehrer.", "Ingenieur."],
+        "correctIndex": 0,
+        "explanation": "'... und ist Architekt.'"
+      },
+      {
+        "id": 9218,
+        "question": "Text: 'Die S-Bahn fährt um 17:15 Uhr und kommt um 17:50 Uhr an.' -> Wann fährt die S-Bahn ab?",
+        "english": "When does the S-Bahn leave?",
+        "options": ["Um 17:15 Uhr.", "Um 17:50 Uhr.", "Um 17:00 Uhr.", "Um 18:15 Uhr."],
+        "correctIndex": 0,
+        "explanation": "'Die S-Bahn fährt um 17:15 Uhr...'"
+      },
+      {
+        "id": 9219,
+        "question": "Text: 'Die S-Bahn fährt um 17:15 Uhr und kommt um 17:50 Uhr an.' -> Wie lange dauert die Fahrt?",
+        "english": "What is the travel duration?",
+        "options": ["35 Minuten.", "45 Minuten.", "25 Minuten.", "30 Minuten."],
+        "correctIndex": 0,
+        "explanation": "Von 17:15 bis 17:50 Uhr sind es genau 35 Minuten."
+      },
+      {
+        "id": 9220,
+        "question": "Text: 'Ich habe am 14. Dezember Geburtstag und feiere im Winter.' -> Wann hat die Person Geburtstag?",
+        "english": "When is the birthday?",
+        "options": ["Am 14. Dezember.", "Am 14. November.", "Am 14. Januar.", "Am 14. Oktober."],
+        "correctIndex": 0,
+        "explanation": "'Ich habe am 14. Dezember Geburtstag...'"
+      }
+    ]
+  },
+  {
+    "id": 93,
+    "title": "Section D: Mixed MCQs – Grammar, Vocabulary & Facts (Q961–Q1000)",
+    "description": "The ultimate 40-question stretch checking ordinal 5. (fünfter), opposites (stark/schwach), conjunctions (weder...noch), numerals (500 = fünfhundert), and comparisons.",
+    "category": "General Grammar",
+    "level": "A1",
+    "quizType": "multiple_choice",
+    "questions": [
+      {
+        "id": 9301,
+        "question": "Ich ___ gestern sehr glücklich gewesen.",
+        "english": "I was very happy yesterday.",
+        "options": ["bin", "habe", "war", "sein"],
+        "correctIndex": 0,
+        "explanation": "sein bildet das Perfekt mit sein: 'ich bin gewesen'."
+      },
+      {
+        "id": 9302,
+        "question": "Das ist ___ altes Buch.",
+        "english": "That is an old book.",
+        "options": ["ein", "eine", "einen", "einem"],
+        "correctIndex": 0,
+        "explanation": "'Buch' ist neutral im Nominativ → 'ein altes Buch'."
+      },
+      {
+        "id": 9303,
+        "question": "Ich reise ___ Österreich.",
+        "english": "I am traveling to Austria.",
+        "options": ["nach", "in", "zu", "bei"],
+        "correctIndex": 0,
+        "explanation": "Länder ohne Artikel erfordern für die Richtung die Präposition 'nach Österreich'."
+      },
+      {
+        "id": 9304,
+        "question": "Heute ist der 5. Mai. – Wie spricht man '5.' als maskuline Ordinalzahl aus?",
+        "english": "How do you say '5th' as a masculine ordinal ('fünfter')?",
+        "options": ["fünfter", "fünfte", "fünftes", "fünft"],
+        "correctIndex": 0,
+        "explanation": "Ohne Artikel als alleinstehendes Adjektiv für Monatstage schreibt man 'fünfter' (der fünfte Mai)."
+      },
+      {
+        "id": 9305,
+        "question": "Das Gegenteil von 'stark' ist:",
+        "english": "The opposite of 'stark' (strong) is:",
+        "options": ["schwach", "dünn", "klein", "müde"],
+        "correctIndex": 0,
+        "explanation": "Stark (strong) ⇔ schwach (weak)."
+      },
+      {
+        "id": 9306,
+        "question": "Ich esse ___ Eis.",
+        "english": "I am not eating an ice cream.",
+        "options": ["kein", "keine", "nicht", "keinen"],
+        "correctIndex": 0,
+        "explanation": "'Eis' ist neutral im Akkusativ → 'kein Eis'."
+      },
+      {
+        "id": 9307,
+        "question": "Du ___ mir helfen! (sollen)",
+        "english": "You should help me!",
+        "options": ["sollst", "soll", "sollen", "sollt"],
+        "correctIndex": 0,
+        "explanation": "2. Person Singular des Modalverbs sollen: 'du sollst'."
+      },
+      {
+        "id": 9308,
+        "question": "Ich gebe ___ Mädchen das Buch.",
+        "english": "I give the girl the book.",
+        "options": ["dem", "den", "der", "das"],
+        "correctIndex": 0,
+        "explanation": "'Mädchen' ist grammatisch neutral im Dativ Singular: 'dem Mädchen'."
+      },
+      {
+        "id": 9309,
+        "question": "Wir ___ heute lange gezwungen zu warten. / Wir ___ heute schnell gefahren.",
+        "english": "We drove fast today.",
+        "options": ["sind", "haben", "waren", "sein"],
+        "correctIndex": 0,
+        "explanation": "fahren verlangt als Bewegungsverb im Perfekt sein: 'Wir sind ... gefahren.'"
+      },
+      {
+        "id": 9310,
+        "question": "___ Haus ist neu. (Unser/Unsere/Unseren)",
+        "english": "Our house is new.",
+        "options": ["Unser", "Unsere", "Unseren", "Unsers"],
+        "correctIndex": 0,
+        "explanation": "'Haus' neutral Nominativ → 'Unser Haus'."
+      },
+      {
+        "id": 9311,
+        "question": "___ morgen habe ich mehr Zeit.",
+        "english": "Starting tomorrow I have more time.",
+        "options": ["Ab", "Seit", "In", "Für"],
+        "correctIndex": 0,
+        "explanation": "'Ab' drückt den zukünftigen Startpunkt aus: 'Ab morgen'."
+      },
+      {
+        "id": 9312,
+        "question": "Ich mag ___ Fleisch ___ Fisch. (weder ... noch - doppelte Verneinung)",
+        "english": "I like neither meat nor fish.",
+        "options": ["weder ... noch", "entweder ... oder", "sowohl ... als auch", "nicht ... sondern"],
+        "correctIndex": 0,
+        "explanation": "'weder ... noch' (neither ... nor) verbindet zwei Komponenten verneinend."
+      },
+      {
+        "id": 9313,
+        "question": "Ich ___ die Tür ___ (zumachen).",
+        "english": "I close the door.",
+        "options": ["mache ... zu", "zumache", "mache zu", "zu ... mache"],
+        "correctIndex": 0,
+        "explanation": "'zumachen' ist trennbar im Hauptsatz: 'Ich mache ... zu.'"
+      },
+      {
+        "id": 9314,
+        "question": "___ heißt dieser Ort? (Name)",
+        "english": "What is the name of this place?",
+        "options": ["Wie", "Warum", "Wo", "Wann"],
+        "correctIndex": 0,
+        "explanation": "'Wie heißt...?' ist die Standardfrage nach Namen und Bezeichnungen."
+      },
+      {
+        "id": 9315,
+        "question": "___ liegt der Schlüssel? (Ort)",
+        "english": "Where lies the key?",
+        "options": ["Wo", "Wohin", "Wie", "Wann"],
+        "correctIndex": 0,
+        "explanation": "'Wo' fragt mit Dativ/Ruhelage nach dem Aufenthaltsort."
+      },
+      {
+        "id": 9316,
+        "question": "Du ___ das Wasser. (nehmen - Stammwechsel 2. Person)",
+        "english": "You take the water.",
+        "options": ["nimmst", "nehmt", "nehme", "nehmen"],
+        "correctIndex": 0,
+        "explanation": "2. Person Singular mit Stammwechsel e → i und Doppel-m: 'du nimmst'."
+      },
+      {
+        "id": 9317,
+        "question": "Dieser Garten ist ___. (am schönsten / schönste / schöner)",
+        "english": "This garden is prettiest.",
+        "options": ["am schönsten", "schönste", "schöner", "schön"],
+        "correctIndex": 0,
+        "explanation": "Superlativ im prädikativen Satzabschluss: 'am schönsten'."
+      },
+      {
+        "id": 9318,
+        "question": "Ich diskutiere ___ das Problem.",
+        "english": "I debate about the problem.",
+        "options": ["über", "von", "für", "an"],
+        "correctIndex": 0,
+        "explanation": "'diskutieren über' erfordert den Akkusativ: 'über das Problem'."
+      },
+      {
+        "id": 9319,
+        "question": "Er ___ heute schwimmen gehen. (wollen)",
+        "english": "He wants to go swimming today.",
+        "options": ["will", "willst", "wollen", "wollt"],
+        "correctIndex": 0,
+        "explanation": "3. Person Singular von wollen lautet 'er will'."
+      },
+      {
+        "id": 9320,
+        "question": "Du siehst ___. (mich/mir/ich)",
+        "english": "You see me.",
+        "options": ["mich", "mir", "ich", "mein"],
+        "correctIndex": 0,
+        "explanation": "'sehen' + Akkusativ Singular: 'mich'."
+      },
+      {
+        "id": 9321,
+        "question": "Ich bringe ___ eine Tasse Tee. (dir/dich/du)",
+        "english": "I bring you a cup of tea.",
+        "options": ["dir", "dich", "du", "dein"],
+        "correctIndex": 0,
+        "explanation": "'bringen' verlangt Dativ für den Empfänger: 'dir'."
+      },
+      {
+        "id": 9322,
+        "question": "Ihr ___ Hunger. (haben - 2. Person Plural)",
+        "english": "You all are hungry.",
+        "options": ["habt", "haben", "hast", "habe"],
+        "correctIndex": 0,
+        "explanation": "2. Person Plural des Verbs haben ist 'ihr habt'."
+      },
+      {
+        "id": 9323,
+        "question": "Der Weg ist ___ als die Straße. (kurz)",
+        "english": "The path is shorter than the street.",
+        "options": ["kürzer", "kürze", "am kürzesten", "kurzer"],
+        "correctIndex": 0,
+        "explanation": "Komparativ von kurz vor 'als' lautet mit Umlaut 'kürzer'."
+      },
+      {
+        "id": 9324,
+        "question": "Wir sitzen ___ Tisch. (am/an das/ans)",
+        "english": "We are sitting at the table.",
+        "options": ["am", "ans", "an das", "an dem"],
+        "correctIndex": 0,
+        "explanation": "Ortsangabe im Dativ (Ruhelage: Wo?) mit 'am' (an dem Tisch)."
+      },
+      {
+        "id": 9325,
+        "question": "Ich ___ schnell gelaufen.",
+        "english": "I ran fast.",
+        "options": ["bin", "habe", "war", "werde"],
+        "correctIndex": 0,
+        "explanation": "laufen als Bewegung fordert sein im Perfekt: 'Ich bin ... gelaufen.'"
+      },
+      {
+        "id": 9326,
+        "question": "___ Frau spricht Deutsch. (Die/Der/Das/Ein)",
+        "english": "The woman speaks German.",
+        "options": ["Die", "Der", "Das", "Ein"],
+        "correctIndex": 0,
+        "explanation": "'Frau' feminin Nominativ → 'Die Frau'."
+      },
+      {
+        "id": 9327,
+        "question": "Wo ist ___ Hund? (euer/eure/euren)",
+        "english": "Where is your (plural) dog?",
+        "options": ["euer", "eure", "euren", "eures"],
+        "correctIndex": 0,
+        "explanation": "'Hund' ist maskulin im Nominativ → 'euer Hund'."
+      },
+      {
+        "id": 9328,
+        "question": "Er ___ das gut verstehen. (können - 3. Person Singular)",
+        "english": "He can understand that well.",
+        "options": ["kann", "kannst", "können", "könnt"],
+        "correctIndex": 0,
+        "explanation": "3. Person Singular von können ist 'er kann'."
+      },
+      {
+        "id": 9329,
+        "question": "Ich spare Geld, ___ ich mir ein Fahrrad kaufe.",
+        "english": "I save money so that I buy a bicycle.",
+        "options": ["damit", "weil", "dass", "wenn"],
+        "correctIndex": 0,
+        "explanation": "'damit' nennt das Ziel bzw. den Zweck im Nebensatz."
+      },
+      {
+        "id": 9330,
+        "question": "Wie heißt 500 auf Deutsch?",
+        "english": "What is 500 in German?",
+        "options": ["fünfhundert", "fünf hundert", "fünfhunderte", "fünfhunder"],
+        "correctIndex": 0,
+        "explanation": "500 wird einwandfrei zusammengezogen geschrieben: 'fünfhundert'."
+      },
+      {
+        "id": 9331,
+        "question": "Wie heißt der Plural von 'der Mann'?",
+        "english": "What is the plural of 'der Mann'?",
+        "options": ["die Männer", "die Manne", "die Mannen", "der Männer"],
+        "correctIndex": 0,
+        "explanation": "Pluralbildung mit Umlaut und -er Endung: 'die Männer'."
+      },
+      {
+        "id": 9332,
+        "question": "Ich ___ ein Buch. (lesen - 1. Person)",
+        "english": "I read a book.",
+        "options": ["lese", "liest", "lest", "lesen"],
+        "correctIndex": 0,
+        "explanation": "1. Person Singular von lesen ist regelmäßig: 'ich lese'."
+      },
+      {
+        "id": 9333,
+        "question": "Ich bin ___ Berlin.",
+        "english": "I am from Berlin.",
+        "options": ["aus", "von", "nach", "zu"],
+        "correctIndex": 0,
+        "explanation": "Bei Städtenamen drückt man die Herkunft mit 'aus Berlin' aus."
+      },
+      {
+        "id": 9334,
+        "question": "Diese Übung ist ___ als die erste. (einfach)",
+        "english": "This exercise is easier than the first one.",
+        "options": ["einfacher", "einfachste", "einfach", "am einfachsten"],
+        "correctIndex": 0,
+        "explanation": "Komparativ von einfach vor 'als' lautet 'einfacher'."
+      },
+      {
+        "id": 9335,
+        "question": "Das ist kein Wasser, ___ Apfelsaft.",
+        "english": "That is not water, but apple juice.",
+        "options": ["sondern", "aber", "und", "oder"],
+        "correctIndex": 0,
+        "explanation": "'sondern' ersetzt die zuvor verneinte Identität."
+      },
+      {
+        "id": 9336,
+        "question": "Er ___ nach Haus gehen. (müssen - 3. Person)",
+        "english": "He must go home.",
+        "options": ["muss", "musst", "müssen", "müsst"],
+        "correctIndex": 0,
+        "explanation": "3. Person Singular von müssen lautet 'er muss'."
+      },
+      {
+        "id": 9337,
+        "question": "Ich habe ___ Stuhl gekauft.",
+        "english": "I bought a chair.",
+        "options": ["einen", "ein", "eine", "einem"],
+        "correctIndex": 0,
+        "explanation": "'Stuhl' ist maskulin im Akkusativ → 'einen Stuhl'."
+      },
+      {
+        "id": 9338,
+        "question": "Ich bleibe ___ Montag.",
+        "english": "I am staying until Monday.",
+        "options": ["bis", "ab", "seit", "für"],
+        "correctIndex": 0,
+        "explanation": "'bis' gibt das Ende eines Aufenthalts an: 'bis Montag'."
+      },
+      {
+        "id": 9339,
+        "question": "Wann ___ der Zug ___? (abfahren)",
+        "english": "When does the train depart?",
+        "options": ["fährt ... ab", "abfährt", "fährt ab", "ab ... fährt"],
+        "correctIndex": 0,
+        "explanation": "Das trennbare Verb abfahren drückt man im Fragesatz mit: 'Wann fährt der Zug ab?' aus."
+      },
+      {
+        "id": 9340,
+        "question": "Wir ___ nach Spanien gefahren.",
+        "english": "We traveled to Spain.",
+        "options": ["sind", "haben", "waren", "werden"],
+        "correctIndex": 0,
+        "explanation": "fahren mit Richtungsangabe erfordert sein im Perfekt: 'Wir sind ... gefahren.'"
+      }
+    ]
+  },
+  {
+    "id": 95,
+    "title": "🏆 Ultimate A1 Batch 10 Exam Simulator (Q901–Q1000)",
+    "description": "Celebrate the milestone of Question 1,000! Evaluate your ultimate A1 fluency across polite desire forms, relative pronouns, double negatives, and text math.",
+    "category": "Master Exam",
+    "level": "A1",
+    "quizType": "multiple_choice",
+    "questions": [
+      {
+        "id": 9501,
+        "question": "Ich ___ gern ein Glas Wasser. (möchte)",
+        "english": "Would like water.",
+        "options": ["möchte", "möchtest", "möchten", "möchtet"],
+        "correctIndex": 0,
+        "explanation": "'ich möchte'."
+      },
+      {
+        "id": 9502,
+        "question": "___ ihr Geschwister?",
+        "english": "Have siblings?",
+        "options": ["Habt", "Haben", "Hast", "Hat"],
+        "correctIndex": 0,
+        "explanation": "'Habt ihr'."
+      },
+      {
+        "id": 9503,
+        "question": "___ einer Stunde beginnt der Film.",
+        "english": "In an hour.",
+        "options": ["In", "Nach", "Ab", "Seit"],
+        "correctIndex": 0,
+        "explanation": "'In einer Stunde'."
+      },
+      {
+        "id": 9504,
+        "question": "Das ist ___ schöne Stadt.",
+        "english": "Beautiful city.",
+        "options": ["eine", "ein", "einen", "einem"],
+        "correctIndex": 0,
+        "explanation": "'eine schöne Stadt'."
+      },
+      {
+        "id": 9505,
+        "question": "Warum ___ du so früh ___? (weggehen)",
+        "english": "Why leaving?",
+        "options": ["gehst ... weg", "weggehst", "gehst weg", "weg ... gehst"],
+        "correctIndex": 0,
+        "explanation": "'gehst ... weg'."
+      },
+      {
+        "id": 9506,
+        "question": "Das ist ___ mein Tisch, sondern deiner.",
+        "english": "Not my table.",
+        "options": ["nicht", "kein", "keine", "keinen"],
+        "correctIndex": 0,
+        "explanation": "'nicht mein Tisch'."
+      },
+      {
+        "id": 9507,
+        "question": "___ ihr schon mal in Berlin?",
+        "english": "Were you in Berlin?",
+        "options": ["Wart", "Warst", "Waren", "War"],
+        "correctIndex": 0,
+        "explanation": "'Wart ihr'."
+      },
+      {
+        "id": 9508,
+        "question": "Ich gehe ___ meinem Freund.",
+        "english": "Going to boyfriend.",
+        "options": ["zu", "nach", "in", "an"],
+        "correctIndex": 0,
+        "explanation": "'zu meinem Freund'."
+      },
+      {
+        "id": 9509,
+        "question": "Das ist ___ Tasche. (ihre)",
+        "english": "Her bag.",
+        "options": ["ihre", "ihr", "ihren", "ihrs"],
+        "correctIndex": 0,
+        "explanation": "'ihre Tasche'."
+      },
+      {
+        "id": 9510,
+        "question": "Wir ___ heute Abend kochen. (wollen)",
+        "english": "Want to cook.",
+        "options": ["wollen", "will", "wollt", "willst"],
+        "correctIndex": 0,
+        "explanation": "'wir wollen'."
+      },
+      {
+        "id": 9511,
+        "question": "Der Fluss ist ___ als der Bach. (breit)",
+        "english": "Wider than creek.",
+        "options": ["breiter", "breit", "am breitesten", "breite"],
+        "correctIndex": 0,
+        "explanation": "'breiter als'."
+      },
+      {
+        "id": 9512,
+        "question": "Ich zeige ___ den Weg. (dir/dich/du)",
+        "english": "Show you way.",
+        "options": ["dir", "dich", "du", "dein"],
+        "correctIndex": 0,
+        "explanation": "'dir'."
+      },
+      {
+        "id": 9513,
+        "question": "Ich ___ ein Eis gegessen.",
+        "english": "Ate ice cream.",
+        "options": ["habe", "bin", "war", "werde"],
+        "correctIndex": 0,
+        "explanation": "'habe gegessen'."
+      },
+      {
+        "id": 9514,
+        "question": "Ich habe nichts ___ den Vorschlag.",
+        "english": "Nothing against proposal.",
+        "options": ["gegen", "für", "mit", "ohne"],
+        "correctIndex": 0,
+        "explanation": "'gegen'."
+      },
+      {
+        "id": 9515,
+        "question": "Er weiß, ___ du gut Deutsch sprichst.",
+        "english": "Knows that you speak.",
+        "options": ["dass", "weil", "wenn", "obwohl"],
+        "correctIndex": 0,
+        "explanation": "'dass'."
+      },
+      {
+        "id": 9516,
+        "question": "Ich schenke ___ Blume. (der Frau)",
+        "english": "Give woman flower.",
+        "options": ["der Frau", "die Frau", "den Frau", "dem Frau"],
+        "correctIndex": 0,
+        "explanation": "'der Frau'."
+      },
+      {
+        "id": 9517,
+        "question": "Ich esse ___ Pizza. (am liebsten / liebste / lieber)",
+        "english": "Eat pizza most of all.",
+        "options": ["am liebsten", "liebste", "lieber", "gern"],
+        "correctIndex": 0,
+        "explanation": "'am liebsten'."
+      },
+      {
+        "id": 9518,
+        "question": "___ einem Monat lerne ich hier.",
+        "english": "Since one month.",
+        "options": ["Seit", "Vor", "In", "Ab"],
+        "correctIndex": 0,
+        "explanation": "'Seit einem Monat'."
+      },
+      {
+        "id": 9519,
+        "question": "Ich ___ ein Geschenk ___ (mitbringen).",
+        "english": "Bring gift along.",
+        "options": ["bringe ... mit", "mitbringe", "bringe mit", "mit ... bringe"],
+        "correctIndex": 0,
+        "explanation": "'bringe ... mit'."
+      },
+      {
+        "id": 9520,
+        "question": "Du ___ nicht rauchen. (dürfen)",
+        "english": "Must not smoke.",
+        "options": ["darfst", "dürfen", "darf", "dürft"],
+        "correctIndex": 0,
+        "explanation": "'du darfst nicht'."
+      },
+      {
+        "id": 9521,
+        "question": "Ich möchte ein Auto kaufen, ___ mir fehlt das Geld.",
+        "english": "Want car, but no money.",
+        "options": ["aber", "weil", "denn", "oder"],
+        "correctIndex": 0,
+        "explanation": "'aber'."
+      },
+      {
+        "id": 9522,
+        "question": "Kannst du mir sagen, ___?",
+        "english": "Tell where hospital is:",
+        "options": ["wo das Krankenhaus ist", "wo ist das Krankenhaus", "das Krankenhaus wo ist", "ist wo das Krankenhaus"],
+        "correctIndex": 0,
+        "explanation": "'wo das Krankenhaus ist'."
+      },
+      {
+        "id": 9523,
+        "question": "Er bleibt zu Hause, weil das Wetter schlecht ___.",
+        "english": "Because weather is bad.",
+        "options": ["ist", "habe", "hast", "sein"],
+        "correctIndex": 0,
+        "explanation": "'ist'."
+      },
+      {
+        "id": 9524,
+        "question": "Dieser Kuchen schmeckt besser ___ der andere.",
+        "english": "Better than other.",
+        "options": ["als", "wie", "so", "denn"],
+        "correctIndex": 0,
+        "explanation": "'als'."
+      },
+      {
+        "id": 9525,
+        "question": "Ich habe Fieber, ___ bleibe ich heute im Bett.",
+        "english": "Fever, therefore bed.",
+        "options": ["deshalb", "weil", "denn", "aber"],
+        "correctIndex": 0,
+        "explanation": "'deshalb'."
+      },
+      {
+        "id": 9526,
+        "question": "Ich gehe früh schlafen, ___ ich muss morgen früh aufstehen.",
+        "english": "Sleep early, for get up early.",
+        "options": ["denn", "weil", "deshalb", "dass"],
+        "correctIndex": 0,
+        "explanation": "'denn'."
+      },
+      {
+        "id": 9527,
+        "question": "Ich kümmere mich ___ mein kleines Geschwisterchen.",
+        "english": "Take care of sibling.",
+        "options": ["um", "über", "für", "an"],
+        "correctIndex": 0,
+        "explanation": "'um'."
+      },
+      {
+        "id": 9528,
+        "question": "Du kannst mir deinen Computer ___?",
+        "english": "Give PC?",
+        "options": ["geben", "gibst", "gebe", "gab"],
+        "correctIndex": 0,
+        "explanation": "'geben'."
+      },
+      {
+        "id": 9529,
+        "question": "Das ist der Hund, ___ ich füttern muss.",
+        "english": "Dog whom I must feed.",
+        "options": ["den", "dem", "der", "die"],
+        "correctIndex": 0,
+        "explanation": "'den'."
+      },
+      {
+        "id": 9530,
+        "question": "Mein Bruder ist gestern in Mailand ___.",
+        "english": "Arrived in Milan.",
+        "options": ["angekommen", "ankommt", "kam an", "ankommen"],
+        "correctIndex": 0,
+        "explanation": "'ist angekommen'."
+      },
+      {
+        "id": 9531,
+        "question": "Ich esse kein Fleisch, ___ ich mag Vegetarisches.",
+        "english": "No meat, for I like veg.",
+        "options": ["denn", "weil", "deshalb", "aber"],
+        "correctIndex": 0,
+        "explanation": "'denn'."
+      },
+      {
+        "id": 9532,
+        "question": "Der Schlüssel gehört nicht mir, sondern ___.",
+        "english": "Belongs to him.",
+        "options": ["ihm", "dich", "du", "sein"],
+        "correctIndex": 0,
+        "explanation": "'ihm'."
+      },
+      {
+        "id": 9533,
+        "question": "Ich habe vergessen, ___ Brot aufzuschneiden.",
+        "english": "Forgot bread.",
+        "options": ["das", "der", "dem", "den"],
+        "correctIndex": 0,
+        "explanation": "'das Brot'."
+      },
+      {
+        "id": 9534,
+        "question": "Das Wasser ist hier tiefer ___ am Ufer.",
+        "english": "Deeper than at shore.",
+        "options": ["als", "wie", "so", "denn"],
+        "correctIndex": 0,
+        "explanation": "'als'."
+      },
+      {
+        "id": 9535,
+        "question": "___ es regnet, nehme ich den Regenschirm.",
+        "english": "When rains, take umbrella.",
+        "options": ["Wenn", "Weil", "Dass", "Deshalb"],
+        "correctIndex": 0,
+        "explanation": "'Wenn'."
+      },
+      {
+        "id": 9536,
+        "question": "Ich habe noch nie eine Oper ___.",
+        "english": "Never seen opera.",
+        "options": ["gesehen", "sehen", "sah", "sieht"],
+        "correctIndex": 0,
+        "explanation": "'gesehen'."
+      },
+      {
+        "id": 9537,
+        "question": "Er ist so fröhlich, dass er laut ___.",
+        "english": "So cheerful that he sings.",
+        "options": ["singt", "singen", "gesungen", "sang"],
+        "correctIndex": 0,
+        "explanation": "'singt'."
+      },
+      {
+        "id": 9538,
+        "question": "Wir wollen morgen Früh ___.",
+        "english": "Go jogging.",
+        "options": ["joggen gehen", "gehen joggen", "gejoggt gehen", "joggen gegangen"],
+        "correctIndex": 0,
+        "explanation": "'joggen gehen'."
+      },
+      {
+        "id": 9539,
+        "question": "Hast du die Nachricht schon ___?",
+        "english": "Heard news?",
+        "options": ["gehört", "hören", "hörst", "höre"],
+        "correctIndex": 0,
+        "explanation": "'gehört'."
+      },
+      {
+        "id": 9540,
+        "question": "Ich habe den Zug verpasst, ___ ich spät komme.",
+        "english": "Missed train, hence late.",
+        "options": ["weshalb", "weil", "denn", "dass"],
+        "correctIndex": 0,
+        "explanation": "'weshalb'."
+      },
+      {
+        "id": 9541,
+        "question": "Text: 'Herr Becker ist Koch in einem Restaurant. Er kocht sehr gern italienisches Essen.' -> Was ist Herr Becker von Beruf?",
+        "english": "Becker's profession?",
+        "options": ["Koch.", "Arzt.", "Lehrer.", "Kellner."],
+        "correctIndex": 0,
+        "explanation": "'Koch.'"
+      },
+      {
+        "id": 9542,
+        "question": "Text: 'Herr Becker ist Koch in einem Restaurant. Er kocht sehr gern italienisches Essen.' -> Was kocht er besonders gern?",
+        "english": "Favorite food to cook?",
+        "options": ["Italienisches Essen.", "Französisches Essen.", "Deutsches Essen.", "Spanisches Essen."],
+        "correctIndex": 0,
+        "explanation": "'Italienisches Essen.'"
+      },
+      {
+        "id": 9543,
+        "question": "Text: 'Der Sprachkurs beginnt am 10. Mai. Er geht 4 Wochen und kostet 200 Euro.' -> Wann beginnt der Kurs?",
+        "english": "Start date?",
+        "options": ["Am 10. Mai.", "Am 1. Mai.", "Am 10. Juni.", "Am 1. Juni."],
+        "correctIndex": 0,
+        "explanation": "'Am 10. Mai.'"
+      },
+      {
+        "id": 9544,
+        "question": "Text: 'Der Sprachkurs beginnt am 10. Mai. Er geht 4 Wochen und kostet 200 Euro.' -> Wie lange dauert der Kurs?",
+        "english": "Course duration?",
+        "options": ["4 Wochen.", "6 Wochen.", "8 Wochen.", "2 Wochen."],
+        "correctIndex": 0,
+        "explanation": "'4 Wochen.'"
+      },
+      {
+        "id": 9545,
+        "question": "Text: 'Der Sprachkurs beginnt am 10. Mai. Er geht 4 Wochen und kostet 200 Euro.' -> Was kostet der Kurs?",
+        "english": "Course price?",
+        "options": ["200 Euro.", "150 Euro.", "250 Euro.", "300 Euro."],
+        "correctIndex": 0,
+        "explanation": "'200 Euro.'"
+      },
+      {
+        "id": 9546,
+        "question": "Text: 'Ich spiele Fußball und Handball, aber ich kann überhaupt nicht schwimmen.' -> Welche Sportart spielt die Person?",
+        "english": "Which sport played?",
+        "options": ["Fußball und Handball.", "Tennis und Golf.", "Basketball.", "Eishockey."],
+        "correctIndex": 0,
+        "explanation": "'Fußball und Handball.'"
+      },
+      {
+        "id": 9547,
+        "question": "Text: 'Ich spiele Fußball und Handball, aber ich kann überhaupt nicht schwimmen.' -> Kann die Person gut schwimmen?",
+        "english": "Can swim well?",
+        "options": ["Nein, überhaupt nicht.", "Ja, sehr gut.", "Nur im Schwimmbad.", "Ein bisschen."],
+        "correctIndex": 0,
+        "explanation": "'Nein, überhaupt nicht.'"
+      },
+      {
+        "id": 9548,
+        "question": "Text: 'Gestern war Donnerstag. Deshalb habe ich viel gearbeitet.' -> Welcher Tag war gestern?",
+        "english": "Yesterday's day?",
+        "options": ["Donnerstag.", "Mittwoch.", "Freitag.", "Dienstag."],
+        "correctIndex": 0,
+        "explanation": "'Donnerstag.'"
+      },
+      {
+        "id": 9549,
+        "question": "Text: 'Gestern war Donnerstag. Deshalb habe ich viel gearbeitet.' -> Was hat die Person gestern gemacht?",
+        "english": "Did what yesterday?",
+        "options": ["Viel gearbeitet.", "Gefaulenzt.", "Einen Ausflug gemacht.", "Gefeiert."],
+        "correctIndex": 0,
+        "explanation": "'Viel gearbeitet.'"
+      },
+      {
+        "id": 9550,
+        "question": "Text: 'Mein Bruder hat ein Kind. Das Kind heißt Tim und ist 3 Jahre alt.' -> Wer hat ein Kind?",
+        "english": "Who has child?",
+        "options": ["Der Bruder.", "Der Vater.", "Der Onkel.", "Die Schwester."],
+        "correctIndex": 0,
+        "explanation": "'Der Bruder.'"
+      },
+      {
+        "id": 9551,
+        "question": "Text: 'Mein Bruder hat ein Kind. Das Kind heißt Tim und ist 3 Jahre alt.' -> Wie alt ist Tim?",
+        "english": "Tim's age?",
+        "options": ["3 Jahre alt.", "4 Jahre alt.", "2 Jahre alt.", "5 Jahre alt."],
+        "correctIndex": 0,
+        "explanation": "'3 Jahre alt.'"
+      },
+      {
+        "id": 9552,
+        "question": "Text: 'Im Frühling scheint oft die Sonne und Blumen blühen.' -> Was macht die Sonne im Frühling oft?",
+        "english": "Sun does what in spring?",
+        "options": ["Sie scheint.", "Sie verschwindet.", "Sie untergeht.", "Sie scheint nicht."],
+        "correctIndex": 0,
+        "explanation": "'Sie scheint.'"
+      },
+      {
+        "id": 9553,
+        "question": "Text: 'Im Frühling scheint oft die Sonne und Blumen blühen.' -> Was machen die Blumen?",
+        "english": "Flowers do what?",
+        "options": ["Sie blühen.", "Sie verwelken.", "Sie sterben ab.", "Sie bleiben geschlossen."],
+        "correctIndex": 0,
+        "explanation": "'Sie blühen.'"
+      },
+      {
+        "id": 9554,
+        "question": "Text: 'Ich kaufe 1 Kilo Äpfel für 2,50 Euro und eine Flasche Milch für 1 Euro.' -> Wie viel kosten die Äpfel?",
+        "english": "Price of apples?",
+        "options": ["2,50 Euro.", "2,00 Euro.", "3,00 Euro.", "1,50 Euro."],
+        "correctIndex": 0,
+        "explanation": "'2,50 Euro.'"
+      },
+      {
+        "id": 9555,
+        "question": "Text: 'Ich kaufe 1 Kilo Äpfel für 2,50 Euro und eine Flasche Milch für 1 Euro.' -> Was kostet alles zusammen?",
+        "english": "Total price?",
+        "options": ["3,50 Euro.", "2,50 Euro.", "4,00 Euro.", "3,00 Euro."],
+        "correctIndex": 0,
+        "explanation": "'3,50 Euro.'"
+      },
+      {
+        "id": 9556,
+        "question": "Text: 'Mein Onkel ist 40 Jahre alt und ist Architekt.' -> Wie alt ist der Onkel?",
+        "english": "Uncle's age?",
+        "options": ["40.", "45.", "35.", "50."],
+        "correctIndex": 0,
+        "explanation": "'40.'"
+      },
+      {
+        "id": 9557,
+        "question": "Text: 'Mein Onkel ist 40 Jahre alt und ist Architekt.' -> Was ist er von Beruf?",
+        "english": "Uncle's job?",
+        "options": ["Architekt.", "Arzt.", "Lehrer.", "Ingenieur."],
+        "correctIndex": 0,
+        "explanation": "'Architekt.'"
+      },
+      {
+        "id": 9558,
+        "question": "Text: 'Die S-Bahn fährt um 17:15 Uhr und kommt um 17:50 Uhr an.' -> Wann fährt die S-Bahn ab?",
+        "english": "Train departure time?",
+        "options": ["Um 17:15 Uhr.", "Um 17:50 Uhr.", "Um 17:00 Uhr.", "Um 18:15 Uhr."],
+        "correctIndex": 0,
+        "explanation": "'Um 17:15 Uhr.'"
+      },
+      {
+        "id": 9559,
+        "question": "Text: 'Die S-Bahn fährt um 17:15 Uhr und kommt um 17:50 Uhr an.' -> Wie lange dauert die Fahrt?",
+        "english": "Travel duration?",
+        "options": ["35 Minuten.", "45 Minuten.", "25 Minuten.", "30 Minuten."],
+        "correctIndex": 0,
+        "explanation": "'35 Minuten.'"
+      },
+      {
+        "id": 9560,
+        "question": "Text: 'Ich habe am 14. Dezember Geburtstag und feiere im Winter.' -> Wann hat die Person Geburtstag?",
+        "english": "Birthday date?",
+        "options": ["Am 14. Dezember.", "Am 14. November.", "Am 14. Januar.", "Am 14. Oktober."],
+        "correctIndex": 0,
+        "explanation": "'Am 14. Dezember.'"
+      },
+      {
+        "id": 9561,
+        "question": "Ich ___ gestern sehr glücklich gewesen.",
+        "english": "Was happy yesterday.",
+        "options": ["bin", "habe", "war", "sein"],
+        "correctIndex": 0,
+        "explanation": "'ich bin gewesen'."
+      },
+      {
+        "id": 9562,
+        "question": "Das ist ___ altes Buch.",
+        "english": "An old book.",
+        "options": ["ein", "eine", "einen", "einem"],
+        "correctIndex": 0,
+        "explanation": "'ein altes Buch'."
+      },
+      {
+        "id": 9563,
+        "question": "Ich reise ___ Österreich.",
+        "english": "Travel to Austria.",
+        "options": ["nach", "in", "zu", "bei"],
+        "correctIndex": 0,
+        "explanation": "'nach Österreich'."
+      },
+      {
+        "id": 9564,
+        "question": "Heute ist der 5. Mai. – Wie spricht man '5.' aus?",
+        "english": "Say 5th in German:",
+        "options": ["fünfter", "fünfte", "fünftes", "fünft"],
+        "correctIndex": 0,
+        "explanation": "'fünfter'."
+      },
+      {
+        "id": 9565,
+        "question": "Das Gegenteil von 'stark' ist:",
+        "english": "Opposite of strong:",
+        "options": ["schwach", "dünn", "klein", "müde"],
+        "correctIndex": 0,
+        "explanation": "'schwach'."
+      },
+      {
+        "id": 9566,
+        "question": "Ich esse ___ Eis.",
+        "english": "Not eating ice cream.",
+        "options": ["kein", "keine", "nicht", "keinen"],
+        "correctIndex": 0,
+        "explanation": "'kein Eis'."
+      },
+      {
+        "id": 9567,
+        "question": "Du ___ mir helfen! (sollen)",
+        "english": "Should help me.",
+        "options": ["sollst", "soll", "sollen", "sollt"],
+        "correctIndex": 0,
+        "explanation": "'du sollst'."
+      },
+      {
+        "id": 9568,
+        "question": "Ich gebe ___ Mädchen das Buch.",
+        "english": "Give girl the book.",
+        "options": ["dem", "den", "der", "das"],
+        "correctIndex": 0,
+        "explanation": "'dem Mädchen'."
+      },
+      {
+        "id": 9569,
+        "question": "Wir ___ heute schnell gefahren.",
+        "english": "Drove fast today.",
+        "options": ["sind", "haben", "waren", "sein"],
+        "correctIndex": 0,
+        "explanation": "'sind gefahren'."
+      },
+      {
+        "id": 9570,
+        "question": "___ Haus ist neu. (Unser/Unsere/Unseren)",
+        "english": "Our house.",
+        "options": ["Unser", "Unsere", "Unseren", "Unsers"],
+        "correctIndex": 0,
+        "explanation": "'Unser Haus'."
+      },
+      {
+        "id": 9571,
+        "question": "___ morgen habe ich mehr Zeit.",
+        "english": "Starting tomorrow.",
+        "options": ["Ab", "Seit", "In", "Für"],
+        "correctIndex": 0,
+        "explanation": "'Ab'."
+      },
+      {
+        "id": 9572,
+        "question": "Ich mag ___ Fleisch ___ Fisch. (weder ... noch)",
+        "english": "Neither meat nor fish.",
+        "options": ["weder ... noch", "entweder ... oder", "sowohl ... als auch", "nicht ... sondern"],
+        "correctIndex": 0,
+        "explanation": "'weder ... noch'."
+      },
+      {
+        "id": 9573,
+        "question": "Ich ___ die Tür ___ (zumachen).",
+        "english": "Close door.",
+        "options": ["mache ... zu", "zumache", "mache zu", "zu ... mache"],
+        "correctIndex": 0,
+        "explanation": "'mache ... zu'."
+      },
+      {
+        "id": 9574,
+        "question": "___ heißt dieser Ort? (Name)",
+        "english": "What is name of place?",
+        "options": ["Wie", "Warum", "Wo", "Wann"],
+        "correctIndex": 0,
+        "explanation": "'Wie'."
+      },
+      {
+        "id": 9575,
+        "question": "___ liegt der Schlüssel? (Ort)",
+        "english": "Where lies key?",
+        "options": ["Wo", "Wohin", "Wie", "Wann"],
+        "correctIndex": 0,
+        "explanation": "'Wo'."
+      },
+      {
+        "id": 9576,
+        "question": "Du ___ das Wasser. (nehmen)",
+        "english": "Take water.",
+        "options": ["nimmst", "nehmt", "nehme", "nehmen"],
+        "correctIndex": 0,
+        "explanation": "'nimmst'."
+      },
+      {
+        "id": 9577,
+        "question": "Dieser Garten ist ___.",
+        "english": "Prettiest.",
+        "options": ["am schönsten", "schönste", "schöner", "schön"],
+        "correctIndex": 0,
+        "explanation": "'am schönsten'."
+      },
+      {
+        "id": 9578,
+        "question": "Ich diskutiere ___ das Problem.",
+        "english": "Discuss about problem.",
+        "options": ["über", "von", "für", "an"],
+        "correctIndex": 0,
+        "explanation": "'über'."
+      },
+      {
+        "id": 9579,
+        "question": "Er ___ heute schwimmen gehen. (wollen)",
+        "english": "Wants to go swimming.",
+        "options": ["will", "willst", "wollen", "wollt"],
+        "correctIndex": 0,
+        "explanation": "'will'."
+      },
+      {
+        "id": 9580,
+        "question": "Du siehst ___. (mich/mir/ich)",
+        "english": "See me.",
+        "options": ["mich", "mir", "ich", "mein"],
+        "correctIndex": 0,
+        "explanation": "'mich'."
+      },
+      {
+        "id": 9581,
+        "question": "Ich bringe ___ eine Tasse Tee. (dir/dich/du)",
+        "english": "Bring you tea.",
+        "options": ["dir", "dich", "du", "dein"],
+        "correctIndex": 0,
+        "explanation": "'dir'."
+      },
+      {
+        "id": 9582,
+        "question": "Ihr ___ Hunger. (haben)",
+        "english": "You all are hungry.",
+        "options": ["habt", "haben", "hast", "habe"],
+        "correctIndex": 0,
+        "explanation": "'habt'."
+      },
+      {
+        "id": 9583,
+        "question": "Der Weg ist ___ als die Straße. (kurz)",
+        "english": "Path shorter than road.",
+        "options": ["kürzer", "kürze", "am kürzesten", "kurzer"],
+        "correctIndex": 0,
+        "explanation": "'kürzer'."
+      },
+      {
+        "id": 9584,
+        "question": "Wir sitzen ___ Tisch.",
+        "english": "At the table.",
+        "options": ["am", "ans", "an das", "an dem"],
+        "correctIndex": 0,
+        "explanation": "'am'."
+      },
+      {
+        "id": 9585,
+        "question": "Ich ___ schnell gelaufen.",
+        "english": "Ran fast.",
+        "options": ["bin", "habe", "war", "werde"],
+        "correctIndex": 0,
+        "explanation": "'bin ... gelaufen'."
+      },
+      {
+        "id": 9586,
+        "question": "___ Frau spricht Deutsch.",
+        "english": "The woman.",
+        "options": ["Die", "Der", "Das", "Ein"],
+        "correctIndex": 0,
+        "explanation": "'Die'."
+      },
+      {
+        "id": 9587,
+        "question": "Wo ist ___ Hund? (euer/eure/euren)",
+        "english": "Your dog?",
+        "options": ["euer", "eure", "euren", "eures"],
+        "correctIndex": 0,
+        "explanation": "'euer'."
+      },
+      {
+        "id": 9588,
+        "question": "Er ___ das gut verstehen. (können)",
+        "english": "Can understand.",
+        "options": ["kann", "kannst", "können", "könnt"],
+        "correctIndex": 0,
+        "explanation": "'kann'."
+      },
+      {
+        "id": 9589,
+        "question": "Ich spare Geld, ___ ich mir ein Fahrrad kaufe.",
+        "english": "So that I buy bike.",
+        "options": ["damit", "weil", "dass", "wenn"],
+        "correctIndex": 0,
+        "explanation": "'damit'."
+      },
+      {
+        "id": 9590,
+        "question": "Wie heißt 500 auf Deutsch?",
+        "english": "500 in German:",
+        "options": ["fünfhundert", "fünf hundert", "fünfhunderte", "fünfhunder"],
+        "correctIndex": 0,
+        "explanation": "'fünfhundert'."
+      },
+      {
+        "id": 9591,
+        "question": "Wie heißt der Plural von 'der Mann'?",
+        "english": "Plural of man:",
+        "options": ["die Männer", "die Manne", "die Mannen", "der Männer"],
+        "correctIndex": 0,
+        "explanation": "'die Männer'."
+      },
+      {
+        "id": 9592,
+        "question": "Ich ___ ein Buch. (lesen)",
+        "english": "Read book.",
+        "options": ["lese", "liest", "lest", "lesen"],
+        "correctIndex": 0,
+        "explanation": "'lese'."
+      },
+      {
+        "id": 9593,
+        "question": "Ich bin ___ Berlin.",
+        "english": "From Berlin.",
+        "options": ["aus", "von", "nach", "zu"],
+        "correctIndex": 0,
+        "explanation": "'aus'."
+      },
+      {
+        "id": 9594,
+        "question": "Diese Übung ist ___ als die erste. (einfach)",
+        "english": "Easier than first.",
+        "options": ["einfacher", "einfachste", "einfach", "am einfachsten"],
+        "correctIndex": 0,
+        "explanation": "'einfacher'."
+      },
+      {
+        "id": 9595,
+        "question": "Das ist kein Wasser, ___ Apfelsaft.",
+        "english": "Not water, but juice.",
+        "options": ["sondern", "aber", "und", "oder"],
+        "correctIndex": 0,
+        "explanation": "'sondern'."
+      },
+      {
+        "id": 9596,
+        "question": "Er ___ nach Haus gehen. (müssen)",
+        "english": "Must go home.",
+        "options": ["muss", "musst", "müssen", "müsst"],
+        "correctIndex": 0,
+        "explanation": "'muss'."
+      },
+      {
+        "id": 9597,
+        "question": "Ich habe ___ Stuhl gekauft.",
+        "english": "Bought chair.",
+        "options": ["einen", "ein", "eine", "einem"],
+        "correctIndex": 0,
+        "explanation": "'einen'."
+      },
+      {
+        "id": 9598,
+        "question": "Ich bleibe ___ Montag.",
+        "english": "Until Monday.",
+        "options": ["bis", "ab", "seit", "für"],
+        "correctIndex": 0,
+        "explanation": "'bis'."
+      },
+      {
+        "id": 9599,
+        "question": "Wann ___ der Zug ___? (abfahren)",
+        "english": "Train depart?",
+        "options": ["fährt ... ab", "abfährt", "fährt ab", "ab ... fährt"],
+        "correctIndex": 0,
+        "explanation": "'fährt ... ab'."
+      },
+      {
+        "id": 1000,
+        "question": "Wir ___ nach Spanien gefahren. (🌟 Frage 1000: Meilenstein erreicht! 🌟)",
+        "english": "We traveled to Spain. (Question 1,000 Milestone!)",
+        "options": ["sind", "haben", "waren", "werden"],
+        "correctIndex": 0,
+        "explanation": "🌟 Gratulation zu Frage 1.000! 'Wir sind nach Spanien gefahren' ist die perfekte Krönung deines A1-Meisterwerks!"
+      }
+    ]
+  }
+]

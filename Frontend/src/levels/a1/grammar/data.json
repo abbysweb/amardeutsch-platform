@@ -1,0 +1,2154 @@
+[
+  {
+    "id": 1,
+    "title": "German Alphabet, Pronunciation, Numbers, and Time",
+    "description": "Why German matters, how many people speak it, career and study opportunities — then dive into the alphabet, pronunciation, numbers, and telling time.",
+    "content": "German is the most widely spoken native language in the EU, with ~130 million native speakers and a massive impact on science, engineering, and business. This unit starts with why you should learn German: job opportunities, tuition-free universities, scientific publishing, and cultural access. Then it moves into the German alphabet (26 letters + 4 special characters), pronunciation rules, numbers 1-99999, telling time in both formal (24h) and informal (12h) formats, and finishes with hundreds of English-German cognates to quickly build your vocabulary.",
+    "subtopics": [
+      "Why learn German — importance and reach",
+      "German in the job market and key industries",
+      "Study opportunities in Germany (tuition-free universities)",
+      "German as a language of science and research",
+      "Similarities between German and English (cognates)",
+      "German alphabet and letter names",
+      "Short vs long vowels",
+      "Umlauts: ä, ö, ü",
+      "The Eszett (ß)",
+      "Tricky consonants: W, V, Z, J",
+      "Word stress and emphasis",
+      "Numbers 1-12 pronunciation",
+      "Counting aloud practice",
+      "The backwards rule: 21-99 (ones + und + tens)",
+      "Numbers 21-30 step by step",
+      "Numbers 31-50 practice table",
+      "Hundreds: 100 to 10000",
+      "Reading large numbers (e.g. 8.569)",
+      "Telling time — formal (24h) and informal (12h)",
+      "Interactive clock practice",
+      "Greetings — formal vs informal",
+      "German hellos and goodbyes",
+      "How to ask and answer 'How are you?'",
+      "Introductions — name, origin, residence",
+      "The du vs Sie rule",
+      "English-German cognates — similar words",
+      "Common spelling patterns: th→d, f→v, sh→sch, ou→au",
+      "International words (Latin/Greek origin)",
+      "False friends: words that look similar but differ",
+      "500+ cognates by category"
+    ],
+    "category": "Pronunciation",
+    "level": "A1",
+    "examples": [
+      {
+        "german": "A, B, C, D, E, F, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y, Z",
+        "english": "The 26 letters of the German alphabet"
+      },
+      {
+        "german": "Ä, Ö, Ü, ß",
+        "english": "Special German characters: A-umlaut, O-umlaut, U-umlaut, Eszett"
+      },
+      {
+        "german": "eins, zwei, drei, vier, fünf, sechs, sieben, acht, neun, zehn, elf, zwölf",
+        "english": "Numbers 1-12 in German"
+      },
+      {
+        "german": "einundzwanzig (21) = ein + und + zwanzig",
+        "english": "The backwards rule: ones + und + tens"
+      },
+      {
+        "german": "achttausendfünfhundertneunundsechzig (8.569)",
+        "english": "Reading large numbers left to right"
+      },
+      {
+        "german": "Schön (beautiful), Straße (street), Über (over)",
+        "english": "Words using special German characters"
+      },
+      {
+        "german": "Fünf, sechs, sieben, acht — zähl mit mir!",
+        "english": "Five, six, seven, eight — count with me!"
+      },
+      {
+        "german": "Es ist vierzehn Uhr dreißig.",
+        "english": "Formal time: It is 14:30 (2:30 PM)."
+      },
+      {
+        "german": "Es ist halb zehn.",
+        "english": "Informal time: It is 9:30 (half way to ten)."
+      },
+      {
+        "german": "Es ist Viertel nach sieben.",
+        "english": "Informal: quarter past seven (7:15)."
+      },
+      {
+        "german": "Es ist fünf vor zwölf.",
+        "english": "Informal: five to twelve (11:55)."
+      },
+      {
+        "german": "Hallo! Guten Morgen!",
+        "english": "Hello! Good morning!"
+      },
+      {
+        "german": "Auf Wiedersehen! Bis bald!",
+        "english": "Goodbye! See you soon!"
+      },
+      {
+        "german": "Wie geht es Ihnen?",
+        "english": "How are you? (formal)"
+      },
+      {
+        "german": "Mir geht es gut, danke. Und dir?",
+        "english": "I am doing well, thanks. And you? (informal)"
+      },
+      {
+        "german": "Ich heiße Anna. Freut mich!",
+        "english": "My name is Anna. Nice to meet you!"
+      },
+      {
+        "german": "Woher kommst du? Ich komme aus Berlin.",
+        "english": "Where are you from? I am from Berlin."
+      },
+      {
+        "german": "Haus = house, Wasser = water, Fisch = fish",
+        "english": "English-German cognates — words with the same origin"
+      },
+      {
+        "german": "Vater = father, Mutter = mother, Bruder = brother",
+        "english": "Family cognates: f→v, similar roots"
+      },
+      {
+        "german": "drei = three, Donner = thunder",
+        "english": "th→d pattern"
+      },
+      {
+        "german": "Gift means poison, not a present!",
+        "english": "False friend: Gift ≠ gift"
+      },
+      {
+        "german": "Handy means mobile phone, not handy",
+        "english": "False friend: Handy ≠ handy"
+      }
+    ],
+    "conjugationTable": [
+      "Why Learn German?:",
+      "130M native speakers | 6 official countries | 3rd largest economy",
+      "400+ universities | Tuition-free study | World-leading engineering",
+      "2nd most common in science | Germanic root = 60% shared vocabulary",
+      "",
+      "German Alphabet:",
+      "Automotive | Engineering | IT | Renewable energy | Pharma | Finance",
+      "",
+      "A = ah | B = beh | C = tseh | D = deh",
+      "E = eh | F = eff | G = geh | H = hah",
+      "I = ee | J = yot | K = kah | L = ell",
+      "M = emm | N = enn | O = oh | P = peh",
+      "Q = koo | R = err | S = ess | T = teh",
+      "U = oo | V = fow | W = veh | X = iks",
+      "Y = üpsilon | Z = tsett",
+      "Ä = ae | Ö = oe | Ü = ue | ß = ss",
+      "",
+      "Numbers 1-12:",
+      "eins (1) | zwei (2) | drei (3) | vier (4)",
+      "fünf (5) | sechs (6) | sieben (7) | acht (8)",
+      "neun (9) | zehn (10) | elf (11) | zwölf (12)",
+      "",
+      "Backwards Rule (21-99):",
+      "einundzwanzig (21) | zweiunddreißig (32) | dreiundvierzig (43)",
+      "vierundfünfzig (54) | fünfundsechzig (65) | sechsundsiebzig (76)",
+      "siebenundachtzig (87) | achtundneunzig (98) | neunundneunzig (99)",
+      "",
+      "Hundreds & Thousands:",
+      "100 = (ein)hundert | 200 = zweihundert | 1.000 = (ein)tausend",
+      "8.569 = achttausendfünfhundertneunundsechzig",
+      "",
+      "Telling Time — Formal (24h):",
+      "8:00 = Es ist acht Uhr.",
+      "14:30 = Es ist vierzehn Uhr dreißig.",
+      "16:45 = Es ist sechzehn Uhr fünfundvierzig.",
+      "",
+      "Telling Time — Informal (12h):",
+      "9:15 = Es ist Viertel nach neun.",
+      "9:30 = Es ist halb zehn. (half way TO ten!)",
+      "9:45 = Es ist Viertel vor zehn.",
+      "11:55 = Es ist fünf vor zwölf.",
+      "8:05 = Es ist fünf nach acht.",
+      "",
+      "Greetings — Begrüßungen:",
+      "Hallo (hello) | Guten Morgen (good morning) | Guten Tag (good day) | Guten Abend (good evening)",
+      "Tschüss (bye) | Auf Wiedersehen (goodbye) | Bis später (see you later) | Bis bald (see you soon)",
+      "",
+      "How Are You — Asking & Answering:",
+      "Wie geht es Ihnen? (formal) | Mir geht es gut, danke.",
+      "Wie geht's? / Wie geht es dir? (informal) | Gut, und dir?",
+      "Alles klar? (very informal) | Ja, alles klar!",
+      "",
+      "Introductions:",
+      "Ich heiße ... (I am called) | Mein Name ist ... (my name is) | Ich bin ... (I am)",
+      "Freut mich! (nice to meet you) | Woher kommst du? (informal) | Woher kommen Sie? (formal)",
+      "Ich komme aus ... (I am from ...) | Ich wohne in ... (I live in ...)"
+    ],
+    "errorTraps": [
+      "German 'W' is pronounced like English 'V' (Wasser = Vasser)",
+      "German 'V' is pronounced like English 'F' (Vater = Fahter)",
+      "German 'Z' is pronounced 'ts' (Zeit = Tsait)",
+      "Don't ignore umlauts! 'schon' (already) vs 'schön' (beautiful) are different words",
+      "'Sechs' (6) starts with a 'z' sound, not an 's' sound",
+      "'Zwölf' (12) uses the ö umlaut — round your lips and say 'eh'",
+      "21-99: ones come BEFORE tens! 21 = einUNDzwanzig, not zwanzigeins",
+      "'Eins' drops its 's' in compound numbers: einundzwanzig, not einsundzwanzig",
+      "30 is dreißig (with ß), not dreizig",
+      "'Halb zehn' = 9:30, NOT 10:30! It means 'half way TO ten'",
+      "Informal time uses 12h, formal uses 24h — don't mix them",
+      "For minutes 1-9 in formal time: 'Es ist acht Uhr fünf', NOT 'null fünf'",
+      "'Viertel' and 'halb' are nouns — capitalize them in writing",
+      "Don't use informal 'du' with strangers or authority figures — use formal 'Sie'",
+      "'Gute Nacht' is only for bedtime, not as a general 'good evening'",
+      "'Guten Tag' is formal daytime — use 'Hallo' for informal any time",
+      "'Wie geht's?' is informal — never use it with your boss or a professor",
+      "'Servus' can mean both hello AND goodbye — pay attention to context",
+      "'Auf Wiedersehen' is quite formal — use 'Tschüss' in everyday situations"
+    ],
+    "testable": false
+  },
+  {
+    "id": 2,
+    "title": "German Sounds: Diphthongs, Consonants, and Pronunciation",
+    "description": "Master all German sounds: vowel pairs (diphthongs), consonant combinations, the German R, the glottal stop, and a complete reference table for every letter sound.",
+    "content": "German has a small, fixed set of diphthongs and consonant combinations that are pronounced the exact same way every single time. Unlike English, there are no surprises. This unit covers every sound pattern you need to read any German word correctly, including vowel lengths, consonant clusters, the German R, and the glottal stop.",
+    "subtopics": [
+      "The four diphthongs: ei/ai, ie, au, eu/äu",
+      "ei vs ie — the classic beginner trap",
+      "Consonant combinations: sch, sp, st, ch",
+      "More combinations: qu, ng, nk, pf, tsch, ck, tz, dt, th, ph, chs",
+      "The German R — start, middle, and end of words",
+      "The glottal stop — separating vowel-starting words",
+      "Complete vowel sound reference table (short vs long)",
+      "Special endings: -ig, -tion"
+    ],
+    "category": "Pronunciation",
+    "level": "A1",
+    "examples": [
+      {
+        "german": "Ei (egg), Eis (ice cream), mein (my)",
+        "english": "EI sounds like 'eye' in English"
+      },
+      {
+        "german": "die (the), Liebe (love), Bier (beer)",
+        "english": "IE sounds like 'ee' in English"
+      },
+      {
+        "german": "Haus (house), Frau (woman), blau (blue)",
+        "english": "AU sounds like 'ow' in English"
+      },
+      {
+        "german": "Deutsch (German), heute (today), Freund (friend)",
+        "english": "EU sounds like 'oy' in English"
+      },
+      {
+        "german": "Quelle (source), Quadrat (square)",
+        "english": "QU = 'kv' sound — pronounce both letters"
+      },
+      {
+        "german": "der (the), immer (always), Vater (father)",
+        "english": "R at the end of words sounds like 'uh'"
+      },
+      {
+        "german": "Am Anfang (at the start), ein Ei (an egg)",
+        "english": "Glottal stop: each vowel-starting word gets a tiny pause"
+      },
+      {
+        "german": "wenig (little), dreißig (thirty)",
+        "english": "-ig at the end of a word sounds like '-ich', not '-ig'"
+      },
+      {
+        "german": "Nation, Information, Kommunikation",
+        "english": "Words ending in -ion: stress falls on the last syllable"
+      }
+    ],
+    "conjugationTable": [
+      "EI/AI = /aɪ/ (eye) → mein, Mai, Arbeit",
+      "IE = /iː/ (ee) → die, sie, Liebe, Bier",
+      "AU = /aʊ/ (ow) → Haus, Frau, Baum, blau",
+      "EU/ÄU = /ɔʏ/ (oy) → heute, Freund, Häuser",
+      "",
+      "SCH = /ʃ/ (sh) → Schule, Tisch, Mensch",
+      "SP (start) = /ʃp/ (shp) → Sport, sprechen",
+      "ST (start) = /ʃt/ (sht) → Straße, Student",
+      "CH (soft) = /ç/ → ich, Milch, Bücher",
+      "CH (hard) = /x/ → Nacht, Buch, machen",
+      "",
+      "QU = /kv/ → Quelle, Quadrat",
+      "NG = /ŋ/ → singen, Zeitung",
+      "PF = /pf/ → Pferd, Apfel, Kopf",
+      "TSCH = /tʃ/ → Deutsch, tschüss",
+      "CK = /k/ → backen, Ecke",
+      "TZ = /ts/ → Katze, Platz",
+      "",
+      "-ig (ending) = /ɪç/ (ikh) → wenig, richtig, dreißig",
+      "-tion = /tsjoːn/ → Nation, Information"
+    ],
+    "errorTraps": [
+      "EI and IE are NOT the same! EI = /ai/ (mein) vs IE = /iː/ (die)",
+      "SP and ST only sound like 'shp'/'sht' at the BEGINNING of a word",
+      "CH has two sounds: soft after e/i (ich) and hard after a/o/u (Buch)",
+      "QU is always 'kv', never just 'kw' — pronounce the 'k' clearly",
+      "R at the end of a word becomes 'uh' — der = 'deh-uh', not 'derr'",
+      "IG at the end of a word sounds like ICH — 'richt-ich', not 'richt-ig'",
+      "German words starting with vowels need a glottal stop — don't run them together"
+    ],
+    "testable": false
+  },
+  {
+    "id": 3,
+    "title": "German Nouns, Gender, and Articles",
+    "description": "A complete introduction to German nouns and their articles: three genders, 200 high-frequency nouns organized by category, definite/indefinite/negative articles, capitalization rules, compound nouns, and memory techniques.",
+    "content": "Every German noun has a grammatical gender: masculine (der), feminine (die), or neuter (das). Gender determines which article to use. This unit covers 200 essential real-world nouns organized by gender and category, plus definite (der/die/das), indefinite (ein/eine), and negative (kein/keine) articles, rules for capitalization and compound nouns, and effective memorization strategies.",
+    "subtopics": [
+      "Grammatical gender — der / die / das meanings",
+      "The golden rule: learn nouns with their articles",
+      "200 high-frequency nouns by gender (71 der, 70 die, 61 das)",
+      "Same word, different gender = different meaning trap",
+      "Noun capitalization rule",
+      "Compound nouns — the last word determines gender",
+      "Memory techniques (colour coding, physical locations, bedtime review)",
+      "Definite articles — der, die, das",
+      "Indefinite articles — ein, eine",
+      "Negative article — kein, keine",
+      "Practice with nouns and articles in real sentences"
+    ],
+    "category": "Nouns",
+    "level": "A1",
+    "examples": [
+      {
+        "german": "der Mann, der Vater, der Sohn, der Bruder",
+        "english": "Masculine family members always use 'der'"
+      },
+      {
+        "german": "der Montag, der Januar, der Sommer, der Morgen",
+        "english": "Days, months, seasons, and times of day are masculine"
+      },
+      {
+        "german": "der Lehrer, der Fahrer, der Verkäufer",
+        "english": "Occupations ending in -er are masculine"
+      },
+      {
+        "german": "die Frau, die Mutter, die Tochter, die Schwester",
+        "english": "Feminine family members always use 'die'"
+      },
+      {
+        "german": "die Lampe, die Schule, die Brücke, die Katze",
+        "english": "~90% of nouns ending in -e are feminine"
+      },
+      {
+        "german": "die Zeitung, die Wohnung, die Bedeutung",
+        "english": "Words ending in -ung are ALWAYS feminine"
+      },
+      {
+        "german": "das Mädchen, das Häuschen, das Kätzchen",
+        "english": "ALL diminutives ending in -chen/-lein are neuter"
+      },
+      {
+        "german": "das Essen, das Lernen, das Schreiben",
+        "english": "Any verb turned into a noun is neuter"
+      },
+      {
+        "german": "der See (lake) vs die See (sea)",
+        "english": "Same word, different gender = completely different meaning"
+      },
+      {
+        "german": "das Haus + die Tür = die Haustür",
+        "english": "Compound noun: last word determines the gender"
+      },
+      {
+        "german": "der Löffel (spoon) | die Gabel (fork) | das Messer (knife)",
+        "english": "Three different genders for three related objects"
+      },
+      {
+        "german": "Der Mann kauft ein Buch.",
+        "english": "The man buys a book. (der = definite, ein = indefinite)"
+      },
+      {
+        "german": "Ich habe kein Auto.",
+        "english": "I don't have a car. (kein = negative article)"
+      }
+    ],
+    "conjugationTable": [],
+    "errorTraps": [
+      "NEVER learn a noun without its article! Learn 'der Tisch', not just 'Tisch'",
+      "Gender is grammatical, not logical — 'das Mädchen' (the girl) is neuter because of -chen suffix!",
+      "All nouns are capitalized in German: 'der Hund', not 'der hund'",
+      "Same word + different article = different meaning: der See (lake) ≠ die See (sea)",
+      "Compound noun gender comes from the LAST word: die Haustür (die Tür), not das Haus",
+      "Not all -e words are feminine — but ~90% are. Exceptions: der Junge, der Käse, das Ende",
+      "Plural ALWAYS takes 'die' — but the noun ending also changes! (der Mann → die Männer)",
+      "Use kein for nouns (kein Hund), nicht for verbs/adjectives (nicht braun)",
+      "Don't confuse 'das' (article) with 'das' (that/this, used for pointing)"
+    ],
+    "testable": true
+  },
+  {
+    "id": 4,
+    "title": "Pronouns in German",
+    "description": "For dummies: German personal, possessive, and demonstrative pronouns explained simply with pronunciation, examples, practice exercises, and cultural tips.",
+    "content": "Pronouns replace nouns so you don't repeat yourself. In German, you must match pronouns to the noun's gender (der = masculine, die = feminine, das = neuter). Unlike English where everything is 'it', German uses 'er' for der-words, 'sie' for die-words, and 'es' for das-words. This unit also covers the three ways to say 'you' (du for one friend, ihr for a group, Sie for strangers/bosses), possessive pronouns (mein, dein, sein, ihr, unser, euer) that change endings like 'ein/eine', and demonstratives (dieser, diese, dieses) pointing to specific things. Includes cheat sheets, flowcharts, dialogues, and practice exercises with answers.",
+    "subtopics": [
+      "What is a pronoun? Why German is different from English",
+      "9 personal pronouns with pronunciation tips and memory tricks",
+      "The BIG SHOCK: using 'er' and 'sie' for objects (grammatical gender)",
+      "20+ examples: replacing nouns with the right pronoun",
+      "The three ways to say 'you': du, ihr, Sie (with cultural rules)",
+      "Sie vs sie capitalization rule (changes the meaning!)",
+      "Possessive pronouns: mein, dein, sein, ihr, unser, euer",
+      "Possessive endings pattern (like ein/eine)",
+      "Demonstrative pronouns: dieser, diese, dieses",
+      "5 real-life dialogues (neighbor, friends, restaurant, work, shopping)",
+      "Pronoun flowchart: how to choose the right pronoun every time",
+      "Cheat sheet for printing",
+      "8 common mistakes with corrections",
+      "Practice exercises with answers (fill-in, replace, translate, choose)"
+    ],
+    "category": "Pronouns",
+    "level": "A1",
+    "examples": [
+      {
+        "german": "Wo ist der Tisch? Er ist in der Küche.",
+        "english": "Where is the table? It (he) is in the kitchen. (der Tisch = masculine)"
+      },
+      {
+        "german": "Wo ist die Lampe? Sie ist neu.",
+        "english": "Where is the lamp? It (she) is new. (die Lampe = feminine)"
+      },
+      {
+        "german": "Wo ist das Buch? Es ist auf dem Tisch.",
+        "english": "Where is the book? It is on the table. (das Buch = neuter)"
+      },
+      {
+        "german": "Das ist mein Vater. Er ist groß.",
+        "english": "That is my father. He is tall. (der Vater = masculine)"
+      },
+      {
+        "german": "Das ist die Zeitung. Sie ist alt.",
+        "english": "That is the newspaper. It (she) is old. (die Zeitung = feminine)"
+      },
+      {
+        "german": "Das Mädchen schläft. Es ist müde.",
+        "english": "The girl is sleeping. It is tired. (das Mädchen = neuter!)"
+      },
+      {
+        "german": "Entschuldigung, haben Sie Feuer?",
+        "english": "Excuse me, do you (formal) have a light?"
+      },
+      {
+        "german": "Kommt ihr heute zur Party?",
+        "english": "Are you guys coming to the party today?"
+      },
+      {
+        "german": "Mein Name ist Anna. Was ist Ihr Name?",
+        "english": "My name is Anna. What is your (formal) name?"
+      },
+      {
+        "german": "Ist das dein Buch? Ja, es ist mein Buch.",
+        "english": "Is that your book? Yes, it is my book."
+      },
+      {
+        "german": "Sein Auto ist blau. Seine Mutter ist Lehrerin.",
+        "english": "His car is blue. His mother is a teacher."
+      },
+      {
+        "german": "Unser Haus hat einen Garten. Unsere Stadt ist alt.",
+        "english": "Our house has a garden. Our city is old."
+      },
+      {
+        "german": "Dieser Kaffee ist kalt. Diese Suppe schmeckt gut.",
+        "english": "This coffee is cold. This soup tastes good."
+      },
+      {
+        "german": "Dieses Hotel ist teuer. Diese Schuhe sind klein.",
+        "english": "This hotel is expensive. These shoes are small."
+      },
+      {
+        "german": "Der Kaffee ist heiß. Er schmeckt gut.",
+        "english": "The coffee is hot. It (he) tastes good."
+      },
+      {
+        "german": "Die Milch ist kalt. Sie ist frisch.",
+        "english": "The milk is cold. It (she) is fresh."
+      },
+      {
+        "german": "Das Wasser ist sauber. Es ist trinkbar.",
+        "english": "The water is clean. It is drinkable."
+      },
+      {
+        "german": "Der Zug kommt. Er hat Verspätung.",
+        "english": "The train is coming. It (he) is delayed."
+      },
+      {
+        "german": "Die Schule ist groß. Sie ist neu.",
+        "english": "The school is big. It (she) is new."
+      },
+      {
+        "german": "Das Hotel ist teuer. Es hat fünf Sterne.",
+        "english": "The hotel is expensive. It has five stars."
+      }
+    ],
+    "conjugationTable": [
+      "Personal Pronouns (Nominative):",
+      "  ich (I) | du (you, inf. sg.) | er (he/it) | sie (she/it) | es (it)",
+      "  wir (we) | ihr (you all, inf. pl.) | sie (they) | Sie (you formal)",
+      "",
+      "Pronunciation Guide:",
+      "  ich -> 'ish' | du -> 'doo' | er -> 'air' | sie -> 'zee'",
+      "  es -> 'ess' | wir -> 'veer' | ihr -> 'eer' | Sie -> 'zee'",
+      "",
+      "Memory song: ich, du, er, sie, es -- wir, ihr, sie, Sie",
+      "",
+      "Possessive Pronouns (masc/neut form | fem/pl form):",
+      "  mein/meine (my) | dein/deine (your inf.)",
+      "  sein/seine (his/its) | ihr/ihre (her)",
+      "  unser/unsere (our) | euer/eure (your all)",
+      "  ihr/ihre (their) | Ihr/Ihre (your formal)",
+      "",
+      "Rule: endings work like 'ein/eine'",
+      "  ein Vater -> mein Vater (masc, no ending)",
+      "  eine Mutter -> meine Mutter (fem, +e)",
+      "  ein Kind -> mein Kind (neut, no ending)",
+      "",
+      "Demonstrative Pronouns (this/these):",
+      "  dieser (masc) = replaces der",
+      "  diese (fem) = replaces die",
+      "  dieses (neut) = replaces das",
+      "  diese (pl) = replaces die (pl)",
+      "",
+      "Article Replacer Rule:",
+      "  der -> er: Der Tisch -> Er ist neu.",
+      "  die -> sie: Die Lampe -> Sie ist neu.",
+      "  das -> es: Das Buch -> Es ist neu.",
+      "  die (pl) -> sie: Die Bücher -> Sie sind neu."
+    ],
+    "errorTraps": [
+      "Using 'es' for everything like English: der Tisch needs 'er', not 'es'",
+      "Confusing 'sie' (she/they) with 'Sie' (formal you) — capital letter changes everything!",
+      "Using biological gender: das Mädchen needs 'es', not 'sie' (word ends in -chen = neuter)",
+      "Forgetting possessive endings: meine Mutter (not mein Mutter — feminine needs +e)",
+      "Using 'du' with strangers — always start with formal 'Sie' until offered 'du'",
+      "Writing 'ich' lowercase at the start of a sentence (must capitalize first word)",
+      "Saying 'der dieser Tisch' — demonstratives REPLACE articles, don't add to them",
+      "Confusing the three meanings of 'ihr': her / their / you all",
+      "Forgetting that 'sie' (she) and 'sie' (they) look identical — verb ending tells them apart",
+      "'euer' drops the middle 'e' when adding endings: euer -> eure Freundin (not euer-e)"
+    ],
+    "testable": true
+  },
+  {
+    "id": 5,
+    "title": "Verb \"Sein\" in German",
+    "description": "The German verb \"sein\" (to be) is the most important verb to build simple sentences.",
+    "content": "\"Sein\" (to be) is the most fundamental German verb. It is highly irregular and must be memorized. It is used to describe identity, states, professions, and characteristics. Combined with negation using 'nicht', you can form negative sentences.",
+    "subtopics": [
+      "Conjugation of verb \"sein\"",
+      "Negation with \"nicht\"",
+      "Difference between \"kein\" and \"nicht\"",
+      "Position of \"nicht\" in German sentences"
+    ],
+    "category": "Verbs",
+    "level": "A1",
+    "examples": [
+      {
+        "german": "Ich bin Student.",
+        "english": "I am a student."
+      },
+      {
+        "german": "Du bist nett.",
+        "english": "You are nice."
+      },
+      {
+        "german": "Er ist nicht groß.",
+        "english": "He is not tall."
+      },
+      {
+        "german": "Wir sind aus Deutschland.",
+        "english": "We are from Germany."
+      },
+      {
+        "german": "Das ist nicht mein Buch.",
+        "english": "That is not my book. (nicht before possessive)"
+      },
+      {
+        "german": "Ich habe kein Geld.",
+        "english": "I have no money. (kein before noun)"
+      }
+    ],
+    "conjugationTable": [
+      "Conjugation of 'sein' (to be):",
+      "  ich bin       — I am",
+      "  du bist      — you are (informal)",
+      "  er/sie/es ist — he/she/it is",
+      "  wir sind     — we are",
+      "  ihr seid     — you all are",
+      "  sie/Sie sind — they/you formal are",
+      "",
+      "Negation Rules:",
+      "  KEIN → used before nouns (replaces ein/eine)",
+      "  NICHT → used before verbs, adjectives, definite articles, possessives"
+    ],
+    "errorTraps": [
+      "Mix 'bin/bist/ist/sind/seid' up and you fail. Memorize them!",
+      "Use KEIN for nouns with ein/eine: 'Ich habe kein Auto'",
+      "Use NICHT for everything else: 'Ich bin nicht müde'",
+      "'nicht' usually goes at the END of a sentence or before the word it negates"
+    ],
+    "testable": true
+  },
+  {
+    "id": 6,
+    "title": "Verb \"Sein\" in the Past Tense",
+    "description": "Learn how to use the verb 'sein' in the past tense (Präteritum) and form questions with it.",
+    "content": "The past tense (Präteritum) of 'sein' is used very frequently in spoken and written German — unlike most other verbs which prefer Perfekt in spoken German. The past tense forms of 'sein' are: war, warst, war, waren, wart, waren.",
+    "subtopics": [
+      "Sein conjugation in past tense",
+      "Forming questions with the verb sein"
+    ],
+    "category": "Verbs",
+    "level": "A1",
+    "examples": [
+      {
+        "german": "Ich war gestern in Berlin.",
+        "english": "I was in Berlin yesterday."
+      },
+      {
+        "german": "Warst du schon in Deutschland?",
+        "english": "Have you been to Germany before?"
+      },
+      {
+        "german": "Wir waren müde.",
+        "english": "We were tired."
+      },
+      {
+        "german": "Wo war er gestern?",
+        "english": "Where was he yesterday?"
+      },
+      {
+        "german": "War das Essen gut?",
+        "english": "Was the food good?"
+      }
+    ],
+    "conjugationTable": [
+      "Past Tense (Präteritum) of 'sein':",
+      "  ich war        — I was",
+      "  du warst       — you were (informal)",
+      "  er/sie/es war  — he/she/it was",
+      "  wir waren      — we were",
+      "  ihr wart       — you all were",
+      "  sie/Sie waren  — they/you formal were",
+      "",
+      "Questions with sein (past):",
+      "  Yes/No: War + Subject + ...? → War er krank?",
+      "  W-Question: W-Wort + war + Subject + ...? → Wo warst du?"
+    ],
+    "errorTraps": [
+      "'war' (was) vs 'waren' (were) — don't confuse singular and plural",
+      "For questions, the verb 'war/warst/waren' comes FIRST (yes/no) or SECOND (W-questions)"
+    ],
+    "testable": true
+  },
+  {
+    "id": 7,
+    "title": "Verb \"Haben\" in German",
+    "description": "German counterpart of the English verb \"to have\": definition, conjugation, examples, questions, and adjective endings.",
+    "content": "\"Haben\" (to have) is the second most important German verb. It is used to express possession, and it also serves as a helper verb in the Perfekt tense. Like 'sein', it is irregular and must be memorized. This unit also introduces adjective endings after indefinite articles in the nominative case.",
+    "subtopics": [
+      "Haben definition",
+      "Haben conjugation",
+      "Examples of haben",
+      "Forming questions with haben",
+      "A recall of the nominative case",
+      "Adjective endings after indefinite articles in the nominative case"
+    ],
+    "category": "Verbs",
+    "level": "A1",
+    "examples": [
+      {
+        "german": "Ich habe ein Auto.",
+        "english": "I have a car."
+      },
+      {
+        "german": "Hast du Geschwister?",
+        "english": "Do you have siblings?"
+      },
+      {
+        "german": "Er hat einen großen Hund.",
+        "english": "He has a big dog."
+      },
+      {
+        "german": "Wir haben keine Zeit.",
+        "english": "We have no time."
+      },
+      {
+        "german": "Ein großer Mann. Eine kleine Katze.",
+        "english": "A tall man. A small cat. (adj. endings after ein/eine)"
+      }
+    ],
+    "conjugationTable": [
+      "Conjugation of 'haben' (to have):",
+      "  ich habe       — I have",
+      "  du hast        — you have (informal)",
+      "  er/sie/es hat  — he/she/it has",
+      "  wir haben      — we have",
+      "  ihr habt       — you all have",
+      "  sie/Sie haben  — they/you formal have",
+      "",
+      "Adjective Endings after Indefinite Articles (Nominative):",
+      "  Masculine: ein großER Mann",
+      "  Feminine: eine großE Frau",
+      "  Neuter: ein großES Kind",
+      "  Plural: — großE Kinder (no article)"
+    ],
+    "errorTraps": [
+      "du haST (not du habst), er/sie/es haT (not habet)",
+      "Don't confuse 'haben' with 'sein' — 'Ich habe Hunger' (I have hunger = I am hungry)",
+      "Adjective endings after 'ein' are different from after 'der'!"
+    ],
+    "testable": true
+  },
+  {
+    "id": 8,
+    "title": "German Present Tense",
+    "description": "Introduction to German regular and irregular verbs, their conjugation rules, and use in sentences.",
+    "content": "The present tense (Präsens) is the most commonly used tense in German. Regular verbs follow a predictable pattern by removing the -en ending and adding personal endings. Irregular verbs change their stem vowel in the du and er/sie/es forms. Some regular verbs also have small exceptions in their conjugation.",
+    "subtopics": [
+      "Simple present tense in German",
+      "German present tense conjugation",
+      "German regular verb conjugation",
+      "Exceptions in the conjugation of regular verbs",
+      "German irregular verbs conjugation"
+    ],
+    "category": "Verbs",
+    "level": "A1",
+    "examples": [
+      {
+        "german": "Ich lerne Deutsch.",
+        "english": "I learn German. (regular: lernen)"
+      },
+      {
+        "german": "Du arbeitest viel.",
+        "english": "You work a lot. (exception: -eitest)"
+      },
+      {
+        "german": "Er fährt nach Berlin.",
+        "english": "He drives to Berlin. (irregular: a→ä)"
+      },
+      {
+        "german": "Sie liest ein Buch.",
+        "english": "She reads a book. (irregular: e→ie)"
+      },
+      {
+        "german": "Wir spielen Fußball.",
+        "english": "We play football. (regular)"
+      }
+    ],
+    "conjugationTable": [
+      "Regular Verb Endings (e.g., lernen):",
+      "  ich lern-E | du lern-ST | er/sie/es lern-T",
+      "  wir lern-EN | ihr lern-T | sie/Sie lern-EN",
+      "",
+      "Stem-changing: a→ä (fahren):",
+      "  ich fahre | du fährST | er/sie/es fährT",
+      "  wir fahren | ihr fahrt | sie/Sie fahren",
+      "",
+      "Stem-changing: e→i (sprechen):",
+      "  ich spreche | du sprichST | er/sie/es sprichT",
+      "",
+      "Stem-changing: e→ie (lesen):",
+      "  ich lese | du lieST | er/sie/es lieST",
+      "",
+      "Exception: verbs ending in -d/-t (arbeiten):",
+      "  du arbeitEST | er/sie/es arbeitET | ihr arbeitET"
+    ],
+    "errorTraps": [
+      "Stem changes ONLY happen in du and er/sie/es forms!",
+      "The wir and sie/Sie forms NEVER change stem: 'wir fahren' (NOT 'wir fähren')",
+      "Verbs ending in -d/-t add extra 'e' before endings: du arbeitest, er arbeitet"
+    ],
+    "testable": true
+  },
+  {
+    "id": 9,
+    "title": "German Modal Verbs",
+    "description": "Introduction to German modal verbs, their conjugation in present tense, and use in sentences.",
+    "content": "Modal verbs express ability, permission, desire, obligation, or necessity. German has six modal verbs: können (can), müssen (must), wollen (want), dürfen (may), sollen (should), and mögen (like). When used with another verb, the modal verb is conjugated and the main verb goes to the END of the sentence in infinitive form.",
+    "subtopics": [
+      "What is a modal verb?",
+      "Sentence structure with modal verbs",
+      "German modal verbs conjugation",
+      "Conjugation of modal verbs in present tense",
+      "Questions with modal verbs in German",
+      "Questions without interrogative pronouns",
+      "Questions with interrogative pronouns"
+    ],
+    "category": "Verbs",
+    "level": "A1",
+    "examples": [
+      {
+        "german": "Ich kann Deutsch sprechen.",
+        "english": "I can speak German."
+      },
+      {
+        "german": "Du musst morgen arbeiten.",
+        "english": "You must work tomorrow."
+      },
+      {
+        "german": "Er will ein Auto kaufen.",
+        "english": "He wants to buy a car."
+      },
+      {
+        "german": "Darf ich hier sitzen?",
+        "english": "May I sit here?"
+      },
+      {
+        "german": "Kannst du mir helfen?",
+        "english": "Can you help me?"
+      },
+      {
+        "german": "Was willst du essen?",
+        "english": "What do you want to eat?"
+      }
+    ],
+    "conjugationTable": [
+      "können (can): ich kann, du kannst, er kann, wir können, ihr könnt, sie können",
+      "müssen (must): ich muss, du musst, er muss, wir müssen, ihr müsst, sie müssen",
+      "wollen (want): ich will, du willst, er will, wir wollen, ihr wollt, sie wollen",
+      "dürfen (may): ich darf, du darfst, er darf, wir dürfen, ihr dürft, sie dürfen",
+      "sollen (should): ich soll, du sollst, er soll, wir sollen, ihr sollt, sie sollen",
+      "mögen (like): ich mag, du magst, er mag, wir mögen, ihr mögt, sie mögen",
+      "",
+      "Sentence Structure:",
+      "  Subject + Modal Verb + ... + Main Verb (infinitive at END)",
+      "  Ich kann heute nicht kommen."
+    ],
+    "errorTraps": [
+      "DO NOT forget the main verb at the END: 'Ich kann Deutsch sprechen' (NOT 'Ich kann sprechen Deutsch')",
+      "Modal verbs are irregular — singular forms change stem vowel",
+      "In yes/no questions: Modal + Subject + ... + Infinitive? → Kannst du schwimmen?"
+    ],
+    "testable": true
+  },
+  {
+    "id": 10,
+    "title": "Nominalization of German Verbs",
+    "description": "Nominalization can be defined as verbs or adjectives acting as nouns. It is a small but important topic in German Grammar.",
+    "content": "In German, you can turn any verb into a noun by capitalizing it and adding the neuter article 'das'. This process is called nominalization. The resulting noun is always neuter. Nominalized verbs are commonly used in everyday German, especially with phrases like 'beim' (bei + dem) to express ongoing activities.",
+    "subtopics": [
+      "Nominalization of German verbs"
+    ],
+    "category": "Nouns",
+    "level": "A1",
+    "examples": [
+      {
+        "german": "das Lesen (reading), das Schreiben (writing)",
+        "english": "Verbs become neuter nouns with 'das'"
+      },
+      {
+        "german": "Das Lernen macht Spaß.",
+        "english": "Learning is fun."
+      },
+      {
+        "german": "Beim Essen spricht man nicht.",
+        "english": "One doesn't talk while eating."
+      },
+      {
+        "german": "das Schwimmen, das Kochen, das Tanzen",
+        "english": "swimming, cooking, dancing (as nouns)"
+      }
+    ],
+    "conjugationTable": [
+      "How to nominalize a verb:",
+      "  1. Take the infinitive: lesen, schreiben, lernen",
+      "  2. Capitalize it: Lesen, Schreiben, Lernen",
+      "  3. Add 'das': das Lesen, das Schreiben, das Lernen",
+      "",
+      "Common nominalized verbs:",
+      "  das Essen (food/eating) | das Trinken (drinking)",
+      "  das Leben (life/living) | das Wissen (knowledge)"
+    ],
+    "errorTraps": [
+      "Nominalized verbs are ALWAYS neuter (das), never der or die",
+      "Don't forget to capitalize: 'das Lernen' (noun) vs 'ich lerne' (verb)"
+    ],
+    "testable": true
+  },
+  {
+    "id": 11,
+    "title": "Adjective Endings in the Nominative Case",
+    "description": "Adjective endings in the nominative case after definite articles, indefinite articles, and without articles.",
+    "content": "In German, adjectives placed before a noun must take an ending that agrees with the noun's gender, number, and the type of article used. The endings differ depending on whether a definite article (der/die/das), an indefinite article (ein/eine), or no article precedes the adjective.",
+    "subtopics": [
+      "Adjective endings after definite article",
+      "Adjective endings after indefinite article",
+      "Adjective endings without article",
+      "Masculine, feminine, neuter, and plural nouns"
+    ],
+    "category": "Adjectives",
+    "level": "A1",
+    "examples": [
+      {
+        "german": "Der große Mann. Die schöne Frau. Das kleine Kind.",
+        "english": "The tall man. The beautiful woman. The small child. (after definite article)"
+      },
+      {
+        "german": "Ein großer Mann. Eine schöne Frau. Ein kleines Kind.",
+        "english": "A tall man. A beautiful woman. A small child. (after indefinite article)"
+      },
+      {
+        "german": "Kalter Kaffee. Frische Milch. Kaltes Wasser.",
+        "english": "Cold coffee. Fresh milk. Cold water. (without article)"
+      }
+    ],
+    "conjugationTable": [
+      "After Definite Article (der/die/das) — Nominative:",
+      "  Masc: der großE Mann | Fem: die großE Frau",
+      "  Neut: das großE Kind | Plural: die großEN Kinder",
+      "",
+      "After Indefinite Article (ein/eine) — Nominative:",
+      "  Masc: ein großER Mann | Fem: eine großE Frau",
+      "  Neut: ein großES Kind | Plural: großE Kinder (no article)",
+      "",
+      "Without Article — Nominative:",
+      "  Masc: großER Mann | Fem: großE Frau",
+      "  Neut: großES Kind | Plural: großE Kinder"
+    ],
+    "errorTraps": [
+      "After definite articles, almost all endings are -E (except plural: -EN)",
+      "After indefinite articles, the adjective 'takes over' the article's job for masculine (-ER) and neuter (-ES)",
+      "Predicative adjectives (after sein) take NO ending: 'Der Mann ist groß' (NOT 'großer')"
+    ],
+    "testable": true
+  },
+  {
+    "id": 12,
+    "title": "German Plural Nouns",
+    "description": "How to make plural nouns in German? Learn the different plural formation patterns.",
+    "content": "German plural formation is complex — there is no single rule like adding '-s' in English. Instead, there are several patterns involving different endings and sometimes umlauts. The best approach is to learn the plural form along with each noun, but knowing the patterns helps predict plural forms.",
+    "subtopics": [
+      "Nouns that do not change in their plural forms",
+      "Nouns that add umlaut in their plural forms",
+      "Nouns that add an ending -e and/or an umlaut to their plural forms",
+      "Nouns that form plural by adding endings -n and -en",
+      "Nouns that form plural by adding endings -er",
+      "Nouns that add ending \"-s\" to their plural forms",
+      "Nouns that double the last word",
+      "Foreign nouns and their plural forms",
+      "Nouns that are used only in singular form",
+      "Nouns that are used only in plural forms"
+    ],
+    "category": "Nouns",
+    "level": "A1",
+    "examples": [
+      {
+        "german": "der Lehrer → die Lehrer (no change)",
+        "english": "teacher → teachers"
+      },
+      {
+        "german": "die Mutter → die Mütter (umlaut only)",
+        "english": "mother → mothers"
+      },
+      {
+        "german": "der Tisch → die Tische (add -e)",
+        "english": "table → tables"
+      },
+      {
+        "german": "die Blume → die Blumen (add -n)",
+        "english": "flower → flowers"
+      },
+      {
+        "german": "das Kind → die Kinder (add -er)",
+        "english": "child → children"
+      },
+      {
+        "german": "das Auto → die Autos (add -s)",
+        "english": "car → cars"
+      },
+      {
+        "german": "die Eltern (parents) — only plural",
+        "english": "Some nouns exist only in plural"
+      }
+    ],
+    "conjugationTable": [
+      "Plural Patterns:",
+      "  No change: der Lehrer → die Lehrer (mostly -er/-el masc.)",
+      "  Umlaut only: die Mutter → die Mütter",
+      "  + e: der Tag → die Tage",
+      "  + ¨e: der Stuhl → die Stühle",
+      "  + n/en: die Blume → die Blumen (most feminine nouns)",
+      "  + er: das Kind → die Kinder",
+      "  + ¨er: das Buch → die Bücher",
+      "  + s: das Auto → die Autos (foreign words)"
+    ],
+    "errorTraps": [
+      "Feminine nouns almost always take -n/-en: die Blume → die Blumen",
+      "All plural nouns use the article 'die', regardless of their singular gender",
+      "Foreign words (Auto, Hotel, Kino) usually take -s in plural"
+    ],
+    "testable": true
+  },
+  {
+    "id": 13,
+    "title": "Accusative Case in German",
+    "description": "The most important and widely used case in the German language after nominative.",
+    "content": "The accusative case marks the direct object — the thing or person directly affected by the verb's action. Only MASCULINE articles change in the accusative (der→den, ein→einen). Feminine, neuter, and plural articles remain the same. Accusative also follows certain prepositions and is used with quantity indicators.",
+    "subtopics": [
+      "Revision of nominative case",
+      "What is Accusative case?",
+      "Rules of declension",
+      "Articles in the accusative case",
+      "Declension of definite articles in accusative case",
+      "Declension of indefinite articles in accusative case",
+      "Indicators of quantity in German language"
+    ],
+    "category": "Cases",
+    "level": "A1",
+    "examples": [
+      {
+        "german": "Ich sehe den Mann.",
+        "english": "I see the man. (der → den)"
+      },
+      {
+        "german": "Ich kaufe einen Apfel.",
+        "english": "I buy an apple. (ein → einen)"
+      },
+      {
+        "german": "Ich trinke die Milch.",
+        "english": "I drink the milk. (die stays die)"
+      },
+      {
+        "german": "Ich lese das Buch.",
+        "english": "I read the book. (das stays das)"
+      },
+      {
+        "german": "Ich möchte ein Glas Wasser.",
+        "english": "I would like a glass of water. (quantity indicator)"
+      }
+    ],
+    "conjugationTable": [
+      "Definite Articles — Nominative → Accusative:",
+      "  Masculine: der → DEN",
+      "  Feminine: die → die (no change)",
+      "  Neuter: das → das (no change)",
+      "  Plural: die → die (no change)",
+      "",
+      "Indefinite Articles — Nominative → Accusative:",
+      "  Masculine: ein → EINEN",
+      "  Feminine: eine → eine (no change)",
+      "  Neuter: ein → ein (no change)",
+      "",
+      "Negative Articles — Nominative → Accusative:",
+      "  Masculine: kein → KEINEN",
+      "  Feminine: keine → keine | Neuter: kein → kein"
+    ],
+    "errorTraps": [
+      "Only MASCULINE changes in accusative! der→den, ein→einen",
+      "DO NOT change 'die' (feminine) to 'den' — only 'der' (masculine) changes",
+      "The question word for accusative is 'wen?' (whom?) for people and 'was?' (what?) for things"
+    ],
+    "testable": true
+  },
+  {
+    "id": 14,
+    "title": "Accusative Pronouns in German",
+    "description": "German pronouns decline according to grammatical case. This unit explains pronouns in the accusative case.",
+    "content": "When pronouns serve as the direct object of a sentence, they take the accusative form. This applies to personal pronouns (mich, dich, ihn...), demonstrative pronouns, possessive pronouns, and reflexive pronouns. Reflexive pronouns are used when the subject and object of a sentence are the same.",
+    "subtopics": [
+      "Personal pronouns in the accusative case",
+      "Demonstrative pronouns in the accusative case",
+      "Possessive pronouns in the accusative case",
+      "Reflexive pronouns in the accusative case"
+    ],
+    "category": "Pronouns",
+    "level": "A1",
+    "examples": [
+      {
+        "german": "Er sieht mich. Ich sehe dich.",
+        "english": "He sees me. I see you."
+      },
+      {
+        "german": "Wir kennen ihn. Er kennt uns.",
+        "english": "We know him. He knows us."
+      },
+      {
+        "german": "Ich wasche mich.",
+        "english": "I wash myself. (reflexive)"
+      },
+      {
+        "german": "Siehst du diesen Mann?",
+        "english": "Do you see this man? (demonstrative in accusative)"
+      },
+      {
+        "german": "Ich liebe meinen Hund.",
+        "english": "I love my dog. (possessive in accusative)"
+      }
+    ],
+    "conjugationTable": [
+      "Personal Pronouns — Nominative → Accusative:",
+      "  ich → mich (me) | du → dich (you)",
+      "  er → ihn (him) | sie → sie (her) | es → es (it)",
+      "  wir → uns (us) | ihr → euch (you all)",
+      "  sie → sie (them) | Sie → Sie (you formal)",
+      "",
+      "Reflexive Pronouns (Accusative):",
+      "  mich, dich, sich, uns, euch, sich",
+      "",
+      "Possessive Pronouns in Accusative (masculine):",
+      "  meinen, deinen, seinen, ihren, unseren, euren, ihren, Ihren"
+    ],
+    "errorTraps": [
+      "ich → mich, du → dich, er → IHN (not 'er'!)",
+      "sie/es/wir stay the same or very similar — but er changes to ihn",
+      "Reflexive pronouns: 3rd person always uses 'sich' (er wäscht sich, sie waschen sich)"
+    ],
+    "testable": true
+  },
+  {
+    "id": 15,
+    "title": "German Accusative Prepositions",
+    "description": "Prepositions that always take the accusative (indirect object) case.",
+    "content": "Six German prepositions always require the accusative case. A useful mnemonic to remember them is 'DOGFU B' (durch, ohne, gegen, für, um, bis). Any noun or pronoun following these prepositions must be in the accusative form.",
+    "subtopics": [
+      "bis",
+      "durch",
+      "für",
+      "gegen",
+      "ohne",
+      "um"
+    ],
+    "category": "Prepositions",
+    "level": "A1",
+    "examples": [
+      {
+        "german": "Ich gehe durch den Park.",
+        "english": "I walk through the park. (durch + accusative)"
+      },
+      {
+        "german": "Das Geschenk ist für dich.",
+        "english": "The gift is for you. (für + accusative)"
+      },
+      {
+        "german": "Er kommt ohne seinen Bruder.",
+        "english": "He comes without his brother. (ohne + accusative)"
+      },
+      {
+        "german": "Wir laufen um den See.",
+        "english": "We run around the lake. (um + accusative)"
+      },
+      {
+        "german": "Ich bin gegen den Plan.",
+        "english": "I am against the plan. (gegen + accusative)"
+      },
+      {
+        "german": "Bis nächsten Montag!",
+        "english": "Until next Monday! (bis + accusative)"
+      }
+    ],
+    "conjugationTable": [
+      "Accusative Prepositions:",
+      "  bis    — until, to, by",
+      "  durch  — through, by",
+      "  für    — for",
+      "  gegen  — against, around (time)",
+      "  ohne   — without",
+      "  um     — around, at (time)",
+      "",
+      "Mnemonic: DOGFU B",
+      "  Durch, Ohne, Gegen, Für, Um, Bis"
+    ],
+    "errorTraps": [
+      "After these prepositions, ALWAYS use accusative: 'für den Mann' (NOT 'für der Mann')",
+      "Don't confuse with dative prepositions — these 6 are ALWAYS accusative",
+      "'um' for time: 'um 8 Uhr' (at 8 o'clock); 'um' for place: 'um die Ecke' (around the corner)"
+    ],
+    "testable": true
+  },
+  {
+    "id": 16,
+    "title": "Basic Questions in German",
+    "description": "Asking questions in German with interrogative pronouns (W-questions).",
+    "content": "W-questions (W-Fragen) start with a question word (interrogative pronoun) that begins with 'W'. The verb always comes in position 2, immediately after the question word. These questions require a detailed answer and cannot be answered with just 'yes' or 'no'.",
+    "subtopics": [
+      "Was? (what?)",
+      "Warum?, Wieso? (why?)",
+      "Wer? / Wen? / Wem? (who? / whom? / to whom? — cases)",
+      "Wo? / Woher? / Wohin? (where? — location, origin, destination)",
+      "Wie? (how? what like?)",
+      "Wann? (when?)",
+      "Welcher? / Welche? / Welches? (which? — declining question word)",
+      "Wessen? (whose? — possessive)",
+      "Womit? / Wofür? / Worüber? (question words with prepositions)",
+      "Wie alt / viel / viele / lange (Wie + adjective combinations)"
+    ],
+    "category": "Questions",
+    "level": "A1",
+    "examples": [
+      {
+        "german": "Was machst du?",
+        "english": "What are you doing?"
+      },
+      {
+        "german": "Warum lernst du Deutsch?",
+        "english": "Why are you learning German?"
+      },
+      {
+        "german": "Wer ist das?",
+        "english": "Who is that?"
+      },
+      {
+        "german": "Wen siehst du?",
+        "english": "Whom do you see?"
+      },
+      {
+        "german": "Wem gibst du das Geschenk?",
+        "english": "To whom are you giving the present?"
+      },
+      {
+        "german": "Wo wohnst du?",
+        "english": "Where do you live?"
+      },
+      {
+        "german": "Woher kommst du?",
+        "english": "Where do you come from?"
+      },
+      {
+        "german": "Wohin gehst du?",
+        "english": "Where are you going (to)?"
+      },
+      {
+        "german": "Wie heißt du?",
+        "english": "What is your name?"
+      },
+      {
+        "german": "Wann kommst du?",
+        "english": "When are you coming?"
+      },
+      {
+        "german": "Welchen Film siehst du?",
+        "english": "Which film are you watching?"
+      },
+      {
+        "german": "Wessen Buch ist das?",
+        "english": "Whose book is that?"
+      },
+      {
+        "german": "Womit fährst du zur Arbeit?",
+        "english": "What do you drive to work with?"
+      },
+      {
+        "german": "Worüber sprecht ihr?",
+        "english": "What are you talking about?"
+      }
+    ],
+    "conjugationTable": [
+      "W-Question Structure:",
+      "  W-Wort + Verb + Subject + ...?",
+      "",
+      "German Interrogative Pronouns:",
+      "  Was?     — what?",
+      "  Warum?   — why? (also: Wieso?)",
+      "  Wer?     — who? (nominative)",
+      "  Wen?     — whom? (accusative)",
+      "  Wem?     — to whom? (dative)",
+      "  Wessen?  — whose? (possessive)",
+      "  Wo?      — where? (location)",
+      "  Woher?   — where from? (origin)",
+      "  Wohin?   — where to? (destination)",
+      "  Wie?     — how? / what...like?",
+      "  Wann?    — when?",
+      "  Welcher? — which? (declines like 'der')",
+      "",
+      "W-Preposition Combinations:",
+      "  Womit?   — with what?",
+      "  Wofür?   — for what?",
+      "  Worüber? — about what?",
+      "  Worauf?  — on what?",
+      "  Wovon?   — of / about what?"
+    ],
+    "errorTraps": [
+      "Verb ALWAYS in position 2: 'Was machST du?' (NOT 'Was du machst?')",
+      "Wo (where) vs Woher (where from) vs Wohin (where to) — three different words!",
+      "Wer (who/nominative) vs Wen (whom/accusative) vs Wem (to whom/dative) — case matters!",
+      "Welcher changes ending: welcher Mann / welche Frau / welches Kind / welchen Film",
+      "Add 'r' after 'wo' when the preposition starts with a vowel: worauf, worüber, woran",
+      "Wie viel (uncountable) vs Wie viele (countable) — 'Wie viel Geld' but 'Wie viele Bücher'",
+      "NEVER use 'tun' (do) as a helper in questions — 'Was machst du?' NOT 'Was tust du machen?'"
+    ],
+    "testable": true
+  },
+  {
+    "id": 17,
+    "title": "Yes-No Questions in German",
+    "description": "Asking questions in German without interrogative pronouns (Yes-No questions).",
+    "content": "Yes-No questions (Ja/Nein-Fragen) do not use any question word. Instead, the conjugated verb moves to position 1, before the subject. These questions can be answered with 'ja' (yes), 'nein' (no), or 'doch' (yes, contradicting a negative question). The word order is simply inverted from a statement.",
+    "subtopics": [
+      "Verb-Subject inversion (Verb in Position 1)",
+      "Questions with haben and sein",
+      "Questions with separable prefix verbs",
+      "Questions with modal verbs (können, müssen, dürfen, sollen, wollen, mögen)",
+      "Questions with reflexive verbs",
+      "The magic word: Doch (contradicting negative questions)",
+      "Ja vs Nein vs Doch — complete answer guide",
+      "Intonation patterns (rising tone)",
+      "Intensifiers: denn, eigentlich, mal, wohl",
+      "Everyday yes-no question phrases"
+    ],
+    "category": "Questions",
+    "level": "A1",
+    "examples": [
+      {
+        "german": "Sprichst du Deutsch?",
+        "english": "Do you speak German?"
+      },
+      {
+        "german": "Kommst du aus Deutschland?",
+        "english": "Do you come from Germany?"
+      },
+      {
+        "german": "Ist das dein Buch?",
+        "english": "Is that your book?"
+      },
+      {
+        "german": "Hast du Geschwister?",
+        "english": "Do you have siblings?"
+      },
+      {
+        "german": "Kannst du mir helfen?",
+        "english": "Can you help me?"
+      },
+      {
+        "german": "Bist du nicht müde? — Doch!",
+        "english": "Aren't you tired? — Yes I am! (doch contradicts negative)"
+      },
+      {
+        "german": "Kommst du mit ins Kino?",
+        "english": "Are you coming along to the cinema?"
+      },
+      {
+        "german": "Stehst du morgen früh auf?",
+        "english": "Are you getting up early tomorrow?"
+      },
+      {
+        "german": "Darf ich hier parken?",
+        "english": "May I park here?"
+      },
+      {
+        "german": "Hast du denn Hunger?",
+        "english": "So, are you hungry?"
+      },
+      {
+        "german": "Magst du keinen Kaffee? — Doch, ich mag Kaffee!",
+        "english": "Don't you like coffee? — Yes, I do like coffee!"
+      },
+      {
+        "german": "Sollen wir ein Taxi nehmen?",
+        "english": "Should we take a taxi?"
+      }
+    ],
+    "conjugationTable": [
+      "Yes/No Question Structure:",
+      "  Verb + Subject + Rest of sentence?",
+      "",
+      "Statement → Question:",
+      "  Du sprichst Deutsch. → Sprichst du Deutsch?",
+      "  Er kommt morgen. → Kommt er morgen?",
+      "  Sie haben ein Auto. → Haben Sie ein Auto?",
+      "",
+      "With modal verbs:",
+      "  Du kannst schwimmen. → Kannst du schwimmen?",
+      "  Wir müssen arbeiten. → Müssen wir arbeiten?",
+      "",
+      "With separable prefixes:",
+      "  Du kommst mit. → Kommst du mit?",
+      "  Sie steht auf. → Steht sie auf?",
+      "",
+      "Answers:",
+      "  Ja  — yes (positive question)",
+      "  Nein — no",
+      "  Doch — yes! (contradicting a negative question)"
+    ],
+    "errorTraps": [
+      "Verb goes to position 1 (before the subject): 'Sprichst DU' (NOT 'Du sprichst?')",
+      "Use 'doch' (not 'ja') to contradict a negative question: 'Hast du kein Geld? — Doch!'",
+      "Don't add 'do/does' like English — just invert the verb and subject",
+      "Separable prefix stays at the END: 'Kommst du MIT?' (NOT 'Mitkommst du?')",
+      "Reflexive pronoun follows the subject: 'Freust du DICH auf...' (NOT 'Freust dich du...')",
+      "Always use rising intonation at the end of yes-no questions"
+    ],
+    "testable": true
+  },
+  {
+    "id": 18,
+    "title": "English-German Similar Words (Cognates)",
+    "description": "A massive collection of English and German similar words (cognates) to rapidly expand your vocabulary.",
+    "content": "English and German share a Germanic root. As a result, thousands of words are either identical or very similar. Learning these cognates is the fastest way to build your vocabulary. This lesson provides an extensive list of these similar words.",
+    "subtopics": [
+      "Identical Words (e.g., Arm, Hand)",
+      "Vowel Shifts (e.g., Haus/house)",
+      "Consonant Shifts (e.g., f -> v, th -> d)"
+    ],
+    "category": "Vocabulary Expansion",
+    "level": "A1",
+    "examples": [
+      {
+        "german": "Arm",
+        "english": "arm"
+      },
+      {
+        "german": "Hand",
+        "english": "hand"
+      },
+      {
+        "german": "Finger",
+        "english": "finger"
+      },
+      {
+        "german": "Haus",
+        "english": "house"
+      },
+      {
+        "german": "Maus",
+        "english": "mouse"
+      },
+      {
+        "german": "Wasser",
+        "english": "water"
+      },
+      {
+        "german": "Vater",
+        "english": "father"
+      },
+      {
+        "german": "Mutter",
+        "english": "mother"
+      },
+      {
+        "german": "Bruder",
+        "english": "brother"
+      },
+      {
+        "german": "Schwester",
+        "english": "sister"
+      },
+      {
+        "german": "Sohn",
+        "english": "son"
+      },
+      {
+        "german": "Tochter",
+        "english": "daughter"
+      },
+      {
+        "german": "Apfel",
+        "english": "apple"
+      },
+      {
+        "german": "Bier",
+        "english": "beer"
+      },
+      {
+        "german": "Wein",
+        "english": "wine"
+      },
+      {
+        "german": "Glas",
+        "english": "glass"
+      },
+      {
+        "german": "Buch",
+        "english": "book"
+      },
+      {
+        "german": "Freund",
+        "english": "friend"
+      },
+      {
+        "german": "Hund",
+        "english": "hound/dog"
+      },
+      {
+        "german": "Katze",
+        "english": "cat"
+      },
+      {
+        "german": "Kuh",
+        "english": "cow"
+      },
+      {
+        "german": "Schwein",
+        "english": "swine/pig"
+      },
+      {
+        "german": "Fisch",
+        "english": "fish"
+      },
+      {
+        "german": "Gras",
+        "english": "grass"
+      },
+      {
+        "german": "Bär",
+        "english": "bear"
+      },
+      {
+        "german": "Garten",
+        "english": "garden"
+      },
+      {
+        "german": "Ball",
+        "english": "ball"
+      },
+      {
+        "german": "Sport",
+        "english": "sport"
+      },
+      {
+        "german": "Brot",
+        "english": "bread"
+      },
+      {
+        "german": "Kaffee",
+        "english": "coffee"
+      },
+      {
+        "german": "Tee",
+        "english": "tea"
+      },
+      {
+        "german": "Name",
+        "english": "name"
+      },
+      {
+        "german": "Wort",
+        "english": "word"
+      },
+      {
+        "german": "Welt",
+        "english": "world"
+      },
+      {
+        "german": "Land",
+        "english": "land"
+      },
+      {
+        "german": "Wind",
+        "english": "wind"
+      },
+      {
+        "german": "Sturm",
+        "english": "storm"
+      },
+      {
+        "german": "Regen",
+        "english": "rain"
+      },
+      {
+        "german": "Schnee",
+        "english": "snow"
+      },
+      {
+        "german": "Eis",
+        "english": "ice"
+      },
+      {
+        "german": "Feuer",
+        "english": "fire"
+      },
+      {
+        "german": "Licht",
+        "english": "light"
+      },
+      {
+        "german": "Sonne",
+        "english": "sun"
+      },
+      {
+        "german": "Mond",
+        "english": "moon"
+      },
+      {
+        "german": "Stern",
+        "english": "star"
+      },
+      {
+        "german": "Nacht",
+        "english": "night"
+      },
+      {
+        "german": "Tag",
+        "english": "day"
+      },
+      {
+        "german": "Morgen",
+        "english": "morning"
+      },
+      {
+        "german": "Sommer",
+        "english": "summer"
+      },
+      {
+        "german": "Winter",
+        "english": "winter"
+      },
+      {
+        "german": "Monat",
+        "english": "month"
+      },
+      {
+        "german": "Jahr",
+        "english": "year"
+      },
+      {
+        "german": "Zeit",
+        "english": "time"
+      },
+      {
+        "german": "Uhr",
+        "english": "hour"
+      },
+      {
+        "german": "Minute",
+        "english": "minute"
+      },
+      {
+        "german": "Sekunde",
+        "english": "second"
+      },
+      {
+        "german": "Schuh",
+        "english": "shoe"
+      },
+      {
+        "german": "Bett",
+        "english": "bed"
+      },
+      {
+        "german": "Ring",
+        "english": "ring"
+      },
+      {
+        "german": "Gold",
+        "english": "gold"
+      },
+      {
+        "german": "Silber",
+        "english": "silver"
+      },
+      {
+        "german": "Farbe",
+        "english": "color/farbe (hue)"
+      },
+      {
+        "german": "Rot",
+        "english": "red"
+      },
+      {
+        "german": "Grün",
+        "english": "green"
+      },
+      {
+        "german": "Blau",
+        "english": "blue"
+      },
+      {
+        "german": "Braun",
+        "english": "brown"
+      },
+      {
+        "german": "Weiß",
+        "english": "white"
+      },
+      {
+        "german": "Gut",
+        "english": "good"
+      },
+      {
+        "german": "Besser",
+        "english": "better"
+      },
+      {
+        "german": "Alt",
+        "english": "old"
+      },
+      {
+        "german": "Neu",
+        "english": "new"
+      },
+      {
+        "german": "Kalt",
+        "english": "cold"
+      },
+      {
+        "german": "Warm",
+        "english": "warm"
+      },
+      {
+        "german": "Lang",
+        "english": "long"
+      },
+      {
+        "german": "Kurz",
+        "english": "short"
+      },
+      {
+        "german": "Groß",
+        "english": "great/large"
+      },
+      {
+        "german": "Voll",
+        "english": "full"
+      },
+      {
+        "german": "Leer",
+        "english": "empty"
+      },
+      {
+        "german": "Rund",
+        "english": "round"
+      },
+      {
+        "german": "Hart",
+        "english": "hard"
+      },
+      {
+        "german": "Weich",
+        "english": "soft (weak)"
+      },
+      {
+        "german": "Fest",
+        "english": "fast/firm"
+      },
+      {
+        "german": "Wild",
+        "english": "wild"
+      },
+      {
+        "german": "Blind",
+        "english": "blind"
+      },
+      {
+        "german": "Taub",
+        "english": "deaf/taub"
+      },
+      {
+        "german": "Lippe",
+        "english": "lip"
+      },
+      {
+        "german": "Nase",
+        "english": "nose"
+      },
+      {
+        "german": "Ohr",
+        "english": "ear"
+      },
+      {
+        "german": "Haar",
+        "english": "hair"
+      },
+      {
+        "german": "Blut",
+        "english": "blood"
+      },
+      {
+        "german": "Herz",
+        "english": "heart"
+      },
+      {
+        "german": "Knie",
+        "english": "knee"
+      },
+      {
+        "german": "Fuß",
+        "english": "foot"
+      },
+      {
+        "german": "Zeh",
+        "english": "toe"
+      },
+      {
+        "german": "Boot",
+        "english": "boat"
+      },
+      {
+        "german": "Schiff",
+        "english": "ship"
+      },
+      {
+        "german": "Segel",
+        "english": "sail"
+      },
+      {
+        "german": "Weg",
+        "english": "way"
+      },
+      {
+        "german": "Straße",
+        "english": "street"
+      },
+      {
+        "german": "Brücke",
+        "english": "bridge"
+      },
+      {
+        "german": "Wagen",
+        "english": "wagon/car"
+      },
+      {
+        "german": "Rad",
+        "english": "wheel"
+      },
+      {
+        "german": "Tür",
+        "english": "door"
+      },
+      {
+        "german": "Raum",
+        "english": "room"
+      },
+      {
+        "german": "Dach",
+        "english": "roof"
+      },
+      {
+        "german": "Boden",
+        "english": "bottom/floor"
+      },
+      {
+        "german": "Mauer",
+        "english": "wall"
+      },
+      {
+        "german": "Küche",
+        "english": "kitchen"
+      },
+      {
+        "german": "Ofen",
+        "english": "oven"
+      },
+      {
+        "german": "Pfanne",
+        "english": "pan"
+      },
+      {
+        "german": "Kessel",
+        "english": "kettle"
+      },
+      {
+        "german": "Milch",
+        "english": "milk"
+      },
+      {
+        "german": "Käse",
+        "english": "cheese"
+      },
+      {
+        "german": "Fleisch",
+        "english": "flesh/meat"
+      },
+      {
+        "german": "Pfeffer",
+        "english": "pepper"
+      },
+      {
+        "german": "Salz",
+        "english": "salt"
+      },
+      {
+        "german": "Zucker",
+        "english": "sugar"
+      },
+      {
+        "german": "Butter",
+        "english": "butter"
+      },
+      {
+        "german": "Gott",
+        "english": "God"
+      },
+      {
+        "german": "Teufel",
+        "english": "devil"
+      },
+      {
+        "german": "Engel",
+        "english": "angel"
+      },
+      {
+        "german": "Seele",
+        "english": "soul"
+      },
+      {
+        "german": "Geist",
+        "english": "ghost"
+      },
+      {
+        "german": "König",
+        "english": "king"
+      },
+      {
+        "german": "Prinz",
+        "english": "prince"
+      },
+      {
+        "german": "Doktor",
+        "english": "doctor"
+      },
+      {
+        "german": "Bäcker",
+        "english": "baker"
+      },
+      {
+        "german": "Müller",
+        "english": "miller"
+      },
+      {
+        "german": "Schmidt",
+        "english": "smith"
+      },
+      {
+        "german": "Hoffnung",
+        "english": "hope"
+      },
+      {
+        "german": "Angst",
+        "english": "angst/fear"
+      },
+      {
+        "german": "Glaube",
+        "english": "belief"
+      },
+      {
+        "german": "Liebe",
+        "english": "love"
+      },
+      {
+        "german": "Hass",
+        "english": "hate"
+      },
+      {
+        "german": "Traum",
+        "english": "dream"
+      },
+      {
+        "german": "Schlaf",
+        "english": "sleep"
+      },
+      {
+        "german": "Sprechen",
+        "english": "speak"
+      },
+      {
+        "german": "Hören",
+        "english": "hear"
+      },
+      {
+        "german": "Sehen",
+        "english": "see"
+      },
+      {
+        "german": "Fühlen",
+        "english": "feel"
+      },
+      {
+        "german": "Gehen",
+        "english": "go"
+      },
+      {
+        "german": "Kommen",
+        "english": "come"
+      },
+      {
+        "german": "Singen",
+        "english": "sing"
+      },
+      {
+        "german": "Schwimmen",
+        "english": "swim"
+      },
+      {
+        "german": "Trinken",
+        "english": "drink"
+      },
+      {
+        "german": "Helfen",
+        "english": "help"
+      },
+      {
+        "german": "Lernen",
+        "english": "learn"
+      },
+      {
+        "german": "Lachen",
+        "english": "laugh"
+      },
+      {
+        "german": "Machen",
+        "english": "make"
+      },
+      {
+        "german": "Finden",
+        "english": "find"
+      },
+      {
+        "german": "Haben",
+        "english": "have"
+      },
+      {
+        "german": "Beginnen",
+        "english": "begin"
+      },
+      {
+        "german": "Bringen",
+        "english": "bring"
+      },
+      {
+        "german": "Geben",
+        "english": "give"
+      },
+      {
+        "german": "Sitzen",
+        "english": "sit"
+      },
+      {
+        "german": "Stehen",
+        "english": "stand"
+      },
+      {
+        "german": "Senden",
+        "english": "send"
+      },
+      {
+        "german": "Denken",
+        "english": "think"
+      },
+      {
+        "german": "Gras",
+        "english": "grass"
+      },
+      {
+        "german": "Apfel",
+        "english": "apple"
+      },
+      {
+        "german": "Pfeffer",
+        "english": "pepper"
+      },
+      {
+        "german": "Offen",
+        "english": "open"
+      },
+      {
+        "german": "Tief",
+        "english": "deep"
+      },
+      {
+        "german": "Schlaf",
+        "english": "sleep"
+      },
+      {
+        "german": "Halb",
+        "english": "half"
+      },
+      {
+        "german": "Kalb",
+        "english": "calf"
+      },
+      {
+        "german": "Leben",
+        "english": "life/live"
+      },
+      {
+        "german": "Leber",
+        "english": "liver"
+      },
+      {
+        "german": "Silber",
+        "english": "silver"
+      },
+      {
+        "german": "Über",
+        "english": "over"
+      },
+      {
+        "german": "Buch",
+        "english": "book"
+      },
+      {
+        "german": "Bäcker",
+        "english": "baker"
+      },
+      {
+        "german": "Machen",
+        "english": "make"
+      },
+      {
+        "german": "Sprechen",
+        "english": "speak"
+      },
+      {
+        "german": "Woche",
+        "english": "week"
+      },
+      {
+        "german": "Tag",
+        "english": "day"
+      },
+      {
+        "german": "Sagen",
+        "english": "say"
+      },
+      {
+        "german": "Weg",
+        "english": "way"
+      },
+      {
+        "german": "Auge",
+        "english": "eye"
+      },
+      {
+        "german": "Fliege",
+        "english": "fly"
+      },
+      {
+        "german": "Kalt",
+        "english": "cold"
+      },
+      {
+        "german": "Alt",
+        "english": "old"
+      },
+      {
+        "german": "Gut",
+        "english": "good"
+      },
+      {
+        "german": "Hart",
+        "english": "hard"
+      },
+      {
+        "german": "Breit",
+        "english": "broad"
+      },
+      {
+        "german": "Blut",
+        "english": "blood"
+      }
+    ],
+    "conjugationTable": [
+      "Pronunciation Shifts to watch for:",
+      "th -> d (brother/Bruder, thank/danken)",
+      "v -> b (silver/Silber, seven/sieben)",
+      "p -> f/pf (apple/Apfel, pepper/Pfeffer)",
+      "t -> z/s (ten/zehn, water/Wasser)"
+    ],
+    "errorTraps": [
+      "False friends: Gift (poison), nicht (not present!)",
+      "False friends: Handy (cell phone), nicht (useful!)",
+      "False friends: Chef (boss), nicht (cook!)"
+    ],
+    "testable": false
+  }
+]

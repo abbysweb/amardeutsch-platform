@@ -1,0 +1,132 @@
+[
+  {
+    "id": 1,
+    "title": "Futur I and Futur II",
+    "category": "Verbs",
+    "level": "B2",
+    "description": "Expressing assumptions about the present (Futur I) and assumptions about the past (Futur II).",
+    "examples": [
+      {
+        "german": "Er wird wohl im Stau stehen.",
+        "english": "He is probably stuck in traffic (Futur I - Assumption)."
+      },
+      {
+        "german": "Sie wird den Zug verpasst haben.",
+        "english": "She probably missed the train (Futur II)."
+      }
+    ],
+    "conjugationTable": [
+      "Futur I: werden + Infinitive",
+      "Futur II: werden + Past Participle + haben/sein",
+      "Ich werde gegessen haben (I will have eaten)"
+    ],
+    "errorTraps": [
+      "In B2, Futur tenses are rarely used to talk about the future! We use Present tense for the future. We use Futur I & II to express ASSUMPTIONS."
+    ],
+    "content": ""
+  },
+  {
+    "id": 2,
+    "title": "Partizipialattribute",
+    "category": "Adjectives",
+    "level": "B2",
+    "description": "Turning entire sentences into massive adjectives that stand in front of a noun.",
+    "examples": [
+      {
+        "german": "Der auf dem Tisch liegende Stift ist blau.",
+        "english": "The pen lying on the table is blue."
+      },
+      {
+        "german": "Das von Picasso gemalte Bild ist teuer.",
+        "english": "The picture painted by Picasso is expensive."
+      }
+    ],
+    "conjugationTable": [
+      "Partizip I (Active): Infinitive + d + Adjective Ending (spielend-)",
+      "Partizip II (Passive): Past Participle + Adjective Ending (gekauft-)"
+    ],
+    "errorTraps": [
+      "All the extra information MUST go between the article and the participle! (Der [in Berlin wohnende] Mann)."
+    ],
+    "content": ""
+  },
+  {
+    "id": 3,
+    "title": "Konjunktiv I (Indirect Speech)",
+    "category": "Verbs",
+    "level": "B2",
+    "description": "How to report what someone else said without guaranteeing it's true.",
+    "examples": [
+      {
+        "german": "Er sagt, er habe keine Zeit.",
+        "english": "He says he has no time."
+      },
+      {
+        "german": "Der Politiker behauptet, er sei unschuldig.",
+        "english": "The politician claims he is innocent."
+      }
+    ],
+    "conjugationTable": [
+      "sein: ich sei, du seiest, er sei, wir seien, ihr seiet, sie seien",
+      "haben: ich habe, du habest, er habe...",
+      "For regular verbs, drop the 'n' from the infinitive: er gehe, sie mache"
+    ],
+    "errorTraps": [
+      "Only the 3rd person singular (er/sie/es) looks clearly different in Konjunktiv I. For 'ich' and 'wir', it looks like normal present tense, so Germans switch to Konjunktiv II to make it clear it's indirect speech!"
+    ],
+    "content": ""
+  },
+  {
+    "id": 4,
+    "title": "Passive Alternatives",
+    "category": "Sentence Structure",
+    "level": "B2",
+    "description": "Ways to express a passive meaning without actually using 'werden'.",
+    "examples": [
+      {
+        "german": "Das Problem lässt sich lösen.",
+        "english": "The problem can be solved."
+      },
+      {
+        "german": "Die Rechnung ist zu bezahlen.",
+        "english": "The bill must be paid."
+      }
+    ],
+    "conjugationTable": [
+      "sich lassen + Infinitive = kann + passive",
+      "sein + zu + Infinitive = muss/kann + passive",
+      "-bar / -lich (Adjectives) = kann + passive (z.B. lesbar)"
+    ],
+    "errorTraps": [
+      "Remember that 'sein + zu' implies a NECESSITY (muss) in official language, but a POSSIBILITY (kann) in scientific language."
+    ],
+    "content": ""
+  },
+  {
+    "id": 5,
+    "title": "Nomen-Verb-Verbindungen",
+    "category": "Vocabulary",
+    "level": "B2",
+    "description": "Formal noun-verb combinations that replace simple verbs in business and politics.",
+    "examples": [
+      {
+        "german": "eine Entscheidung treffen",
+        "english": "to make a decision (instead of 'entscheiden')"
+      },
+      {
+        "german": "in Erfüllung gehen",
+        "english": "to come true / be fulfilled"
+      }
+    ],
+    "conjugationTable": [
+      "zur Verfügung stehen - to be available",
+      "einen Antrag stellen - to submit an application",
+      "Kritik üben an - to criticize",
+      "in Anspruch nehmen - to make use of"
+    ],
+    "errorTraps": [
+      "Do not translate literally! 'To MAKE a decision' is 'eine Entscheidung TREFFEN' (hit a decision), not 'machen'."
+    ],
+    "content": ""
+  }
+]

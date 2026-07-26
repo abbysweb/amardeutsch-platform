@@ -1,0 +1,1652 @@
+[
+  {
+    "id": 50,
+    "title": "Section A: Fill in the Gaps (Q501–Q520)",
+    "description": "Master 20 essential A1 gap-fill questions focusing on modals (kann/will/musst), temporal phrases (am Montag, um), case articles, and separable verbs.",
+    "category": "Sentence Fill-in",
+    "level": "A1",
+    "quizType": "multiple_choice",
+    "questions": [
+      {
+        "id": 5001,
+        "question": "Ich ___ gut Englisch sprechen.",
+        "english": "I can speak English well.",
+        "options": ["kann", "kannst", "können", "könnt"],
+        "correctIndex": 0,
+        "explanation": "'ich kann' – 1. Person Singular von können."
+      },
+      {
+        "id": 5002,
+        "question": "___ du ein Haustier?",
+        "english": "Do you have a pet?",
+        "options": ["Haben", "Hast", "Hat", "Habt"],
+        "correctIndex": 1,
+        "explanation": "'du hast' – 2. Person Singular von haben."
+      },
+      {
+        "id": 5003,
+        "question": "___ Montag habe ich einen Termin.",
+        "english": "On Monday I have an appointment.",
+        "options": ["In", "Am", "Um", "Auf"],
+        "correctIndex": 1,
+        "explanation": "Wochentage mit 'am': 'am Montag'."
+      },
+      {
+        "id": 5004,
+        "question": "Das ist ___ schöne Blume.",
+        "english": "This is a beautiful flower.",
+        "options": ["ein", "eine", "einen", "einem"],
+        "correctIndex": 1,
+        "explanation": "'Blume' ist feminin → 'eine schöne Blume'."
+      },
+      {
+        "id": 5005,
+        "question": "Ich ___ dich morgen ___. (rufe ... an / anrufe)",
+        "english": "I will call you tomorrow.",
+        "options": ["rufe ... an", "anrufe", "rufe an", "an ... rufe"],
+        "correctIndex": 0,
+        "explanation": "'anrufen' ist ein trengbares Verb: 'Ich rufe dich morgen an.'"
+      },
+      {
+        "id": 5006,
+        "question": "Das ist ___ mein Buch.",
+        "english": "That is not my book.",
+        "options": ["kein", "nicht", "keine", "keinen"],
+        "correctIndex": 1,
+        "explanation": "Vor dem Possessivartikel 'mein' verwendet man die Verneinung 'nicht': 'Das ist nicht mein Buch.'"
+      },
+      {
+        "id": 5007,
+        "question": "Meine Eltern ___ im Urlaub.",
+        "english": "My parents are on vacation.",
+        "options": ["sind", "sein", "seid", "bist"],
+        "correctIndex": 0,
+        "explanation": "'Meine Eltern' ist Plural (sie) → 'sind'."
+      },
+      {
+        "id": 5008,
+        "question": "Ich wohne ___ meiner Schwester.",
+        "english": "I reside with my sister.",
+        "options": ["bei", "zu", "nach", "mit"],
+        "correctIndex": 0,
+        "explanation": "'bei' + Dativ für das Wohnen bei Personen: 'bei meiner Schwester'."
+      },
+      {
+        "id": 5009,
+        "question": "Das ist ___ Haus. (unser/unsere/unseren)",
+        "english": "That is our house.",
+        "options": ["unser", "unsere", "unseren", "unsers"],
+        "correctIndex": 0,
+        "explanation": "'Haus' ist neutral im Nominativ → 'unser Haus'."
+      },
+      {
+        "id": 5010,
+        "question": "Du ___ pünktlich sein.",
+        "english": "You must be punctual.",
+        "options": ["musst", "muss", "müssen", "müsst"],
+        "correctIndex": 0,
+        "explanation": "'du musst' ist die korrekte 2. Person Singular Form von müssen."
+      },
+      {
+        "id": 5011,
+        "question": "Deine Note ist ___ als meine. (besser/beste/gut)",
+        "english": "Your grade is better than mine.",
+        "options": ["besser", "beste", "gut", "am besten"],
+        "correctIndex": 0,
+        "explanation": "Beim Vergleich mit 'als' steht der Komparativ: 'besser als'."
+      },
+      {
+        "id": 5012,
+        "question": "Kannst du ___ das Buch geben? (mir/mich/ich)",
+        "english": "Can you give me the book?",
+        "options": ["mir", "mich", "ich", "mein"],
+        "correctIndex": 0,
+        "explanation": "'geben' fordert den Dativ für den Empfänger: 'mir'."
+      },
+      {
+        "id": 5013,
+        "question": "Ich ___ gestern einen Brief geschrieben.",
+        "english": "I wrote a letter yesterday.",
+        "options": ["habe", "bin", "war", "werde"],
+        "correctIndex": 0,
+        "explanation": "'schreiben' bildet das Perfekt mit 'haben': 'Ich habe ... geschrieben.'"
+      },
+      {
+        "id": 5014,
+        "question": "Ich gehe ___ Kino.",
+        "english": "I am going into the cinema.",
+        "options": ["in", "im", "ins", "in dem"],
+        "correctIndex": 2,
+        "explanation": "'ins Kino' – Kurzform von 'in das Kino' (Zielort, Akkusativ neutral)."
+      },
+      {
+        "id": 5015,
+        "question": "Ich gehe nicht zur Party, ___ ich keine Lust habe.",
+        "english": "I am not going to the party because I don't feel like it.",
+        "options": ["weil", "denn", "dass", "wenn"],
+        "correctIndex": 0,
+        "explanation": "'weil' leitet einen Nebensatz mit dem Verb am Ende ein."
+      },
+      {
+        "id": 5016,
+        "question": "Ich gebe ___ Kind ein Geschenk.",
+        "english": "I am giving the child a present.",
+        "options": ["dem", "den", "der", "das"],
+        "correctIndex": 0,
+        "explanation": "'geben' + Dativ neutral: 'dem Kind'."
+      },
+      {
+        "id": 5017,
+        "question": "Das Essen schmeckt ___. (am besten / beste / besser)",
+        "english": "The food tastes best.",
+        "options": ["am besten", "beste", "besser", "am beste"],
+        "correctIndex": 0,
+        "explanation": "Superlativ in adverbialer Position: 'am besten'."
+      },
+      {
+        "id": 5018,
+        "question": "___ der Arbeit gehe ich nach Hause.",
+        "english": "After work I go home.",
+        "options": ["Nach", "In", "Zu", "Bei"],
+        "correctIndex": 0,
+        "explanation": "'Nach der Arbeit' ist eine zeitliche Präpositionalphrase mit Dativ."
+      },
+      {
+        "id": 5019,
+        "question": "Ich ___ heute Abend ___. (sehe ... fern / fernsehe)",
+        "english": "I am watching TV tonight.",
+        "options": ["sehe ... fern", "fernsehe", "sehe fern", "fern ... sehe"],
+        "correctIndex": 0,
+        "explanation": "'fernsehen' ist trennbar im Hauptsatz: 'Ich sehe ... fern.'"
+      },
+      {
+        "id": 5020,
+        "question": "Ich ___ morgen früh aufstehen.",
+        "english": "I want to wake up early tomorrow.",
+        "options": ["will", "willst", "wollen", "wollt"],
+        "correctIndex": 0,
+        "explanation": "'ich will' ist die 1. Person Singular des Modalverbs 'wollen'."
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "title": "Section B: Sentence Completion (Q521–Q540)",
+    "description": "Test logical connections using aber, denn, deshalb, relative clauses, and perfect participle placements.",
+    "category": "Sentence Fill-in",
+    "level": "A1",
+    "quizType": "multiple_choice",
+    "questions": [
+      {
+        "id": 5101,
+        "question": "Ich mag Brot, ___ ich esse es nicht oft.",
+        "english": "I like bread, but I don't eat it often.",
+        "options": ["aber", "denn", "weil", "oder"],
+        "correctIndex": 0,
+        "explanation": "'aber' drückt einen Gegensatz (but) zwischen zwei Hauptsätzen aus."
+      },
+      {
+        "id": 5102,
+        "question": "Kannst du mir sagen, ___?",
+        "english": "Can you tell me where the train station is?",
+        "options": ["wo der Bahnhof ist", "wo ist der Bahnhof", "der Bahnhof wo ist", "ist wo der Bahnhof"],
+        "correctIndex": 0,
+        "explanation": "In einer indirekten Frage steht das konjugierte Verb am Ende."
+      },
+      {
+        "id": 5103,
+        "question": "Ich lerne Deutsch, weil ich in Österreich ___.",
+        "english": "I study German because I want to study in Austria.",
+        "options": ["studieren will", "will studieren", "studiere will", "will studiere"],
+        "correctIndex": 0,
+        "explanation": "Im weil-Nebensatz steht das Modalverb am Ende: 'studieren will'."
+      },
+      {
+        "id": 5104,
+        "question": "Meine Schwester ist jünger ___ ich.",
+        "english": "My sister is younger than me.",
+        "options": ["als", "wie", "so", "denn"],
+        "correctIndex": 0,
+        "explanation": "Komparativ von jung ('jünger') fordert 'als'."
+      },
+      {
+        "id": 5105,
+        "question": "Der Film ist langweilig, ___ ich gehe nach Hause.",
+        "english": "The movie is boring, therefore I am going home.",
+        "options": ["deshalb", "weil", "denn", "aber"],
+        "correctIndex": 0,
+        "explanation": "'deshalb' gibt die Konsequenz an (hier mit umgangssprachlicher Hauptsatzanfügung oder Inversion)."
+      },
+      {
+        "id": 5106,
+        "question": "Ich habe keine Lust, ___ ich bin müde.",
+        "english": "I don't feel like it, for I am tired.",
+        "options": ["denn", "weil", "deshalb", "dass"],
+        "correctIndex": 0,
+        "explanation": "'denn' verbindet zwei Hauptsätze, ohne die Wortstellung zu verändern, und gibt den Grund an."
+      },
+      {
+        "id": 5107,
+        "question": "Morgen fahre ich in den Urlaub, ___ ich mich sehr freue.",
+        "english": "Tomorrow I go on vacation, about which I am really happy.",
+        "options": ["darüber", "über das", "darauf", "auf den"],
+        "correctIndex": 0,
+        "explanation": "'sich freuen über' + Akkusativ: 'darüber freue ich mich'."
+      },
+      {
+        "id": 5108,
+        "question": "Kannst du mir bitte ___?",
+        "english": "Can you please help me?",
+        "options": ["helfen", "hilfst", "hilft", "geholfen"],
+        "correctIndex": 0,
+        "explanation": "Nach dem Modalverb 'kannst' steht der Infinitiv 'helfen'."
+      },
+      {
+        "id": 5109,
+        "question": "Das ist das beste Buch, ___ ich je gelesen habe.",
+        "english": "That is the best book that I have ever read.",
+        "options": ["das", "der", "die", "den"],
+        "correctIndex": 0,
+        "explanation": "'Buch' ist neutral im Akkusativ → Relativpronomen 'das'."
+      },
+      {
+        "id": 5110,
+        "question": "Er ist gestern spät ins Bett ___.",
+        "english": "He went to bed late yesterday.",
+        "options": ["gegangen", "geht", "ging", "gehen"],
+        "correctIndex": 0,
+        "explanation": "Perfekt von gehen: 'ist ... gegangen'."
+      },
+      {
+        "id": 5111,
+        "question": "Ich trinke keinen Kaffee, ___ ich mag ihn nicht.",
+        "english": "I drink no coffee because I do not like it.",
+        "options": ["weil", "denn", "aber", "oder"],
+        "correctIndex": 0,
+        "explanation": "'weil' ist eine gängige Kausalverbindung für Gründe."
+      },
+      {
+        "id": 5112,
+        "question": "Das Buch gehört nicht mir, sondern ___.",
+        "english": "The book does not belong to me, but to you.",
+        "options": ["dir", "du", "dich", "dein"],
+        "correctIndex": 0,
+        "explanation": "'gehören' fordert den Dativ: 'dir'."
+      },
+      {
+        "id": 5113,
+        "question": "Ich habe vergessen, ___ Eier zu kaufen.",
+        "english": "I forgot to buy the eggs.",
+        "options": ["die", "der", "dem", "den"],
+        "correctIndex": 0,
+        "explanation": "'Eier' ist Plural Akkusativ: 'die Eier'."
+      },
+      {
+        "id": 5114,
+        "question": "Das Wetter ist heute besser ___ gestern.",
+        "english": "The weather today is better than yesterday.",
+        "options": ["als", "wie", "so", "denn"],
+        "correctIndex": 0,
+        "explanation": "Komparativ 'besser' verlangt 'als'."
+      },
+      {
+        "id": 5115,
+        "question": "___ du morgen kommst, gehen wir ins Museum.",
+        "english": "If you come tomorrow, we go to the museum.",
+        "options": ["Wenn", "Weil", "Dass", "Deshalb"],
+        "correctIndex": 0,
+        "explanation": "Bedingungssatz mit 'Wenn'."
+      },
+      {
+        "id": 5116,
+        "question": "Ich habe schon lange nicht mehr ___.",
+        "english": "I have not swum in a long time.",
+        "options": ["geschwommen", "schwimmen", "schwamm", "schwimmt"],
+        "correctIndex": 0,
+        "explanation": "Perfekt: 'Ich habe geschwommen.'"
+      },
+      {
+        "id": 5117,
+        "question": "Er ist so müde, dass er sofort ___.",
+        "english": "He is so tired that he immediately falls asleep.",
+        "options": ["einschläft", "einschlafen", "eingeschlafen", "schläft ein"],
+        "correctIndex": 0,
+        "explanation": "Nebensatz mit dass: 'dass er sofort einschläft' (Verb am Ende)."
+      },
+      {
+        "id": 5118,
+        "question": "Wir wollen am Wochenende ___.",
+        "english": "We want to hike on the weekend.",
+        "options": ["wandern", "wandert", "gewandert", "wandern zu"],
+        "correctIndex": 0,
+        "explanation": "Modalverb 'wollen' + reiner Infinitiv 'wandern'."
+      },
+      {
+        "id": 5119,
+        "question": "Hast du das Buch schon ___?",
+        "english": "Have you read the book already?",
+        "options": ["gelesen", "lesen", "liest", "lese"],
+        "correctIndex": 0,
+        "explanation": "Perfekt von lesen: 'hast du ... gelesen?'"
+      },
+      {
+        "id": 5120,
+        "question": "Ich habe meinen Schlüssel verloren, ___ ich jetzt nicht reinkomme.",
+        "english": "I lost my key, which is why I cannot get in now.",
+        "options": ["weshalb", "weil", "denn", "dass"],
+        "correctIndex": 0,
+        "explanation": "'weshalb' leitet einen konsekutiven Nebensatz mit Verb am Ende ein."
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "title": "Section C: Short Reading Comprehension (Q541–Q560)",
+    "description": "Read 10 authentic short German scenarios—ranging from course bookings and pet descriptions to train durations and grocery mathematics.",
+    "category": "Reading Comprehension",
+    "level": "A1",
+    "quizType": "multiple_choice",
+    "questions": [
+      {
+        "id": 5201,
+        "question": "Text: 'Maria kommt aus Spanien, aber sie lebt schon seit 3 Jahren in Berlin.' -> Woher kommt Maria?",
+        "english": "Text: Maria comes from Spain, but she has lived in Berlin for 3 years. -> Where does Maria come from?",
+        "options": ["Spanien.", "Deutschland.", "Frankreich.", "Italien."],
+        "correctIndex": 0,
+        "explanation": "'Maria kommt aus Spanien.'"
+      },
+      {
+        "id": 5202,
+        "question": "Text: 'Maria kommt aus Spanien, aber sie lebt schon seit 3 Jahren in Berlin.' -> Wie lange lebt sie schon in Berlin?",
+        "english": "How long has she lived in Berlin?",
+        "options": ["Seit 3 Jahren.", "Seit 2 Jahren.", "Seit 5 Jahren.", "Seit 1 Jahr."],
+        "correctIndex": 0,
+        "explanation": "'... seit 3 Jahren.'"
+      },
+      {
+        "id": 5203,
+        "question": "Text: 'Der Kurs kostet 200 Euro. Er beginnt am 1. September und dauert 4 Wochen.' -> Wie viel kostet der Kurs?",
+        "english": "Text: The course costs 200 Euros. It starts September 1st and lasts 4 weeks. -> How much is the course?",
+        "options": ["200 Euro.", "150 Euro.", "250 Euro.", "300 Euro."],
+        "correctIndex": 0,
+        "explanation": "'Der Kurs kostet 200 Euro.'"
+      },
+      {
+        "id": 5204,
+        "question": "Text: 'Der Kurs kostet 200 Euro. Er beginnt am 1. September und dauert 4 Wochen.' -> Wann beginnt der Kurs?",
+        "english": "When does the course begin?",
+        "options": ["Am 1. September.", "Am 1. August.", "Am 15. September.", "Am 1. Oktober."],
+        "correctIndex": 0,
+        "explanation": "'Er beginnt am 1. September.'"
+      },
+      {
+        "id": 5205,
+        "question": "Text: 'Ich mag Musik und spiele Gitarre. Aber ich kann nicht gut singen.' -> Was mag die Person?",
+        "english": "Text: I like music and play guitar. But I cannot sing well. -> What does the person like?",
+        "options": ["Musik.", "Bücher.", "Filme.", "Essen."],
+        "correctIndex": 0,
+        "explanation": "'Ich mag Musik.'"
+      },
+      {
+        "id": 5206,
+        "question": "Text: 'Ich mag Musik und spiele Gitarre. Aber ich kann nicht gut singen.' -> Kann die Person gut singen?",
+        "english": "Can the person sing well?",
+        "options": ["Nein.", "Ja.", "Nur manchmal.", "Sie weiß es nicht."],
+        "correctIndex": 0,
+        "explanation": "'Aber ich kann nicht gut singen.'"
+      },
+      {
+        "id": 5207,
+        "question": "Text: 'Morgen ist Samstag. Ich habe frei und gehe mit Freunden ins Kino.' -> Welcher Tag ist morgen?",
+        "english": "Text: Tomorrow is Saturday. I have the day off and am going to the cinema with friends. -> What day is tomorrow?",
+        "options": ["Samstag.", "Sonntag.", "Freitag.", "Montag."],
+        "correctIndex": 0,
+        "explanation": "'Morgen ist Samstag.'"
+      },
+      {
+        "id": 5208,
+        "question": "Text: 'Morgen ist Samstag. Ich habe frei und gehe mit Freunden ins Kino.' -> Was macht die Person morgen?",
+        "english": "What is the person doing tomorrow?",
+        "options": ["Ins Kino gehen.", "Zur Arbeit gehen.", "Nach Hause gehen.", "Ins Restaurant gehen."],
+        "correctIndex": 0,
+        "explanation": "'Ich... gehe mit Freunden ins Kino.'"
+      },
+      {
+        "id": 5209,
+        "question": "Text: 'Ich habe eine Katze und einen Hund. Der Hund heißt Bello und ist sehr freundlich.' -> Wie heißt der Hund?",
+        "english": "Text: I have a cat and a dog. The dog is called Bello and is very friendly. -> What is the dog's name?",
+        "options": ["Bello.", "Max.", "Mia.", "Luna."],
+        "correctIndex": 0,
+        "explanation": "'Der Hund heißt Bello.'"
+      },
+      {
+        "id": 5210,
+        "question": "Text: 'Ich habe eine Katze und einen Hund. Der Hund heißt Bello und ist sehr freundlich.' -> Wie ist der Hund?",
+        "english": "How is the dog's demeanor?",
+        "options": ["Freundlich.", "Aggressiv.", "Ängstlich.", "Laut."],
+        "correctIndex": 0,
+        "explanation": "'... und ist sehr freundlich.'"
+      },
+      {
+        "id": 5211,
+        "question": "Text: 'Das Wetter ist heute kalt und windig. Deshalb bleibe ich zu Hause.' -> Wie ist das Wetter?",
+        "english": "Text: The weather today is cold and windy. Therefore I stay home. -> How is the weather?",
+        "options": ["Kalt und windig.", "Warm und sonnig.", "Regnerisch.", "Schnee."],
+        "correctIndex": 0,
+        "explanation": "'... kalt und windig.'"
+      },
+      {
+        "id": 5212,
+        "question": "Text: 'Das Wetter ist heute kalt und windig. Deshalb bleibe ich zu Hause.' -> Warum bleibt die Person zu Hause?",
+        "english": "Why is the person staying home?",
+        "options": ["Weil das Wetter schlecht ist.", "Weil sie krank ist.", "Weil sie keine Zeit hat.", "Weil sie arbeiten muss."],
+        "correctIndex": 0,
+        "explanation": "Sie bleibt wegen des kalten und windigen Wetters ('Deshalb...') zu Hause."
+      },
+      {
+        "id": 5213,
+        "question": "Text: 'Ich brauche ein Kilo Äpfel und 500 Gramm Kartoffeln. Was kostet das zusammen?' (Preise: Äpfel 2€/kg, Kartoffeln 1€/500g) -> Wie viel kosten die Äpfel?",
+        "english": "What do the apples cost?",
+        "options": ["2 Euro.", "1 Euro.", "3 Euro.", "4 Euro."],
+        "correctIndex": 0,
+        "explanation": "1 kg Äpfel kostet 2 Euro laut Preisangabe."
+      },
+      {
+        "id": 5214,
+        "question": "Text: 'Ich brauche ein Kilo Äpfel und 500 Gramm Kartoffeln.' (Preise: Äpfel 2€/kg, Kartoffeln 1€/500g) -> Wie viel kostet alles zusammen?",
+        "english": "What is the total price for everything together?",
+        "options": ["3 Euro.", "2 Euro.", "4 Euro.", "5 Euro."],
+        "correctIndex": 0,
+        "explanation": "Äpfel (2 Euro) + Kartoffeln (1 Euro) = 3 Euro."
+      },
+      {
+        "id": 5215,
+        "question": "Text: 'Mein Bruder ist 25 und arbeitet als Ingenieur. Er verdient gut.' -> Wie alt ist der Bruder?",
+        "english": "Text: My brother is 25 and works as an engineer. He earns well. -> How old is the brother?",
+        "options": ["25.", "30.", "20.", "35."],
+        "correctIndex": 0,
+        "explanation": "'Mein Bruder ist 25.'"
+      },
+      {
+        "id": 5216,
+        "question": "Text: 'Mein Bruder ist 25 und arbeitet als Ingenieur. Er verdient gut.' -> Was ist er von Beruf?",
+        "english": "What is his profession?",
+        "options": ["Ingenieur.", "Arzt.", "Lehrer.", "Verkäufer."],
+        "correctIndex": 0,
+        "explanation": "'... arbeitet als Ingenieur.'"
+      },
+      {
+        "id": 5217,
+        "question": "Text: 'Der Zug nach Hamburg fährt um 16:30 Uhr. Er kommt um 19:00 Uhr an.' -> Wann fährt der Zug ab?",
+        "english": "Text: The train to Hamburg leaves at 16:30. It arrives at 19:00. -> When does the train depart?",
+        "options": ["Um 16:30 Uhr.", "Um 17:30 Uhr.", "Um 16:00 Uhr.", "Um 18:30 Uhr."],
+        "correctIndex": 0,
+        "explanation": "'Der Zug... fährt um 16:30 Uhr ab.'"
+      },
+      {
+        "id": 5218,
+        "question": "Text: 'Der Zug nach Hamburg fährt um 16:30 Uhr. Er kommt um 19:00 Uhr an.' -> Wie lange dauert die Fahrt?",
+        "english": "How long is the train ride?",
+        "options": ["2,5 Stunden.", "3 Stunden.", "2 Stunden.", "1,5 Stunden."],
+        "correctIndex": 0,
+        "explanation": "Von 16:30 bis 19:00 Uhr vergeben genau 2,5 Stunden."
+      },
+      {
+        "id": 5219,
+        "question": "Text: 'Ich habe am Samstag Geburtstag. Ich feiere mit meiner Familie.' -> Wann hat die Person Geburtstag?",
+        "english": "Text: I have my birthday on Saturday. I celebrate with my family. -> When is the birthday?",
+        "options": ["Am Samstag.", "Am Sonntag.", "Am Freitag.", "Am Montag."],
+        "correctIndex": 0,
+        "explanation": "'Ich habe am Samstag Geburtstag.'"
+      },
+      {
+        "id": 5220,
+        "question": "Text: 'Ich habe am Samstag Geburtstag. Ich feiere mit meiner Familie.' -> Mit wem feiert sie?",
+        "english": "With whom is she celebrating?",
+        "options": ["Mit ihrer Familie.", "Mit Freunden.", "Mit Kollegen.", "Allein."],
+        "correctIndex": 0,
+        "explanation": "'... mit meiner Familie.'"
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "title": "Section D: Mixed MCQs – Grammar, Vocabulary & Facts (Q561–Q600)",
+    "description": "Solidify A1 confidence with this 40-question general assessment covering perfet tense, plurals, ordinal expressions, numbers, and vocabulary opposites.",
+    "category": "General Grammar",
+    "level": "A1",
+    "quizType": "multiple_choice",
+    "questions": [
+      {
+        "id": 5301,
+        "question": "Wir ___ gestern im Park gewesen.",
+        "english": "We were in the park yesterday.",
+        "options": ["sind", "haben", "waren", "sein"],
+        "correctIndex": 0,
+        "explanation": "'Wir sind gewesen' – Perfekt von sein."
+      },
+      {
+        "id": 5302,
+        "question": "Das ist ___ Apfel.",
+        "english": "That is an apple.",
+        "options": ["ein", "eine", "einen", "einem"],
+        "correctIndex": 0,
+        "explanation": "'Apfel' ist maskulin im Nominativ → 'ein Apfel'."
+      },
+      {
+        "id": 5303,
+        "question": "Ich fahre ___ München.",
+        "english": "I am driving to Munich.",
+        "options": ["nach", "in", "zu", "bei"],
+        "correctIndex": 0,
+        "explanation": "Bei Städten ohne Artikel steht das Ziel mit 'nach': 'nach München'."
+      },
+      {
+        "id": 5304,
+        "question": "Heute ist der 2. Mai. – Wie schreibt man '2.' nach dem Artikel 'der'?",
+        "english": "Today is May 2nd. How do you spell '2.' in 'der 2. Mai'?",
+        "options": ["zweite", "zweiter", "zweites", "zweit"],
+        "correctIndex": 0,
+        "explanation": "'der zweite Mai' (mit schwacher Flexion nach bestimmtem Artikel 'der')."
+      },
+      {
+        "id": 5305,
+        "question": "Das Gegenteil von 'groß' ist:",
+        "english": "The opposite of 'groß' (large/big) is:",
+        "options": ["klein", "lang", "breit", "hoch"],
+        "correctIndex": 0,
+        "explanation": "Groß ⇔ klein."
+      },
+      {
+        "id": 5306,
+        "question": "Ich habe ___ Freunde in Berlin.",
+        "english": "I have no friends in Berlin.",
+        "options": ["kein", "keine", "nicht", "keinen"],
+        "correctIndex": 1,
+        "explanation": "'Freunde' im Plural → Akkusativ Plural 'keine Freunde'."
+      },
+      {
+        "id": 5307,
+        "question": "___ ich hier telefonieren?",
+        "english": "May I make a phone call here?",
+        "options": ["Darf", "Dürfe", "Darft", "Dürfen"],
+        "correctIndex": 0,
+        "explanation": "'Darf ich?' – 1. Person Singular von dürfen."
+      },
+      {
+        "id": 5308,
+        "question": "Ich helfe ___ Nachbarn.",
+        "english": "I help the neighbor.",
+        "options": ["dem", "den", "der", "die"],
+        "correctIndex": 0,
+        "explanation": "'helfen' fordert Dativ maskulin (bzw. n-Deklination Dativ Singular): 'dem Nachbarn'."
+      },
+      {
+        "id": 5309,
+        "question": "Er ___ mit dem Zug gekommen.",
+        "english": "He came by train.",
+        "options": ["ist", "hat", "war", "wird"],
+        "correctIndex": 0,
+        "explanation": "'kommen' ist ein Bewegungsverb → Perfekt mit 'ist ... gekommen'."
+      },
+      {
+        "id": 5310,
+        "question": "Ist das ___ Name? (formell)",
+        "english": "Is that your name? (formal)",
+        "options": ["Ihr", "Ihre", "Ihren", "Ihrs"],
+        "correctIndex": 0,
+        "explanation": "'Name' ist maskulin im Nominativ → formelles 'Ihr Name'."
+      },
+      {
+        "id": 5311,
+        "question": "___ Winter ist es kalt.",
+        "english": "In winter it is cold.",
+        "options": ["Im", "In", "Am", "Zu"],
+        "correctIndex": 0,
+        "explanation": "Jahreszeiten mit Dativ-Kontraktion 'im' (in dem Winter)."
+      },
+      {
+        "id": 5312,
+        "question": "Ich mag Pizza ___ Pasta.",
+        "english": "I like pizza and pasta.",
+        "options": ["und", "oder", "aber", "denn"],
+        "correctIndex": 0,
+        "explanation": "'und' (and) verbindet harmonisch zwei Speisen."
+      },
+      {
+        "id": 5313,
+        "question": "Der Zug ___ um 15 Uhr ___.",
+        "english": "The train departs at 3 PM.",
+        "options": ["fährt ... ab", "abfährt", "fährt ab", "ab ... fährt"],
+        "correctIndex": 0,
+        "explanation": "'abfahren' trennt sich: 'fährt ... ab'."
+      },
+      {
+        "id": 5314,
+        "question": "___ hast du nicht angerufen?",
+        "english": "Why did you not call?",
+        "options": ["Warum", "Wie", "Wo", "Wann"],
+        "correctIndex": 0,
+        "explanation": "'Warum' (why) erfragt den Grund."
+      },
+      {
+        "id": 5315,
+        "question": "___ wohnt deine Schwester?",
+        "english": "Where does your sister live?",
+        "options": ["Wo", "Wohin", "Woher", "Wie"],
+        "correctIndex": 0,
+        "explanation": "'Wo' erfragt den festen Wohnort."
+      },
+      {
+        "id": 5316,
+        "question": "___ du gut ohne Brille? (sehen)",
+        "english": "Do you see well without glasses?",
+        "options": ["Siehst", "Seht", "Sehe", "Sieht"],
+        "correctIndex": 0,
+        "explanation": "'du siehst' – Stammvokalwechsel e → ie in der 2. Person Singular."
+      },
+      {
+        "id": 5317,
+        "question": "Das ist der ___ Film. (spannendste / spannendsten / spannendster)",
+        "english": "That is the most thrilling movie.",
+        "options": ["spannendste", "spannendsten", "spannendster", "am spannendsten"],
+        "correctIndex": 0,
+        "explanation": "Superlativ im Nominativ nach bestimmtem Artikel maskulin: 'der spannendste Film'."
+      },
+      {
+        "id": 5318,
+        "question": "Er geht nicht ___ Brille aus dem Haus.",
+        "english": "He doesn't leave the house without glasses.",
+        "options": ["ohne", "mit", "bei", "für"],
+        "correctIndex": 0,
+        "explanation": "'ohne Brille' (without glasses)."
+      },
+      {
+        "id": 5319,
+        "question": "Du ___ mehr Obst essen. (sollen)",
+        "english": "You should eat more fruit.",
+        "options": ["sollst", "soll", "sollen", "sollt"],
+        "correctIndex": 0,
+        "explanation": "'du sollst' ist die 2. Person Singular von sollen."
+      },
+      {
+        "id": 5320,
+        "question": "Ich sehe ___. (du/dich/dir)",
+        "english": "I see you.",
+        "options": ["dich", "du", "dir", "dein"],
+        "correctIndex": 0,
+        "explanation": "'sehen' + Akkusativ: 'Ich sehe dich.'"
+      },
+      {
+        "id": 5321,
+        "question": "Das Geschenk ist für ___. (ich/mich/mir)",
+        "english": "The gift is for me.",
+        "options": ["mich", "ich", "mir", "mein"],
+        "correctIndex": 0,
+        "explanation": "'für' verlangt den Akkusativ: 'mich'."
+      },
+      {
+        "id": 5322,
+        "question": "Meine Mutter ___ eine neue Jacke.",
+        "english": "My mother has a new jacket.",
+        "options": ["hat", "habe", "hast", "haben"],
+        "correctIndex": 0,
+        "explanation": "3. Person Singular von haben: 'hat'."
+      },
+      {
+        "id": 5323,
+        "question": "Das Hotel ist ___ als das andere. (teurer / am teuersten / teuer)",
+        "english": "The hotel is more expensive than the other.",
+        "options": ["teurer", "am teuersten", "teuer", "teuere"],
+        "correctIndex": 0,
+        "explanation": "Komparativ von teuer vor 'als' ist 'teurer'."
+      },
+      {
+        "id": 5324,
+        "question": "Die Tasse steht ___ dem Tisch.",
+        "english": "The cup is standing on the table.",
+        "options": ["auf", "unter", "neben", "zwischen"],
+        "correctIndex": 0,
+        "explanation": "'auf dem Tisch' (on top of the table surface)."
+      },
+      {
+        "id": 5325,
+        "question": "Wir ___ gestern spazieren gegangen.",
+        "english": "We went for a walk yesterday.",
+        "options": ["sind", "haben", "waren", "sein"],
+        "correctIndex": 0,
+        "explanation": "spazieren gehen → Perfekt mit sein: 'sind ... gegangen'."
+      },
+      {
+        "id": 5326,
+        "question": "Welcher Artikel ist richtig für 'Handy'?",
+        "english": "Which article is correct for 'Handy'?",
+        "options": ["das Handy", "der Handy", "die Handy", "ein Handy"],
+        "correctIndex": 0,
+        "explanation": "'Handy' ist neutral → 'das Handy'."
+      },
+      {
+        "id": 5327,
+        "question": "Ist das ___ Bruder? (dein/deine/deinen)",
+        "english": "Is that your brother? (informal)",
+        "options": ["dein", "deine", "deinen", "deins"],
+        "correctIndex": 0,
+        "explanation": "'Bruder' ist maskulin Nominativ → 'dein Bruder'."
+      },
+      {
+        "id": 5328,
+        "question": "Du ___ hier nicht rauchen.",
+        "english": "You may not smoke here.",
+        "options": ["darfst", "darf", "dürft", "darft"],
+        "correctIndex": 0,
+        "explanation": "'du darfst' (dürfen für 2. Person Singular)."
+      },
+      {
+        "id": 5329,
+        "question": "Ich glaube, ___ er kommt.",
+        "english": "I believe that he is coming.",
+        "options": ["dass", "weil", "wenn", "denn"],
+        "correctIndex": 0,
+        "explanation": "Nebensatz mit 'dass' (that)."
+      },
+      {
+        "id": 5330,
+        "question": "Wie heißt 70 auf Deutsch?",
+        "english": "How do you say 70 in German?",
+        "options": ["siebzig", "siebenzig", "sechszig", "siebentzig"],
+        "correctIndex": 0,
+        "explanation": "Bei 70 fällt das 'en' von sieben weg: 'siebzig'."
+      },
+      {
+        "id": 5331,
+        "question": "Wie heißt der Plural von 'der Tisch'?",
+        "english": "What is the plural of 'der Tisch' (table)?",
+        "options": ["die Tische", "die Tischen", "der Tische", "der Tischen"],
+        "correctIndex": 0,
+        "explanation": "Plural mit -e: 'die Tische'."
+      },
+      {
+        "id": 5332,
+        "question": "Sie ___ acht Stunden. (schlafen)",
+        "english": "She sleeps eight hours.",
+        "options": ["schläft", "schlafst", "schlafen", "schlaft"],
+        "correctIndex": 0,
+        "explanation": "'Sie' (3. Person Singular) mit a → ä: 'schläft'."
+      },
+      {
+        "id": 5333,
+        "question": "Das ist das Haus ___ meinen Eltern.",
+        "english": "That is the house of my parents.",
+        "options": ["von", "für", "aus", "mit"],
+        "correctIndex": 0,
+        "explanation": "'von' (of/from) gibt das Besitzverhältnis mit Dativ an."
+      },
+      {
+        "id": 5334,
+        "question": "Ich habe ___ Arbeit als du. (mehr / viel / am meisten)",
+        "english": "I have more work than you.",
+        "options": ["mehr", "viel", "am meisten", "viele"],
+        "correctIndex": 0,
+        "explanation": "Komparativ von viel vor 'als' ist 'mehr'."
+      },
+      {
+        "id": 5335,
+        "question": "Der Bus war zu spät, ___ bin ich zu spät gekommen.",
+        "english": "The bus was late, therefore I arrived late.",
+        "options": ["deshalb", "weil", "dass", "wenn"],
+        "correctIndex": 0,
+        "explanation": "'deshalb' verknüpft Grund und Konsequenz mit Inversion (Verb an Position 2)."
+      },
+      {
+        "id": 5336,
+        "question": "Ich ___ heute noch lernen. (müssen)",
+        "english": "I must study today.",
+        "options": ["muss", "musst", "müssen", "müsst"],
+        "correctIndex": 0,
+        "explanation": "'ich muss' ist 1. Person Singular von müssen."
+      },
+      {
+        "id": 5337,
+        "question": "Das ist ___ schönes Haus.",
+        "english": "That is a beautiful house.",
+        "options": ["ein", "eine", "einen", "einem"],
+        "correctIndex": 0,
+        "explanation": "'Haus' ist neutral → 'ein schönes Haus'."
+      },
+      {
+        "id": 5338,
+        "question": "Der Kurs geht ___ August.",
+        "english": "The course runs until August.",
+        "options": ["bis", "ab", "seit", "für"],
+        "correctIndex": 0,
+        "explanation": "'bis' (until) benennt den Endzeitpunkt."
+      },
+      {
+        "id": 5339,
+        "question": "Wann ___ du am Bahnhof ___? (ankommen)",
+        "english": "When do you arrive at the station?",
+        "options": ["kommst ... an", "ankommst", "kommst an ...", "an ... kommst"],
+        "correctIndex": 0,
+        "explanation": "Trennbares Verb 'ankommen': 'Wann kommst du ... an?'"
+      },
+      {
+        "id": 5340,
+        "question": "Heute ___ ich zur Arbeit gegangen.",
+        "english": "Today I went to work.",
+        "options": ["bin", "habe", "war", "werde"],
+        "correctIndex": 0,
+        "explanation": "'gehen' bildet das Perfekt mit sein: 'Heute bin ich ... gegangen.'"
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "title": "🏆 Ultimate A1 Batch 6 Exam Simulator (Q501–Q600)",
+    "description": "The ultimate Batch 6 examination! Answer all 100 grammar, vocabulary, reading, and sentence-completion challenges in one comprehensive interactive mock test.",
+    "category": "Master Exam",
+    "level": "A1",
+    "quizType": "multiple_choice",
+    "questions": [
+      {
+        "id": 5501,
+        "question": "Ich ___ gut Englisch sprechen.",
+        "english": "I can speak English well.",
+        "options": ["kann", "kannst", "können", "könnt"],
+        "correctIndex": 0,
+        "explanation": "'ich kann'."
+      },
+      {
+        "id": 5502,
+        "question": "___ du ein Haustier?",
+        "english": "Do you have a pet?",
+        "options": ["Haben", "Hast", "Hat", "Habt"],
+        "correctIndex": 1,
+        "explanation": "'Hast du'."
+      },
+      {
+        "id": 5503,
+        "question": "___ Montag habe ich einen Termin.",
+        "english": "On Monday I have an appointment.",
+        "options": ["In", "Am", "Um", "Auf"],
+        "correctIndex": 1,
+        "explanation": "'Am Montag'."
+      },
+      {
+        "id": 5504,
+        "question": "Das ist ___ schöne Blume.",
+        "english": "This is a pretty flower.",
+        "options": ["ein", "eine", "einen", "einem"],
+        "correctIndex": 1,
+        "explanation": "'eine schöne Blume'."
+      },
+      {
+        "id": 5505,
+        "question": "Ich ___ dich morgen ___. (anrufen)",
+        "english": "I will call you tomorrow.",
+        "options": ["rufe ... an", "anrufe", "rufe an", "an ... rufe"],
+        "correctIndex": 0,
+        "explanation": "'rufe ... an'."
+      },
+      {
+        "id": 5506,
+        "question": "Das ist ___ mein Buch.",
+        "english": "That is not my book.",
+        "options": ["kein", "nicht", "keine", "keinen"],
+        "correctIndex": 1,
+        "explanation": "'nicht mein Buch'."
+      },
+      {
+        "id": 5507,
+        "question": "Meine Eltern ___ im Urlaub.",
+        "english": "My parents are on vacation.",
+        "options": ["sind", "sein", "seid", "bist"],
+        "correctIndex": 0,
+        "explanation": "'sind'."
+      },
+      {
+        "id": 5508,
+        "question": "Ich wohne ___ meiner Schwester.",
+        "english": "I live with my sister.",
+        "options": ["bei", "zu", "nach", "mit"],
+        "correctIndex": 0,
+        "explanation": "'bei meiner Schwester'."
+      },
+      {
+        "id": 5509,
+        "question": "Das ist ___ Haus. (unser/unsere/unseren)",
+        "english": "That is our house.",
+        "options": ["unser", "unsere", "unseren", "unsers"],
+        "correctIndex": 0,
+        "explanation": "'unser Haus'."
+      },
+      {
+        "id": 5510,
+        "question": "Du ___ pünktlich sein.",
+        "english": "You must be on time.",
+        "options": ["musst", "muss", "müssen", "müsst"],
+        "correctIndex": 0,
+        "explanation": "'du musst'."
+      },
+      {
+        "id": 5511,
+        "question": "Deine Note ist ___ als meine. (besser/beste/gut)",
+        "english": "Your grade is better than mine.",
+        "options": ["besser", "beste", "gut", "am besten"],
+        "correctIndex": 0,
+        "explanation": "'besser als'."
+      },
+      {
+        "id": 5512,
+        "question": "Kannst du ___ das Buch geben? (mir/mich/ich)",
+        "english": "Can you give me the book?",
+        "options": ["mir", "mich", "ich", "mein"],
+        "correctIndex": 0,
+        "explanation": "'mir'."
+      },
+      {
+        "id": 5513,
+        "question": "Ich ___ gestern einen Brief geschrieben.",
+        "english": "I wrote a letter yesterday.",
+        "options": ["habe", "bin", "war", "werde"],
+        "correctIndex": 0,
+        "explanation": "'habe ... geschrieben'."
+      },
+      {
+        "id": 5514,
+        "question": "Ich gehe ___ Kino.",
+        "english": "I go to the movies.",
+        "options": ["in", "im", "ins", "in dem"],
+        "correctIndex": 2,
+        "explanation": "'ins Kino'."
+      },
+      {
+        "id": 5515,
+        "question": "Ich gehe nicht zur Party, ___ ich keine Lust habe.",
+        "english": "I am not going because I don't feel like it.",
+        "options": ["weil", "denn", "dass", "wenn"],
+        "correctIndex": 0,
+        "explanation": "'weil'."
+      },
+      {
+        "id": 5516,
+        "question": "Ich gebe ___ Kind ein Geschenk.",
+        "english": "I give the child a present.",
+        "options": ["dem", "den", "der", "das"],
+        "correctIndex": 0,
+        "explanation": "'dem Kind'."
+      },
+      {
+        "id": 5517,
+        "question": "Das Essen schmeckt ___. (am besten / beste / besser)",
+        "english": "The food tastes best.",
+        "options": ["am besten", "beste", "besser", "am beste"],
+        "correctIndex": 0,
+        "explanation": "'am besten'."
+      },
+      {
+        "id": 5518,
+        "question": "___ der Arbeit gehe ich nach Hause.",
+        "english": "After work I go home.",
+        "options": ["Nach", "In", "Zu", "Bei"],
+        "correctIndex": 0,
+        "explanation": "'Nach der Arbeit'."
+      },
+      {
+        "id": 5519,
+        "question": "Ich ___ heute Abend ___. (fernsehen)",
+        "english": "I watch TV tonight.",
+        "options": ["sehe ... fern", "fernsehe", "sehe fern", "fern ... sehe"],
+        "correctIndex": 0,
+        "explanation": "'sehe ... fern'."
+      },
+      {
+        "id": 5520,
+        "question": "Ich ___ morgen früh aufstehen. (wollen)",
+        "english": "I want to wake up early tomorrow.",
+        "options": ["will", "willst", "wollen", "wollt"],
+        "correctIndex": 0,
+        "explanation": "'ich will'."
+      },
+      {
+        "id": 5521,
+        "question": "Ich mag Brot, ___ ich esse es nicht oft.",
+        "english": "I like bread, but I do not eat it often.",
+        "options": ["aber", "denn", "weil", "oder"],
+        "correctIndex": 0,
+        "explanation": "'aber'."
+      },
+      {
+        "id": 5522,
+        "question": "Kannst du mir sagen, ___?",
+        "english": "Can you tell me where the station is?",
+        "options": ["wo der Bahnhof ist", "wo ist der Bahnhof", "der Bahnhof wo ist", "ist wo der Bahnhof"],
+        "correctIndex": 0,
+        "explanation": "'wo der Bahnhof ist'."
+      },
+      {
+        "id": 5523,
+        "question": "Ich lerne Deutsch, weil ich in Österreich ___.",
+        "english": "I study German because I want to study in Austria.",
+        "options": ["studieren will", "will studieren", "studiere will", "will studiere"],
+        "correctIndex": 0,
+        "explanation": "'studieren will'."
+      },
+      {
+        "id": 5524,
+        "question": "Meine Schwester ist jünger ___ ich.",
+        "english": "My sister is younger than me.",
+        "options": ["als", "wie", "so", "denn"],
+        "correctIndex": 0,
+        "explanation": "'als'."
+      },
+      {
+        "id": 5525,
+        "question": "Der Film ist langweilig, ___ ich gehe nach Hause.",
+        "english": "The film is boring, therefore I go home.",
+        "options": ["deshalb", "weil", "denn", "aber"],
+        "correctIndex": 0,
+        "explanation": "'deshalb'."
+      },
+      {
+        "id": 5526,
+        "question": "Ich habe keine Lust, ___ ich bin müde.",
+        "english": "I have no desire, for I am tired.",
+        "options": ["denn", "weil", "deshalb", "dass"],
+        "correctIndex": 0,
+        "explanation": "'denn'."
+      },
+      {
+        "id": 5527,
+        "question": "Morgen fahre ich in den Urlaub, ___ ich mich sehr freue.",
+        "english": "Tomorrow I go on vacation, which I am happy about.",
+        "options": ["darüber", "über das", "darauf", "auf den"],
+        "correctIndex": 0,
+        "explanation": "'darüber'."
+      },
+      {
+        "id": 5528,
+        "question": "Kannst du mir bitte ___?",
+        "english": "Can you please help me?",
+        "options": ["helfen", "hilfst", "hilft", "geholfen"],
+        "correctIndex": 0,
+        "explanation": "'helfen'."
+      },
+      {
+        "id": 5529,
+        "question": "Das ist das beste Buch, ___ ich je gelesen habe.",
+        "english": "That is the best book I have ever read.",
+        "options": ["das", "der", "die", "den"],
+        "correctIndex": 0,
+        "explanation": "'das'."
+      },
+      {
+        "id": 5530,
+        "question": "Er ist gestern spät ins Bett ___.",
+        "english": "He went to bed late yesterday.",
+        "options": ["gegangen", "geht", "ging", "gehen"],
+        "correctIndex": 0,
+        "explanation": "'ist ... gegangen'."
+      },
+      {
+        "id": 5531,
+        "question": "Ich trinke keinen Kaffee, ___ ich mag ihn nicht.",
+        "english": "I drink no coffee because I dislike it.",
+        "options": ["weil", "denn", "aber", "oder"],
+        "correctIndex": 0,
+        "explanation": "'weil'."
+      },
+      {
+        "id": 5532,
+        "question": "Das Buch gehört nicht mir, sondern ___.",
+        "english": "The book belongs to you, not me.",
+        "options": ["dir", "du", "dich", "dein"],
+        "correctIndex": 0,
+        "explanation": "'dir'."
+      },
+      {
+        "id": 5533,
+        "question": "Ich habe vergessen, ___ Eier zu kaufen.",
+        "english": "I forgot to buy eggs.",
+        "options": ["die", "der", "dem", "den"],
+        "correctIndex": 0,
+        "explanation": "'die Eier'."
+      },
+      {
+        "id": 5534,
+        "question": "Das Wetter ist heute besser ___ gestern.",
+        "english": "Weather is better than yesterday.",
+        "options": ["als", "wie", "so", "denn"],
+        "correctIndex": 0,
+        "explanation": "'als'."
+      },
+      {
+        "id": 5535,
+        "question": "___ du morgen kommst, gehen wir ins Museum.",
+        "english": "If you come tomorrow, we go to the museum.",
+        "options": ["Wenn", "Weil", "Dass", "Deshalb"],
+        "correctIndex": 0,
+        "explanation": "'Wenn'."
+      },
+      {
+        "id": 5536,
+        "question": "Ich habe schon lange nicht mehr ___.",
+        "english": "I haven't swum in a long time.",
+        "options": ["geschwommen", "schwimmen", "schwamm", "schwimmt"],
+        "correctIndex": 0,
+        "explanation": "'geschwommen'."
+      },
+      {
+        "id": 5537,
+        "question": "Er ist so müde, dass er sofort ___.",
+        "english": "He is so tired that he falls asleep at once.",
+        "options": ["einschläft", "einschlafen", "eingeschlafen", "schläft ein"],
+        "correctIndex": 0,
+        "explanation": "'einschläft'."
+      },
+      {
+        "id": 5538,
+        "question": "Wir wollen am Wochenende ___.",
+        "english": "We want to hike on the weekend.",
+        "options": ["wandern", "wandert", "gewandert", "wandern zu"],
+        "correctIndex": 0,
+        "explanation": "'wandern'."
+      },
+      {
+        "id": 5539,
+        "question": "Hast du das Buch schon ___?",
+        "english": "Have you read the book?",
+        "options": ["gelesen", "lesen", "liest", "lese"],
+        "correctIndex": 0,
+        "explanation": "'gelesen'."
+      },
+      {
+        "id": 5540,
+        "question": "Ich habe meinen Schlüssel verloren, ___ ich jetzt nicht reinkomme.",
+        "english": "I lost my key, hence I can't get in.",
+        "options": ["weshalb", "weil", "denn", "dass"],
+        "correctIndex": 0,
+        "explanation": "'weshalb'."
+      },
+      {
+        "id": 5541,
+        "question": "Text: 'Maria kommt aus Spanien, aber sie lebt schon seit 3 Jahren in Berlin.' -> Woher kommt Maria?",
+        "english": "Where does Maria come from?",
+        "options": ["Spanien.", "Deutschland.", "Frankreich.", "Italien."],
+        "correctIndex": 0,
+        "explanation": "'Spanien.'"
+      },
+      {
+        "id": 5542,
+        "question": "Text: 'Maria kommt aus Spanien, aber sie lebt schon seit 3 Jahren in Berlin.' -> Wie lange lebt sie schon in Berlin?",
+        "english": "How long in Berlin?",
+        "options": ["Seit 3 Jahren.", "Seit 2 Jahren.", "Seit 5 Jahren.", "Seit 1 Jahr."],
+        "correctIndex": 0,
+        "explanation": "'Seit 3 Jahren.'"
+      },
+      {
+        "id": 5543,
+        "question": "Text: 'Der Kurs kostet 200 Euro. Er beginnt am 1. September und dauert 4 Wochen.' -> Wie viel kostet der Kurs?",
+        "english": "How much does the course cost?",
+        "options": ["200 Euro.", "150 Euro.", "250 Euro.", "300 Euro."],
+        "correctIndex": 0,
+        "explanation": "'200 Euro.'"
+      },
+      {
+        "id": 5544,
+        "question": "Text: 'Der Kurs kostet 200 Euro. Er beginnt am 1. September und dauert 4 Wochen.' -> Wann beginnt der Kurs?",
+        "english": "When does it begin?",
+        "options": ["Am 1. September.", "Am 1. August.", "Am 15. September.", "Am 1. Oktober."],
+        "correctIndex": 0,
+        "explanation": "'Am 1. September.'"
+      },
+      {
+        "id": 5545,
+        "question": "Text: 'Ich mag Musik und spiele Gitarre. Aber ich kann nicht gut singen.' -> Was mag die Person?",
+        "english": "What does the person like?",
+        "options": ["Musik.", "Bücher.", "Filme.", "Essen."],
+        "correctIndex": 0,
+        "explanation": "'Musik.'"
+      },
+      {
+        "id": 5546,
+        "question": "Text: 'Ich mag Musik und spiele Gitarre. Aber ich kann nicht gut singen.' -> Kann die Person gut singen?",
+        "english": "Can they sing well?",
+        "options": ["Nein.", "Ja.", "Nur manchmal.", "Sie weiß es nicht."],
+        "correctIndex": 0,
+        "explanation": "'Nein.'"
+      },
+      {
+        "id": 5547,
+        "question": "Text: 'Morgen ist Samstag. Ich habe frei und gehe mit Freunden ins Kino.' -> Welcher Tag ist morgen?",
+        "english": "What day is tomorrow?",
+        "options": ["Samstag.", "Sonntag.", "Freitag.", "Montag."],
+        "correctIndex": 0,
+        "explanation": "'Samstag.'"
+      },
+      {
+        "id": 5548,
+        "question": "Text: 'Morgen ist Samstag. Ich habe frei und gehe mit Freunden ins Kino.' -> Was macht die Person morgen?",
+        "english": "What will they do?",
+        "options": ["Ins Kino gehen.", "Zur Arbeit gehen.", "Nach Hause gehen.", "Ins Restaurant gehen."],
+        "correctIndex": 0,
+        "explanation": "'Ins Kino gehen.'"
+      },
+      {
+        "id": 5549,
+        "question": "Text: 'Ich habe eine Katze und einen Hund. Der Hund heißt Bello und ist sehr freundlich.' -> Wie heißt der Hund?",
+        "english": "Dog's name?",
+        "options": ["Bello.", "Max.", "Mia.", "Luna."],
+        "correctIndex": 0,
+        "explanation": "'Bello.'"
+      },
+      {
+        "id": 5550,
+        "question": "Text: 'Ich habe eine Katze und einen Hund. Der Hund heißt Bello und ist sehr freundlich.' -> Wie ist der Hund?",
+        "english": "How is the dog?",
+        "options": ["Freundlich.", "Aggressiv.", "Ängstlich.", "Laut."],
+        "correctIndex": 0,
+        "explanation": "'Freundlich.'"
+      },
+      {
+        "id": 5551,
+        "question": "Text: 'Das Wetter ist heute kalt und windig. Deshalb bleibe ich zu Hause.' -> Wie ist das Wetter?",
+        "english": "Weather today?",
+        "options": ["Kalt und windig.", "Warm und sonnig.", "Regnerisch.", "Schnee."],
+        "correctIndex": 0,
+        "explanation": "'Kalt und windig.'"
+      },
+      {
+        "id": 5552,
+        "question": "Text: 'Das Wetter ist heute kalt und windig. Deshalb bleibe ich zu Hause.' -> Warum bleibt die Person zu Hause?",
+        "english": "Why stay home?",
+        "options": ["Weil das Wetter schlecht ist.", "Weil sie krank ist.", "Weil sie keine Zeit hat.", "Weil sie arbeiten muss."],
+        "correctIndex": 0,
+        "explanation": "'Weil das Wetter schlecht ist.'"
+      },
+      {
+        "id": 5553,
+        "question": "Text: 'Ich brauche ein Kilo Äpfel und 500 Gramm Kartoffeln.' (Preise: Äpfel 2€/kg, Kartoffeln 1€/500g) -> Wie viel kosten die Äpfel?",
+        "english": "Cost of apples?",
+        "options": ["2 Euro.", "1 Euro.", "3 Euro.", "4 Euro."],
+        "correctIndex": 0,
+        "explanation": "'2 Euro.'"
+      },
+      {
+        "id": 5554,
+        "question": "Text: 'Ich brauche ein Kilo Äpfel und 500 Gramm Kartoffeln.' (Preise: Äpfel 2€/kg, Kartoffeln 1€/500g) -> Wie viel kostet alles zusammen?",
+        "english": "Total cost?",
+        "options": ["3 Euro.", "2 Euro.", "4 Euro.", "5 Euro."],
+        "correctIndex": 0,
+        "explanation": "'3 Euro.'"
+      },
+      {
+        "id": 5555,
+        "question": "Text: 'Mein Bruder ist 25 und arbeitet als Ingenieur. Er verdient gut.' -> Wie alt ist der Bruder?",
+        "english": "Brother's age?",
+        "options": ["25.", "30.", "20.", "35."],
+        "correctIndex": 0,
+        "explanation": "'25.'"
+      },
+      {
+        "id": 5556,
+        "question": "Text: 'Mein Bruder ist 25 und arbeitet als Ingenieur. Er verdient gut.' -> Was ist er von Beruf?",
+        "english": "His profession?",
+        "options": ["Ingenieur.", "Arzt.", "Lehrer.", "Verkäufer."],
+        "correctIndex": 0,
+        "explanation": "'Ingenieur.'"
+      },
+      {
+        "id": 5557,
+        "question": "Text: 'Der Zug nach Hamburg fährt um 16:30 Uhr. Er kommt um 19:00 Uhr an.' -> Wann fährt der Zug ab?",
+        "english": "Departure time?",
+        "options": ["Um 16:30 Uhr.", "Um 17:30 Uhr.", "Um 16:00 Uhr.", "Um 18:30 Uhr."],
+        "correctIndex": 0,
+        "explanation": "'Um 16:30 Uhr.'"
+      },
+      {
+        "id": 5558,
+        "question": "Text: 'Der Zug nach Hamburg fährt um 16:30 Uhr. Er kommt um 19:00 Uhr an.' -> Wie lange dauert die Fahrt?",
+        "english": "Duration of ride?",
+        "options": ["2,5 Stunden.", "3 Stunden.", "2 Stunden.", "1,5 Stunden."],
+        "correctIndex": 0,
+        "explanation": "'2,5 Stunden.'"
+      },
+      {
+        "id": 5559,
+        "question": "Text: 'Ich habe am Samstag Geburtstag. Ich feiere mit meiner Familie.' -> Wann hat die Person Geburtstag?",
+        "english": "When is birthday?",
+        "options": ["Am Samstag.", "Am Sonntag.", "Am Freitag.", "Am Montag."],
+        "correctIndex": 0,
+        "explanation": "'Am Samstag.'"
+      },
+      {
+        "id": 5560,
+        "question": "Text: 'Ich habe am Samstag Geburtstag. Ich feiere mit meiner Familie.' -> Mit wem feiert sie?",
+        "english": "With whom celebrate?",
+        "options": ["Mit ihrer Familie.", "Mit Freunden.", "Mit Kollegen.", "Allein."],
+        "correctIndex": 0,
+        "explanation": "'Mit ihrer Familie.'"
+      },
+      {
+        "id": 5561,
+        "question": "Wir ___ gestern im Park gewesen.",
+        "english": "We were in the park yesterday.",
+        "options": ["sind", "haben", "waren", "sein"],
+        "correctIndex": 0,
+        "explanation": "'sind gewesen'."
+      },
+      {
+        "id": 5562,
+        "question": "Das ist ___ Apfel.",
+        "english": "That is an apple.",
+        "options": ["ein", "eine", "einen", "einem"],
+        "correctIndex": 0,
+        "explanation": "'ein Apfel'."
+      },
+      {
+        "id": 5563,
+        "question": "Ich fahre ___ München.",
+        "english": "I drive to Munich.",
+        "options": ["nach", "in", "zu", "bei"],
+        "correctIndex": 0,
+        "explanation": "'nach München'."
+      },
+      {
+        "id": 5564,
+        "question": "Heute ist der 2. Mai. – Wie schreibt man '2.' nach dem Artikel 'der'?",
+        "english": "How to write '2.' after 'der'?",
+        "options": ["zweite", "zweiter", "zweites", "zweit"],
+        "correctIndex": 0,
+        "explanation": "'der zweite'."
+      },
+      {
+        "id": 5565,
+        "question": "Das Gegenteil von 'groß' ist:",
+        "english": "Opposite of large:",
+        "options": ["klein", "lang", "breit", "hoch"],
+        "correctIndex": 0,
+        "explanation": "'klein'."
+      },
+      {
+        "id": 5566,
+        "question": "Ich habe ___ Freunde in Berlin.",
+        "english": "No friends in Berlin.",
+        "options": ["kein", "keine", "nicht", "keinen"],
+        "correctIndex": 1,
+        "explanation": "'keine Freunde'."
+      },
+      {
+        "id": 5567,
+        "question": "___ ich hier telefonieren?",
+        "english": "May I call here?",
+        "options": ["Darf", "Dürfe", "Darft", "Dürfen"],
+        "correctIndex": 0,
+        "explanation": "'Darf ich'."
+      },
+      {
+        "id": 5568,
+        "question": "Ich helfe ___ Nachbarn.",
+        "english": "I help the neighbor.",
+        "options": ["dem", "den", "der", "die"],
+        "correctIndex": 0,
+        "explanation": "'dem Nachbarn'."
+      },
+      {
+        "id": 5569,
+        "question": "Er ___ mit dem Zug gekommen.",
+        "english": "He came by train.",
+        "options": ["ist", "hat", "war", "wird"],
+        "correctIndex": 0,
+        "explanation": "'ist ... gekommen'."
+      },
+      {
+        "id": 5570,
+        "question": "Ist das ___ Name? (formell)",
+        "english": "Is that your name?",
+        "options": ["Ihr", "Ihre", "Ihren", "Ihrs"],
+        "correctIndex": 0,
+        "explanation": "'Ihr Name'."
+      },
+      {
+        "id": 5571,
+        "question": "___ Winter ist es kalt.",
+        "english": "In winter it is cold.",
+        "options": ["Im", "In", "Am", "Zu"],
+        "correctIndex": 0,
+        "explanation": "'Im Winter'."
+      },
+      {
+        "id": 5572,
+        "question": "Ich mag Pizza ___ Pasta.",
+        "english": "I like pizza and pasta.",
+        "options": ["und", "oder", "aber", "denn"],
+        "correctIndex": 0,
+        "explanation": "'und'."
+      },
+      {
+        "id": 5573,
+        "question": "Der Zug ___ um 15 Uhr ___.",
+        "english": "Train departs at 3 PM.",
+        "options": ["fährt ... ab", "abfährt", "fährt ab", "ab ... fährt"],
+        "correctIndex": 0,
+        "explanation": "'fährt ... ab'."
+      },
+      {
+        "id": 5574,
+        "question": "___ hast du nicht angerufen?",
+        "english": "Why didn't you call?",
+        "options": ["Warum", "Wie", "Wo", "Wann"],
+        "correctIndex": 0,
+        "explanation": "'Warum'."
+      },
+      {
+        "id": 5575,
+        "question": "___ wohnt deine Schwester?",
+        "english": "Where does your sister live?",
+        "options": ["Wo", "Wohin", "Woher", "Wie"],
+        "correctIndex": 0,
+        "explanation": "'Wo'."
+      },
+      {
+        "id": 5576,
+        "question": "___ du gut ohne Brille? (sehen)",
+        "english": "Do you see well without glasses?",
+        "options": ["Siehst", "Seht", "Sehe", "Sieht"],
+        "correctIndex": 0,
+        "explanation": "'Siehst du'."
+      },
+      {
+        "id": 5577,
+        "question": "Das ist der ___ Film. (spannendste / spannendsten / spannendster)",
+        "english": "Most exciting movie.",
+        "options": ["spannendste", "spannendsten", "spannendster", "am spannendsten"],
+        "correctIndex": 0,
+        "explanation": "'der spannendste Film'."
+      },
+      {
+        "id": 5578,
+        "question": "Er geht nicht ___ Brille aus dem Haus.",
+        "english": "He does not go without glasses.",
+        "options": ["ohne", "mit", "bei", "für"],
+        "correctIndex": 0,
+        "explanation": "'ohne'."
+      },
+      {
+        "id": 5579,
+        "question": "Du ___ mehr Obst essen. (sollen)",
+        "english": "You should eat more fruit.",
+        "options": ["sollst", "soll", "sollen", "sollt"],
+        "correctIndex": 0,
+        "explanation": "'du sollst'."
+      },
+      {
+        "id": 5580,
+        "question": "Ich sehe ___. (du/dich/dir)",
+        "english": "I see you.",
+        "options": ["dich", "du", "dir", "dein"],
+        "correctIndex": 0,
+        "explanation": "'dich'."
+      },
+      {
+        "id": 5581,
+        "question": "Das Geschenk ist für ___. (ich/mich/mir)",
+        "english": "The gift is for me.",
+        "options": ["mich", "ich", "mir", "mein"],
+        "correctIndex": 0,
+        "explanation": "'für mich'."
+      },
+      {
+        "id": 5582,
+        "question": "Meine Mutter ___ eine neue Jacke.",
+        "english": "My mother has a jacket.",
+        "options": ["hat", "habe", "hast", "haben"],
+        "correctIndex": 0,
+        "explanation": "'hat'."
+      },
+      {
+        "id": 5583,
+        "question": "Das Hotel ist ___ als das andere. (teurer / am teuersten / teuer)",
+        "english": "More expensive hotel.",
+        "options": ["teurer", "am teuersten", "teuer", "teuere"],
+        "correctIndex": 0,
+        "explanation": "'teurer als'."
+      },
+      {
+        "id": 5584,
+        "question": "Die Tasse steht ___ dem Tisch.",
+        "english": "The cup is on the table.",
+        "options": ["auf", "unter", "neben", "zwischen"],
+        "correctIndex": 0,
+        "explanation": "'auf dem Tisch'."
+      },
+      {
+        "id": 5585,
+        "question": "Wir ___ gestern spazieren gegangen.",
+        "english": "We went walking yesterday.",
+        "options": ["sind", "haben", "waren", "sein"],
+        "correctIndex": 0,
+        "explanation": "'sind ... gegangen'."
+      },
+      {
+        "id": 5586,
+        "question": "Welcher Artikel ist richtig für 'Handy'?",
+        "english": "Article for phone:",
+        "options": ["das Handy", "der Handy", "die Handy", "ein Handy"],
+        "correctIndex": 0,
+        "explanation": "'das Handy'."
+      },
+      {
+        "id": 5587,
+        "question": "Ist das ___ Bruder? (dein/deine/deinen)",
+        "english": "Is that your brother?",
+        "options": ["dein", "deine", "deinen", "deins"],
+        "correctIndex": 0,
+        "explanation": "'dein Bruder'."
+      },
+      {
+        "id": 5588,
+        "question": "Du ___ hier nicht rauchen.",
+        "english": "You may not smoke here.",
+        "options": ["darfst", "darf", "dürft", "darft"],
+        "correctIndex": 0,
+        "explanation": "'du darfst nicht'."
+      },
+      {
+        "id": 5589,
+        "question": "Ich glaube, ___ er kommt.",
+        "english": "I believe that he comes.",
+        "options": ["dass", "weil", "wenn", "denn"],
+        "correctIndex": 0,
+        "explanation": "'dass'."
+      },
+      {
+        "id": 5590,
+        "question": "Wie heißt 70 auf Deutsch?",
+        "english": "70 in German?",
+        "options": ["siebzig", "siebenzig", "sechszig", "siebentzig"],
+        "correctIndex": 0,
+        "explanation": "'siebzig'."
+      },
+      {
+        "id": 5591,
+        "question": "Wie heißt der Plural von 'der Tisch'?",
+        "english": "Plural of table:",
+        "options": ["die Tische", "die Tischen", "der Tische", "der Tischen"],
+        "correctIndex": 0,
+        "explanation": "'die Tische'."
+      },
+      {
+        "id": 5592,
+        "question": "Sie ___ acht Stunden. (schlafen)",
+        "english": "She sleeps 8 hours.",
+        "options": ["schläft", "schlafst", "schlafen", "schlaft"],
+        "correctIndex": 0,
+        "explanation": "'sie schläft'."
+      },
+      {
+        "id": 5593,
+        "question": "Das ist das Haus ___ meinen Eltern.",
+        "english": "House of my parents.",
+        "options": ["von", "für", "aus", "mit"],
+        "correctIndex": 0,
+        "explanation": "'von meinen Eltern'."
+      },
+      {
+        "id": 5594,
+        "question": "Ich habe ___ Arbeit als du. (mehr / viel / am meisten)",
+        "english": "More work than you.",
+        "options": ["mehr", "viel", "am meisten", "viele"],
+        "correctIndex": 0,
+        "explanation": "'mehr als'."
+      },
+      {
+        "id": 5595,
+        "question": "Der Bus war zu spät, ___ bin ich zu spät gekommen.",
+        "english": "Bus late, therefore I came late.",
+        "options": ["deshalb", "weil", "dass", "wenn"],
+        "correctIndex": 0,
+        "explanation": "'deshalb'."
+      },
+      {
+        "id": 5596,
+        "question": "Ich ___ heute noch lernen. (müssen)",
+        "english": "I must study today.",
+        "options": ["muss", "musst", "müssen", "müsst"],
+        "correctIndex": 0,
+        "explanation": "'ich muss'."
+      },
+      {
+        "id": 5597,
+        "question": "Das ist ___ schönes Haus.",
+        "english": "That is a beautiful house.",
+        "options": ["ein", "eine", "einen", "einem"],
+        "correctIndex": 0,
+        "explanation": "'ein schönes Haus'."
+      },
+      {
+        "id": 5598,
+        "question": "Der Kurs geht ___ August.",
+        "english": "Course until August.",
+        "options": ["bis", "ab", "seit", "für"],
+        "correctIndex": 0,
+        "explanation": "'bis August'."
+      },
+      {
+        "id": 5599,
+        "question": "Wann ___ du am Bahnhof ___? (ankommen)",
+        "english": "When do you arrive at the station?",
+        "options": ["kommst ... an", "ankommst", "kommst an ...", "an ... kommst"],
+        "correctIndex": 0,
+        "explanation": "'kommst ... an'."
+      },
+      {
+        "id": 5600,
+        "question": "Heute ___ ich zur Arbeit gegangen.",
+        "english": "Today I walked to work.",
+        "options": ["bin", "habe", "war", "werde"],
+        "correctIndex": 0,
+        "explanation": "'bin ... gegangen'."
+      }
+    ]
+  }
+]

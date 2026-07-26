@@ -1,0 +1,50 @@
+# Dependencies
+**/node_modules/
+.pnp
+.pnp.*
+.yarn/*
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/versions
+
+# Next.js & Turborepo build output
+**/.next/
+**/.turbo/
+**/out/
+**/build/
+**/dist/
+**/*.tsbuildinfo
+
+# Database & Environment variables
+**/*.db
+**/*.db-journal
+dev.db
+dev.db-journal
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+**/.env
+**/.env*.local
+!**/.env.example
+
+# Logs & Debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+**/*.log
+
+# OS & Editor configurations
+.DS_Store
+*.pem
+.vercel/
+.idea/
+.vscode/
+*.swp
+
+# Temporary & Scratch outputs
+stderr.txt
+stdout.txt

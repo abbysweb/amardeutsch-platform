@@ -1,0 +1,1992 @@
+[
+  {
+    "id": 1,
+    "title": "Word Types & Grammar Fundamentals",
+    "description": "Identify nouns, verbs, adjectives and grammatical fundamentals in A1 German.",
+    "category": "Word Types",
+    "level": "A1",
+    "quizType": "multiple_choice",
+    "questions": [
+      {
+        "id": 101,
+        "question": "Welches Wort ist ein Nomen?",
+        "english": "Which word is a noun?",
+        "options": ["laufen", "schnell", "schön", "Haus"],
+        "correctIndex": 3,
+        "explanation": "'Haus' (house) is a noun and is always capitalized in German. 'laufen' is a verb, while 'schnell' and 'schön' are adjectives/adverbs."
+      },
+      {
+        "id": 102,
+        "question": "Welches Wort ist ein Verb (Tätowort)?",
+        "english": "Which word is a verb (action word)?",
+        "options": ["Katze", "sprechen", "blau", "immer"],
+        "correctIndex": 1,
+        "explanation": "'sprechen' (to speak) is an action verb in infinitive form (-en ending)."
+      },
+      {
+        "id": 103,
+        "question": "Welches Wort wird im Deutschen IMMER großgeschrieben?",
+        "english": "Which word is ALWAYS capitalized in German?",
+        "options": ["heute", "klein", "Schule", "fliegen"],
+        "correctIndex": 2,
+        "explanation": "All nouns in German must begin with a capital letter. 'Schule' (school) is a noun!"
+      },
+      {
+        "id": 104,
+        "question": "Was ist das richtige Gegenteil von 'klein'?",
+        "english": "What is the correct opposite of 'small'?",
+        "options": ["langsam", "groß", "alt", "müde"],
+        "correctIndex": 1,
+        "explanation": "The opposite of 'klein' (small) is 'groß' (big/large)."
+      },
+      {
+        "id": 105,
+        "question": "Welches Wort ist ein Adjektiv?",
+        "english": "Which word is an adjective?",
+        "options": ["glücklich", "Wohnung", "trinken", "und"],
+        "correctIndex": 0,
+        "explanation": "'glücklich' (happy) is an adjective describing feelings or states."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Articles & Noun Gender (Der, Die, Das)",
+    "description": "Select the correct German definite or indefinite article for everyday A1 grammar nouns.",
+    "category": "Articles",
+    "level": "A1",
+    "quizType": "multiple_choice",
+    "questions": [
+      {
+        "id": 201,
+        "question": "___ Haus ist sehr schön und groß.",
+        "english": "The house is very beautiful and big.",
+        "options": ["Das", "Der", "Die", "Den"],
+        "correctIndex": 0,
+        "explanation": "'Haus' is neuter in German (das Haus) in the Nominative case."
+      },
+      {
+        "id": 202,
+        "question": "Wo ist ___ Bahnhof, bitte?",
+        "english": "Where is the train station, please?",
+        "options": ["die", "das", "der", "dem"],
+        "correctIndex": 2,
+        "explanation": "'Bahnhof' is a masculine noun (der Bahnhof)."
+      },
+      {
+        "id": 203,
+        "question": "Ich kaufe ___ neuen Computer für meine Arbeit.",
+        "english": "I am buying a new computer for my work.",
+        "options": ["einen", "ein", "eine", "einem"],
+        "correctIndex": 0,
+        "explanation": "'Computer' is masculine, and as a direct object (Accusative), 'ein' becomes 'einen'."
+      },
+      {
+        "id": 204,
+        "question": "Hier steht ___ Tasse Kaffee für dich.",
+        "english": "Here is a cup of coffee for you.",
+        "options": ["ein", "eine", "einen", "einer"],
+        "correctIndex": 1,
+        "explanation": "'Tasse' is feminine (die Tasse), so the indefinite article in Nominative is 'eine'."
+      },
+      {
+        "id": 205,
+        "question": "Wir sehen ___ Kinder im Park spielen.",
+        "english": "We see the children playing in the park.",
+        "options": ["die", "das", "der", "dem"],
+        "correctIndex": 0,
+        "explanation": "In plural, the definite article is always 'die' for Nominative and Accusative cases."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Present Tense Verbs & Personal Pronouns",
+    "description": "Choose the correct conjugated present tense verb form (Präsens) or personal pronoun.",
+    "category": "Verb Conjugation",
+    "level": "A1",
+    "quizType": "multiple_choice",
+    "questions": [
+      {
+        "id": 301,
+        "question": "Ich ___ aus Deutschland und lerne Spanisch.",
+        "english": "I come from Germany and learn Spanish.",
+        "options": ["komme", "kommst", "kommt", "kommen"],
+        "correctIndex": 0,
+        "explanation": "For 1st person singular ('ich'), regular verbs end in '-e' (komme)."
+      },
+      {
+        "id": 302,
+        "question": "Woher ___ du ursprünglich?",
+        "english": "Where do you originally come from?",
+        "options": ["kommst", "komme", "kommt", "kommen"],
+        "correctIndex": 0,
+        "explanation": "For 2nd person singular informal ('du'), regular verbs end in '-st' (kommst)."
+      },
+      {
+        "id": 303,
+        "question": "Meine Schwester ___ als Lehrerin in Berlin.",
+        "english": "My sister works as a teacher in Berlin.",
+        "options": ["arbeitet", "arbeite", "arbeitest", "arbeiten"],
+        "correctIndex": 0,
+        "explanation": "For 3rd person singular ('sie'), stems ending in -t add an '-et' for easy pronunciation (arbeitet)."
+      },
+      {
+        "id": 304,
+        "question": "Wir ___ heute Abend eine Pizza im Restaurant.",
+        "english": "We are eating a pizza in the restaurant tonight.",
+        "options": ["essen", "isst", "esse", "esst"],
+        "correctIndex": 0,
+        "explanation": "For 1st person plural ('wir'), verbs keep their infinitive form (essen)."
+      },
+      {
+        "id": 305,
+        "question": "Was ___ ihr am Wochenende machen?",
+        "english": "What do you all want to do on the weekend?",
+        "options": ["wollt", "willst", "will", "wollen"],
+        "correctIndex": 0,
+        "explanation": "The modal verb 'wollen' in 2nd person plural ('ihr') is conjugated as 'wollt'."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Sentence Missing Word Fill-Up: Essential Core Verbs",
+    "description": "Fill in the missing word! Type the exact missing grammar word or conjugated verb directly into the box.",
+    "category": "Sentence Fill-in",
+    "level": "A1",
+    "quizType": "fill_blank",
+    "questions": [
+      {
+        "id": 401,
+        "sentenceBefore": "Ich",
+        "blankWord": "komme",
+        "sentenceAfter": "aus Frankfurt und ich wohne jetzt in Berlin.",
+        "hint": "Infinitive: kommen (1st person singular)",
+        "english": "I come from Frankfurt and I live in Berlin now.",
+        "explanation": "For 'ich', remove '-en' from 'kommen' and add '-e': ich komme."
+      },
+      {
+        "id": 402,
+        "sentenceBefore": "Meine Familie und ich",
+        "blankWord": "wohnen",
+        "sentenceAfter": "in einer großen gemütlichen Wohnung.",
+        "hint": "Infinitive: wohnen (1st person plural / we)",
+        "english": "My family and I live in a big, cozy apartment.",
+        "explanation": "The subject 'Meine Familie und ich' equals 'wir' (we), taking the infinitive form 'wohnen'."
+      },
+      {
+        "id": 403,
+        "sentenceBefore": "Anna",
+        "blankWord": "ist",
+        "sentenceAfter": "heute sehr glücklich, weil die Sonne scheint.",
+        "hint": "Infinitive: sein (3rd person singular / she is)",
+        "english": "Anna is very happy today because the sun is shining.",
+        "explanation": "'Sein' is irregular: for er/sie/es, the present tense form is 'ist'."
+      },
+      {
+        "id": 404,
+        "sentenceBefore": "Was",
+        "blankWord": "trinkst",
+        "sentenceAfter": "du am liebsten zum Frühstück? Kaffee oder Tee?",
+        "hint": "Infinitive: trinken (2nd person informal / du)",
+        "english": "What do you prefer to drink for breakfast? Coffee or tea?",
+        "explanation": "For 'du', regular verbs attach the ending '-st': trinkst."
+      },
+      {
+        "id": 405,
+        "sentenceBefore": "Wir",
+        "blankWord": "lernen",
+        "sentenceAfter": "jeden Tag mit großer Begeisterung Deutsch!",
+        "hint": "Infinitive: lernen (1st person plural / we)",
+        "english": "We learn German every day with great enthusiasm!",
+        "explanation": "For 'wir', verbs keep their full infinitive ending '-en': lernen."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Sentence Missing Word Fill-Up: Question Words & Prepositions",
+    "description": "Test your grasp of German question words (Wer, Wo, Wie, Wann, Woher) and core prepositions in natural sentences.",
+    "category": "Question Words",
+    "level": "A1",
+    "quizType": "fill_blank",
+    "questions": [
+      {
+        "id": 501,
+        "sentenceBefore": "",
+        "blankWord": "Wo",
+        "sentenceAfter": "liegt eigentlich Berlin? Ist es im Osten Deutschlands?",
+        "hint": "Question word asking for a location: 'Where?'",
+        "english": "Where is Berlin actually located? Is it in the east of Germany?",
+        "explanation": "'Wo' asks for a static location (where is something located)."
+      },
+      {
+        "id": 502,
+        "sentenceBefore": "",
+        "blankWord": "Wie",
+        "sentenceAfter": "heißen Sie mit Familiennamen?",
+        "hint": "Question word: 'How' (as in What is your name / How are you called?)",
+        "english": "What is your last name? (literally: How are you called with family name?)",
+        "explanation": "In German, one asks 'Wie heißen Sie?' using 'Wie' (how) instead of 'what'."
+      },
+      {
+        "id": 503,
+        "sentenceBefore": "",
+        "blankWord": "Woher",
+        "sentenceAfter": "kommen Ihre glücklichen Freunde? Aus Österreich?",
+        "hint": "Question word asking for origin: 'From where?'",
+        "english": "Where do your happy friends come from? From Austria?",
+        "explanation": "'Woher' specifically inquiries about geographical or cultural origin (from where)."
+      },
+      {
+        "id": 504,
+        "sentenceBefore": "Wir fahren Morgen mit dem schnellen Zug",
+        "blankWord": "nach",
+        "sentenceAfter": "Hamburg und Bremen.",
+        "hint": "Preposition used when traveling to cities and countries without articles: 'to'",
+        "english": "Tomorrow we are traveling with the fast train to Hamburg and Bremen.",
+        "explanation": "When traveling toward a city or neuter country, German uses the preposition 'nach'."
+      },
+      {
+        "id": 505,
+        "sentenceBefore": "",
+        "blankWord": "Wann",
+        "sentenceAfter": "beginnt der interaktive Deutschkurs heute?",
+        "hint": "Question word asking for time: 'When?'",
+        "english": "When does the interactive German course start today?",
+        "explanation": "'Wann' is the question word used to ask about days, times, and schedule moments."
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Greetings, Farewells & Introductions (Q1–Q11)",
+    "description": "Practice essential daily German greetings, formal/informal farewells, asking names, origin, and personal well-being.",
+    "category": "Greetings & Basics",
+    "level": "A1",
+    "quizType": "multiple_choice",
+    "questions": [
+      {
+        "id": 601,
+        "question": "Wie sagt man 'Guten Morgen' am Vormittag?",
+        "english": "How do you say 'Good morning' in the morning?",
+        "options": ["Guten Tag", "Guten Morgen", "Guten Abend", "Gute Nacht"],
+        "correctIndex": 1,
+        "explanation": "'Guten Morgen' sagt man bis etwa 10 Uhr."
+      },
+      {
+        "id": 602,
+        "question": "Was sagt man zur Begrüßung am Nachmittag?",
+        "english": "What do you say as a greeting in the afternoon?",
+        "options": ["Guten Morgen", "Guten Tag", "Guten Abend", "Gute Nacht"],
+        "correctIndex": 1,
+        "explanation": "'Guten Tag' verwendet man am Nachmittag."
+      },
+      {
+        "id": 603,
+        "question": "Welche Verabschiedung ist formell?",
+        "english": "Which farewell is formal?",
+        "options": ["Tschüss", "Ciao", "Auf Wiedersehen", "Hallo"],
+        "correctIndex": 2,
+        "explanation": "'Auf Wiedersehen' ist die formelle Verabschiedung."
+      },
+      {
+        "id": 604,
+        "question": "Wie fragt man höflich nach dem Namen einer Person?",
+        "english": "How do you politely ask for a person's name?",
+        "options": ["Wie heißt du?", "Wie heißen Sie?", "Wie alt bist du?", "Woher kommst du?"],
+        "correctIndex": 1,
+        "explanation": "'Wie heißen Sie?' ist die höfliche Form (Sie)."
+      },
+      {
+        "id": 605,
+        "question": "Wie antwortet man auf 'Wie heißt du?'?",
+        "english": "How do you respond to 'What is your name?'?",
+        "options": ["Ich heiße Anna.", "Ich komme aus Berlin.", "Ich bin 20 Jahre alt.", "Ich wohne in München."],
+        "correctIndex": 0,
+        "explanation": "Man antwortet mit seinem Namen."
+      },
+      {
+        "id": 606,
+        "question": "Wie fragt man nach der Herkunft?",
+        "english": "How do you ask about someone's origin?",
+        "options": ["Wie heißt du?", "Woher kommst du?", "Wie alt bist du?", "Was machst du?"],
+        "correctIndex": 1,
+        "explanation": "'Woher kommst du?' fragt nach dem Herkunftsland."
+      },
+      {
+        "id": 607,
+        "question": "Was antwortet man auf 'Woher kommst du?'?",
+        "english": "How do you respond to 'Where do you come from?'?",
+        "options": ["Ich bin 25.", "Ich komme aus Italien.", "Ich heiße Paul.", "Ich wohne hier."],
+        "correctIndex": 1,
+        "explanation": "Man nennt das Land oder die Stadt."
+      },
+      {
+        "id": 608,
+        "question": "Wie fragt man nach dem Alter?",
+        "english": "How do you ask about someone's age?",
+        "options": ["Wie heißt du?", "Woher kommst du?", "Wie alt bist du?", "Was ist dein Beruf?"],
+        "correctIndex": 2,
+        "explanation": "'Wie alt bist du?' fragt nach dem Alter."
+      },
+      {
+        "id": 609,
+        "question": "Wie antwortet man auf 'Wie alt bist du?'?",
+        "english": "How do you respond to 'How old are you?'?",
+        "options": ["Ich komme aus Frankreich.", "Ich bin 18 Jahre alt.", "Ich heiße Lisa.", "Ich wohne in Köln."],
+        "correctIndex": 1,
+        "explanation": "Man sagt sein Alter, z.B. 'Ich bin 18 Jahre alt.'"
+      },
+      {
+        "id": 610,
+        "question": "Wie fragt man nach dem Befinden?",
+        "english": "How do you ask someone how they are doing?",
+        "options": ["Wie geht es dir?", "Wie heißt du?", "Wie alt bist du?", "Wo wohnst du?"],
+        "correctIndex": 0,
+        "explanation": "'Wie geht es dir?' fragt nach dem Befinden."
+      },
+      {
+        "id": 611,
+        "question": "Wie antwortet man auf 'Wie geht es dir?'?",
+        "english": "How do you respond to 'How are you?'?",
+        "options": ["Gut, danke.", "Ich heiße Tom.", "Ich bin 30.", "Ich komme aus USA."],
+        "correctIndex": 0,
+        "explanation": "'Gut, danke' ist eine typische Antwort."
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Numbers, Days, Months & Time (Q12–Q20)",
+    "description": "Master A1 cardinal numbers (1–20), days of the week, months of the year, and daily clock times.",
+    "category": "Numbers & Time",
+    "level": "A1",
+    "quizType": "multiple_choice",
+    "questions": [
+      {
+        "id": 701,
+        "question": "Welche Zahl kommt nach 7?",
+        "english": "Which number comes after 7?",
+        "options": ["8", "6", "9", "10"],
+        "correctIndex": 0,
+        "explanation": "Nach 7 kommt 8."
+      },
+      {
+        "id": 702,
+        "question": "Wie heißt die Zahl 15 auf Deutsch?",
+        "english": "What is the number 15 in German?",
+        "options": ["fünfzehn", "fünfzig", "fünf", "fünfzehnt"],
+        "correctIndex": 0,
+        "explanation": "15 = fünfzehn."
+      },
+      {
+        "id": 703,
+        "question": "Welcher Tag kommt nach Dienstag?",
+        "english": "Which day comes after Tuesday?",
+        "options": ["Montag", "Mittwoch", "Donnerstag", "Freitag"],
+        "correctIndex": 1,
+        "explanation": "Nach Dienstag kommt Mittwoch."
+      },
+      {
+        "id": 704,
+        "question": "Wie heißt der letzte Tag der Woche?",
+        "english": "What is the name of the last day of the week?",
+        "options": ["Samstag", "Sonntag", "Freitag", "Montag"],
+        "correctIndex": 1,
+        "explanation": "Sonntag ist der letzte Tag."
+      },
+      {
+        "id": 705,
+        "question": "Wie heißt der erste Monat des Jahres?",
+        "english": "What is the name of the first month of the year?",
+        "options": ["Februar", "März", "Januar", "Dezember"],
+        "correctIndex": 2,
+        "explanation": "Januar ist der erste Monat."
+      },
+      {
+        "id": 706,
+        "question": "Welcher Monat hat 31 Tage?",
+        "english": "Which month has 31 days?",
+        "options": ["Februar", "April", "Juni", "August"],
+        "correctIndex": 3,
+        "explanation": "August hat 31 Tage."
+      },
+      {
+        "id": 707,
+        "question": "Wie sagt man 15:30 Uhr?",
+        "english": "How do you say 15:30 in German?",
+        "options": ["halb vier", "halb drei", "drei Uhr dreißig", "Viertel nach drei"],
+        "correctIndex": 0,
+        "explanation": "15:30 = halb vier (half way to four)."
+      },
+      {
+        "id": 708,
+        "question": "Wie sagt man 8:15 Uhr?",
+        "english": "How do you say 8:15 in German?",
+        "options": ["Viertel nach acht", "Viertel vor acht", "halb neun", "acht Uhr fünfzehn"],
+        "correctIndex": 0,
+        "explanation": "8:15 = Viertel nach acht."
+      },
+      {
+        "id": 709,
+        "question": "Was sagt man um 22 Uhr zur Begrüßung?",
+        "english": "What do you say as a greeting at 22:00 (10 PM)?",
+        "options": ["Guten Morgen", "Guten Tag", "Guten Abend", "Gute Nacht"],
+        "correctIndex": 2,
+        "explanation": "Ab 18 Uhr sagt man 'Guten Abend' zur Begrüßung."
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Family, Articles & Plural Forms (Q21–Q27)",
+    "description": "Identify family relationships, select correct gender articles (der/die/das), and form regular plurals.",
+    "category": "Family & Nouns",
+    "level": "A1",
+    "quizType": "multiple_choice",
+    "questions": [
+      {
+        "id": 801,
+        "question": "Wie heißt der Vater meiner Mutter?",
+        "english": "What do you call the father of your mother?",
+        "options": ["Onkel", "Großvater", "Bruder", "Cousin"],
+        "correctIndex": 1,
+        "explanation": "Der Vater der Mutter ist der Großvater."
+      },
+      {
+        "id": 802,
+        "question": "Wie heißt die Schwester meines Vaters?",
+        "english": "What do you call the sister of your father?",
+        "options": ["Tante", "Großmutter", "Cousine", "Nichte"],
+        "correctIndex": 0,
+        "explanation": "Die Schwester des Vaters ist die Tante."
+      },
+      {
+        "id": 803,
+        "question": "Welcher Artikel ist richtig für 'Tisch'?",
+        "english": "Which article is correct for 'Tisch' (table)?",
+        "options": ["der Tisch", "die Tisch", "das Tisch", "ein Tisch"],
+        "correctIndex": 0,
+        "explanation": "'Tisch' ist maskulin, also 'der'."
+      },
+      {
+        "id": 804,
+        "question": "Welcher Artikel ist richtig für 'Lampe'?",
+        "english": "Which article is correct for 'Lampe' (lamp)?",
+        "options": ["der Lampe", "die Lampe", "das Lampe", "eine Lampe"],
+        "correctIndex": 1,
+        "explanation": "'Lampe' ist feminin, also 'die'."
+      },
+      {
+        "id": 805,
+        "question": "Welcher Artikel ist richtig für 'Buch'?",
+        "english": "Which article is correct for 'Buch' (book)?",
+        "options": ["der Buch", "die Buch", "das Buch", "ein Buch"],
+        "correctIndex": 2,
+        "explanation": "'Buch' ist neutral, also 'das'."
+      },
+      {
+        "id": 806,
+        "question": "Wie heißt der Plural von 'der Hund'?",
+        "english": "What is the plural of 'der Hund' (dog)?",
+        "options": ["die Hunde", "die Hunden", "die Hunds", "der Hunde"],
+        "correctIndex": 0,
+        "explanation": "Plural von Hund = Hunde."
+      },
+      {
+        "id": 807,
+        "question": "Wie heißt der Plural von 'die Katze'?",
+        "english": "What is the plural of 'die Katze' (cat)?",
+        "options": ["die Katzen", "die Katzes", "die Katze", "der Katzen"],
+        "correctIndex": 0,
+        "explanation": "Plural von Katze = Katzen."
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Core Verb Conjugations: sein, haben & Action Verbs (Q28–Q36)",
+    "description": "Test your conjugation skills for fundamental verbs (sein, haben, gehen, kommen, sprechen, lesen).",
+    "category": "Verb Conjugation",
+    "level": "A1",
+    "quizType": "multiple_choice",
+    "questions": [
+      {
+        "id": 901,
+        "question": "Wie heißt die Form von 'sein' für 'ich'?",
+        "english": "What is the form of 'sein' (to be) for 'ich'?",
+        "options": ["ich bin", "ich habe", "ich werde", "ich kann"],
+        "correctIndex": 0,
+        "explanation": "Ich bin – sein."
+      },
+      {
+        "id": 902,
+        "question": "Wie heißt die Form von 'sein' für 'du'?",
+        "english": "What is the form of 'sein' for 'du'?",
+        "options": ["du bist", "du hast", "du wirst", "du kannst"],
+        "correctIndex": 0,
+        "explanation": "Du bist – sein."
+      },
+      {
+        "id": 903,
+        "question": "Wie heißt die Form von 'sein' für 'wir'?",
+        "english": "What is the form of 'sein' for 'wir'?",
+        "options": ["wir sind", "wir sein", "wir seid", "wir bin"],
+        "correctIndex": 0,
+        "explanation": "Wir sind – sein."
+      },
+      {
+        "id": 904,
+        "question": "Wie heißt die Form von 'haben' für 'ich'?",
+        "english": "What is the form of 'haben' (to have) for 'ich'?",
+        "options": ["ich habe", "ich bin", "ich hab", "ich habt"],
+        "correctIndex": 0,
+        "explanation": "Ich habe – haben."
+      },
+      {
+        "id": 905,
+        "question": "Wie heißt die Form von 'haben' für 'er'?",
+        "english": "What is the form of 'haben' for 'er'?",
+        "options": ["er hat", "er habe", "er habt", "er hast"],
+        "correctIndex": 0,
+        "explanation": "Er hat – haben."
+      },
+      {
+        "id": 906,
+        "question": "Wie heißt die Form von 'gehen' für 'du'?",
+        "english": "What is the form of 'gehen' (to go) for 'du'?",
+        "options": ["du gehst", "du gehe", "du geht", "du geh"],
+        "correctIndex": 0,
+        "explanation": "Du gehst – gehen."
+      },
+      {
+        "id": 907,
+        "question": "Wie heißt die Form von 'kommen' für 'wir'?",
+        "english": "What is the form of 'kommen' (to come) for 'wir'?",
+        "options": ["wir kommen", "wir kommt", "wir komme", "wir kommst"],
+        "correctIndex": 0,
+        "explanation": "Wir kommen – kommen."
+      },
+      {
+        "id": 908,
+        "question": "Wie heißt die Form von 'sprechen' für 'er'?",
+        "english": "What is the form of 'sprechen' (to speak) for 'er'?",
+        "options": ["er spricht", "er spreche", "er sprichst", "er sprecht"],
+        "correctIndex": 0,
+        "explanation": "Er spricht – sprechen (Stammvokalwechsel e -> i)."
+      },
+      {
+        "id": 909,
+        "question": "Wie heißt die Form von 'lesen' für 'du'?",
+        "english": "What is the form of 'lesen' (to read) for 'du'?",
+        "options": ["du liest", "du lesest", "du lest", "du lesen"],
+        "correctIndex": 0,
+        "explanation": "Du liest – lesen (Stammvokalwechsel e -> ie)."
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Modal Verbs, Imperative & Negation (Q37–Q45)",
+    "description": "Conjugate modal verbs (können, müssen, wollen), form command sentences (Imperativ), and use negation (kein/keine/nicht).",
+    "category": "Modals & Imperative",
+    "level": "A1",
+    "quizType": "multiple_choice",
+    "questions": [
+      {
+        "id": 1001,
+        "question": "Wie heißt die Form von 'können' für 'ich'?",
+        "english": "What is the form of 'können' (can/to be able to) for 'ich'?",
+        "options": ["ich kann", "ich könne", "ich konnte", "ich kannen"],
+        "correctIndex": 0,
+        "explanation": "Ich kann – können."
+      },
+      {
+        "id": 1002,
+        "question": "Wie heißt die Form von 'müssen' für 'du'?",
+        "english": "What is the form of 'müssen' (must/to have to) for 'du'?",
+        "options": ["du musst", "du müsst", "du mussest", "du müssen"],
+        "correctIndex": 0,
+        "explanation": "Du musst – müssen."
+      },
+      {
+        "id": 1003,
+        "question": "Wie heißt die Form von 'wollen' für 'er'?",
+        "english": "What is the form of 'wollen' (to want to) for 'er'?",
+        "options": ["er will", "er wolle", "er willt", "er wollen"],
+        "correctIndex": 0,
+        "explanation": "Er will – wollen."
+      },
+      {
+        "id": 1004,
+        "question": "Wie heißt der Imperativ von 'kommen' für 'du'?",
+        "english": "What is the imperative command of 'kommen' for 'du'?",
+        "options": ["Komm!", "Kommt!", "Kommen Sie!", "Komme!"],
+        "correctIndex": 0,
+        "explanation": "'Komm!' ist der Imperativ für du."
+      },
+      {
+        "id": 1005,
+        "question": "Wie heißt der Imperativ von 'gehen' für 'ihr'?",
+        "english": "What is the imperative command of 'gehen' for 'ihr'?",
+        "options": ["Geht!", "Geh!", "Gehen Sie!", "Gehe!"],
+        "correctIndex": 0,
+        "explanation": "'Geht!' ist der Imperativ für ihr."
+      },
+      {
+        "id": 1006,
+        "question": "Wie heißt der Imperativ von 'sprechen' für 'Sie'?",
+        "english": "What is the formal imperative command of 'sprechen' for 'Sie'?",
+        "options": ["Sprechen Sie!", "Sprich!", "Sprecht!", "Spreche!"],
+        "correctIndex": 0,
+        "explanation": "'Sprechen Sie!' ist die höfliche Form."
+      },
+      {
+        "id": 1007,
+        "question": "Ich habe ___ Geld. (kein/keine/nicht)",
+        "english": "I have no money.",
+        "options": ["kein", "keine", "nicht", "keinen"],
+        "correctIndex": 0,
+        "explanation": "'Geld' ist neutral, also 'kein Geld'."
+      },
+      {
+        "id": 1008,
+        "question": "Ich habe ___ Zeit. (kein/keine/nicht)",
+        "english": "I have no time.",
+        "options": ["kein", "keine", "nicht", "keinen"],
+        "correctIndex": 1,
+        "explanation": "'Zeit' ist feminin, also 'keine Zeit'."
+      },
+      {
+        "id": 1009,
+        "question": "Ich bin ___ müde. (kein/keine/nicht)",
+        "english": "I am not tired.",
+        "options": ["kein", "keine", "nicht", "keinen"],
+        "correctIndex": 2,
+        "explanation": "Bei Adjektiven verwendet man 'nicht'."
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "title": "Question Words & Local Prepositions (Q46–Q54)",
+    "description": "Distinguish between Wo, Wohin, Woher, and apply local directional prepositions (nach, zu, aus, in, zur, zum).",
+    "category": "Prepositions & Questions",
+    "level": "A1",
+    "quizType": "multiple_choice",
+    "questions": [
+      {
+        "id": 1101,
+        "question": "___ wohnst du? (Wo/Wohin/Woher)",
+        "english": "Where do you live?",
+        "options": ["Wo", "Wohin", "Woher", "Was"],
+        "correctIndex": 0,
+        "explanation": "'Wo' fragt nach dem Ort."
+      },
+      {
+        "id": 1102,
+        "question": "___ gehst du? (Wo/Wohin/Woher)",
+        "english": "Where are you going?",
+        "options": ["Wo", "Wohin", "Woher", "Was"],
+        "correctIndex": 1,
+        "explanation": "'Wohin' fragt nach dem Ziel."
+      },
+      {
+        "id": 1103,
+        "question": "___ kommst du? (Wo/Wohin/Woher)",
+        "english": "Where do you come from?",
+        "options": ["Wo", "Wohin", "Woher", "Was"],
+        "correctIndex": 2,
+        "explanation": "'Woher' fragt nach der Herkunft."
+      },
+      {
+        "id": 1104,
+        "question": "Ich gehe ___ Hause. (nach/zu/in)",
+        "english": "I am going home.",
+        "options": ["nach", "zu", "in", "bei"],
+        "correctIndex": 0,
+        "explanation": "'Nach Hause' ist feste Wendung (Ziel)."
+      },
+      {
+        "id": 1105,
+        "question": "Ich bin ___ Hause. (nach/zu/in)",
+        "english": "I am at home.",
+        "options": ["nach", "zu", "in", "bei"],
+        "correctIndex": 1,
+        "explanation": "'Zu Hause' ist feste Wendung (Ort)."
+      },
+      {
+        "id": 1106,
+        "question": "Ich komme ___ Deutschland. (aus/von/nach)",
+        "english": "I come from Germany.",
+        "options": ["aus", "von", "nach", "zu"],
+        "correctIndex": 0,
+        "explanation": "'Aus' bei Ländern mit Artikel/Städten."
+      },
+      {
+        "id": 1107,
+        "question": "Ich gehe ___ die Schule. (in/zu/nach)",
+        "english": "I am going to school.",
+        "options": ["in", "zu", "nach", "auf"],
+        "correctIndex": 0,
+        "explanation": "'In die Schule' (Akkusativ, Ziel)."
+      },
+      {
+        "id": 1108,
+        "question": "Ich gehe ___ Arbeit. (zur/zum/in)",
+        "english": "I am going to work.",
+        "options": ["zur", "zum", "in", "nach"],
+        "correctIndex": 0,
+        "explanation": "'Arbeit' ist feminin, also 'zur Arbeit'."
+      },
+      {
+        "id": 1109,
+        "question": "Ich gehe ___ Arzt. (zum/zur/in)",
+        "english": "I am going to the doctor.",
+        "options": ["zum", "zur", "in", "nach"],
+        "correctIndex": 0,
+        "explanation": "'Arzt' ist maskulin, also 'zum Arzt'."
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "title": "Dining, Food Orders & Preferences (Q55–Q60)",
+    "description": "Express hunger, thirst, polite dining orders in restaurants, and personal culinary desires using mag and möchte.",
+    "category": "Food & Dining",
+    "level": "A1",
+    "quizType": "multiple_choice",
+    "questions": [
+      {
+        "id": 1201,
+        "question": "Ich habe ___. (Hunger/Durst/Angst)",
+        "english": "I am hungry.",
+        "options": ["Hunger", "Durst", "Angst", "Zeit"],
+        "correctIndex": 0,
+        "explanation": "'Ich habe Hunger' bedeutet ich will essen."
+      },
+      {
+        "id": 1202,
+        "question": "Ich habe ___. (Hunger/Durst/Angst)",
+        "english": "I am thirsty.",
+        "options": ["Hunger", "Durst", "Angst", "Zeit"],
+        "correctIndex": 1,
+        "explanation": "'Ich habe Durst' bedeutet ich will trinken."
+      },
+      {
+        "id": 1203,
+        "question": "Was sagst du, um die Speisekarte zu bekommen?",
+        "english": "What do you say to receive the menu?",
+        "options": ["Die Rechnung, bitte.", "Die Speisekarte, bitte.", "Ein Wasser, bitte.", "Zahlen, bitte."],
+        "correctIndex": 1,
+        "explanation": "Man bestellt die Speisekarte mit 'Die Speisekarte, bitte.'"
+      },
+      {
+        "id": 1204,
+        "question": "Was sagst du, wenn du bezahlen willst?",
+        "english": "What do you say when you want to pay?",
+        "options": ["Die Speisekarte, bitte.", "Die Rechnung, bitte.", "Ein Bier, bitte.", "Danke."],
+        "correctIndex": 1,
+        "explanation": "'Die Rechnung, bitte' sagt man zum Bezahlen."
+      },
+      {
+        "id": 1205,
+        "question": "Ich ___ Pizza. (mag/möchte/will/esse)",
+        "english": "I like pizza.",
+        "options": ["mag", "möchte", "will", "esse"],
+        "correctIndex": 0,
+        "explanation": "'Ich mag Pizza' drückt Vorliebe aus."
+      },
+      {
+        "id": 1206,
+        "question": "Ich ___ eine Cola. (mag/möchte/will/trinke)",
+        "english": "I would like a cola.",
+        "options": ["mag", "möchte", "will", "trinke"],
+        "correctIndex": 1,
+        "explanation": "'Ich möchte' ist höflicher Wunsch beim Bestellen."
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "title": "Clothing Articles, Plurals & Basic Colors (Q61–Q65)",
+    "description": "Identify articles for common apparel (Hose, Hemd), pluralize footwear (Schuhe), and match colors in nature.",
+    "category": "Clothing & Colors",
+    "level": "A1",
+    "quizType": "multiple_choice",
+    "questions": [
+      {
+        "id": 1301,
+        "question": "Welcher Artikel ist richtig für 'Hose'?",
+        "english": "Which article is correct for 'Hose' (trousers/pants)?",
+        "options": ["der Hose", "die Hose", "das Hose", "ein Hose"],
+        "correctIndex": 1,
+        "explanation": "'Hose' ist feminin, also 'die Hose'."
+      },
+      {
+        "id": 1302,
+        "question": "Welcher Artikel ist richtig für 'Hemd'?",
+        "english": "Which article is correct for 'Hemd' (shirt)?",
+        "options": ["der Hemd", "die Hemd", "das Hemd", "ein Hemd"],
+        "correctIndex": 2,
+        "explanation": "'Hemd' ist neutral, also 'das Hemd'."
+      },
+      {
+        "id": 1303,
+        "question": "Wie heißt der Plural von 'der Schuh'?",
+        "english": "What is the plural of 'der Schuh' (shoe)?",
+        "options": ["die Schuhe", "die Schuhen", "die Schuhs", "der Schuhe"],
+        "correctIndex": 0,
+        "explanation": "Plural von Schuh = Schuhe."
+      },
+      {
+        "id": 1304,
+        "question": "Welche Farbe hat die Sonne?",
+        "english": "What color is the sun?",
+        "options": ["blau", "gelb", "grün", "rot"],
+        "correctIndex": 1,
+        "explanation": "Die Sonne ist gelb."
+      },
+      {
+        "id": 1305,
+        "question": "Welche Farbe hat ein Baum?",
+        "english": "What color is a tree?",
+        "options": ["blau", "gelb", "grün", "rot"],
+        "correctIndex": 2,
+        "explanation": "Ein Baum ist grün."
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "title": "Adjectives, Comparatives, Higher Numbers & Dates (Q66–Q72)",
+    "description": "Identify adjective opposites, form comparative and superlative degrees, count to 100, and express dates.",
+    "category": "Adjectives & Dates",
+    "level": "A1",
+    "quizType": "multiple_choice",
+    "questions": [
+      {
+        "id": 1401,
+        "question": "Was ist das Gegenteil von 'groß'?",
+        "english": "What is the opposite of 'groß' (big/tall)?",
+        "options": ["klein", "dick", "lang", "weit"],
+        "correctIndex": 0,
+        "explanation": "Das Gegenteil von groß ist klein."
+      },
+      {
+        "id": 1402,
+        "question": "Was ist das Gegenteil von 'teuer'?",
+        "english": "What is the opposite of 'teuer' (expensive)?",
+        "options": ["billig", "günstig", "preiswert", "alle sind möglich"],
+        "correctIndex": 0,
+        "explanation": "Das Gegenteil von teuer ist billig."
+      },
+      {
+        "id": 1403,
+        "question": "Wie heißt der Komparativ von 'schnell'?",
+        "english": "What is the comparative form of 'schnell' (fast)?",
+        "options": ["schneller", "am schnellsten", "schnellste", "schnellen"],
+        "correctIndex": 0,
+        "explanation": "Komparativ von schnell = schneller."
+      },
+      {
+        "id": 1404,
+        "question": "Wie heißt der Superlativ von 'gut'?",
+        "english": "What is the superlative form of 'gut' (good)?",
+        "options": ["besser", "am besten", "gute", "guten"],
+        "correctIndex": 1,
+        "explanation": "Superlativ von gut = am besten."
+      },
+      {
+        "id": 1405,
+        "question": "Wie heißt die Zahl 50 auf Deutsch?",
+        "english": "What is the number 50 in German?",
+        "options": ["fünfzig", "fünfzehnt", "fünf", "fünfzigsten"],
+        "correctIndex": 0,
+        "explanation": "50 = fünfzig."
+      },
+      {
+        "id": 1406,
+        "question": "Wie heißt die Zahl 100 auf Deutsch?",
+        "english": "What is the number 100 in German?",
+        "options": ["hundert", "tausend", "hunderter", "hunderte"],
+        "correctIndex": 0,
+        "explanation": "100 = hundert."
+      },
+      {
+        "id": 1407,
+        "question": "Wie sagt man das Datum: 3. Mai 2026?",
+        "english": "How do you say the date: 3. Mai 2026?",
+        "options": ["dritter Mai zweitausendsechsundzwanzig", "drei Mai 2026", "dritten Mai 2026", "der dritte Mai 2026"],
+        "correctIndex": 0,
+        "explanation": "Man sagt 'dritter Mai zweitausendsechsundzwanzig'."
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "title": "Time Expressions, Days, Seasons & Weather (Q73–Q80)",
+    "description": "Navigate yesterday/tomorrow calculations, official vs informal clock expressions, seasons, and sunny/rainy weather.",
+    "category": "Time & Weather",
+    "level": "A1",
+    "quizType": "multiple_choice",
+    "questions": [
+      {
+        "id": 1501,
+        "question": "Wenn heute Montag ist, welcher Tag war gestern?",
+        "english": "If today is Monday, what day was yesterday?",
+        "options": ["Sonntag", "Dienstag", "Freitag", "Mittwoch"],
+        "correctIndex": 0,
+        "explanation": "Vor Montag war Sonntag."
+      },
+      {
+        "id": 1502,
+        "question": "Wenn heute Mittwoch ist, welcher Tag ist morgen?",
+        "english": "If today is Wednesday, what day is tomorrow?",
+        "options": ["Dienstag", "Donnerstag", "Freitag", "Samstag"],
+        "correctIndex": 1,
+        "explanation": "Nach Mittwoch kommt Donnerstag."
+      },
+      {
+        "id": 1503,
+        "question": "Wie sagt man 20:45 Uhr offiziell?",
+        "english": "How do you say 20:45 in official time?",
+        "options": ["zwanzig Uhr fünfundvierzig", "Viertel vor neun", "halb neun", "zwanzig Uhr fünfzehn"],
+        "correctIndex": 0,
+        "explanation": "Offizielle Uhrzeit: 20:45 = zwanzig Uhr fünfundvierzig."
+      },
+      {
+        "id": 1504,
+        "question": "Wie sagt man 20:45 Uhr informell?",
+        "english": "How do you say 20:45 in informal spoken time?",
+        "options": ["Viertel vor neun", "Viertel nach neun", "halb neun", "neun Uhr fünfundvierzig"],
+        "correctIndex": 0,
+        "explanation": "20:45 = Viertel vor neun."
+      },
+      {
+        "id": 1505,
+        "question": "Welche Jahreszeit kommt nach dem Winter?",
+        "english": "Which season comes after winter?",
+        "options": ["Frühling", "Sommer", "Herbst", "Winter"],
+        "correctIndex": 0,
+        "explanation": "Nach Winter kommt Frühling."
+      },
+      {
+        "id": 1506,
+        "question": "Welche Jahreszeit ist im Juli?",
+        "english": "Which season occurs in July?",
+        "options": ["Frühling", "Sommer", "Herbst", "Winter"],
+        "correctIndex": 1,
+        "explanation": "Juli ist im Sommer."
+      },
+      {
+        "id": 1507,
+        "question": "Wie heißt das Wetter, wenn die Sonne scheint?",
+        "english": "What is the weather called when the sun shines?",
+        "options": ["sonnig", "regnerisch", "bewölkt", "windig"],
+        "correctIndex": 0,
+        "explanation": "Bei Sonnenschein ist es sonnig."
+      },
+      {
+        "id": 1508,
+        "question": "Wie heißt das Wetter, wenn es regnet?",
+        "english": "What is the weather called when it rains?",
+        "options": ["sonnig", "regnerisch", "bewölkt", "windig"],
+        "correctIndex": 1,
+        "explanation": "Bei Regen ist es regnerisch."
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "title": "Emotions, Body Parts, Health & Home Layout (Q81–Q89)",
+    "description": "Express sadness and joy, report bodily pain and anatomy articles, and name home rooms and furniture items.",
+    "category": "Body & Home",
+    "level": "A1",
+    "quizType": "multiple_choice",
+    "questions": [
+      {
+        "id": 1601,
+        "question": "Wie sagt man 'I am sad' auf Deutsch?",
+        "english": "How do you say 'I am sad' in German?",
+        "options": ["Ich bin traurig.", "Ich bin glücklich.", "Ich bin müde.", "Ich bin krank."],
+        "correctIndex": 0,
+        "explanation": "Traurig = sad."
+      },
+      {
+        "id": 1602,
+        "question": "Wie sagt man 'I am happy' auf Deutsch?",
+        "english": "How do you say 'I am happy' in German?",
+        "options": ["Ich bin traurig.", "Ich bin glücklich.", "Ich bin müde.", "Ich bin krank."],
+        "correctIndex": 1,
+        "explanation": "Glücklich = happy."
+      },
+      {
+        "id": 1603,
+        "question": "Ich habe ___. (Kopfschmerzen/Bauchschmerzen/Rückenschmerzen)",
+        "english": "I have a headache.",
+        "options": ["Kopfschmerzen", "Bauchschmerzen", "Rückenschmerzen", "alle möglich"],
+        "correctIndex": 0,
+        "explanation": "'Ich habe Kopfschmerzen' = I have a headache."
+      },
+      {
+        "id": 1604,
+        "question": "Welcher Artikel ist richtig für 'Arm'?",
+        "english": "Which article is correct for 'Arm'?",
+        "options": ["der Arm", "die Arm", "das Arm", "ein Arm"],
+        "correctIndex": 0,
+        "explanation": "Arm ist maskulin, also 'der Arm'."
+      },
+      {
+        "id": 1605,
+        "question": "Wie heißt der Plural von 'das Auge'?",
+        "english": "What is the plural of 'das Auge' (eye)?",
+        "options": ["die Augen", "die Auge", "die Augens", "der Augen"],
+        "correctIndex": 0,
+        "explanation": "Plural von Auge = Augen."
+      },
+      {
+        "id": 1606,
+        "question": "Wie heißt das Zimmer zum Schlafen?",
+        "english": "What is the room for sleeping called?",
+        "options": ["Küchenzimmer", "Schlafzimmer", "Wohnzimmer", "Badezimmer"],
+        "correctIndex": 1,
+        "explanation": "Im Schlafzimmer schläft man."
+      },
+      {
+        "id": 1607,
+        "question": "Wie heißt das Zimmer zum Kochen?",
+        "english": "What is the room for cooking called?",
+        "options": ["Küche", "Schlafzimmer", "Wohnzimmer", "Badezimmer"],
+        "correctIndex": 0,
+        "explanation": "In der Küche kocht man."
+      },
+      {
+        "id": 1608,
+        "question": "Welcher Artikel ist richtig für 'Bett'?",
+        "english": "Which article is correct for 'Bett' (bed)?",
+        "options": ["der Bett", "die Bett", "das Bett", "ein Bett"],
+        "correctIndex": 2,
+        "explanation": "Bett ist neutral, also 'das Bett'."
+      },
+      {
+        "id": 1609,
+        "question": "Welcher Artikel ist richtig für 'Schrank'?",
+        "english": "Which article is correct for 'Schrank' (cupboard/closet)?",
+        "options": ["der Schrank", "die Schrank", "das Schrank", "ein Schrank"],
+        "correctIndex": 0,
+        "explanation": "Schrank ist maskulin, also 'der Schrank'."
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "title": "Living, Transportation, Separable Verbs & Question Words (Q90–Q100)",
+    "description": "Master living prepositions, transit verbs, separable verb sentence frames (aufstehen, ankommen), and key interrogatives.",
+    "category": "Verbs & Interrogatives",
+    "level": "A1",
+    "quizType": "multiple_choice",
+    "questions": [
+      {
+        "id": 1701,
+        "question": "Ich wohne ___ Berlin. (in/zu/nach)",
+        "english": "I live in Berlin.",
+        "options": ["in", "zu", "nach", "bei"],
+        "correctIndex": 0,
+        "explanation": "Bei Städten sagt man 'in Berlin' (wohnen)."
+      },
+      {
+        "id": 1702,
+        "question": "Ich komme ___ München. (aus/von/nach)",
+        "english": "I come from Munich.",
+        "options": ["aus", "von", "nach", "zu"],
+        "correctIndex": 0,
+        "explanation": "Bei Städten sagt man 'aus München' (kommen)."
+      },
+      {
+        "id": 1703,
+        "question": "Ich ___ mit dem Bus. (fahre/gehe/komme)",
+        "english": "I ride/travel by bus.",
+        "options": ["fahre", "gehe", "komme", "laufe"],
+        "correctIndex": 0,
+        "explanation": "Mit dem Bus fährt man."
+      },
+      {
+        "id": 1704,
+        "question": "Ich ___ zur Schule. (gehe/laufe/fahre)",
+        "english": "I walk/go to school.",
+        "options": ["gehe", "laufe", "fahre", "alle möglich"],
+        "correctIndex": 0,
+        "explanation": "'Gehen' ist allgemein; 'laufen' = rennen; 'fahren' mit Fahrzeug. 'Gehe' ist hier am besten."
+      },
+      {
+        "id": 1705,
+        "question": "Ich ___ um 7 Uhr ___. (stehe ... auf / aufstehe ...)",
+        "english": "I get up at 7 AM.",
+        "options": ["stehe ... auf", "aufstehe", "steh ... auf", "auf ... stehe"],
+        "correctIndex": 0,
+        "explanation": "'aufstehen' – trennbar: 'Ich stehe um 7 Uhr auf.'"
+      },
+      {
+        "id": 1706,
+        "question": "Wann ___ du ___? (kommst ... an / ankommst)",
+        "english": "When do you arrive?",
+        "options": ["kommst ... an", "ankommst", "kommst an ...", "an ... kommst"],
+        "correctIndex": 0,
+        "explanation": "'ankommen' – 'Wann kommst du an?'"
+      },
+      {
+        "id": 1707,
+        "question": "___ ist das? (Was/Wer/Wo/Wie)",
+        "english": "What is that?",
+        "options": ["Was", "Wer", "Wo", "Wie"],
+        "correctIndex": 0,
+        "explanation": "'Was ist das?' fragt nach einer Sache."
+      },
+      {
+        "id": 1708,
+        "question": "___ bist du? (Was/Wer/Wo/Wie)",
+        "english": "Who are you?",
+        "options": ["Was", "Wer", "Wo", "Wie"],
+        "correctIndex": 1,
+        "explanation": "'Wer bist du?' fragt nach einer Person."
+      },
+      {
+        "id": 1709,
+        "question": "___ heißt das auf Deutsch? (Was/Wie/Wo/Wer)",
+        "english": "What is that called in German?",
+        "options": ["Was", "Wie", "Wo", "Wer"],
+        "correctIndex": 1,
+        "explanation": "'Wie heißt das auf Deutsch?' fragt nach der Bezeichnung."
+      },
+      {
+        "id": 1710,
+        "question": "___ gehst du zur Schule? (Wann/Wie/Wo/Woher)",
+        "english": "When are you going to school?",
+        "options": ["Wann", "Wie", "Wo", "Woher"],
+        "correctIndex": 0,
+        "explanation": "'Wann' fragt nach der Zeit."
+      },
+      {
+        "id": 1711,
+        "question": "___ fährst du zur Arbeit? (Wann/Wie/Wo/Woher)",
+        "english": "How do you travel to work?",
+        "options": ["Wann", "Wie", "Wo", "Woher"],
+        "correctIndex": 1,
+        "explanation": "'Wie' fragt nach der Art und Weise (z.B. mit dem Auto)."
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "title": "🏆 Ultimate A1 100-Question Master Challenge",
+    "description": "Test your stamina! Complete all 100 A1 German grammar and vocabulary practice questions in a single epic marathon.",
+    "category": "Master Exam",
+    "level": "A1",
+    "quizType": "multiple_choice",
+    "questions": [
+      {
+        "id": 1801,
+        "question": "Wie sagt man 'Guten Morgen' am Vormittag?",
+        "english": "How do you say 'Good morning' in the morning?",
+        "options": ["Guten Tag", "Guten Morgen", "Guten Abend", "Gute Nacht"],
+        "correctIndex": 1,
+        "explanation": "'Guten Morgen' sagt man bis etwa 10 Uhr."
+      },
+      {
+        "id": 1802,
+        "question": "Was sagt man zur Begrüßung am Nachmittag?",
+        "english": "What do you say as a greeting in the afternoon?",
+        "options": ["Guten Morgen", "Guten Tag", "Guten Abend", "Gute Nacht"],
+        "correctIndex": 1,
+        "explanation": "'Guten Tag' verwendet man am Nachmittag."
+      },
+      {
+        "id": 1803,
+        "question": "Welche Verabschiedung ist formell?",
+        "english": "Which farewell is formal?",
+        "options": ["Tschüss", "Ciao", "Auf Wiedersehen", "Hallo"],
+        "correctIndex": 2,
+        "explanation": "'Auf Wiedersehen' ist die formelle Verabschiedung."
+      },
+      {
+        "id": 1804,
+        "question": "Wie fragt man höflich nach dem Namen einer Person?",
+        "english": "How do you politely ask for a person's name?",
+        "options": ["Wie heißt du?", "Wie heißen Sie?", "Wie alt bist du?", "Woher kommst du?"],
+        "correctIndex": 1,
+        "explanation": "'Wie heißen Sie?' ist die höfliche Form (Sie)."
+      },
+      {
+        "id": 1805,
+        "question": "Wie antwortet man auf 'Wie heißt du?'?",
+        "english": "How do you respond to 'What is your name?'?",
+        "options": ["Ich heiße Anna.", "Ich komme aus Berlin.", "Ich bin 20 Jahre alt.", "Ich wohne in München."],
+        "correctIndex": 0,
+        "explanation": "Man antwortet mit seinem Namen."
+      },
+      {
+        "id": 1806,
+        "question": "Wie fragt man nach der Herkunft?",
+        "english": "How do you ask about someone's origin?",
+        "options": ["Wie heißt du?", "Woher kommst du?", "Wie alt bist du?", "Was machst du?"],
+        "correctIndex": 1,
+        "explanation": "'Woher kommst du?' fragt nach dem Herkunftsland."
+      },
+      {
+        "id": 1807,
+        "question": "Was antwortet man auf 'Woher kommst du?'?",
+        "english": "How do you respond to 'Where do you come from?'?",
+        "options": ["Ich bin 25.", "Ich komme aus Italien.", "Ich heiße Paul.", "Ich wohne hier."],
+        "correctIndex": 1,
+        "explanation": "Man nennt das Land oder die Stadt."
+      },
+      {
+        "id": 1808,
+        "question": "Wie fragt man nach dem Alter?",
+        "english": "How do you ask about someone's age?",
+        "options": ["Wie heißt du?", "Woher kommst du?", "Wie alt bist du?", "Was ist dein Beruf?"],
+        "correctIndex": 2,
+        "explanation": "'Wie alt bist du?' fragt nach dem Alter."
+      },
+      {
+        "id": 1809,
+        "question": "Wie antwortet man auf 'Wie alt bist du?'?",
+        "english": "How do you respond to 'How old are you?'?",
+        "options": ["Ich komme aus Frankreich.", "Ich bin 18 Jahre alt.", "Ich heiße Lisa.", "Ich wohne in Köln."],
+        "correctIndex": 1,
+        "explanation": "Man sagt sein Alter, z.B. 'Ich bin 18 Jahre alt.'"
+      },
+      {
+        "id": 1810,
+        "question": "Wie fragt man nach dem Befinden?",
+        "english": "How do you ask someone how they are doing?",
+        "options": ["Wie geht es dir?", "Wie heißt du?", "Wie alt bist du?", "Wo wohnst du?"],
+        "correctIndex": 0,
+        "explanation": "'Wie geht es dir?' fragt nach dem Befinden."
+      },
+      {
+        "id": 1811,
+        "question": "Wie antwortet man auf 'Wie geht es dir?'?",
+        "english": "How do you respond to 'How are you?'?",
+        "options": ["Gut, danke.", "Ich heiße Tom.", "Ich bin 30.", "Ich komme aus USA."],
+        "correctIndex": 0,
+        "explanation": "'Gut, danke' ist eine typische Antwort."
+      },
+      {
+        "id": 1812,
+        "question": "Welche Zahl kommt nach 7?",
+        "english": "Which number comes after 7?",
+        "options": ["8", "6", "9", "10"],
+        "correctIndex": 0,
+        "explanation": "Nach 7 kommt 8."
+      },
+      {
+        "id": 1813,
+        "question": "Wie heißt die Zahl 15 auf Deutsch?",
+        "english": "What is the number 15 in German?",
+        "options": ["fünfzehn", "fünfzig", "fünf", "fünfzehnt"],
+        "correctIndex": 0,
+        "explanation": "15 = fünfzehn."
+      },
+      {
+        "id": 1814,
+        "question": "Welcher Tag kommt nach Dienstag?",
+        "english": "Which day comes after Tuesday?",
+        "options": ["Montag", "Mittwoch", "Donnerstag", "Freitag"],
+        "correctIndex": 1,
+        "explanation": "Nach Dienstag kommt Mittwoch."
+      },
+      {
+        "id": 1815,
+        "question": "Wie heißt der letzte Tag der Woche?",
+        "english": "What is the name of the last day of the week?",
+        "options": ["Samstag", "Sonntag", "Freitag", "Montag"],
+        "correctIndex": 1,
+        "explanation": "Sonntag ist der letzte Tag."
+      },
+      {
+        "id": 1816,
+        "question": "Wie heißt der erste Monat des Jahres?",
+        "english": "What is the name of the first month of the year?",
+        "options": ["Februar", "März", "Januar", "Dezember"],
+        "correctIndex": 2,
+        "explanation": "Januar ist der erste Monat."
+      },
+      {
+        "id": 1817,
+        "question": "Welcher Monat hat 31 Tage?",
+        "english": "Which month has 31 days?",
+        "options": ["Februar", "April", "Juni", "August"],
+        "correctIndex": 3,
+        "explanation": "August hat 31 Tage."
+      },
+      {
+        "id": 1818,
+        "question": "Wie sagt man 15:30 Uhr?",
+        "english": "How do you say 15:30 in German?",
+        "options": ["halb vier", "halb drei", "drei Uhr dreißig", "Viertel nach drei"],
+        "correctIndex": 0,
+        "explanation": "15:30 = halb vier."
+      },
+      {
+        "id": 1819,
+        "question": "Wie sagt man 8:15 Uhr?",
+        "english": "How do you say 8:15 in German?",
+        "options": ["Viertel nach acht", "Viertel vor acht", "halb neun", "acht Uhr fünfzehn"],
+        "correctIndex": 0,
+        "explanation": "8:15 = Viertel nach acht."
+      },
+      {
+        "id": 1820,
+        "question": "Was sagt man um 22 Uhr zur Begrüßung?",
+        "english": "What do you say as a greeting at 22:00?",
+        "options": ["Guten Morgen", "Guten Tag", "Guten Abend", "Gute Nacht"],
+        "correctIndex": 2,
+        "explanation": "Ab 18 Uhr sagt man 'Guten Abend'."
+      },
+      {
+        "id": 1821,
+        "question": "Wie heißt der Vater meiner Mutter?",
+        "english": "What do you call the father of your mother?",
+        "options": ["Onkel", "Großvater", "Bruder", "Cousin"],
+        "correctIndex": 1,
+        "explanation": "Der Vater der Mutter ist der Großvater."
+      },
+      {
+        "id": 1822,
+        "question": "Wie heißt die Schwester meines Vaters?",
+        "english": "What do you call the sister of your father?",
+        "options": ["Tante", "Großmutter", "Cousine", "Nichte"],
+        "correctIndex": 0,
+        "explanation": "Die Schwester des Vaters ist die Tante."
+      },
+      {
+        "id": 1823,
+        "question": "Welcher Artikel ist richtig für 'Tisch'?",
+        "english": "Which article is correct for 'Tisch'?",
+        "options": ["der Tisch", "die Tisch", "das Tisch", "ein Tisch"],
+        "correctIndex": 0,
+        "explanation": "'Tisch' ist maskulin, also 'der'."
+      },
+      {
+        "id": 1824,
+        "question": "Welcher Artikel ist richtig für 'Lampe'?",
+        "english": "Which article is correct for 'Lampe'?",
+        "options": ["der Lampe", "die Lampe", "das Lampe", "eine Lampe"],
+        "correctIndex": 1,
+        "explanation": "'Lampe' ist feminin, also 'die'."
+      },
+      {
+        "id": 1825,
+        "question": "Welcher Artikel ist richtig für 'Buch'?",
+        "english": "Which article is correct for 'Buch'?",
+        "options": ["der Buch", "die Buch", "das Buch", "ein Buch"],
+        "correctIndex": 2,
+        "explanation": "'Buch' ist neutral, also 'das'."
+      },
+      {
+        "id": 1826,
+        "question": "Wie heißt der Plural von 'der Hund'?",
+        "english": "What is the plural of 'der Hund'?",
+        "options": ["die Hunde", "die Hunden", "die Hunds", "der Hunde"],
+        "correctIndex": 0,
+        "explanation": "Plural von Hund = Hunde."
+      },
+      {
+        "id": 1827,
+        "question": "Wie heißt der Plural von 'die Katze'?",
+        "english": "What is the plural of 'die Katze'?",
+        "options": ["die Katzen", "die Katzes", "die Katze", "der Katzen"],
+        "correctIndex": 0,
+        "explanation": "Plural von Katze = Katzen."
+      },
+      {
+        "id": 1828,
+        "question": "Wie heißt die Form von 'sein' für 'ich'?",
+        "english": "What is the form of 'sein' for 'ich'?",
+        "options": ["ich bin", "ich habe", "ich werde", "ich kann"],
+        "correctIndex": 0,
+        "explanation": "Ich bin – sein."
+      },
+      {
+        "id": 1829,
+        "question": "Wie heißt die Form von 'sein' für 'du'?",
+        "english": "What is the form of 'sein' for 'du'?",
+        "options": ["du bist", "du hast", "du wirst", "du kannst"],
+        "correctIndex": 0,
+        "explanation": "Du bist – sein."
+      },
+      {
+        "id": 1830,
+        "question": "Wie heißt die Form von 'sein' für 'wir'?",
+        "english": "What is the form of 'sein' for 'wir'?",
+        "options": ["wir sind", "wir sein", "wir seid", "wir bin"],
+        "correctIndex": 0,
+        "explanation": "Wir sind – sein."
+      },
+      {
+        "id": 1831,
+        "question": "Wie heißt die Form von 'haben' für 'ich'?",
+        "english": "What is the form of 'haben' for 'ich'?",
+        "options": ["ich habe", "ich bin", "ich hab", "ich habt"],
+        "correctIndex": 0,
+        "explanation": "Ich habe – haben."
+      },
+      {
+        "id": 1832,
+        "question": "Wie heißt die Form von 'haben' für 'er'?",
+        "english": "What is the form of 'haben' for 'er'?",
+        "options": ["er hat", "er habe", "er habt", "er hast"],
+        "correctIndex": 0,
+        "explanation": "Er hat – haben."
+      },
+      {
+        "id": 1833,
+        "question": "Wie heißt die Form von 'gehen' für 'du'?",
+        "english": "What is the form of 'gehen' for 'du'?",
+        "options": ["du gehst", "du gehe", "du geht", "du geh"],
+        "correctIndex": 0,
+        "explanation": "Du gehst – gehen."
+      },
+      {
+        "id": 1834,
+        "question": "Wie heißt die Form von 'kommen' für 'wir'?",
+        "english": "What is the form of 'kommen' for 'wir'?",
+        "options": ["wir kommen", "wir kommt", "wir komme", "wir kommst"],
+        "correctIndex": 0,
+        "explanation": "Wir kommen – kommen."
+      },
+      {
+        "id": 1835,
+        "question": "Wie heißt die Form von 'sprechen' für 'er'?",
+        "english": "What is the form of 'sprechen' for 'er'?",
+        "options": ["er spricht", "er spreche", "er sprichst", "er sprecht"],
+        "correctIndex": 0,
+        "explanation": "Er spricht – sprechen."
+      },
+      {
+        "id": 1836,
+        "question": "Wie heißt die Form von 'lesen' für 'du'?",
+        "english": "What is the form of 'lesen' for 'du'?",
+        "options": ["du liest", "du lesest", "du lest", "du lesen"],
+        "correctIndex": 0,
+        "explanation": "Du liest – lesen."
+      },
+      {
+        "id": 1837,
+        "question": "Wie heißt die Form von 'können' für 'ich'?",
+        "english": "What is the form of 'können' for 'ich'?",
+        "options": ["ich kann", "ich könne", "ich konnte", "ich kannen"],
+        "correctIndex": 0,
+        "explanation": "Ich kann – können."
+      },
+      {
+        "id": 1838,
+        "question": "Wie heißt die Form von 'müssen' für 'du'?",
+        "english": "What is the form of 'müssen' for 'du'?",
+        "options": ["du musst", "du müsst", "du mussest", "du müssen"],
+        "correctIndex": 0,
+        "explanation": "Du musst – müssen."
+      },
+      {
+        "id": 1839,
+        "question": "Wie heißt die Form von 'wollen' für 'er'?",
+        "english": "What is the form of 'wollen' for 'er'?",
+        "options": ["er will", "er wolle", "er willt", "er wollen"],
+        "correctIndex": 0,
+        "explanation": "Er will – wollen."
+      },
+      {
+        "id": 1840,
+        "question": "Wie heißt der Imperativ von 'kommen' für 'du'?",
+        "english": "What is the imperative of 'kommen' for 'du'?",
+        "options": ["Komm!", "Kommt!", "Kommen Sie!", "Komme!"],
+        "correctIndex": 0,
+        "explanation": "'Komm!' ist der Imperativ für du."
+      },
+      {
+        "id": 1841,
+        "question": "Wie heißt der Imperativ von 'gehen' für 'ihr'?",
+        "english": "What is the imperative of 'gehen' for 'ihr'?",
+        "options": ["Geht!", "Geh!", "Gehen Sie!", "Gehe!"],
+        "correctIndex": 0,
+        "explanation": "'Geht!' ist der Imperativ für ihr."
+      },
+      {
+        "id": 1842,
+        "question": "Wie heißt der Imperativ von 'sprechen' für 'Sie'?",
+        "english": "What is the imperative of 'sprechen' for 'Sie'?",
+        "options": ["Sprechen Sie!", "Sprich!", "Sprecht!", "Spreche!"],
+        "correctIndex": 0,
+        "explanation": "'Sprechen Sie!' ist die höfliche Form."
+      },
+      {
+        "id": 1843,
+        "question": "Ich habe ___ Geld. (kein/keine/nicht)",
+        "english": "I have no money.",
+        "options": ["kein", "keine", "nicht", "keinen"],
+        "correctIndex": 0,
+        "explanation": "'Geld' ist neutral, also 'kein Geld'."
+      },
+      {
+        "id": 1844,
+        "question": "Ich habe ___ Zeit. (kein/keine/nicht)",
+        "english": "I have no time.",
+        "options": ["kein", "keine", "nicht", "keinen"],
+        "correctIndex": 1,
+        "explanation": "'Zeit' ist feminin, also 'keine Zeit'."
+      },
+      {
+        "id": 1845,
+        "question": "Ich bin ___ müde. (kein/keine/nicht)",
+        "english": "I am not tired.",
+        "options": ["kein", "keine", "nicht", "keinen"],
+        "correctIndex": 2,
+        "explanation": "Bei Adjektiven verwendet man 'nicht'."
+      },
+      {
+        "id": 1846,
+        "question": "___ wohnst du? (Wo/Wohin/Woher)",
+        "english": "Where do you live?",
+        "options": ["Wo", "Wohin", "Woher", "Was"],
+        "correctIndex": 0,
+        "explanation": "'Wo' fragt nach dem Ort."
+      },
+      {
+        "id": 1847,
+        "question": "___ gehst du? (Wo/Wohin/Woher)",
+        "english": "Where are you going?",
+        "options": ["Wo", "Wohin", "Woher", "Was"],
+        "correctIndex": 1,
+        "explanation": "'Wohin' fragt nach dem Ziel."
+      },
+      {
+        "id": 1848,
+        "question": "___ kommst du? (Wo/Wohin/Woher)",
+        "english": "Where do you come from?",
+        "options": ["Wo", "Wohin", "Woher", "Was"],
+        "correctIndex": 2,
+        "explanation": "'Woher' fragt nach der Herkunft."
+      },
+      {
+        "id": 1849,
+        "question": "Ich gehe ___ Hause. (nach/zu/in)",
+        "english": "I am going home.",
+        "options": ["nach", "zu", "in", "bei"],
+        "correctIndex": 0,
+        "explanation": "'Nach Hause' ist feste Wendung (Ziel)."
+      },
+      {
+        "id": 1850,
+        "question": "Ich bin ___ Hause. (nach/zu/in)",
+        "english": "I am at home.",
+        "options": ["nach", "zu", "in", "bei"],
+        "correctIndex": 1,
+        "explanation": "'Zu Hause' ist feste Wendung (Ort)."
+      },
+      {
+        "id": 1851,
+        "question": "Ich komme ___ Deutschland. (aus/von/nach)",
+        "english": "I come from Germany.",
+        "options": ["aus", "von", "nach", "zu"],
+        "correctIndex": 0,
+        "explanation": "'Aus' bei Ländern mit Artikel/Städten."
+      },
+      {
+        "id": 1852,
+        "question": "Ich gehe ___ die Schule. (in/zu/nach)",
+        "english": "I am going to school.",
+        "options": ["in", "zu", "nach", "auf"],
+        "correctIndex": 0,
+        "explanation": "'In die Schule' (Akkusativ, Ziel)."
+      },
+      {
+        "id": 1853,
+        "question": "Ich gehe ___ Arbeit. (zur/zum/in)",
+        "english": "I am going to work.",
+        "options": ["zur", "zum", "in", "nach"],
+        "correctIndex": 0,
+        "explanation": "'Arbeit' ist feminin, also 'zur Arbeit'."
+      },
+      {
+        "id": 1854,
+        "question": "Ich gehe ___ Arzt. (zum/zur/in)",
+        "english": "I am going to the doctor.",
+        "options": ["zum", "zur", "in", "nach"],
+        "correctIndex": 0,
+        "explanation": "'Arzt' ist maskulin, also 'zum Arzt'."
+      },
+      {
+        "id": 1855,
+        "question": "Ich habe ___. (Hunger/Durst/Angst)",
+        "english": "I am hungry.",
+        "options": ["Hunger", "Durst", "Angst", "Zeit"],
+        "correctIndex": 0,
+        "explanation": "'Ich habe Hunger' bedeutet ich will essen."
+      },
+      {
+        "id": 1856,
+        "question": "Ich habe ___. (Hunger/Durst/Angst)",
+        "english": "I am thirsty.",
+        "options": ["Hunger", "Durst", "Angst", "Zeit"],
+        "correctIndex": 1,
+        "explanation": "'Ich habe Durst' bedeutet ich will trinken."
+      },
+      {
+        "id": 1857,
+        "question": "Was sagst du, um die Speisekarte zu bekommen?",
+        "english": "What do you say to receive the menu?",
+        "options": ["Die Rechnung, bitte.", "Die Speisekarte, bitte.", "Ein Wasser, bitte.", "Zahlen, bitte."],
+        "correctIndex": 1,
+        "explanation": "Man bestellt die Speisekarte mit 'Die Speisekarte, bitte.'"
+      },
+      {
+        "id": 1858,
+        "question": "Was sagst du, wenn du bezahlen willst?",
+        "english": "What do you say when you want to pay?",
+        "options": ["Die Speisekarte, bitte.", "Die Rechnung, bitte.", "Ein Bier, bitte.", "Danke."],
+        "correctIndex": 1,
+        "explanation": "'Die Rechnung, bitte' sagt man zum Bezahlen."
+      },
+      {
+        "id": 1859,
+        "question": "Ich ___ Pizza. (mag/möchte/will/esse)",
+        "english": "I like pizza.",
+        "options": ["mag", "möchte", "will", "esse"],
+        "correctIndex": 0,
+        "explanation": "'Ich mag Pizza' drückt Vorliebe aus."
+      },
+      {
+        "id": 1860,
+        "question": "Ich ___ eine Cola. (mag/möchte/will/trinke)",
+        "english": "I would like a cola.",
+        "options": ["mag", "möchte", "will", "trinke"],
+        "correctIndex": 1,
+        "explanation": "'Ich möchte' ist höflicher Wunsch beim Bestellen."
+      },
+      {
+        "id": 1861,
+        "question": "Welcher Artikel ist richtig für 'Hose'?",
+        "english": "Which article is correct for 'Hose'?",
+        "options": ["der Hose", "die Hose", "das Hose", "ein Hose"],
+        "correctIndex": 1,
+        "explanation": "'Hose' ist feminin, also 'die Hose'."
+      },
+      {
+        "id": 1862,
+        "question": "Welcher Artikel ist richtig für 'Hemd'?",
+        "english": "Which article is correct for 'Hemd'?",
+        "options": ["der Hemd", "die Hemd", "das Hemd", "ein Hemd"],
+        "correctIndex": 2,
+        "explanation": "'Hemd' ist neutral, also 'das Hemd'."
+      },
+      {
+        "id": 1863,
+        "question": "Wie heißt der Plural von 'der Schuh'?",
+        "english": "What is the plural of 'der Schuh'?",
+        "options": ["die Schuhe", "die Schuhen", "die Schuhs", "der Schuhe"],
+        "correctIndex": 0,
+        "explanation": "Plural von Schuh = Schuhe."
+      },
+      {
+        "id": 1864,
+        "question": "Welche Farbe hat die Sonne?",
+        "english": "What color is the sun?",
+        "options": ["blau", "gelb", "grün", "rot"],
+        "correctIndex": 1,
+        "explanation": "Die Sonne ist gelb."
+      },
+      {
+        "id": 1865,
+        "question": "Welche Farbe hat ein Baum?",
+        "english": "What color is a tree?",
+        "options": ["blau", "gelb", "grün", "rot"],
+        "correctIndex": 2,
+        "explanation": "Ein Baum ist grün."
+      },
+      {
+        "id": 1866,
+        "question": "Was ist das Gegenteil von 'groß'?",
+        "english": "What is the opposite of 'groß'?",
+        "options": ["klein", "dick", "lang", "weit"],
+        "correctIndex": 0,
+        "explanation": "Das Gegenteil von groß ist klein."
+      },
+      {
+        "id": 1867,
+        "question": "Was ist das Gegenteil von 'teuer'?",
+        "english": "What is the opposite of 'teuer'?",
+        "options": ["billig", "günstig", "preiswert", "alle sind möglich"],
+        "correctIndex": 0,
+        "explanation": "Das Gegenteil von teuer ist billig."
+      },
+      {
+        "id": 1868,
+        "question": "Wie heißt der Komparativ von 'schnell'?",
+        "english": "What is the comparative of 'schnell'?",
+        "options": ["schneller", "am schnellsten", "schnellste", "schnellen"],
+        "correctIndex": 0,
+        "explanation": "Komparativ von schnell = schneller."
+      },
+      {
+        "id": 1869,
+        "question": "Wie heißt der Superlativ von 'gut'?",
+        "english": "What is the superlative of 'gut'?",
+        "options": ["besser", "am besten", "gute", "guten"],
+        "correctIndex": 1,
+        "explanation": "Superlativ von gut = am besten."
+      },
+      {
+        "id": 1870,
+        "question": "Wie heißt die Zahl 50 auf Deutsch?",
+        "english": "What is the number 50 in German?",
+        "options": ["fünfzig", "fünfzehnt", "fünf", "fünfzigsten"],
+        "correctIndex": 0,
+        "explanation": "50 = fünfzig."
+      },
+      {
+        "id": 1871,
+        "question": "Wie heißt die Zahl 100 auf Deutsch?",
+        "english": "What is the number 100 in German?",
+        "options": ["hundert", "tausend", "hunderter", "hunderte"],
+        "correctIndex": 0,
+        "explanation": "100 = hundert."
+      },
+      {
+        "id": 1872,
+        "question": "Wie sagt man das Datum: 3. Mai 2026?",
+        "english": "How do you say the date: 3. Mai 2026?",
+        "options": ["dritter Mai zweitausendsechsundzwanzig", "drei Mai 2026", "dritten Mai 2026", "der dritte Mai 2026"],
+        "correctIndex": 0,
+        "explanation": "Man sagt 'dritter Mai zweitausendsechsundzwanzig'."
+      },
+      {
+        "id": 1873,
+        "question": "Wenn heute Montag ist, welcher Tag war gestern?",
+        "english": "If today is Monday, what day was yesterday?",
+        "options": ["Sonntag", "Dienstag", "Freitag", "Mittwoch"],
+        "correctIndex": 0,
+        "explanation": "Vor Montag war Sonntag."
+      },
+      {
+        "id": 1874,
+        "question": "Wenn heute Mittwoch ist, welcher Tag ist morgen?",
+        "english": "If today is Wednesday, what day is tomorrow?",
+        "options": ["Dienstag", "Donnerstag", "Freitag", "Samstag"],
+        "correctIndex": 1,
+        "explanation": "Nach Mittwoch kommt Donnerstag."
+      },
+      {
+        "id": 1875,
+        "question": "Wie sagt man 20:45 Uhr offiziell?",
+        "english": "How do you say 20:45 officially?",
+        "options": ["zwanzig Uhr fünfundvierzig", "Viertel vor neun", "halb neun", "zwanzig Uhr fünfzehn"],
+        "correctIndex": 0,
+        "explanation": "Offizielle Uhrzeit: 20:45 = zwanzig Uhr fünfundvierzig."
+      },
+      {
+        "id": 1876,
+        "question": "Wie sagt man 20:45 Uhr informell?",
+        "english": "How do you say 20:45 informally?",
+        "options": ["Viertel vor neun", "Viertel nach neun", "halb neun", "neun Uhr fünfundvierzig"],
+        "correctIndex": 0,
+        "explanation": "20:45 = Viertel vor neun."
+      },
+      {
+        "id": 1877,
+        "question": "Welche Jahreszeit kommt nach dem Winter?",
+        "english": "Which season comes after winter?",
+        "options": ["Frühling", "Sommer", "Herbst", "Winter"],
+        "correctIndex": 0,
+        "explanation": "Nach Winter kommt Frühling."
+      },
+      {
+        "id": 1878,
+        "question": "Welche Jahreszeit ist im Juli?",
+        "english": "Which season is in July?",
+        "options": ["Frühling", "Sommer", "Herbst", "Winter"],
+        "correctIndex": 1,
+        "explanation": "Juli ist im Sommer."
+      },
+      {
+        "id": 1879,
+        "question": "Wie heißt das Wetter, wenn die Sonne scheint?",
+        "english": "What is the weather called when the sun shines?",
+        "options": ["sonnig", "regnerisch", "bewölkt", "windig"],
+        "correctIndex": 0,
+        "explanation": "Bei Sonnenschein ist es sonnig."
+      },
+      {
+        "id": 1880,
+        "question": "Wie heißt das Wetter, wenn es regnet?",
+        "english": "What is the weather called when it rains?",
+        "options": ["sonnig", "regnerisch", "bewölkt", "windig"],
+        "correctIndex": 1,
+        "explanation": "Bei Regen ist es regnerisch."
+      },
+      {
+        "id": 1881,
+        "question": "Wie sagt man 'I am sad' auf Deutsch?",
+        "english": "How do you say 'I am sad' in German?",
+        "options": ["Ich bin traurig.", "Ich bin glücklich.", "Ich bin müde.", "Ich bin krank."],
+        "correctIndex": 0,
+        "explanation": "Traurig = sad."
+      },
+      {
+        "id": 1882,
+        "question": "Wie sagt man 'I am happy' auf Deutsch?",
+        "english": "How do you say 'I am happy' in German?",
+        "options": ["Ich bin traurig.", "Ich bin glücklich.", "Ich bin müde.", "Ich bin krank."],
+        "correctIndex": 1,
+        "explanation": "Glücklich = happy."
+      },
+      {
+        "id": 1883,
+        "question": "Ich habe ___. (Kopfschmerzen/Bauchschmerzen/Rückenschmerzen)",
+        "english": "I have a headache.",
+        "options": ["Kopfschmerzen", "Bauchschmerzen", "Rückenschmerzen", "alle möglich"],
+        "correctIndex": 0,
+        "explanation": "'Ich habe Kopfschmerzen' = I have a headache."
+      },
+      {
+        "id": 1884,
+        "question": "Welcher Artikel ist richtig für 'Arm'?",
+        "english": "Which article is correct for 'Arm'?",
+        "options": ["der Arm", "die Arm", "das Arm", "ein Arm"],
+        "correctIndex": 0,
+        "explanation": "Arm ist maskulin, also 'der Arm'."
+      },
+      {
+        "id": 1885,
+        "question": "Wie heißt der Plural von 'das Auge'?",
+        "english": "What is the plural of 'das Auge'?",
+        "options": ["die Augen", "die Auge", "die Augens", "der Augen"],
+        "correctIndex": 0,
+        "explanation": "Plural von Auge = Augen."
+      },
+      {
+        "id": 1886,
+        "question": "Wie heißt das Zimmer zum Schlafen?",
+        "english": "What is the sleeping room called?",
+        "options": ["Küchenzimmer", "Schlafzimmer", "Wohnzimmer", "Badezimmer"],
+        "correctIndex": 1,
+        "explanation": "Im Schlafzimmer schläft man."
+      },
+      {
+        "id": 1887,
+        "question": "Wie heißt das Zimmer zum Kochen?",
+        "english": "What is the cooking room called?",
+        "options": ["Küche", "Schlafzimmer", "Wohnzimmer", "Badezimmer"],
+        "correctIndex": 0,
+        "explanation": "In der Küche kocht man."
+      },
+      {
+        "id": 1888,
+        "question": "Welcher Artikel ist richtig für 'Bett'?",
+        "english": "Which article is correct for 'Bett'?",
+        "options": ["der Bett", "die Bett", "das Bett", "ein Bett"],
+        "correctIndex": 2,
+        "explanation": "Bett ist neutral, also 'das Bett'."
+      },
+      {
+        "id": 1889,
+        "question": "Welcher Artikel ist richtig für 'Schrank'?",
+        "english": "Which article is correct for 'Schrank'?",
+        "options": ["der Schrank", "die Schrank", "das Schrank", "ein Schrank"],
+        "correctIndex": 0,
+        "explanation": "Schrank ist maskulin, also 'der Schrank'."
+      },
+      {
+        "id": 1890,
+        "question": "Ich wohne ___ Berlin. (in/zu/nach)",
+        "english": "I live in Berlin.",
+        "options": ["in", "zu", "nach", "bei"],
+        "correctIndex": 0,
+        "explanation": "Bei Städten sagt man 'in Berlin' (wohnen)."
+      },
+      {
+        "id": 1891,
+        "question": "Ich komme ___ München. (aus/von/nach)",
+        "english": "I come from Munich.",
+        "options": ["aus", "von", "nach", "zu"],
+        "correctIndex": 0,
+        "explanation": "Bei Städten sagt man 'aus München' (kommen)."
+      },
+      {
+        "id": 1892,
+        "question": "Ich ___ mit dem Bus. (fahre/gehe/komme)",
+        "english": "I travel by bus.",
+        "options": ["fahre", "gehe", "komme", "laufe"],
+        "correctIndex": 0,
+        "explanation": "Mit dem Bus fährt man."
+      },
+      {
+        "id": 1893,
+        "question": "Ich ___ zur Schule. (gehe/laufe/fahre)",
+        "english": "I go to school.",
+        "options": ["gehe", "laufe", "fahre", "alle möglich"],
+        "correctIndex": 0,
+        "explanation": "'Gehen' ist allgemein; 'laufen' = rennen; 'fahren' mit Fahrzeug. 'Gehe' ist hier am besten."
+      },
+      {
+        "id": 1894,
+        "question": "Ich ___ um 7 Uhr ___. (stehe ... auf / aufstehe ...)",
+        "english": "I get up at 7 AM.",
+        "options": ["stehe ... auf", "aufstehe", "steh ... auf", "auf ... stehe"],
+        "correctIndex": 0,
+        "explanation": "'aufstehen' – trennbar: 'Ich stehe um 7 Uhr auf.'"
+      },
+      {
+        "id": 1895,
+        "question": "Wann ___ du ___? (kommst ... an / ankommst)",
+        "english": "When do you arrive?",
+        "options": ["kommst ... an", "ankommst", "kommst an ...", "an ... kommst"],
+        "correctIndex": 0,
+        "explanation": "'ankommen' – 'Wann kommst du an?'"
+      },
+      {
+        "id": 1896,
+        "question": "___ ist das? (Was/Wer/Wo/Wie)",
+        "english": "What is that?",
+        "options": ["Was", "Wer", "Wo", "Wie"],
+        "correctIndex": 0,
+        "explanation": "'Was ist das?' fragt nach einer Sache."
+      },
+      {
+        "id": 1897,
+        "question": "___ bist du? (Was/Wer/Wo/Wie)",
+        "english": "Who are you?",
+        "options": ["Was", "Wer", "Wo", "Wie"],
+        "correctIndex": 1,
+        "explanation": "'Wer bist du?' fragt nach einer Person."
+      },
+      {
+        "id": 1898,
+        "question": "___ heißt das auf Deutsch? (Was/Wie/Wo/Wer)",
+        "english": "What is that called in German?",
+        "options": ["Was", "Wie", "Wo", "Wer"],
+        "correctIndex": 1,
+        "explanation": "'Wie heißt das auf Deutsch?' fragt nach der Bezeichnung."
+      },
+      {
+        "id": 1899,
+        "question": "___ gehst du zur Schule? (Wann/Wie/Wo/Woher)",
+        "english": "When are you going to school?",
+        "options": ["Wann", "Wie", "Wo", "Woher"],
+        "correctIndex": 0,
+        "explanation": "'Wann' fragt nach der Zeit."
+      },
+      {
+        "id": 1900,
+        "question": "___ fährst du zur Arbeit? (Wann/Wie/Wo/Woher)",
+        "english": "How do you travel to work?",
+        "options": ["Wann", "Wie", "Wo", "Woher"],
+        "correctIndex": 1,
+        "explanation": "'Wie' fragt nach der Art und Weise (z.B. mit dem Auto)."
+      }
+    ]
+  }
+]

@@ -1,0 +1,562 @@
+[
+  {
+    "id": 1,
+    "german": "Ich stehe um 7 Uhr auf.",
+    "english": "I get up at 7 o'clock.",
+    "category": "Daily Life",
+    "level": "A1",
+    "grammarPoint": ""
+  },
+  {
+    "id": 2,
+    "german": "Ich frühstücke um 7:30 Uhr.",
+    "english": "I eat breakfast at 7:30.",
+    "category": "Daily Life",
+    "level": "A1",
+    "grammarPoint": ""
+  },
+  {
+    "id": 3,
+    "german": "Ich gehe ins Büro um 9 Uhr.",
+    "english": "I go to the office at 9 o'clock.",
+    "category": "Daily Life",
+    "level": "A1",
+    "grammarPoint": ""
+  },
+  {
+    "id": 4,
+    "german": "Ich bin müde nach der Arbeit.",
+    "english": "I'm tired after work.",
+    "category": "Daily Life",
+    "level": "A1",
+    "grammarPoint": ""
+  },
+  {
+    "id": 5,
+    "german": "Ich trinke Wasser während des Essens.",
+    "english": "I drink water during meals.",
+    "category": "Daily Life",
+    "level": "A1",
+    "grammarPoint": ""
+  },
+  {
+    "id": 6,
+    "german": "Ich lese ein interessantes Buch.",
+    "english": "I read an interesting book.",
+    "category": "Daily Life",
+    "level": "A1",
+    "grammarPoint": ""
+  },
+  {
+    "id": 7,
+    "german": "Ich höre gerne Musik.",
+    "english": "I love listening to music.",
+    "category": "Daily Life",
+    "level": "A1",
+    "grammarPoint": ""
+  },
+  {
+    "id": 8,
+    "german": "Wir machen einen Spaziergang nach dem Abendessen.",
+    "english": "We go for a walk after dinner.",
+    "category": "Daily Life",
+    "level": "A1",
+    "grammarPoint": ""
+  },
+  {
+    "id": 9,
+    "german": "Die Kinder spielen im Park.",
+    "english": "The children play in the park.",
+    "category": "Daily Life",
+    "level": "A1",
+    "grammarPoint": ""
+  },
+  {
+    "id": 10,
+    "german": "Ich fahre mit dem Bus zur Schule.",
+    "english": "I take the bus to school.",
+    "category": "Daily Life",
+    "level": "A1",
+    "grammarPoint": ""
+  },
+  {
+    "id": 11,
+    "german": "Meine Eltern sind aus dem Haus.",
+    "english": "My parents are out of the house.",
+    "category": "Daily Life",
+    "level": "A1",
+    "grammarPoint": ""
+  },
+  {
+    "id": 12,
+    "german": "Die Kinder helfen ihrer Mutter.",
+    "english": "The children help their mother.",
+    "category": "Daily Life",
+    "level": "A1",
+    "grammarPoint": ""
+  },
+  {
+    "id": 13,
+    "german": "Unsere Familie isst zusammen zu Abend.",
+    "english": "Our family has dinner together.",
+    "category": "Daily Life",
+    "level": "A1",
+    "grammarPoint": ""
+  },
+  {
+    "id": 14,
+    "german": "Ich rufe meine Großmutter an.",
+    "english": "I call my grandmother regularly.",
+    "category": "Daily Life",
+    "level": "A1",
+    "grammarPoint": ""
+  },
+  {
+    "id": 15,
+    "german": "Die Geschwister spielen zusammen.",
+    "english": "The siblings play together.",
+    "category": "Daily Life",
+    "level": "A1",
+    "grammarPoint": ""
+  },
+  {
+    "id": 16,
+    "german": "Die Freunde treffen sich im Café.",
+    "english": "The friends meet at the café.",
+    "category": "Daily Life",
+    "level": "A1",
+    "grammarPoint": ""
+  },
+  {
+    "id": 17,
+    "german": "Die Nachbarn sind sehr freundlich.",
+    "english": "Our neighbors are very friendly.",
+    "category": "Daily Life",
+    "level": "A1",
+    "grammarPoint": ""
+  },
+  {
+    "id": 18,
+    "german": "Wir feiern Geburtstag.",
+    "english": "We celebrate birthdays.",
+    "category": "Daily Life",
+    "level": "A1",
+    "grammarPoint": ""
+  },
+  {
+    "id": 19,
+    "german": "Die Familie hilft sich gegenseitig.",
+    "english": "The family helps each other.",
+    "category": "Daily Life",
+    "level": "A1",
+    "grammarPoint": ""
+  },
+  {
+    "id": 20,
+    "german": "Ich koche Mittagessen.",
+    "english": "I cook lunch.",
+    "category": "Daily Life",
+    "level": "A1",
+    "grammarPoint": ""
+  },
+  {
+    "id": 21,
+    "german": "Ich esse zu Abend Brot und Käse.",
+    "english": "I eat bread and cheese for dinner.",
+    "category": "Daily Life",
+    "level": "A1",
+    "grammarPoint": ""
+  },
+  {
+    "id": 22,
+    "german": "Wir genießen das schöne Essen.",
+    "english": "We enjoy the wonderful food.",
+    "category": "Daily Life",
+    "level": "A1",
+    "grammarPoint": ""
+  },
+  {
+    "id": 23,
+    "german": "Das Restaurant ist sehr teuer.",
+    "english": "The restaurant is very expensive.",
+    "category": "Daily Life",
+    "level": "A1",
+    "grammarPoint": ""
+  },
+  {
+    "id": 24,
+    "german": "Ich kaufe frische Früchte.",
+    "english": "I buy fresh fruits.",
+    "category": "Daily Life",
+    "level": "A1",
+    "grammarPoint": ""
+  },
+  {
+    "id": 25,
+    "german": "Das Brot ist frisch gebacken.",
+    "english": "The bread is freshly baked.",
+    "category": "Daily Life",
+    "level": "A1",
+    "grammarPoint": ""
+  },
+  {
+    "id": 26,
+    "german": "Ich trinke einen guten Kaffee.",
+    "english": "I drink a good coffee.",
+    "category": "Daily Life",
+    "level": "A1",
+    "grammarPoint": ""
+  },
+  {
+    "id": 27,
+    "german": "Die Suppe ist heiß.",
+    "english": "The soup is hot.",
+    "category": "Daily Life",
+    "level": "A1",
+    "grammarPoint": ""
+  },
+  {
+    "id": 28,
+    "german": "Der Zug fährt pünktlich.",
+    "english": "The train leaves on time.",
+    "category": "Daily Life",
+    "level": "A1",
+    "grammarPoint": ""
+  },
+  {
+    "id": 29,
+    "german": "Ich reise gern in die Berge.",
+    "english": "I love traveling to the mountains.",
+    "category": "Daily Life",
+    "level": "A1",
+    "grammarPoint": ""
+  },
+  {
+    "id": 30,
+    "german": "Ich benutze das Fahrrad.",
+    "english": "I use the bicycle.",
+    "category": "Daily Life",
+    "level": "A1",
+    "grammarPoint": ""
+  },
+  {
+    "id": 31,
+    "german": "Das Taxi wartet auf mich.",
+    "english": "The taxi is waiting for me.",
+    "category": "Daily Life",
+    "level": "A1",
+    "grammarPoint": ""
+  },
+  {
+    "id": 32,
+    "german": "Das Ticket kostet viel Geld.",
+    "english": "The ticket costs a lot of money.",
+    "category": "Daily Life",
+    "level": "A1",
+    "grammarPoint": ""
+  },
+  {
+    "id": 33,
+    "german": "Ich plane meine Reise online.",
+    "english": "I plan my trip online.",
+    "category": "Daily Life",
+    "level": "A1",
+    "grammarPoint": ""
+  },
+  {
+    "id": 34,
+    "german": "Der Koffer ist schwer.",
+    "english": "The suitcase is heavy.",
+    "category": "Daily Life",
+    "level": "A1",
+    "grammarPoint": ""
+  },
+  {
+    "id": 35,
+    "german": "Das Wetter ist schön heute.",
+    "english": "The weather is nice today.",
+    "category": "Daily Life",
+    "level": "A1",
+    "grammarPoint": ""
+  },
+  {
+    "id": 36,
+    "german": "Es regnet heute.",
+    "english": "It's raining today.",
+    "category": "Daily Life",
+    "level": "A1",
+    "grammarPoint": ""
+  },
+  {
+    "id": 37,
+    "german": "Der Schnee ist weich.",
+    "english": "The snow is soft.",
+    "category": "Daily Life",
+    "level": "A1",
+    "grammarPoint": ""
+  },
+  {
+    "id": 38,
+    "german": "Die Luft ist frisch.",
+    "english": "The air is fresh.",
+    "category": "Daily Life",
+    "level": "A1",
+    "grammarPoint": ""
+  },
+  {
+    "id": 39,
+    "german": "Die Blumen blühen schön.",
+    "english": "The flowers are blooming beautifully.",
+    "category": "Daily Life",
+    "level": "A1",
+    "grammarPoint": ""
+  },
+  {
+    "id": 40,
+    "german": "Die Vögel singen.",
+    "english": "The birds are singing.",
+    "category": "Daily Life",
+    "level": "A1",
+    "grammarPoint": ""
+  },
+  {
+    "id": 41,
+    "german": "Der Garten ist schön.",
+    "english": "The garden is beautiful.",
+    "category": "Daily Life",
+    "level": "A1",
+    "grammarPoint": ""
+  },
+  {
+    "id": 42,
+    "german": "Ich gehe ins Kino.",
+    "english": "I go to the cinema.",
+    "category": "Daily Life",
+    "level": "A1",
+    "grammarPoint": ""
+  },
+  {
+    "id": 43,
+    "german": "Ich bin in der Bibliothek.",
+    "english": "I am in the library.",
+    "category": "Daily Life",
+    "level": "A1",
+    "grammarPoint": ""
+  },
+  {
+    "id": 44,
+    "german": "Ich höre deutsche Musik.",
+    "english": "I listen to German music.",
+    "category": "Daily Life",
+    "level": "A1",
+    "grammarPoint": ""
+  },
+  {
+    "id": 45,
+    "german": "Wir spielen Spiele zusammen.",
+    "english": "We play games together.",
+    "category": "Daily Life",
+    "level": "A1",
+    "grammarPoint": ""
+  },
+  {
+    "id": 46,
+    "german": "Die Kinder zeichnen Bilder.",
+    "english": "The children draw pictures.",
+    "category": "Daily Life",
+    "level": "A1",
+    "grammarPoint": ""
+  },
+  {
+    "id": 47,
+    "german": "Ich lerne gerne Sprachen.",
+    "english": "I love learning languages.",
+    "category": "Daily Life",
+    "level": "A1",
+    "grammarPoint": ""
+  },
+  {
+    "id": 48,
+    "german": "Ich gehe gerne wandern.",
+    "english": "I love hiking.",
+    "category": "Daily Life",
+    "level": "A1",
+    "grammarPoint": ""
+  },
+  {
+    "id": 49,
+    "german": "Die Katze schläft auf dem Sofa.",
+    "english": "The cat sleeps on the sofa.",
+    "category": "Daily Life",
+    "level": "A1",
+    "grammarPoint": ""
+  },
+  {
+    "id": 50,
+    "german": "Ich wasche die Kleidung.",
+    "english": "I do the laundry.",
+    "category": "Daily Life",
+    "level": "A1",
+    "grammarPoint": ""
+  },
+  {
+    "id": 51,
+    "german": "Ich spreche Deutsch.",
+    "english": "I speak German.",
+    "category": "Daily Life",
+    "level": "A1",
+    "grammarPoint": ""
+  },
+  {
+    "id": 52,
+    "german": "Das kommt darauf an.",
+    "english": "That depends.",
+    "category": "Daily Life",
+    "level": "A1",
+    "grammarPoint": ""
+  },
+  {
+    "id": 53,
+    "german": "Ich lerne Vokabeln.",
+    "english": "I learn vocabulary.",
+    "category": "Daily Life",
+    "level": "A1",
+    "grammarPoint": ""
+  },
+  {
+    "id": 54,
+    "german": "Ich helfe meiner Familie.",
+    "english": "I help my family.",
+    "category": "Daily Life",
+    "level": "A1",
+    "grammarPoint": ""
+  },
+  {
+    "id": 55,
+    "german": "Wir essen zusammen.",
+    "english": "We eat together.",
+    "category": "Daily Life",
+    "level": "A1",
+    "grammarPoint": ""
+  },
+  {
+    "id": 56,
+    "german": "Die Kinder gehen in die Schule.",
+    "english": "The children go to school.",
+    "category": "Daily Life",
+    "level": "A1",
+    "grammarPoint": ""
+  },
+  {
+    "id": 57,
+    "german": "Ich trinke einen Kaffee.",
+    "english": "I drink a coffee.",
+    "category": "Daily Life",
+    "level": "A1",
+    "grammarPoint": ""
+  },
+  {
+    "id": 58,
+    "german": "Ich lese ein Buch.",
+    "english": "I read a book.",
+    "category": "Daily Life",
+    "level": "A1",
+    "grammarPoint": ""
+  },
+  {
+    "id": 59,
+    "german": "Ich helfe mit.",
+    "english": "I help with.",
+    "category": "Daily Life",
+    "level": "A1",
+    "grammarPoint": ""
+  },
+  {
+    "id": 60,
+    "german": "Mein Zuhause ist schön.",
+    "english": "My home is beautiful.",
+    "category": "Daily Life",
+    "level": "A1",
+    "grammarPoint": ""
+  },
+  {
+    "id": 61,
+    "german": "Ich gehe gerne spazieren.",
+    "english": "I like to take walks.",
+    "category": "Daily Life",
+    "level": "A1",
+    "grammarPoint": ""
+  },
+  {
+    "id": 62,
+    "german": "Ich habe ein schönes Auto.",
+    "english": "I have a beautiful car.",
+    "category": "Daily Life",
+    "level": "A1",
+    "grammarPoint": ""
+  },
+  {
+    "id": 63,
+    "german": "Ich fahre mit dem Bus.",
+    "english": "I take the bus.",
+    "category": "Daily Life",
+    "level": "A1",
+    "grammarPoint": ""
+  },
+  {
+    "id": 64,
+    "german": "Die Kinder spielen draußen.",
+    "english": "The children play outside.",
+    "category": "Daily Life",
+    "level": "A1",
+    "grammarPoint": ""
+  },
+  {
+    "id": 65,
+    "german": "Ich bin müde.",
+    "english": "I'm tired.",
+    "category": "Daily Life",
+    "level": "A1",
+    "grammarPoint": ""
+  },
+  {
+    "id": 66,
+    "german": "Ich bin hungrig.",
+    "english": "I'm hungry.",
+    "category": "Daily Life",
+    "level": "A1",
+    "grammarPoint": ""
+  },
+  {
+    "id": 67,
+    "german": "Ich bin durstig.",
+    "english": "I'm thirsty.",
+    "category": "Daily Life",
+    "level": "A1",
+    "grammarPoint": ""
+  },
+  {
+    "id": 68,
+    "german": "Ich bin krank.",
+    "english": "I'm sick.",
+    "category": "Daily Life",
+    "level": "A1",
+    "grammarPoint": ""
+  },
+  {
+    "id": 69,
+    "german": "Ich gehe ins Bett.",
+    "english": "I go to bed.",
+    "category": "Daily Life",
+    "level": "A1",
+    "grammarPoint": ""
+  },
+  {
+    "id": 70,
+    "german": "Ich stehe spät auf.",
+    "english": "I get up late.",
+    "category": "Daily Life",
+    "level": "A1",
+    "grammarPoint": ""
+  }
+]

@@ -1,0 +1,202 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("DATABASE_URL")
+}
+
+model CefrLevel {
+  id          String          @id // "a1", "a2", "b1", etc.
+  name        String          // "A1", "A2"
+  description String?
+  vocabulary  Vocabulary[]
+  grammar     GrammarLesson[]
+  quizzes     Quiz[]
+}
+
+model Category {
+  id         Int             @id @default(autoincrement())
+  name       String          @unique // "Nouns", "Pronouns", "Basics"
+  type       String          // "VOCABULARY", "GRAMMAR", etc.
+  vocabulary Vocabulary[]
+  grammar    GrammarLesson[]
+}
+
+model Vocabulary {
+  id         Int       @id @default(autoincrement())
+  german     String    @unique // Enforces strict deduplication
+  english    String
+  article    String?
+  plural         String?
+  germanSentence String?
+  englishSentence String?
+  
+  levelId    String
+  level      CefrLevel @relation(fields: [levelId], references: [id])
+  
+  categoryId Int
+  category   Category  @relation(fields: [categoryId], references: [id])
+  
+  @@index([levelId])
+  @@index([categoryId])
+}
+
+model GrammarLesson {
+  id          Int       @id @default(autoincrement())
+  title       String
+  description String
+  content     String
+  testable    Boolean   @default(false)
+  
+  levelId     String
+  level       CefrLevel @relation(fields: [levelId], references: [id])
+  
+  categoryId  Int
+  category    Category  @relation(fields: [categoryId], references: [id])
+
+  subtopics   GrammarSubtopic[]
+  examples    GrammarExample[]
+  conjugation GrammarConjugation[]
+  errorTraps  GrammarErrorTrap[]
+
+  @@index([levelId])
+}
+
+model GrammarSubtopic {
+  id       Int           @id @default(autoincrement())
+  text     String
+  order    Int
+  lessonId Int
+  lesson   GrammarLesson @relation(fields: [lessonId], references: [id], onDelete: Cascade)
+  
+  @@index([lessonId])
+}
+
+model GrammarExample {
+  id       Int           @id @default(autoincrement())
+  german   String
+  english  String
+  order    Int
+  lessonId Int
+  lesson   GrammarLesson @relation(fields: [lessonId], references: [id], onDelete: Cascade)
+
+  @@index([lessonId])
+}
+
+model GrammarConjugation {
+  id       Int           @id @default(autoincrement())
+  text     String
+  order    Int
+  lessonId Int
+  lesson   GrammarLesson @relation(fields: [lessonId], references: [id], onDelete: Cascade)
+
+  @@index([lessonId])
+}
+
+model GrammarErrorTrap {
+  id       Int           @id @default(autoincrement())
+  text     String
+  order    Int
+  lessonId Int
+  lesson   GrammarLesson @relation(fields: [lessonId], references: [id], onDelete: Cascade)
+
+  @@index([lessonId])
+}
+
+model Quiz {
+  id          Int            @id @default(autoincrement())
+  title       String
+  description String
+  category    String         // e.g. "Articles", "Verb Conjugation", "Sentence Fill-in"
+  quizType    String         // "multiple_choice" or "fill_blank"
+  levelId     String         // "a1", "a2", "b1", "b2"
+  level       CefrLevel      @relation(fields: [levelId], references: [id])
+  questions   QuizQuestion[]
+  createdAt   DateTime       @default(now())
+  updatedAt   DateTime       @updatedAt
+
+  @@index([levelId])
+}
+
+model QuizQuestion {
+  id             Int      @id @default(autoincrement())
+  quizId         Int
+  quiz           Quiz     @relation(fields: [quizId], references: [id], onDelete: Cascade)
+  
+  // Common fields
+  english        String?
+  explanation    String?
+  order          Int      @default(0)
+
+  // For Multiple Choice ("multiple_choice")
+  question       String?  // e.g. "___ Haus ist sehr schön."
+  options        String?  // JSON string e.g. '["Das","Der","Die","Den"]'
+  correctIndex   Int?     // e.g. 0
+
+  // For Sentence Missing Word ("fill_blank")
+  sentenceBefore String?  // e.g. "Ich"
+  blankWord      String?  // e.g. "komme"
+  sentenceAfter  String?  // e.g. "aus Frankfurt."
+  hint           String?  // e.g. "Infinitive: kommen"
+
+  @@index([quizId])
+}
+
+// ==========================================
+// SAAS & ADMIN FEATURES (Phase 43 Expansion)
+// ==========================================
+
+model User {
+  id                 Int       @id @default(autoincrement())
+  email              String    @unique
+  name               String?
+  passwordHash       String
+  role               String    @default("STUDENT") // ADMIN, STUDENT
+  subscriptionId     Int?
+  subscription       SubscriptionPlan? @relation(fields: [subscriptionId], references: [id])
+  subscriptionStatus String    @default("INACTIVE") // ACTIVE, CANCELED, PAST_DUE
+  subscriptionEnd    DateTime?
+  payments           PaymentTransaction[]
+  createdAt          DateTime  @default(now())
+  updatedAt          DateTime  @updatedAt
+}
+
+model SubscriptionPlan {
+  id          Int      @id @default(autoincrement())
+  name        String   @unique // "Free", "Pro", "Premium"
+  price       Float
+  currency    String   @default("EUR")
+  interval    String   @default("MONTHLY") // MONTHLY, YEARLY
+  features    String   // JSON string of features
+  isActive    Boolean  @default(true)
+  users       User[]
+  payments    PaymentTransaction[]
+  createdAt   DateTime @default(now())
+}
+
+model PaymentTransaction {
+  id             Int      @id @default(autoincrement())
+  userId         Int
+  user           User     @relation(fields: [userId], references: [id])
+  planId         Int
+  plan           SubscriptionPlan @relation(fields: [planId], references: [id])
+  amount         Float
+  currency       String
+  gateway        String   // STRIPE, BKASH, SSLCOMMERZ
+  transactionId  String   @unique // Gateway reference ID
+  status         String   // PENDING, COMPLETED, FAILED
+  createdAt      DateTime @default(now())
+}
+
+model NewsletterCampaign {
+  id          Int      @id @default(autoincrement())
+  subject     String
+  content     String
+  target      String   // "ALL", "PRO_USERS", "FREE_USERS"
+  status      String   @default("DRAFT") // DRAFT, SENT, SCHEDULED
+  sentCount   Int      @default(0)
+  createdAt   DateTime @default(now())
+  sentAt      DateTime?
+}

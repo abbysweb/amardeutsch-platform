@@ -1,0 +1,393 @@
+[
+  {
+    "id": 1,
+    "title": "Präteritum (The Simple Past)",
+    "category": "Verbs",
+    "level": "B1",
+    "description": "Learn how to use the formal written past tense for all verbs, not just the modal verbs.",
+    "examples": [
+      {
+        "german": "Gestern las ich ein Buch.",
+        "english": "Yesterday I read a book."
+      },
+      {
+        "german": "Er kaufte ein neues Auto.",
+        "english": "He bought a new car."
+      }
+    ],
+    "conjugationTable": [
+      "Regular (kaufen): kaufte, kauftest, kaufte, kauften, kauftet, kauften",
+      "Irregular (lesen): las, lasest, las, lasen, last, lasen"
+    ],
+    "errorTraps": [
+      "In the Präteritum, the 'ich' and 'er/sie/es' forms are ALWAYS identical!"
+    ],
+    "content": ""
+  },
+  {
+    "id": 2,
+    "title": "Plusquamperfekt (The Past Perfect)",
+    "category": "Verbs",
+    "level": "B1",
+    "description": "How to talk about an event that happened before another event in the past (the 'past of the past').",
+    "examples": [
+      {
+        "german": "Nachdem ich gegessen hatte, ging ich schlafen.",
+        "english": "After I had eaten, I went to sleep."
+      }
+    ],
+    "conjugationTable": [
+      "Structure: war/hatte + Past Participle",
+      "Ich hatte gemacht (I had made)",
+      "Ich war gegangen (I had gone)"
+    ],
+    "errorTraps": [
+      "The Plusquamperfekt is almost never used alone. It is used to show sequence (Event A happened before Event B)."
+    ],
+    "content": ""
+  },
+  {
+    "id": 3,
+    "title": "Passiv (The Passive Voice)",
+    "category": "Sentence Structure",
+    "level": "B1",
+    "description": "Focus on the action itself, rather than who is doing it. (e.g. 'The house is being built').",
+    "examples": [
+      {
+        "german": "Das Auto wird repariert.",
+        "english": "The car is being repaired."
+      },
+      {
+        "german": "Das Haus wurde 1990 gebaut.",
+        "english": "The house was built in 1990."
+      }
+    ],
+    "conjugationTable": [
+      "Present Passive: werden + Past Participle",
+      "Past Passive (Präteritum): wurden + Past Participle",
+      "werden: werde, wirst, wird, werden, werdet, werden",
+      "wurden: wurde, wurdest, wurde, wurden, wurdet, wurden"
+    ],
+    "errorTraps": [
+      "Do not confuse Passive 'werden' with Future tense 'werden'. Future uses the infinitive at the end, Passive uses the Past Participle!"
+    ],
+    "content": ""
+  },
+  {
+    "id": 4,
+    "title": "Relative Clauses and Pronouns",
+    "category": "Pronouns",
+    "level": "B1",
+    "description": "How to combine two sentences by referring back to a noun using 'who', 'which', or 'that'.",
+    "examples": [
+      {
+        "german": "Das ist der Mann, der hier wohnt.",
+        "english": "That is the man who lives here."
+      },
+      {
+        "german": "Das Buch, das ich lese, ist gut.",
+        "english": "The book that I am reading is good."
+      }
+    ],
+    "conjugationTable": [
+      "Nom Relative: der, die, das, die",
+      "Acc Relative: den, die, das, die",
+      "Relative clauses are dependent clauses (verb goes to the end!)."
+    ],
+    "errorTraps": [
+      "The relative pronoun gets its GENDER from the noun it refers to, but its CASE from its job in the new clause."
+    ],
+    "content": ""
+  },
+  {
+    "id": 5,
+    "title": "Relative Pronouns in the Dative Case",
+    "category": "Pronouns",
+    "level": "B1",
+    "description": "Using relative pronouns for indirect objects or after dative prepositions.",
+    "examples": [
+      {
+        "german": "Der Mann, dem ich helfe, ist alt.",
+        "english": "The man whom I am helping is old."
+      },
+      {
+        "german": "Die Frau, mit der ich spreche, ist nett.",
+        "english": "The woman with whom I am speaking is nice."
+      }
+    ],
+    "conjugationTable": [
+      "Dative Relative Pronouns:",
+      "Masc: dem",
+      "Fem: der",
+      "Neut: dem",
+      "Plural: DENEN (Special form!)"
+    ],
+    "errorTraps": [
+      "In the plural dative, the relative pronoun is NOT 'den', it is 'denen'!"
+    ],
+    "content": ""
+  },
+  {
+    "id": 6,
+    "title": "N-Declension (Weak Nouns)",
+    "category": "Nouns",
+    "level": "B1",
+    "description": "A special group of masculine nouns that add an '-n' or '-en' ending in every case except the Nominative.",
+    "examples": [
+      {
+        "german": "Der Junge spielt (Nom). Ich sehe den Jungen (Acc).",
+        "english": "The boy plays. I see the boy."
+      }
+    ],
+    "conjugationTable": [
+      "Nom: der Student | Acc: den Studenten | Dat: dem Studenten",
+      "Nom: der Name | Acc: den Namen | Dat: dem Namen"
+    ],
+    "errorTraps": [
+      "Do not confuse these endings with plural endings! 'den Studenten' can mean 'the student' (singular accusative) OR 'the students' (plural accusative)."
+    ],
+    "content": ""
+  },
+  {
+    "id": 7,
+    "title": "Genitive Case (The 4th Case)",
+    "category": "Cases",
+    "level": "B1",
+    "description": "The case of possession. Equivalent to 'of the' or the English apostrophe 's'.",
+    "examples": [
+      {
+        "german": "Das ist das Auto des Vaters.",
+        "english": "That is the father's car (the car of the father)."
+      },
+      {
+        "german": "Die Farbe der Blume ist rot.",
+        "english": "The color of the flower is red."
+      }
+    ],
+    "conjugationTable": [
+      "Masc: des (+s/es on noun)",
+      "Fem: der (no change on noun)",
+      "Neut: des (+s/es on noun)",
+      "Plural: der (no change on noun)"
+    ],
+    "errorTraps": [
+      "For masculine and neuter nouns, you MUST add an '-s' or '-es' to the end of the noun itself! (des Mannes, des Autos)."
+    ],
+    "content": ""
+  },
+  {
+    "id": 8,
+    "title": "Genitive Prepositions",
+    "category": "Prepositions",
+    "level": "B1",
+    "description": "Prepositions that force the following noun into the Genitive case.",
+    "examples": [
+      {
+        "german": "Wegen des Regens bleibe ich zu Hause.",
+        "english": "Because of the rain, I stay home."
+      },
+      {
+        "german": "Während des Films bin ich eingeschlafen.",
+        "english": "During the film, I fell asleep."
+      }
+    ],
+    "conjugationTable": [
+      "wegen (because of)",
+      "während (during)",
+      "trotz (despite)",
+      "(an)statt (instead of)",
+      "innerhalb (inside of)",
+      "außerhalb (outside of)"
+    ],
+    "errorTraps": [
+      "In spoken German, many native speakers incorrectly use the Dative case with 'wegen' (wegen dem Regen). However, in written B1 German, you MUST use the Genitive (wegen des Regens)!"
+    ],
+    "content": ""
+  },
+  {
+    "id": 9,
+    "title": "Infinitive Clauses with 'zu'",
+    "category": "Sentence Structure",
+    "level": "B1",
+    "description": "How to combine sentences using 'to' + infinitive (e.g. I have no time TO sleep).",
+    "examples": [
+      {
+        "german": "Ich habe keine Zeit, das Buch zu lesen.",
+        "english": "I have no time to read the book."
+      },
+      {
+        "german": "Er lernt Deutsch, um in Berlin zu leben.",
+        "english": "He learns German in order to live in Berlin."
+      }
+    ],
+    "conjugationTable": [
+      "um ... zu (in order to)",
+      "ohne ... zu (without doing)",
+      "statt ... zu (instead of doing)",
+      "Separable verbs: aufzumachen, einzukaufen (zu goes in the middle!)"
+    ],
+    "errorTraps": [
+      "You cannot use an infinitive clause if the subject changes! 'I hope that HE comes' must use a 'dass' clause. 'I hope TO come' can use a 'zu' clause."
+    ],
+    "content": ""
+  },
+  {
+    "id": 10,
+    "title": "Konjunktiv II for Unreal Conditions",
+    "category": "Verbs",
+    "level": "B1",
+    "description": "Using 'would', 'could', and 'had' to talk about hypothetical, unreal situations (If I had a million dollars...).",
+    "examples": [
+      {
+        "german": "Wenn ich Zeit hätte, würde ich dir helfen.",
+        "english": "If I had time, I would help you."
+      }
+    ],
+    "conjugationTable": [
+      "würde + Infinitive (would do)",
+      "hätte (would have)",
+      "wäre (would be)",
+      "könnte (could / would be able to)"
+    ],
+    "errorTraps": [
+      "Do not use 'würde haben' or 'würde sein'. Native speakers always use 'hätte' and 'wäre'."
+    ],
+    "content": ""
+  },
+  {
+    "id": 11,
+    "title": "Two-Part Conjunctions",
+    "category": "Conjunctions",
+    "level": "B1",
+    "description": "Conjunctions that come in pairs (e.g. either...or, neither...nor, not only...but also).",
+    "examples": [
+      {
+        "german": "Er spricht nicht nur Englisch, sondern auch Deutsch.",
+        "english": "He speaks not only English, but also German."
+      },
+      {
+        "german": "Ich trinke weder Kaffee noch Tee.",
+        "english": "I drink neither coffee nor tea."
+      }
+    ],
+    "conjugationTable": [
+      "entweder ... oder (either ... or)",
+      "weder ... noch (neither ... nor)",
+      "sowohl ... als auch (both ... and / as well as)",
+      "nicht nur ... sondern auch (not only ... but also)",
+      "je ... desto (the [more] ... the [more])"
+    ],
+    "errorTraps": [
+      "'weder...noch' already contains a negative meaning. Do not add 'nicht' to the sentence!"
+    ],
+    "content": ""
+  },
+  {
+    "id": 12,
+    "title": "Adjective Declension without Article",
+    "category": "Adjectives",
+    "level": "B1",
+    "description": "How to decline adjectives when there is absolutely no article (der/ein) before the noun.",
+    "examples": [
+      {
+        "german": "Wir trinken kalten Kaffee.",
+        "english": "We drink cold coffee."
+      },
+      {
+        "german": "Mit großer Freude präsentiere ich...",
+        "english": "With great joy I present..."
+      }
+    ],
+    "conjugationTable": [
+      "When there is no article, the adjective must take over the 'signal ending' of the definite article.",
+      "Accusative: kalten (M), kalte (F), kaltes (N), kalte (Pl)",
+      "Dative: kaltem (M), kalter (F), kaltem (N), kalten (Pl)"
+    ],
+    "errorTraps": [
+      "Genitive Masculine and Neuter is the weird exception! Instead of taking an -es (kaltes Wassers), it takes an -en (kalten Wassers) because the noun already has the -s."
+    ],
+    "content": ""
+  },
+  {
+    "id": 13,
+    "title": "Da-words and Wo-words",
+    "category": "Pronouns",
+    "level": "B1",
+    "description": "How to refer to abstract things or objects without repeating the preposition + noun (e.g. 'about it', 'for it').",
+    "examples": [
+      {
+        "german": "Ich freue mich darauf.",
+        "english": "I am looking forward to it."
+      },
+      {
+        "german": "Worauf wartest du?",
+        "english": "What are you waiting for?"
+      }
+    ],
+    "conjugationTable": [
+      "da + preposition = about it, for it, with it",
+      "wo + preposition = what about, what for, with what",
+      "If the preposition starts with a vowel, add an 'r' (daRauf, woRüber)"
+    ],
+    "errorTraps": [
+      "Da-words and Wo-words can ONLY be used for things, objects, or concepts! You cannot use them for people (You cannot say 'Ich warte darauf' to mean 'I wait for him')."
+    ],
+    "content": ""
+  },
+  {
+    "id": 14,
+    "title": "Verbs with Fixed Prepositions (Advanced)",
+    "category": "Verbs",
+    "level": "B1",
+    "description": "Expanding your vocabulary of verbs that demand specific prepositions.",
+    "examples": [
+      {
+        "german": "Es hängt vom Wetter ab.",
+        "english": "It depends on the weather."
+      },
+      {
+        "german": "Ich kümmere mich um den Hund.",
+        "english": "I take care of the dog."
+      }
+    ],
+    "conjugationTable": [
+      "abhängen von (Dat) - to depend on",
+      "sich kümmern um (Acc) - to take care of",
+      "sich beschweren über (Acc) - to complain about",
+      "sich erinnern an (Acc) - to remember",
+      "teilnehmen an (Dat) - to participate in"
+    ],
+    "errorTraps": [
+      "Notice how 'an' takes Accusative for 'erinnern an', but Dative for 'teilnehmen an'. Fixed preposition verbs must be memorized with their specific case!"
+    ],
+    "content": ""
+  },
+  {
+    "id": 15,
+    "title": "Adjective + Preposition Combinations",
+    "category": "Adjectives",
+    "level": "B1",
+    "description": "Just like verbs, some adjectives are permanently glued to specific prepositions.",
+    "examples": [
+      {
+        "german": "Ich bin stolz auf dich.",
+        "english": "I am proud of you."
+      },
+      {
+        "german": "Er ist interessiert an Kunst.",
+        "english": "He is interested in art."
+      }
+    ],
+    "conjugationTable": [
+      "stolz auf (+ Acc) - proud of",
+      "interessiert an (+ Dat) - interested in",
+      "abhängig von (+ Dat) - dependent on",
+      "verliebt in (+ Acc) - in love with",
+      "bekannt für (+ Acc) - known for"
+    ],
+    "errorTraps": [
+      "Do not translate literally! 'Proud OF' uses 'auf' (on), not 'von' (of)."
+    ],
+    "content": ""
+  }
+]

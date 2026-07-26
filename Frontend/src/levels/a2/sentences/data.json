@@ -1,0 +1,2570 @@
+[
+  {
+    "id": 1,
+    "level": "A2",
+    "category": "General",
+    "german": "Etwas über sich selbst erzählen",
+    "english": "To say something about oneself",
+    "grammarPoint": "Kapitel 1"
+  },
+  {
+    "id": 2,
+    "level": "A2",
+    "category": "General",
+    "german": "Ich heiße/Mein Name ist …",
+    "english": "My name is ...",
+    "grammarPoint": "Kapitel 1"
+  },
+  {
+    "id": 3,
+    "level": "A2",
+    "category": "General",
+    "german": "Ich komme aus …",
+    "english": "I come from ...",
+    "grammarPoint": "Kapitel 1"
+  },
+  {
+    "id": 4,
+    "level": "A2",
+    "category": "General",
+    "german": "Mein Geburtsort ist …",
+    "english": "My place of birth is …",
+    "grammarPoint": "Kapitel 1"
+  },
+  {
+    "id": 5,
+    "level": "A2",
+    "category": "General",
+    "german": "Ich arbeite als (Produktmanager) bei (Mercedes).",
+    "english": "I work as (a product manager) at (Mercedes).",
+    "grammarPoint": "Kapitel 1"
+  },
+  {
+    "id": 6,
+    "level": "A2",
+    "category": "General",
+    "german": "Ich bin verheiratet/ledig/geschieden.",
+    "english": "I am single/married/divorced.",
+    "grammarPoint": "Kapitel 1"
+  },
+  {
+    "id": 7,
+    "level": "A2",
+    "category": "General",
+    "german": "Ich wohne in …",
+    "english": "I live in ...",
+    "grammarPoint": "Kapitel 1"
+  },
+  {
+    "id": 8,
+    "level": "A2",
+    "category": "General",
+    "german": "In meiner Freizeit (lese ich gern Fachzeitschriften). In my free time, (",
+    "english": "I like reading technical journals).",
+    "grammarPoint": "Kapitel 1"
+  },
+  {
+    "id": 9,
+    "level": "A2",
+    "category": "General",
+    "german": "Ich bin am … in … geboren.",
+    "english": "I was born on … in …",
+    "grammarPoint": "Kapitel 1"
+  },
+  {
+    "id": 10,
+    "level": "A2",
+    "category": "General",
+    "german": "Von … bis … habe ich (die Schule/ I went",
+    "english": "to (school/",
+    "grammarPoint": "Kapitel 1"
+  },
+  {
+    "id": 11,
+    "level": "A2",
+    "category": "General",
+    "german": "Meine Lieblings fächer waren …",
+    "english": "My favourite subjects were ...",
+    "grammarPoint": "Kapitel 1"
+  },
+  {
+    "id": 12,
+    "level": "A2",
+    "category": "General",
+    "german": "Ich habe mich für … interessiert.",
+    "english": "I was interested in ...",
+    "grammarPoint": "Kapitel 1"
+  },
+  {
+    "id": 13,
+    "level": "A2",
+    "category": "General",
+    "german": "In (Geschichte) habe ich gute Noten/Zensuren",
+    "english": "I received good marks in (history).",
+    "grammarPoint": "Kapitel 1"
+  },
+  {
+    "id": 14,
+    "level": "A2",
+    "category": "General",
+    "german": "Nach der Schule habe ich eine Ausbildung After school,",
+    "english": "I trained as a …",
+    "grammarPoint": "Kapitel 1"
+  },
+  {
+    "id": 15,
+    "level": "A2",
+    "category": "General",
+    "german": "Von … bis … habe ich an der I studied … at university from …",
+    "english": "to …",
+    "grammarPoint": "Kapitel 1"
+  },
+  {
+    "id": 16,
+    "level": "A2",
+    "category": "General",
+    "german": "Ich habe (die Schule/die Ausbildung/die Universität)",
+    "english": "I completed (school/the training/university) in (2010) (with",
+    "grammarPoint": "Kapitel 1"
+  },
+  {
+    "id": 17,
+    "level": "A2",
+    "category": "General",
+    "german": "… habe ich ein Praktikum bei … gemacht/absolviert. In …",
+    "english": "I did/completed an internship at …",
+    "grammarPoint": "Kapitel 1"
+  },
+  {
+    "id": 18,
+    "level": "A2",
+    "category": "General",
+    "german": "Dort habe ich Arbeitserfahrungen/praktische",
+    "english": "I gained work experience/practical",
+    "grammarPoint": "Kapitel 1"
+  },
+  {
+    "id": 19,
+    "level": "A2",
+    "category": "General",
+    "german": "Ich beherrsche (Englisch fließend/alle",
+    "english": "I am (fluent in English)/proficient in",
+    "grammarPoint": "Kapitel 1"
+  },
+  {
+    "id": 20,
+    "level": "A2",
+    "category": "General",
+    "german": "Ich arbeite seit (2018) als (Marketingmanagerin).",
+    "english": "I have been working as (a (female) marketing manager)",
+    "grammarPoint": "Kapitel 1"
+  },
+  {
+    "id": 21,
+    "level": "A2",
+    "category": "General",
+    "german": "Auto fahren",
+    "english": "to go for a drive",
+    "grammarPoint": "Kapitel 2"
+  },
+  {
+    "id": 22,
+    "level": "A2",
+    "category": "General",
+    "german": "einen Ausflug machen",
+    "english": "to go on an excursion",
+    "grammarPoint": "Kapitel 2"
+  },
+  {
+    "id": 23,
+    "level": "A2",
+    "category": "General",
+    "german": "Zeitschriften/Zeitungen/Bücher lesen",
+    "english": "to read magazines/newspapers/books",
+    "grammarPoint": "Kapitel 2"
+  },
+  {
+    "id": 24,
+    "level": "A2",
+    "category": "General",
+    "german": "Radio/Musik hören",
+    "english": "to listen to the radio/music",
+    "grammarPoint": "Kapitel 2"
+  },
+  {
+    "id": 25,
+    "level": "A2",
+    "category": "General",
+    "german": "Fußball spielen",
+    "english": "to play football",
+    "grammarPoint": "Kapitel 2"
+  },
+  {
+    "id": 26,
+    "level": "A2",
+    "category": "General",
+    "german": "im Internet surfen/recherchieren",
+    "english": "to surf the internet/do research on the internet",
+    "grammarPoint": "Kapitel 2"
+  },
+  {
+    "id": 27,
+    "level": "A2",
+    "category": "General",
+    "german": "in sozialen Netzwerken/Medien kommunizieren",
+    "english": "to communicate over social networks/media",
+    "grammarPoint": "Kapitel 2"
+  },
+  {
+    "id": 28,
+    "level": "A2",
+    "category": "General",
+    "german": "Fremdsprachen lernen",
+    "english": "to learn foreign languages",
+    "grammarPoint": "Kapitel 2"
+  },
+  {
+    "id": 29,
+    "level": "A2",
+    "category": "General",
+    "german": "Freunde besuchen",
+    "english": "to visit friends",
+    "grammarPoint": "Kapitel 2"
+  },
+  {
+    "id": 30,
+    "level": "A2",
+    "category": "General",
+    "german": "Gäste empfangen",
+    "english": "to welcome guests",
+    "grammarPoint": "Kapitel 2"
+  },
+  {
+    "id": 31,
+    "level": "A2",
+    "category": "General",
+    "german": "im Garten arbeiten",
+    "english": "to work in the garden",
+    "grammarPoint": "Kapitel 2"
+  },
+  {
+    "id": 32,
+    "level": "A2",
+    "category": "General",
+    "german": "Sport treiben",
+    "english": "to do sports",
+    "grammarPoint": "Kapitel 2"
+  },
+  {
+    "id": 33,
+    "level": "A2",
+    "category": "General",
+    "german": "Partys feiern",
+    "english": "to party, to have parties",
+    "grammarPoint": "Kapitel 2"
+  },
+  {
+    "id": 34,
+    "level": "A2",
+    "category": "General",
+    "german": "sich für Musik interessieren",
+    "english": "to be interested in music",
+    "grammarPoint": "Kapitel 2"
+  },
+  {
+    "id": 35,
+    "level": "A2",
+    "category": "General",
+    "german": "Interesse an Musik haben bzw. verlieren",
+    "english": "to have an interest or lose interest in music",
+    "grammarPoint": "Kapitel 2"
+  },
+  {
+    "id": 36,
+    "level": "A2",
+    "category": "General",
+    "german": "ein Instrument spielen",
+    "english": "to play an instrument",
+    "grammarPoint": "Kapitel 2"
+  },
+  {
+    "id": 37,
+    "level": "A2",
+    "category": "General",
+    "german": "Klavier üben",
+    "english": "to practise playing the piano",
+    "grammarPoint": "Kapitel 2"
+  },
+  {
+    "id": 38,
+    "level": "A2",
+    "category": "General",
+    "german": "ein Konzert besuchen",
+    "english": "to go to a concert",
+    "grammarPoint": "Kapitel 2"
+  },
+  {
+    "id": 39,
+    "level": "A2",
+    "category": "General",
+    "german": "ins Konzert bzw. in die Oper gehen",
+    "english": "to go to a concert or to the opera",
+    "grammarPoint": "Kapitel 2"
+  },
+  {
+    "id": 40,
+    "level": "A2",
+    "category": "General",
+    "german": "Konzerte geben",
+    "english": "to give concerts",
+    "grammarPoint": "Kapitel 2"
+  },
+  {
+    "id": 41,
+    "level": "A2",
+    "category": "General",
+    "german": "(eine Oper) komponieren",
+    "english": "to compose (an opera)",
+    "grammarPoint": "Kapitel 2"
+  },
+  {
+    "id": 42,
+    "level": "A2",
+    "category": "General",
+    "german": "Musikstücke schreiben",
+    "english": "to write pieces of music",
+    "grammarPoint": "Kapitel 2"
+  },
+  {
+    "id": 43,
+    "level": "A2",
+    "category": "General",
+    "german": "Erfolge feiern",
+    "english": "to celebrate successes",
+    "grammarPoint": "Kapitel 2"
+  },
+  {
+    "id": 44,
+    "level": "A2",
+    "category": "General",
+    "german": "Erfolg haben",
+    "english": "to be successful",
+    "grammarPoint": "Kapitel 2"
+  },
+  {
+    "id": 45,
+    "level": "A2",
+    "category": "General",
+    "german": "mit Musik Geld verdienen",
+    "english": "to earn money with music",
+    "grammarPoint": "Kapitel 2"
+  },
+  {
+    "id": 46,
+    "level": "A2",
+    "category": "General",
+    "german": "ein Museum besuchen",
+    "english": "to visit a museum",
+    "grammarPoint": "Kapitel 2"
+  },
+  {
+    "id": 47,
+    "level": "A2",
+    "category": "General",
+    "german": "Fotos machen",
+    "english": "to take photographs",
+    "grammarPoint": "Kapitel 2"
+  },
+  {
+    "id": 48,
+    "level": "A2",
+    "category": "General",
+    "german": "Menschen, Gebäude, Landschaften fotografieren",
+    "english": "to take photographs of people, buildings, landscapes",
+    "grammarPoint": "Kapitel 2"
+  },
+  {
+    "id": 49,
+    "level": "A2",
+    "category": "General",
+    "german": "sich Fotos ansehen",
+    "english": "to look at photographs",
+    "grammarPoint": "Kapitel 2"
+  },
+  {
+    "id": 50,
+    "level": "A2",
+    "category": "General",
+    "german": "die Fotos jemandem zeigen",
+    "english": "to show the photographs to somebody",
+    "grammarPoint": "Kapitel 2"
+  },
+  {
+    "id": 51,
+    "level": "A2",
+    "category": "General",
+    "german": "mit einer Digitalkamera/mit einem",
+    "english": "to take photographs with a digital camera/",
+    "grammarPoint": "Kapitel 2"
+  },
+  {
+    "id": 52,
+    "level": "A2",
+    "category": "General",
+    "german": "ins Kino gehen",
+    "english": "to go to the cinema",
+    "grammarPoint": "Kapitel 2"
+  },
+  {
+    "id": 53,
+    "level": "A2",
+    "category": "General",
+    "german": "sich einen Film ansehen",
+    "english": "to watch a film",
+    "grammarPoint": "Kapitel 2"
+  },
+  {
+    "id": 54,
+    "level": "A2",
+    "category": "General",
+    "german": "einen Film sehen",
+    "english": "to watch a film",
+    "grammarPoint": "Kapitel 2"
+  },
+  {
+    "id": 55,
+    "level": "A2",
+    "category": "General",
+    "german": "einen Lieblingsschauspieler/eine",
+    "english": "to have a favourite (male) actor/a",
+    "grammarPoint": "Kapitel 2"
+  },
+  {
+    "id": 56,
+    "level": "A2",
+    "category": "General",
+    "german": "Ein Film läuft im Kino.",
+    "english": "A film is showing in cinemas.",
+    "grammarPoint": "Kapitel 2"
+  },
+  {
+    "id": 57,
+    "level": "A2",
+    "category": "General",
+    "german": "Ein Film hat viele Zuschauer.",
+    "english": "A film has a large audience.",
+    "grammarPoint": "Kapitel 2"
+  },
+  {
+    "id": 58,
+    "level": "A2",
+    "category": "General",
+    "german": "einen Film auswählen",
+    "english": "to choose a film",
+    "grammarPoint": "Kapitel 2"
+  },
+  {
+    "id": 59,
+    "level": "A2",
+    "category": "General",
+    "german": "Der Film handelt von (zwei Mädchen).",
+    "english": "The film is about (two girls).",
+    "grammarPoint": "Kapitel 2"
+  },
+  {
+    "id": 60,
+    "level": "A2",
+    "category": "General",
+    "german": "Der Film erzählt die Geschichte (einer großen Liebe).",
+    "english": "The film tells the story (of a great love).",
+    "grammarPoint": "Kapitel 2"
+  },
+  {
+    "id": 61,
+    "level": "A2",
+    "category": "General",
+    "german": "ein Produkt in Raten bezahlen",
+    "english": "to pay for a product in instalments",
+    "grammarPoint": "Kapitel 3"
+  },
+  {
+    "id": 62,
+    "level": "A2",
+    "category": "General",
+    "german": "einen kleinen Betrag an(be)zahlen",
+    "english": "to pay a small deposit",
+    "grammarPoint": "Kapitel 3"
+  },
+  {
+    "id": 63,
+    "level": "A2",
+    "category": "General",
+    "german": "den Rest Monat für Monat ab(be)zahlen",
+    "english": "to pay off the rest month by month",
+    "grammarPoint": "Kapitel 3"
+  },
+  {
+    "id": 64,
+    "level": "A2",
+    "category": "General",
+    "german": "Tendenzen unterscheiden",
+    "english": "to distinguish between trends",
+    "grammarPoint": "Kapitel 3"
+  },
+  {
+    "id": 65,
+    "level": "A2",
+    "category": "General",
+    "german": "im Trend liegen",
+    "english": "to be in fashion",
+    "grammarPoint": "Kapitel 3"
+  },
+  {
+    "id": 66,
+    "level": "A2",
+    "category": "General",
+    "german": "Produkte aus Spaß kaufen, weil man sie besitzen möchte",
+    "english": "to buy products for fun because you would like to",
+    "grammarPoint": "Kapitel 3"
+  },
+  {
+    "id": 67,
+    "level": "A2",
+    "category": "General",
+    "german": "auf die Qualität/die Herstellung/die",
+    "english": "to pay attention to the quality/the production/the",
+    "grammarPoint": "Kapitel 3"
+  },
+  {
+    "id": 68,
+    "level": "A2",
+    "category": "General",
+    "german": "Produkte selbst machen/herstellen",
+    "english": "to make/produce products yourself",
+    "grammarPoint": "Kapitel 3"
+  },
+  {
+    "id": 69,
+    "level": "A2",
+    "category": "General",
+    "german": "Obst und Gemüse anbauen",
+    "english": "to grow fruits and vegetables",
+    "grammarPoint": "Kapitel 3"
+  },
+  {
+    "id": 70,
+    "level": "A2",
+    "category": "General",
+    "german": "Geld kann man:",
+    "english": "You can:",
+    "grammarPoint": "Kapitel 3"
+  },
+  {
+    "id": 71,
+    "level": "A2",
+    "category": "General",
+    "german": "Lotto spielen",
+    "english": "to play the lottery",
+    "grammarPoint": "Kapitel 3"
+  },
+  {
+    "id": 72,
+    "level": "A2",
+    "category": "General",
+    "german": "im Lotto (viel Geld) gewinnen",
+    "english": "to win (a lot of money) in the lottery",
+    "grammarPoint": "Kapitel 3"
+  },
+  {
+    "id": 73,
+    "level": "A2",
+    "category": "General",
+    "german": "an einer Spielrunde teilnehmen",
+    "english": "to take part in a round (of playing the lottery)",
+    "grammarPoint": "Kapitel 3"
+  },
+  {
+    "id": 74,
+    "level": "A2",
+    "category": "General",
+    "german": "Lottomillionär sein",
+    "english": "to be a lottery millionaire",
+    "grammarPoint": "Kapitel 3"
+  },
+  {
+    "id": 75,
+    "level": "A2",
+    "category": "General",
+    "german": "ein Leben in Saus und Braus führen",
+    "english": "to live in the lap of luxury",
+    "grammarPoint": "Kapitel 3"
+  },
+  {
+    "id": 76,
+    "level": "A2",
+    "category": "General",
+    "german": "mit dem Geld etwas Gutes tun",
+    "english": "to do something good with the money",
+    "grammarPoint": "Kapitel 3"
+  },
+  {
+    "id": 77,
+    "level": "A2",
+    "category": "General",
+    "german": "den kompletten Gewinn spenden",
+    "english": "to donate all of the winnings",
+    "grammarPoint": "Kapitel 3"
+  },
+  {
+    "id": 78,
+    "level": "A2",
+    "category": "General",
+    "german": "Geld ausgeben",
+    "english": "to spend money",
+    "grammarPoint": "Kapitel 3"
+  },
+  {
+    "id": 79,
+    "level": "A2",
+    "category": "General",
+    "german": "sich um eine Stelle bewerben",
+    "english": "to apply for a position",
+    "grammarPoint": "Kapitel 4"
+  },
+  {
+    "id": 80,
+    "level": "A2",
+    "category": "General",
+    "german": "bei einer Firma kündigen",
+    "english": "to quit one’s job at a company",
+    "grammarPoint": "Kapitel 4"
+  },
+  {
+    "id": 81,
+    "level": "A2",
+    "category": "General",
+    "german": "eine interessante Arbeit haben",
+    "english": "to have an interesting job",
+    "grammarPoint": "Kapitel 4"
+  },
+  {
+    "id": 82,
+    "level": "A2",
+    "category": "General",
+    "german": "Die Arbeitszeit geht von … bis … The working hours are from …",
+    "english": "to …",
+    "grammarPoint": "Kapitel 4"
+  },
+  {
+    "id": 83,
+    "level": "A2",
+    "category": "General",
+    "german": "Pause machen",
+    "english": "to take a break",
+    "grammarPoint": "Kapitel 4"
+  },
+  {
+    "id": 84,
+    "level": "A2",
+    "category": "General",
+    "german": "in der Kantine essen",
+    "english": "to eat in the canteen",
+    "grammarPoint": "Kapitel 4"
+  },
+  {
+    "id": 85,
+    "level": "A2",
+    "category": "General",
+    "german": "monatlich Gehalt bekommen",
+    "english": "to receive a salary every month",
+    "grammarPoint": "Kapitel 4"
+  },
+  {
+    "id": 86,
+    "level": "A2",
+    "category": "General",
+    "german": "über eine Gehaltserhöhung reden/sprechen",
+    "english": "to talk/speak about a salary rise",
+    "grammarPoint": "Kapitel 4"
+  },
+  {
+    "id": 87,
+    "level": "A2",
+    "category": "General",
+    "german": "sich mit einem Kollegen streiten",
+    "english": "to fight with a colleague",
+    "grammarPoint": "Kapitel 4"
+  },
+  {
+    "id": 88,
+    "level": "A2",
+    "category": "General",
+    "german": "sich über einen Erfolg freuen",
+    "english": "to be happy about a success",
+    "grammarPoint": "Kapitel 4"
+  },
+  {
+    "id": 89,
+    "level": "A2",
+    "category": "General",
+    "german": "sich über den Service beschweren",
+    "english": "to complain about the service",
+    "grammarPoint": "Kapitel 4"
+  },
+  {
+    "id": 90,
+    "level": "A2",
+    "category": "General",
+    "german": "mit Kollegen über dienstliche Probleme reden",
+    "english": "to talk with colleagues about work issues",
+    "grammarPoint": "Kapitel 4"
+  },
+  {
+    "id": 91,
+    "level": "A2",
+    "category": "General",
+    "german": "EMails öffnen/lesen/beantworten/löschen/",
+    "english": "to open/read/answer/delete/",
+    "grammarPoint": "Kapitel 4"
+  },
+  {
+    "id": 92,
+    "level": "A2",
+    "category": "General",
+    "german": "Dokumente lesen",
+    "english": "to read documents",
+    "grammarPoint": "Kapitel 4"
+  },
+  {
+    "id": 93,
+    "level": "A2",
+    "category": "General",
+    "german": "mit Kunden und Kollegen telefonieren",
+    "english": "to talk with clients and colleagues on the telephone",
+    "grammarPoint": "Kapitel 4"
+  },
+  {
+    "id": 94,
+    "level": "A2",
+    "category": "General",
+    "german": "Termine vereinbaren",
+    "english": "to make appointments",
+    "grammarPoint": "Kapitel 4"
+  },
+  {
+    "id": 95,
+    "level": "A2",
+    "category": "General",
+    "german": "Dienstreisen machen/organisieren",
+    "english": "to go on/organise business trips",
+    "grammarPoint": "Kapitel 4"
+  },
+  {
+    "id": 96,
+    "level": "A2",
+    "category": "General",
+    "german": "an Besprechungen/Sitzungen teilnehmen",
+    "english": "to attend meetings",
+    "grammarPoint": "Kapitel 4"
+  },
+  {
+    "id": 97,
+    "level": "A2",
+    "category": "General",
+    "german": "Protokolle schreiben",
+    "english": "to take minutes",
+    "grammarPoint": "Kapitel 4"
+  },
+  {
+    "id": 98,
+    "level": "A2",
+    "category": "General",
+    "german": "ein Computerproblem haben/lösen",
+    "english": "to have/solve a computer problem",
+    "grammarPoint": "Kapitel 4"
+  },
+  {
+    "id": 99,
+    "level": "A2",
+    "category": "General",
+    "german": "Rechnungen schreiben/bezahlen",
+    "english": "to write/pay invoices",
+    "grammarPoint": "Kapitel 4"
+  },
+  {
+    "id": 100,
+    "level": "A2",
+    "category": "General",
+    "german": "eine ExcelTabelle ausfüllen",
+    "english": "to fill in an Excel spreadsheet",
+    "grammarPoint": "Kapitel 4"
+  },
+  {
+    "id": 101,
+    "level": "A2",
+    "category": "General",
+    "german": "ein Produkt vorstellen/präsentieren",
+    "english": "to present a product",
+    "grammarPoint": "Kapitel 4"
+  },
+  {
+    "id": 102,
+    "level": "A2",
+    "category": "General",
+    "german": "Könnte ich bitte Herrn/Frau … sprechen? Can",
+    "english": "I speak with Mr/Ms ..., please?",
+    "grammarPoint": "Kapitel 4"
+  },
+  {
+    "id": 103,
+    "level": "A2",
+    "category": "General",
+    "german": "Ich möchte gerne Herrn/Frau … sprechen. I would like",
+    "english": "to speak with Mr/Ms …",
+    "grammarPoint": "Kapitel 4"
+  },
+  {
+    "id": 104,
+    "level": "A2",
+    "category": "General",
+    "german": "Ich würde gerne mit Ihnen einen Termin I would like",
+    "english": "to make an appointment with you.",
+    "grammarPoint": "Kapitel 4"
+  },
+  {
+    "id": 105,
+    "level": "A2",
+    "category": "General",
+    "german": "Ich würde Ihnen gerne unser neues Produkt I would like",
+    "english": "to present our new product to you.",
+    "grammarPoint": "Kapitel 4"
+  },
+  {
+    "id": 106,
+    "level": "A2",
+    "category": "General",
+    "german": "Ja, am … um … geht es/habe ich Zeit. Yes, … at … works/",
+    "english": "I have time on … at …",
+    "grammarPoint": "Kapitel 4"
+  },
+  {
+    "id": 107,
+    "level": "A2",
+    "category": "General",
+    "german": "Ich hätte am … Zeit.",
+    "english": "I would have time on …",
+    "grammarPoint": "Kapitel 4"
+  },
+  {
+    "id": 108,
+    "level": "A2",
+    "category": "General",
+    "german": "ein Angebot machen/schreiben/prüfen/",
+    "english": "to make/write/evaluate/",
+    "grammarPoint": "Kapitel 4"
+  },
+  {
+    "id": 109,
+    "level": "A2",
+    "category": "General",
+    "german": "einen Auftrag schreiben/senden/erhalten/bestätigen",
+    "english": "to write/send/receive/confirm an order",
+    "grammarPoint": "Kapitel 4"
+  },
+  {
+    "id": 110,
+    "level": "A2",
+    "category": "General",
+    "german": "eine Bestellung schreiben/aufgeben",
+    "english": "to write/place an order",
+    "grammarPoint": "Kapitel 4"
+  },
+  {
+    "id": 111,
+    "level": "A2",
+    "category": "General",
+    "german": "Produkte anbieten/bestellen/liefern",
+    "english": "to offer/order/deliver products",
+    "grammarPoint": "Kapitel 4"
+  },
+  {
+    "id": 112,
+    "level": "A2",
+    "category": "General",
+    "german": "eine Reise auswählen/buchen",
+    "english": "to choose/book a trip",
+    "grammarPoint": "Kapitel 5"
+  },
+  {
+    "id": 113,
+    "level": "A2",
+    "category": "General",
+    "german": "in einem (4Sterne) Hotel wohnen/übernachten",
+    "english": "to stay at a (4 star) hotel",
+    "grammarPoint": "Kapitel 5"
+  },
+  {
+    "id": 114,
+    "level": "A2",
+    "category": "General",
+    "german": "Das Hotel liegt direkt (am Strand),",
+    "english": "The hotel is located directly (on the beach),",
+    "grammarPoint": "Kapitel 5"
+  },
+  {
+    "id": 115,
+    "level": "A2",
+    "category": "General",
+    "german": "Das Hotel bietet/verfügt über (einen Wellnessbereich).",
+    "english": "The hotel offers/has (a spa area).",
+    "grammarPoint": "Kapitel 5"
+  },
+  {
+    "id": 116,
+    "level": "A2",
+    "category": "General",
+    "german": "Ich reise am liebsten mit (dem Auto). I prefer",
+    "english": "to travel (by car).",
+    "grammarPoint": "Kapitel 5"
+  },
+  {
+    "id": 117,
+    "level": "A2",
+    "category": "General",
+    "german": "Ich finde im Urlaub (die Landschaft/das Wetter) On holiday,",
+    "english": "I consider (the landscape/the weather)",
+    "grammarPoint": "Kapitel 5"
+  },
+  {
+    "id": 118,
+    "level": "A2",
+    "category": "General",
+    "german": "Wir fahren jedes Jahr nach …/in die … We go",
+    "english": "to … every year.",
+    "grammarPoint": "Kapitel 5"
+  },
+  {
+    "id": 119,
+    "level": "A2",
+    "category": "General",
+    "german": "Wir haben für … Tage … Euro pro Person bezahlt.",
+    "english": "We paid … euros per person for … days.",
+    "grammarPoint": "Kapitel 5"
+  },
+  {
+    "id": 120,
+    "level": "A2",
+    "category": "General",
+    "german": "im Stau stehen",
+    "english": "to be in a traffic jam",
+    "grammarPoint": "Kapitel 5"
+  },
+  {
+    "id": 121,
+    "level": "A2",
+    "category": "General",
+    "german": "(Das Flugzeug) hat Verspätung. (",
+    "english": "The plane) is delayed.",
+    "grammarPoint": "Kapitel 5"
+  },
+  {
+    "id": 122,
+    "level": "A2",
+    "category": "General",
+    "german": "(einen Zug) verpassen",
+    "english": "to miss (a train)",
+    "grammarPoint": "Kapitel 5"
+  },
+  {
+    "id": 123,
+    "level": "A2",
+    "category": "General",
+    "german": "Die Sonne scheint.",
+    "english": "The sun is shining.",
+    "grammarPoint": "Kapitel 5"
+  },
+  {
+    "id": 124,
+    "level": "A2",
+    "category": "General",
+    "german": "Heute Abend erwarten wir (ein) Gewitter.",
+    "english": "We are expecting a thunderstorm this evening.",
+    "grammarPoint": "Kapitel 5"
+  },
+  {
+    "id": 125,
+    "level": "A2",
+    "category": "General",
+    "german": "Die Temperaturen liegen bei …/zwischen …",
+    "english": "The temperatures are …/between …",
+    "grammarPoint": "Kapitel 5"
+  },
+  {
+    "id": 126,
+    "level": "A2",
+    "category": "General",
+    "german": "Die Tageshöchsttemperatur beträgt …",
+    "english": "The maximum temperature will be …",
+    "grammarPoint": "Kapitel 5"
+  },
+  {
+    "id": 127,
+    "level": "A2",
+    "category": "General",
+    "german": "in die Oper/ins Theater gehen",
+    "english": "to go to the opera/to the theatre",
+    "grammarPoint": "Kapitel 5"
+  },
+  {
+    "id": 128,
+    "level": "A2",
+    "category": "General",
+    "german": "in einem Restaurant essen",
+    "english": "to eat at a restaurant",
+    "grammarPoint": "Kapitel 5"
+  },
+  {
+    "id": 129,
+    "level": "A2",
+    "category": "General",
+    "german": "im Stadtpark spazieren gehen",
+    "english": "to go for a walk in the city park",
+    "grammarPoint": "Kapitel 5"
+  },
+  {
+    "id": 130,
+    "level": "A2",
+    "category": "General",
+    "german": "mit dem Helikopter über die Stadt fliegen",
+    "english": "to fly over the city in a helicopter",
+    "grammarPoint": "Kapitel 5"
+  },
+  {
+    "id": 131,
+    "level": "A2",
+    "category": "General",
+    "german": "eine Stadtrundfahrt machen",
+    "english": "to take a sightseeing tour of the city (by bus)",
+    "grammarPoint": "Kapitel 5"
+  },
+  {
+    "id": 132,
+    "level": "A2",
+    "category": "General",
+    "german": "durch die Stadt laufen",
+    "english": "to walk through the city",
+    "grammarPoint": "Kapitel 5"
+  },
+  {
+    "id": 133,
+    "level": "A2",
+    "category": "General",
+    "german": "in den Zoo gehen",
+    "english": "to go to the zoo",
+    "grammarPoint": "Kapitel 5"
+  },
+  {
+    "id": 134,
+    "level": "A2",
+    "category": "General",
+    "german": "Andenken kaufen",
+    "english": "to buy souvenirs",
+    "grammarPoint": "Kapitel 5"
+  },
+  {
+    "id": 135,
+    "level": "A2",
+    "category": "General",
+    "german": "Postkarten schreiben",
+    "english": "to write postcards",
+    "grammarPoint": "Kapitel 5"
+  },
+  {
+    "id": 136,
+    "level": "A2",
+    "category": "General",
+    "german": "abends in eine Bar/eine Disco gehen",
+    "english": "to go to a bar/a disco in the evening",
+    "grammarPoint": "Kapitel 5"
+  },
+  {
+    "id": 137,
+    "level": "A2",
+    "category": "General",
+    "german": "Sehenswürdigkeiten besichtigen",
+    "english": "to sightsee",
+    "grammarPoint": "Kapitel 5"
+  },
+  {
+    "id": 138,
+    "level": "A2",
+    "category": "General",
+    "german": "(oft) in den Zoo gehen",
+    "english": "to go to the zoo (often)",
+    "grammarPoint": "Kapitel 6"
+  },
+  {
+    "id": 139,
+    "level": "A2",
+    "category": "General",
+    "german": "gegen/für das Konzept des Zoos sein",
+    "english": "to be against/for the concept of the zoo",
+    "grammarPoint": "Kapitel 6"
+  },
+  {
+    "id": 140,
+    "level": "A2",
+    "category": "General",
+    "german": "ein Lieblingstier haben",
+    "english": "to have a favourite animal",
+    "grammarPoint": "Kapitel 6"
+  },
+  {
+    "id": 141,
+    "level": "A2",
+    "category": "General",
+    "german": "(Affen/Fische/Bären) mögen",
+    "english": "to like (monkeys/fish/bears)",
+    "grammarPoint": "Kapitel 6"
+  },
+  {
+    "id": 142,
+    "level": "A2",
+    "category": "General",
+    "german": "sich für (wilde/giftige) Tiere interessieren",
+    "english": "to be interested in (wild/poisonous) animals",
+    "grammarPoint": "Kapitel 6"
+  },
+  {
+    "id": 143,
+    "level": "A2",
+    "category": "General",
+    "german": "Angst vor (Spinnen) haben",
+    "english": "to be afraid of (spiders)",
+    "grammarPoint": "Kapitel 6"
+  },
+  {
+    "id": 144,
+    "level": "A2",
+    "category": "General",
+    "german": "das wirksamste/tödlichste Gift haben",
+    "english": "to have the most effective/deadliest poison",
+    "grammarPoint": "Kapitel 6"
+  },
+  {
+    "id": 145,
+    "level": "A2",
+    "category": "General",
+    "german": "an einem Gift/durch ein Tier sterben",
+    "english": "to be killed by a poison/an animal",
+    "grammarPoint": "Kapitel 6"
+  },
+  {
+    "id": 146,
+    "level": "A2",
+    "category": "General",
+    "german": "in menschenleeren Gebieten leben",
+    "english": "to live in sparsely populated areas",
+    "grammarPoint": "Kapitel 6"
+  },
+  {
+    "id": 147,
+    "level": "A2",
+    "category": "General",
+    "german": "Eine Biene/Mücke kann Menschen stechen.",
+    "english": "A bee/A mosquito can sting/bite people.",
+    "grammarPoint": "Kapitel 6"
+  },
+  {
+    "id": 148,
+    "level": "A2",
+    "category": "General",
+    "german": "allergisch auf (ein Gift) reagieren",
+    "english": "to have an allergic reaction to (a poison)",
+    "grammarPoint": "Kapitel 6"
+  },
+  {
+    "id": 149,
+    "level": "A2",
+    "category": "General",
+    "german": "Konfliktfähigkeit ability",
+    "english": "to deal with conflicts",
+    "grammarPoint": "Kapitel 6"
+  },
+  {
+    "id": 150,
+    "level": "A2",
+    "category": "General",
+    "german": "sich über Müll auf der Straße ärgern",
+    "english": "to be angry about rubbish in the street",
+    "grammarPoint": "Kapitel 6"
+  },
+  {
+    "id": 151,
+    "level": "A2",
+    "category": "General",
+    "german": "auf der Terrasse im Freien sitzen …",
+    "english": "to sit outdoors on the terrace …",
+    "grammarPoint": "Kapitel 7"
+  },
+  {
+    "id": 152,
+    "level": "A2",
+    "category": "General",
+    "german": "viel Obst und Gemüse essen",
+    "english": "to eat a lot of fruits and vegetables",
+    "grammarPoint": "Kapitel 7"
+  },
+  {
+    "id": 153,
+    "level": "A2",
+    "category": "General",
+    "german": "Gemüse kann man:",
+    "english": "You can:",
+    "grammarPoint": "Kapitel 7"
+  },
+  {
+    "id": 154,
+    "level": "A2",
+    "category": "General",
+    "german": "regelmäßig eine Zeitung/eine Zeitschrift lesen",
+    "english": "to read a newspaper/a magazine regularly",
+    "grammarPoint": "Kapitel 8"
+  },
+  {
+    "id": 155,
+    "level": "A2",
+    "category": "General",
+    "german": "Die Zeitschrift erscheint (täglich/wöchentlich/",
+    "english": "The magazine is published (daily/weekly/",
+    "grammarPoint": "Kapitel 8"
+  },
+  {
+    "id": 156,
+    "level": "A2",
+    "category": "General",
+    "german": "Die Zeitung informiert/berichtet über …",
+    "english": "The newspaper provides information about/reports on …",
+    "grammarPoint": "Kapitel 8"
+  },
+  {
+    "id": 157,
+    "level": "A2",
+    "category": "General",
+    "german": "Die Zeitung beschäftigt sich mit …/",
+    "english": "The newspaper deals with …/",
+    "grammarPoint": "Kapitel 8"
+  },
+  {
+    "id": 158,
+    "level": "A2",
+    "category": "General",
+    "german": "Das Klima verändert sich.",
+    "english": "The climate is changing.",
+    "grammarPoint": "Kapitel 8"
+  },
+  {
+    "id": 159,
+    "level": "A2",
+    "category": "General",
+    "german": "Die Temperaturen steigen/werden extremer.",
+    "english": "The temperatures are rising/becoming more extreme.",
+    "grammarPoint": "Kapitel 8"
+  },
+  {
+    "id": 160,
+    "level": "A2",
+    "category": "General",
+    "german": "Die Naturkatastrophen nehmen zu/haben",
+    "english": "The number of natural disasters is increasing/",
+    "grammarPoint": "Kapitel 8"
+  },
+  {
+    "id": 161,
+    "level": "A2",
+    "category": "General",
+    "german": "eine Gebrauchs bzw. Bedienungsanleitung lesen",
+    "english": "to read instructions for use/a user‘s manual",
+    "grammarPoint": "Kapitel 8"
+  },
+  {
+    "id": 162,
+    "level": "A2",
+    "category": "General",
+    "german": "ein Gerät/einen Apparat kann man:",
+    "english": "You can:",
+    "grammarPoint": "Kapitel 8"
+  },
+  {
+    "id": 163,
+    "level": "A2",
+    "category": "General",
+    "german": "aufstehen",
+    "english": "to get up",
+    "grammarPoint": "Kapitel 8"
+  },
+  {
+    "id": 164,
+    "level": "A2",
+    "category": "General",
+    "german": "sich duschen",
+    "english": "to take a shower",
+    "grammarPoint": "Kapitel 8"
+  },
+  {
+    "id": 165,
+    "level": "A2",
+    "category": "General",
+    "german": "sich waschen",
+    "english": "to wash oneself",
+    "grammarPoint": "Kapitel 8"
+  },
+  {
+    "id": 166,
+    "level": "A2",
+    "category": "General",
+    "german": "sich föhnen",
+    "english": "to blowdry",
+    "grammarPoint": "Kapitel 8"
+  },
+  {
+    "id": 167,
+    "level": "A2",
+    "category": "General",
+    "german": "sich schminken",
+    "english": "to put on make up",
+    "grammarPoint": "Kapitel 8"
+  },
+  {
+    "id": 168,
+    "level": "A2",
+    "category": "General",
+    "german": "frühstücken",
+    "english": "to have breakfast",
+    "grammarPoint": "Kapitel 8"
+  },
+  {
+    "id": 169,
+    "level": "A2",
+    "category": "General",
+    "german": "Kollegen begrüßen",
+    "english": "to greet colleagues",
+    "grammarPoint": "Kapitel 8"
+  },
+  {
+    "id": 170,
+    "level": "A2",
+    "category": "General",
+    "german": "EMails lesen und schreiben",
+    "english": "to read and write emails",
+    "grammarPoint": "Kapitel 8"
+  },
+  {
+    "id": 171,
+    "level": "A2",
+    "category": "General",
+    "german": "mit Kunden reden",
+    "english": "to speak to clients",
+    "grammarPoint": "Kapitel 8"
+  },
+  {
+    "id": 172,
+    "level": "A2",
+    "category": "General",
+    "german": "Besprechungen haben",
+    "english": "to attend meetings",
+    "grammarPoint": "Kapitel 8"
+  },
+  {
+    "id": 173,
+    "level": "A2",
+    "category": "General",
+    "german": "in der Kantine Mittag essen",
+    "english": "to eat lunch in the canteen",
+    "grammarPoint": "Kapitel 8"
+  },
+  {
+    "id": 174,
+    "level": "A2",
+    "category": "General",
+    "german": "Rechnungen schreiben",
+    "english": "to write invoices",
+    "grammarPoint": "Kapitel 8"
+  },
+  {
+    "id": 175,
+    "level": "A2",
+    "category": "General",
+    "german": "Ideen entwickeln",
+    "english": "to develop ideas",
+    "grammarPoint": "Kapitel 8"
+  },
+  {
+    "id": 176,
+    "level": "A2",
+    "category": "General",
+    "german": "ein Projekt präsentieren",
+    "english": "to present a project",
+    "grammarPoint": "Kapitel 8"
+  },
+  {
+    "id": 177,
+    "level": "A2",
+    "category": "General",
+    "german": "sich über kleine Erfolge freuen",
+    "english": "to be happy about small successes",
+    "grammarPoint": "Kapitel 8"
+  },
+  {
+    "id": 178,
+    "level": "A2",
+    "category": "General",
+    "german": "sich über eine Kundin ärgern",
+    "english": "to be annoyed about a (female) client",
+    "grammarPoint": "Kapitel 8"
+  },
+  {
+    "id": 179,
+    "level": "A2",
+    "category": "General",
+    "german": "Feierabend haben",
+    "english": "to finish work/to leave work for the day",
+    "grammarPoint": "Kapitel 8"
+  },
+  {
+    "id": 180,
+    "level": "A2",
+    "category": "General",
+    "german": "einkaufen",
+    "english": "to go shopping",
+    "grammarPoint": "Kapitel 8"
+  },
+  {
+    "id": 181,
+    "level": "A2",
+    "category": "General",
+    "german": "kochen",
+    "english": "to cook",
+    "grammarPoint": "Kapitel 8"
+  },
+  {
+    "id": 182,
+    "level": "A2",
+    "category": "General",
+    "german": "fernsehen",
+    "english": "to watch TV",
+    "grammarPoint": "Kapitel 8"
+  },
+  {
+    "id": 183,
+    "level": "A2",
+    "category": "General",
+    "german": "Bücher lesen",
+    "english": "to read books",
+    "grammarPoint": "Kapitel 8"
+  },
+  {
+    "id": 184,
+    "level": "A2",
+    "category": "General",
+    "german": "Geld verdienen",
+    "english": "to earn money",
+    "grammarPoint": "Kapitel 8"
+  },
+  {
+    "id": 185,
+    "level": "A2",
+    "category": "General",
+    "german": "Die Ware ist gut/frisch/billig.",
+    "english": "The products are good/fresh/cheap.",
+    "grammarPoint": "Kapitel 8"
+  },
+  {
+    "id": 186,
+    "level": "A2",
+    "category": "General",
+    "german": "Die Verkäufer sind nett.",
+    "english": "The salespeople are kind.",
+    "grammarPoint": "Kapitel 8"
+  },
+  {
+    "id": 187,
+    "level": "A2",
+    "category": "General",
+    "german": "Die Beratung ist gut.",
+    "english": "The customer service is good.",
+    "grammarPoint": "Kapitel 8"
+  },
+  {
+    "id": 188,
+    "level": "A2",
+    "category": "General",
+    "german": "Die Auswahl ist groß.",
+    "english": "The selection is large.",
+    "grammarPoint": "Kapitel 8"
+  },
+  {
+    "id": 189,
+    "level": "A2",
+    "category": "General",
+    "german": "Tag und Nacht einkaufen",
+    "english": "to shop day and night",
+    "grammarPoint": "Kapitel 8"
+  },
+  {
+    "id": 190,
+    "level": "A2",
+    "category": "General",
+    "german": "Preise vergleichen",
+    "english": "to compare prices",
+    "grammarPoint": "Kapitel 8"
+  },
+  {
+    "id": 191,
+    "level": "A2",
+    "category": "General",
+    "german": "die Ware prüfen",
+    "english": "to examine the goods",
+    "grammarPoint": "Kapitel 8"
+  },
+  {
+    "id": 192,
+    "level": "A2",
+    "category": "General",
+    "german": "die Ware reklamieren",
+    "english": "to make a complaint about the goods",
+    "grammarPoint": "Kapitel 8"
+  },
+  {
+    "id": 193,
+    "level": "A2",
+    "category": "General",
+    "german": "Kann ich Ihnen helfen?  Can",
+    "english": "I help you?",
+    "grammarPoint": "Kapitel 8"
+  },
+  {
+    "id": 194,
+    "level": "A2",
+    "category": "General",
+    "german": "Was kann ich für Sie tun?  What can",
+    "english": "I do for you?",
+    "grammarPoint": "Kapitel 8"
+  },
+  {
+    "id": 195,
+    "level": "A2",
+    "category": "General",
+    "german": "Ich möchte bitte …  I would like",
+    "english": "to have ...",
+    "grammarPoint": "Kapitel 8"
+  },
+  {
+    "id": 196,
+    "level": "A2",
+    "category": "General",
+    "german": "Ich hätte gern …  I would like",
+    "english": "to have ...",
+    "grammarPoint": "Kapitel 8"
+  },
+  {
+    "id": 197,
+    "level": "A2",
+    "category": "General",
+    "german": "Ich habe Größe …",
+    "english": "I am a size ...",
+    "grammarPoint": "Kapitel 8"
+  },
+  {
+    "id": 198,
+    "level": "A2",
+    "category": "General",
+    "german": "Kann ich … mal anprobieren?  Can",
+    "english": "I try ... on?",
+    "grammarPoint": "Kapitel 8"
+  },
+  {
+    "id": 199,
+    "level": "A2",
+    "category": "General",
+    "german": "Kann ich … umtauschen?  Can",
+    "english": "I exchange …?",
+    "grammarPoint": "Kapitel 8"
+  },
+  {
+    "id": 200,
+    "level": "A2",
+    "category": "General",
+    "german": "Kann ich mit Kreditkarte bezahlen?  Can",
+    "english": "I pay by credit card?",
+    "grammarPoint": "Kapitel 8"
+  },
+  {
+    "id": 201,
+    "level": "A2",
+    "category": "General",
+    "german": "… gefällt mir nicht",
+    "english": "I don’t like …",
+    "grammarPoint": "Kapitel 8"
+  },
+  {
+    "id": 202,
+    "level": "A2",
+    "category": "General",
+    "german": "für soziale Zwecke spenden  donate money",
+    "english": "to social causes/charity",
+    "grammarPoint": "Kapitel 8"
+  },
+  {
+    "id": 203,
+    "level": "A2",
+    "category": "General",
+    "german": "(Name), was kann ich für Sie tun?/Worum geht es?  (Name), what can",
+    "english": "I do for you?/What is it about?",
+    "grammarPoint": "Kapitel 8"
+  },
+  {
+    "id": 204,
+    "level": "A2",
+    "category": "General",
+    "german": "Ich möchte gern einen Termin vereinbaren.  I would like",
+    "english": "to make an appointment.",
+    "grammarPoint": "Kapitel 8"
+  },
+  {
+    "id": 205,
+    "level": "A2",
+    "category": "General",
+    "german": "Nein, das tut mir leid. Am … habe ich  No, I‘m sorry. Unfortunately,",
+    "english": "I don’t have time on …",
+    "grammarPoint": "Kapitel 8"
+  },
+  {
+    "id": 206,
+    "level": "A2",
+    "category": "General",
+    "german": "Wir haben Ihr Angebot geprüft.",
+    "english": "We have evaluated your offer.",
+    "grammarPoint": "Kapitel 8"
+  },
+  {
+    "id": 207,
+    "level": "A2",
+    "category": "General",
+    "german": "Wir möchten hiermit folgende Bestellung aufgeben …  Hereby, we would like",
+    "english": "to place the following order…",
+    "grammarPoint": "Kapitel 8"
+  },
+  {
+    "id": 208,
+    "level": "A2",
+    "category": "General",
+    "german": "Die Lieferung erwarten wir bis zum …",
+    "english": "We expect delivery by …",
+    "grammarPoint": "Kapitel 8"
+  },
+  {
+    "id": 209,
+    "level": "A2",
+    "category": "General",
+    "german": "Wir bitten um eine Bestätigung des Auftrags.",
+    "english": "We request a confirmation of the order.",
+    "grammarPoint": "Kapitel 8"
+  },
+  {
+    "id": 210,
+    "level": "A2",
+    "category": "General",
+    "german": "Ich habe gehört, Sie waren im Urlaub.",
+    "english": "I heard that you have been on holiday.",
+    "grammarPoint": "Kapitel 8"
+  },
+  {
+    "id": 211,
+    "level": "A2",
+    "category": "General",
+    "german": "Toll! Wir planen gerade unseren nächsten Urlaub.  That’s great!",
+    "english": "We are currently making plans for our",
+    "grammarPoint": "Kapitel 8"
+  },
+  {
+    "id": 212,
+    "level": "A2",
+    "category": "General",
+    "german": "Ich kann Ihnen (Griechenland/die Ostsee)",
+    "english": "I can recommend (Greece/the Baltic Sea).",
+    "grammarPoint": "Kapitel 8"
+  },
+  {
+    "id": 213,
+    "level": "A2",
+    "category": "General",
+    "german": "Ich sehe mir das heute Abend auf jeden Fall",
+    "english": "I will definitely have a look at it online this evening.",
+    "grammarPoint": "Kapitel 8"
+  },
+  {
+    "id": 214,
+    "level": "A2",
+    "category": "General",
+    "german": "Ich würde (heute Vormittag) gerne  I would like",
+    "english": "to (go to the museum)",
+    "grammarPoint": "Kapitel 8"
+  },
+  {
+    "id": 215,
+    "level": "A2",
+    "category": "General",
+    "german": "Wie wäre es mit (einem Museumsbesuch)?  How about (a visit",
+    "english": "to a museum)?",
+    "grammarPoint": "Kapitel 8"
+  },
+  {
+    "id": 216,
+    "level": "A2",
+    "category": "General",
+    "german": "Wir könnten doch (ins Museum gehen).  We could (go",
+    "english": "to the museum).",
+    "grammarPoint": "Kapitel 8"
+  },
+  {
+    "id": 217,
+    "level": "A2",
+    "category": "General",
+    "german": "Ich schlage vor, (dass wir ins Museum gehen).  I suggest (that we go",
+    "english": "to the museum).",
+    "grammarPoint": "Kapitel 8"
+  },
+  {
+    "id": 218,
+    "level": "A2",
+    "category": "General",
+    "german": "Freund und Begleiter des Menschen sein",
+    "english": "to be a friend and companion of humans",
+    "grammarPoint": "Kapitel 8"
+  },
+  {
+    "id": 219,
+    "level": "A2",
+    "category": "General",
+    "german": "gegen (Krankheiten)/bei (Misserfolgen) helfen",
+    "english": "to help with (illnesses)/with (failures)",
+    "grammarPoint": "Kapitel 8"
+  },
+  {
+    "id": 220,
+    "level": "A2",
+    "category": "General",
+    "german": "gut gegen (Einsamkeit, Stress) sein",
+    "english": "to be good against (loneliness, stress)",
+    "grammarPoint": "Kapitel 8"
+  },
+  {
+    "id": 221,
+    "level": "A2",
+    "category": "General",
+    "german": "eine positive Wirkung auf (unser Leben/",
+    "english": "to have a positive effect on (our lives/",
+    "grammarPoint": "Kapitel 8"
+  },
+  {
+    "id": 222,
+    "level": "A2",
+    "category": "General",
+    "german": "die Stimmung beeinflussen",
+    "english": "to affect the mood",
+    "grammarPoint": "Kapitel 8"
+  },
+  {
+    "id": 223,
+    "level": "A2",
+    "category": "General",
+    "german": "Ärger leichter bewältigen",
+    "english": "to cope with anger more easily",
+    "grammarPoint": "Kapitel 8"
+  },
+  {
+    "id": 224,
+    "level": "A2",
+    "category": "General",
+    "german": "zu einer höheren emotionalen Intelligenz führen",
+    "english": "to lead to a higher level of emotional intelligence",
+    "grammarPoint": "Kapitel 8"
+  },
+  {
+    "id": 225,
+    "level": "A2",
+    "category": "General",
+    "german": "konfliktfähig  able",
+    "english": "to deal with conflict",
+    "grammarPoint": "Kapitel 8"
+  },
+  {
+    "id": 226,
+    "level": "A2",
+    "category": "General",
+    "german": "(großen/keinen) Wert legen auf:",
+    "english": "to place (major/no) importance on:",
+    "grammarPoint": "Kapitel 8"
+  },
+  {
+    "id": 227,
+    "level": "A2",
+    "category": "General",
+    "german": "sich verlieben in …",
+    "english": "to fall in love with …",
+    "grammarPoint": "Kapitel 8"
+  },
+  {
+    "id": 228,
+    "level": "A2",
+    "category": "General",
+    "german": "jemanden lieben",
+    "english": "to love somebody",
+    "grammarPoint": "Kapitel 8"
+  },
+  {
+    "id": 229,
+    "level": "A2",
+    "category": "General",
+    "german": "zusammenleben mit …",
+    "english": "to live together with …",
+    "grammarPoint": "Kapitel 8"
+  },
+  {
+    "id": 230,
+    "level": "A2",
+    "category": "General",
+    "german": "jemanden heiraten",
+    "english": "to marry somebody",
+    "grammarPoint": "Kapitel 8"
+  },
+  {
+    "id": 231,
+    "level": "A2",
+    "category": "General",
+    "german": "verheiratet sein",
+    "english": "to be married",
+    "grammarPoint": "Kapitel 8"
+  },
+  {
+    "id": 232,
+    "level": "A2",
+    "category": "General",
+    "german": "eine glückliche Ehe/Partnerschaft führen",
+    "english": "to be happily married/to have a happy partnership",
+    "grammarPoint": "Kapitel 8"
+  },
+  {
+    "id": 233,
+    "level": "A2",
+    "category": "General",
+    "german": "sich von jemandem trennen",
+    "english": "to separate from somebody",
+    "grammarPoint": "Kapitel 8"
+  },
+  {
+    "id": 234,
+    "level": "A2",
+    "category": "General",
+    "german": "sich scheiden lassen",
+    "english": "to get divorced",
+    "grammarPoint": "Kapitel 8"
+  },
+  {
+    "id": 235,
+    "level": "A2",
+    "category": "General",
+    "german": "geschieden sein",
+    "english": "to be divorced",
+    "grammarPoint": "Kapitel 8"
+  },
+  {
+    "id": 236,
+    "level": "A2",
+    "category": "General",
+    "german": "sich (positiv) auf eine Partnerschaft auswirken",
+    "english": "to have a (positive) effect on a partnership",
+    "grammarPoint": "Kapitel 8"
+  },
+  {
+    "id": 237,
+    "level": "A2",
+    "category": "General",
+    "german": "eine Be ziehung (negativ) beeinflussen",
+    "english": "to (adversely) affect a relationship",
+    "grammarPoint": "Kapitel 8"
+  },
+  {
+    "id": 238,
+    "level": "A2",
+    "category": "General",
+    "german": "eine Frage beantworten",
+    "english": "to answer a question",
+    "grammarPoint": "Kapitel 8"
+  },
+  {
+    "id": 239,
+    "level": "A2",
+    "category": "General",
+    "german": "Paare/Teilnehmer befragen",
+    "english": "to survey couples/participants",
+    "grammarPoint": "Kapitel 8"
+  },
+  {
+    "id": 240,
+    "level": "A2",
+    "category": "General",
+    "german": "Die Resultate/Untersuchungsergebnisse sind",
+    "english": "The outcomes/results of the study are",
+    "grammarPoint": "Kapitel 8"
+  },
+  {
+    "id": 241,
+    "level": "A2",
+    "category": "General",
+    "german": "die besten Chancen auf eine glückliche",
+    "english": "to have the best chances for a happy",
+    "grammarPoint": "Kapitel 8"
+  },
+  {
+    "id": 242,
+    "level": "A2",
+    "category": "General",
+    "german": "Nachteile haben",
+    "english": "to have disadvantages",
+    "grammarPoint": "Kapitel 8"
+  },
+  {
+    "id": 243,
+    "level": "A2",
+    "category": "General",
+    "german": "zu einem anderen Ergebnis kommen",
+    "english": "to have a different outcome",
+    "grammarPoint": "Kapitel 8"
+  },
+  {
+    "id": 244,
+    "level": "A2",
+    "category": "General",
+    "german": "andere mit ihren Stärken und Schwächen akzeptieren",
+    "english": "to accept others with their strengths and weaknesses",
+    "grammarPoint": "Kapitel 8"
+  },
+  {
+    "id": 245,
+    "level": "A2",
+    "category": "General",
+    "german": "auf Augenhöhe miteinander kommunizieren",
+    "english": "to communicate on equal terms",
+    "grammarPoint": "Kapitel 8"
+  },
+  {
+    "id": 246,
+    "level": "A2",
+    "category": "General",
+    "german": "Das gefällt mir gut.",
+    "english": "I like that very much.",
+    "grammarPoint": "Kapitel 8"
+  },
+  {
+    "id": 247,
+    "level": "A2",
+    "category": "General",
+    "german": "Das hast du/haben Sie prima gemacht!",
+    "english": "You did that very well!",
+    "grammarPoint": "Kapitel 8"
+  },
+  {
+    "id": 248,
+    "level": "A2",
+    "category": "General",
+    "german": "Das finde ich ganz toll.",
+    "english": "I think that is great!",
+    "grammarPoint": "Kapitel 8"
+  },
+  {
+    "id": 249,
+    "level": "A2",
+    "category": "General",
+    "german": "Ich würde gern …  I would like",
+    "english": "to live …",
+    "grammarPoint": "Kapitel 8"
+  },
+  {
+    "id": 250,
+    "level": "A2",
+    "category": "General",
+    "german": "Ich brauche (unbedingt) …",
+    "english": "I (absolutely) need …",
+    "grammarPoint": "Kapitel 8"
+  },
+  {
+    "id": 251,
+    "level": "A2",
+    "category": "General",
+    "german": "Ich möchte gern …",
+    "english": "I would like ...",
+    "grammarPoint": "Kapitel 8"
+  },
+  {
+    "id": 252,
+    "level": "A2",
+    "category": "General",
+    "german": "Die Wohnung/Das Haus sollte …",
+    "english": "The flat/The house should be/be located …",
+    "grammarPoint": "Kapitel 8"
+  },
+  {
+    "id": 253,
+    "level": "A2",
+    "category": "General",
+    "german": "Der Arbeitsplatz",
+    "english": "The workplace",
+    "grammarPoint": "Kapitel 8"
+  },
+  {
+    "id": 254,
+    "level": "A2",
+    "category": "General",
+    "german": "allein",
+    "english": "to live alone",
+    "grammarPoint": "Kapitel 8"
+  },
+  {
+    "id": 255,
+    "level": "A2",
+    "category": "General",
+    "german": "in einer Großfamilie",
+    "english": "to live with an extended family",
+    "grammarPoint": "Kapitel 8"
+  },
+  {
+    "id": 256,
+    "level": "A2",
+    "category": "General",
+    "german": "mit der Familie",
+    "english": "to live with the family",
+    "grammarPoint": "Kapitel 8"
+  },
+  {
+    "id": 257,
+    "level": "A2",
+    "category": "General",
+    "german": "in einer Wohngemeinschaft",
+    "english": "to share a flat with others",
+    "grammarPoint": "Kapitel 8"
+  },
+  {
+    "id": 258,
+    "level": "A2",
+    "category": "General",
+    "german": "im Studentenwohnheim … wohnen",
+    "english": "to live in a hall of residence",
+    "grammarPoint": "Kapitel 8"
+  },
+  {
+    "id": 259,
+    "level": "A2",
+    "category": "General",
+    "german": "aufräumen",
+    "english": "to tidy up",
+    "grammarPoint": "Kapitel 8"
+  },
+  {
+    "id": 260,
+    "level": "A2",
+    "category": "General",
+    "german": "umräumen",
+    "english": "to rearrange things",
+    "grammarPoint": "Kapitel 8"
+  },
+  {
+    "id": 261,
+    "level": "A2",
+    "category": "General",
+    "german": "sauber machen",
+    "english": "to clean",
+    "grammarPoint": "Kapitel 8"
+  },
+  {
+    "id": 262,
+    "level": "A2",
+    "category": "General",
+    "german": "Wäsche waschen",
+    "english": "to do the laundry",
+    "grammarPoint": "Kapitel 8"
+  },
+  {
+    "id": 263,
+    "level": "A2",
+    "category": "General",
+    "german": "bügeln",
+    "english": "to iron",
+    "grammarPoint": "Kapitel 8"
+  },
+  {
+    "id": 264,
+    "level": "A2",
+    "category": "General",
+    "german": "Staub saugen",
+    "english": "to hoover",
+    "grammarPoint": "Kapitel 8"
+  },
+  {
+    "id": 265,
+    "level": "A2",
+    "category": "General",
+    "german": "das Geschirr spülen",
+    "english": "to do the washingup",
+    "grammarPoint": "Kapitel 8"
+  },
+  {
+    "id": 266,
+    "level": "A2",
+    "category": "General",
+    "german": "die Glühlampe wechseln",
+    "english": "to change the light bulb",
+    "grammarPoint": "Kapitel 8"
+  },
+  {
+    "id": 267,
+    "level": "A2",
+    "category": "General",
+    "german": "ein Bild aufhängen",
+    "english": "to hang up a picture",
+    "grammarPoint": "Kapitel 8"
+  },
+  {
+    "id": 268,
+    "level": "A2",
+    "category": "General",
+    "german": "die Fenster putzen",
+    "english": "to clean the windows",
+    "grammarPoint": "Kapitel 8"
+  },
+  {
+    "id": 269,
+    "level": "A2",
+    "category": "General",
+    "german": "die Wände neu streichen",
+    "english": "to repaint the walls",
+    "grammarPoint": "Kapitel 8"
+  },
+  {
+    "id": 270,
+    "level": "A2",
+    "category": "General",
+    "german": "den Garten in Ordnung bringen",
+    "english": "to straighten up the garden",
+    "grammarPoint": "Kapitel 8"
+  },
+  {
+    "id": 271,
+    "level": "A2",
+    "category": "General",
+    "german": "ein Holzregal bauen",
+    "english": "to build a wooden shelf",
+    "grammarPoint": "Kapitel 8"
+  },
+  {
+    "id": 272,
+    "level": "A2",
+    "category": "General",
+    "german": "die Waschmaschine reparieren",
+    "english": "to fix the washing machine",
+    "grammarPoint": "Kapitel 8"
+  },
+  {
+    "id": 273,
+    "level": "A2",
+    "category": "General",
+    "german": "eine Garage bauen",
+    "english": "to build a garage",
+    "grammarPoint": "Kapitel 8"
+  },
+  {
+    "id": 274,
+    "level": "A2",
+    "category": "General",
+    "german": "ein neues Waschbecken anbauen",
+    "english": "to install a new sink",
+    "grammarPoint": "Kapitel 8"
+  },
+  {
+    "id": 275,
+    "level": "A2",
+    "category": "General",
+    "german": "das Wohnzimmer tapezieren",
+    "english": "to paper the living room",
+    "grammarPoint": "Kapitel 8"
+  },
+  {
+    "id": 276,
+    "level": "A2",
+    "category": "General",
+    "german": "eine neue Steckdose anbringen",
+    "english": "to install a new socket",
+    "grammarPoint": "Kapitel 8"
+  },
+  {
+    "id": 277,
+    "level": "A2",
+    "category": "General",
+    "german": "das Dach reparieren",
+    "english": "to fix the roof",
+    "grammarPoint": "Kapitel 8"
+  },
+  {
+    "id": 278,
+    "level": "A2",
+    "category": "General",
+    "german": "mit Sahne verfeinern  add cream",
+    "english": "to vegetables.",
+    "grammarPoint": "Kapitel 8"
+  },
+  {
+    "id": 279,
+    "level": "A2",
+    "category": "General",
+    "german": "Ich möchte …",
+    "english": "I would like …",
+    "grammarPoint": "Kapitel 8"
+  },
+  {
+    "id": 280,
+    "level": "A2",
+    "category": "General",
+    "german": "Ich nehme …",
+    "english": "I will take …",
+    "grammarPoint": "Kapitel 8"
+  },
+  {
+    "id": 281,
+    "level": "A2",
+    "category": "General",
+    "german": "Ich trinke …",
+    "english": "I will take … (beverage)",
+    "grammarPoint": "Kapitel 8"
+  },
+  {
+    "id": 282,
+    "level": "A2",
+    "category": "General",
+    "german": "Könnte ich bitte noch (ein Bier) haben?  Can",
+    "english": "I have another (beer) please?",
+    "grammarPoint": "Kapitel 8"
+  },
+  {
+    "id": 283,
+    "level": "A2",
+    "category": "General",
+    "german": "Das Essen ist kalt.",
+    "english": "The food is cold.",
+    "grammarPoint": "Kapitel 8"
+  },
+  {
+    "id": 284,
+    "level": "A2",
+    "category": "General",
+    "german": "Könnte ich bitte noch (etwas Salz) haben?  Can",
+    "english": "I have (some) more (salt) please?",
+    "grammarPoint": "Kapitel 8"
+  },
+  {
+    "id": 285,
+    "level": "A2",
+    "category": "General",
+    "german": "Guten Appetit! (zum Essen)  Enjoy your meal! (before starting",
+    "english": "to eat)",
+    "grammarPoint": "Kapitel 8"
+  },
+  {
+    "id": 286,
+    "level": "A2",
+    "category": "General",
+    "german": "Das Essen war hervorragend/köstlich/sehr gut.",
+    "english": "The food was excellent/delicious/very good.",
+    "grammarPoint": "Kapitel 8"
+  },
+  {
+    "id": 287,
+    "level": "A2",
+    "category": "General",
+    "german": "Wir möchten dann zahlen.  We would like",
+    "english": "to pay.",
+    "grammarPoint": "Kapitel 8"
+  },
+  {
+    "id": 288,
+    "level": "A2",
+    "category": "General",
+    "german": "Wir hätten gern die Rechnung.",
+    "english": "We would like the bill.",
+    "grammarPoint": "Kapitel 8"
+  },
+  {
+    "id": 289,
+    "level": "A2",
+    "category": "General",
+    "german": "Verhandlungen führen",
+    "english": "to conduct negotiations",
+    "grammarPoint": "Kapitel 8"
+  },
+  {
+    "id": 290,
+    "level": "A2",
+    "category": "General",
+    "german": "Die Gewerkschaften organisieren einen Streik.",
+    "english": "The trade unions are organising a strike.",
+    "grammarPoint": "Kapitel 8"
+  },
+  {
+    "id": 291,
+    "level": "A2",
+    "category": "General",
+    "german": "für bessere Arbeitsbedingungen streiken",
+    "english": "to strike for better working conditions",
+    "grammarPoint": "Kapitel 8"
+  },
+  {
+    "id": 292,
+    "level": "A2",
+    "category": "General",
+    "german": "mehr Geld fordern",
+    "english": "to demand more money",
+    "grammarPoint": "Kapitel 8"
+  },
+  {
+    "id": 293,
+    "level": "A2",
+    "category": "General",
+    "german": "Steuern erhöhen",
+    "english": "to raise taxes",
+    "grammarPoint": "Kapitel 8"
+  },
+  {
+    "id": 294,
+    "level": "A2",
+    "category": "General",
+    "german": "den Finanzhaushalt sanieren",
+    "english": "to balance the financial budget",
+    "grammarPoint": "Kapitel 8"
+  },
+  {
+    "id": 295,
+    "level": "A2",
+    "category": "General",
+    "german": "Geld ausgeben/sparen",
+    "english": "to spend/save money",
+    "grammarPoint": "Kapitel 8"
+  },
+  {
+    "id": 296,
+    "level": "A2",
+    "category": "General",
+    "german": "einen Betrieb umstrukturieren",
+    "english": "to restructure a company",
+    "grammarPoint": "Kapitel 8"
+  },
+  {
+    "id": 297,
+    "level": "A2",
+    "category": "General",
+    "german": "Mitarbeitern kündigen",
+    "english": "to fire employees",
+    "grammarPoint": "Kapitel 8"
+  },
+  {
+    "id": 298,
+    "level": "A2",
+    "category": "General",
+    "german": "Arbeitsplätze schaffen",
+    "english": "to create jobs",
+    "grammarPoint": "Kapitel 8"
+  },
+  {
+    "id": 299,
+    "level": "A2",
+    "category": "General",
+    "german": "ein Angebot machen/unterbieten",
+    "english": "to make an offer/undercut an offer",
+    "grammarPoint": "Kapitel 8"
+  },
+  {
+    "id": 300,
+    "level": "A2",
+    "category": "General",
+    "german": "eine Sonderaktion starten",
+    "english": "to launch a special offer",
+    "grammarPoint": "Kapitel 8"
+  },
+  {
+    "id": 301,
+    "level": "A2",
+    "category": "General",
+    "german": "Die Außenministerin reist heute nach …  The (female) minister of foreign affairs is travelling",
+    "english": "to …",
+    "grammarPoint": "Kapitel 8"
+  },
+  {
+    "id": 302,
+    "level": "A2",
+    "category": "General",
+    "german": "ein VierAugenGespräch führen",
+    "english": "to have a oneonone meeting",
+    "grammarPoint": "Kapitel 8"
+  },
+  {
+    "id": 303,
+    "level": "A2",
+    "category": "General",
+    "german": "der Flugzeugabsturz/Ein Flugzeug ist abgestürzt.  the plane crash/",
+    "english": "A plane crashed.",
+    "grammarPoint": "Kapitel 8"
+  },
+  {
+    "id": 304,
+    "level": "A2",
+    "category": "General",
+    "german": "Eine Ausstellung/Buchmesse wird eröffnet.",
+    "english": "An exhibition/A book fair is opening.",
+    "grammarPoint": "Kapitel 8"
+  },
+  {
+    "id": 305,
+    "level": "A2",
+    "category": "General",
+    "german": "ein Spiel/einen Wettkampf gewinnen/verlieren",
+    "english": "to win/lose a game/a competition",
+    "grammarPoint": "Kapitel 8"
+  },
+  {
+    "id": 306,
+    "level": "A2",
+    "category": "General",
+    "german": "Meister werden",
+    "english": "to become champion",
+    "grammarPoint": "Kapitel 8"
+  },
+  {
+    "id": 307,
+    "level": "A2",
+    "category": "General",
+    "german": "eine Medaille holen/gewinnen",
+    "english": "to get/win a medal",
+    "grammarPoint": "Kapitel 8"
+  },
+  {
+    "id": 308,
+    "level": "A2",
+    "category": "General",
+    "german": "sich über einen Sieg freuen",
+    "english": "to be happy about a victory",
+    "grammarPoint": "Kapitel 8"
+  },
+  {
+    "id": 309,
+    "level": "A2",
+    "category": "General",
+    "german": "einen Sieg feiern",
+    "english": "to celebrate a victory",
+    "grammarPoint": "Kapitel 8"
+  },
+  {
+    "id": 310,
+    "level": "A2",
+    "category": "General",
+    "german": "Ich glaube/denke/meine, dass …",
+    "english": "I believe/think/feel that …",
+    "grammarPoint": "Kapitel 8"
+  },
+  {
+    "id": 311,
+    "level": "A2",
+    "category": "General",
+    "german": "Ich bin ganz/völlig deiner/Ihrer Meinung.",
+    "english": "I totally/completely agree with you.",
+    "grammarPoint": "Kapitel 8"
+  },
+  {
+    "id": 312,
+    "level": "A2",
+    "category": "General",
+    "german": "Das finde ich auch.",
+    "english": "I think so too.",
+    "grammarPoint": "Kapitel 8"
+  },
+  {
+    "id": 313,
+    "level": "A2",
+    "category": "General",
+    "german": "Ich denke darüber genauso.",
+    "english": "I feel the same way about that.",
+    "grammarPoint": "Kapitel 8"
+  },
+  {
+    "id": 314,
+    "level": "A2",
+    "category": "General",
+    "german": "Ich bin damit/mit dem Vorschlag einverstanden.",
+    "english": "I agree with that/with the proposal.",
+    "grammarPoint": "Kapitel 8"
+  },
+  {
+    "id": 315,
+    "level": "A2",
+    "category": "General",
+    "german": "Ich bin für (Ihren Vorschlag).",
+    "english": "I am in favour of (your proposal).",
+    "grammarPoint": "Kapitel 8"
+  },
+  {
+    "id": 316,
+    "level": "A2",
+    "category": "General",
+    "german": "Ich bin dafür.",
+    "english": "I am in favour of that.",
+    "grammarPoint": "Kapitel 8"
+  },
+  {
+    "id": 317,
+    "level": "A2",
+    "category": "General",
+    "german": "Ich bin ganz/völlig anderer Meinung.",
+    "english": "I totally/completely disagree.",
+    "grammarPoint": "Kapitel 8"
+  },
+  {
+    "id": 318,
+    "level": "A2",
+    "category": "General",
+    "german": "Ich kann dir/Ihnen nicht zustimmen.",
+    "english": "I can’t agree with you.",
+    "grammarPoint": "Kapitel 8"
+  },
+  {
+    "id": 319,
+    "level": "A2",
+    "category": "General",
+    "german": "Ich bin damit nicht einverstanden.",
+    "english": "I don’t agree with it.",
+    "grammarPoint": "Kapitel 8"
+  },
+  {
+    "id": 320,
+    "level": "A2",
+    "category": "General",
+    "german": "Ich bin gegen (Ihren Vorschlag).",
+    "english": "I oppose (your proposal).",
+    "grammarPoint": "Kapitel 8"
+  },
+  {
+    "id": 321,
+    "level": "A2",
+    "category": "General",
+    "german": "Ich bin dagegen.",
+    "english": "I oppose that.",
+    "grammarPoint": "Kapitel 8"
+  }
+]

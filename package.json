@@ -1,0 +1,19 @@
+{
+  "name": "amardeutsch-platform",
+  "version": "2.0.0",
+  "description": "Official amardeutsch.com Learning Platform — Interactive CEFR Gamified German Mastery Engine & Admin Intelligence Panel",
+  "packageManager": "npm@10.8.2",
+  "private": true,
+  "workspaces": [
+    "Frontend",
+    "Backend"
+  ],
+  "scripts": {
+    "dev": "turbo run dev",
+    "build": "turbo run build",
+    "lint": "turbo run lint"
+  },
+  "devDependencies": {
+    "turbo": "latest"
+  }
+}

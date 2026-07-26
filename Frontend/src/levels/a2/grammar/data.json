@@ -1,0 +1,417 @@
+[
+  {
+    "id": 1,
+    "title": "Perfekt Tense (The Spoken Past)",
+    "description": "Learn how to talk about the past in everyday spoken German using 'haben' or 'sein' plus a Past Participle.",
+    "category": "Verbs",
+    "level": "A2",
+    "examples": [
+      {
+        "german": "Ich habe einen Kaffee getrunken.",
+        "english": "I drank a coffee."
+      },
+      {
+        "german": "Wir sind nach Berlin gefahren.",
+        "english": "We drove to Berlin."
+      }
+    ],
+    "conjugationTable": [
+      "Perfekt structure:",
+      "Subject + haben/sein + ... + Past Participle",
+      "Regular verbs: ge + stem + t (gemacht, gespielt)",
+      "Irregular verbs: ge + stem + en (gesehen, getrunken)"
+    ],
+    "errorTraps": [
+      "The helping verb (haben/sein) is in position 2, but the past participle MUST go to the very end of the sentence."
+    ],
+    "content": ""
+  },
+  {
+    "id": 2,
+    "title": "Präteritum of Modal Verbs, Sein, and Haben",
+    "description": "While Perfekt is for most verbs, Modal verbs, sein, and haben prefer the simple past (Präteritum) even in spoken German.",
+    "category": "Verbs",
+    "level": "A2",
+    "examples": [
+      {
+        "german": "Ich musste gestern arbeiten.",
+        "english": "I had to work yesterday."
+      },
+      {
+        "german": "Wir hatten keine Zeit.",
+        "english": "We had no time."
+      }
+    ],
+    "conjugationTable": [
+      "sein -> war, warst, war, waren, wart, waren",
+      "haben -> hatte, hattest, hatte, hatten, hattet, hatten",
+      "können -> konnte, müssen -> musste, wollen -> wollte",
+      "dürfen -> durfte, sollen -> sollte"
+    ],
+    "errorTraps": [
+      "Modal verbs lose their umlauts in the Präteritum (müssen -> musste)."
+    ],
+    "content": ""
+  },
+  {
+    "id": 3,
+    "title": "The Dative Case",
+    "description": "An introduction to the third German case. The Dative marks the indirect object (the receiver of an action).",
+    "category": "Cases",
+    "level": "A2",
+    "examples": [
+      {
+        "german": "Ich gebe dem Mann das Buch.",
+        "english": "I give the man the book."
+      },
+      {
+        "german": "Das gehört der Frau.",
+        "english": "That belongs to the woman."
+      }
+    ],
+    "conjugationTable": [
+      "Definite Articles in Dative:",
+      "der -> dem",
+      "die -> der",
+      "das -> dem",
+      "die (pl) -> den (+n on noun)"
+    ],
+    "errorTraps": [
+      "In the plural dative, you must add an '-n' to the end of the noun (den Kindern, den Freunden)."
+    ],
+    "content": ""
+  },
+  {
+    "id": 4,
+    "title": "Dative Prepositions",
+    "description": "Prepositions that always force the following noun into the Dative case.",
+    "category": "Prepositions",
+    "level": "A2",
+    "examples": [
+      {
+        "german": "Ich komme aus der Türkei.",
+        "english": "I come from Turkey."
+      },
+      {
+        "german": "Ich wohne bei meinen Eltern.",
+        "english": "I live with my parents."
+      }
+    ],
+    "conjugationTable": [
+      "aus - out of, from",
+      "außer - except for",
+      "bei - at, with (a person/company)",
+      "mit - with",
+      "nach - to (cities/countries), after",
+      "seit - since, for (time)",
+      "von - from, by",
+      "zu - to (places/people)"
+    ],
+    "errorTraps": [
+      "Mnemonic: 'Aus, außer, bei, mit, nach, seit, von, zu' ALWAYS take Dative!"
+    ],
+    "content": ""
+  },
+  {
+    "id": 5,
+    "title": "Two-Way Prepositions (Wechselpräpositionen)",
+    "description": "Prepositions that take Accusative for movement/direction (Wohin?) and Dative for location (Wo?).",
+    "category": "Prepositions",
+    "level": "A2",
+    "examples": [
+      {
+        "german": "Ich lege das Buch auf den Tisch.",
+        "english": "I lay the book onto the table. (Accusative/Movement)"
+      },
+      {
+        "german": "Das Buch liegt auf dem Tisch.",
+        "english": "The book lies on the table. (Dative/Location)"
+      }
+    ],
+    "conjugationTable": [
+      "in, an, auf, neben, hinter, über, unter, vor, zwischen",
+      "Accusative = Movement (Wohin?)",
+      "Dative = Location/Status quo (Wo?)"
+    ],
+    "errorTraps": [
+      "Movement must be directed towards a destination to trigger Accusative. Running around IN a park is still Dative (location)."
+    ],
+    "content": ""
+  },
+  {
+    "id": 6,
+    "title": "Verbs that take the Dative",
+    "description": "Some verbs don't take a direct object (Accusative). Instead, they strictly require a Dative object.",
+    "category": "Verbs",
+    "level": "A2",
+    "examples": [
+      {
+        "german": "Wie geht es dir?",
+        "english": "How are you? (How goes it to you?)"
+      },
+      {
+        "german": "Das Auto gefällt dem Mann.",
+        "english": "The man likes the car. (The car is pleasing to the man.)"
+      }
+    ],
+    "conjugationTable": [
+      "helfen (to help)",
+      "danken (to thank)",
+      "gefallen (to like / to be pleasing)",
+      "gehören (to belong to)",
+      "passen (to fit)",
+      "schmecken (to taste good to)"
+    ],
+    "errorTraps": [
+      "With 'gefallen', the thing you like is the subject, and YOU are the dative object! (Der Pullover gefällt mir)."
+    ],
+    "content": ""
+  },
+  {
+    "id": 7,
+    "title": "Personal Pronouns in the Dative Case",
+    "description": "How to say 'to me', 'to you', 'to him', etc.",
+    "category": "Pronouns",
+    "level": "A2",
+    "examples": [
+      {
+        "german": "Können Sie mir helfen?",
+        "english": "Can you help me?"
+      },
+      {
+        "german": "Ich danke dir.",
+        "english": "I thank you."
+      }
+    ],
+    "conjugationTable": [
+      "ich -> mir",
+      "du -> dir",
+      "er -> ihm",
+      "sie -> ihr",
+      "es -> ihm",
+      "wir -> uns",
+      "ihr -> euch",
+      "sie/Sie -> ihnen/Ihnen"
+    ],
+    "errorTraps": [
+      "Do not confuse 'ihr' (to her) with 'ihr' (you all / their). Context is key!"
+    ],
+    "content": ""
+  },
+  {
+    "id": 8,
+    "title": "Coordinating Conjunctions",
+    "description": "Connectors that do not change the word order of the sentence (Position 0).",
+    "category": "Conjunctions",
+    "level": "A2",
+    "examples": [
+      {
+        "german": "Ich bin müde, aber ich lerne.",
+        "english": "I am tired, but I study."
+      },
+      {
+        "german": "Ich trinke Tee, denn ich bin krank.",
+        "english": "I drink tea, because I am sick."
+      }
+    ],
+    "conjugationTable": [
+      "und (and)",
+      "aber (but)",
+      "oder (or)",
+      "sondern (but rather - after a negative)",
+      "denn (because)"
+    ],
+    "errorTraps": [
+      "These conjunctions count as 'Position 0', meaning the very next word is Position 1, and the verb is safely in Position 2."
+    ],
+    "content": ""
+  },
+  {
+    "id": 9,
+    "title": "Subordinating Conjunctions (weil, dass, wenn)",
+    "description": "Connectors that kick the conjugated verb to the very end of the sentence.",
+    "category": "Conjunctions",
+    "level": "A2",
+    "examples": [
+      {
+        "german": "Ich bleibe zu Hause, weil es regnet.",
+        "english": "I am staying home because it is raining."
+      },
+      {
+        "german": "Ich weiß, dass du kommst.",
+        "english": "I know that you are coming."
+      }
+    ],
+    "conjugationTable": [
+      "weil (because)",
+      "dass (that)",
+      "wenn (if / when)",
+      "ob (whether/if)"
+    ],
+    "errorTraps": [
+      "The verb MUST go to the absolute end of the clause. '...weil ich krank BIN' (NOT 'weil ich bin krank')."
+    ],
+    "content": ""
+  },
+  {
+    "id": 10,
+    "title": "Comparison of Adjectives",
+    "description": "Forming the comparative (more) and superlative (most) forms of adjectives.",
+    "category": "Adjectives",
+    "level": "A2",
+    "examples": [
+      {
+        "german": "Er ist schneller als ich.",
+        "english": "He is faster than me."
+      },
+      {
+        "german": "Sie ist am schnellsten.",
+        "english": "She is the fastest."
+      }
+    ],
+    "conjugationTable": [
+      "Base: schnell (fast)",
+      "Comparative: schneller (+er)",
+      "Superlative: am schnellsten (am + -sten)",
+      "Exceptions: gut -> besser -> am besten",
+      "viel -> mehr -> am meisten",
+      "gern -> lieber -> am liebsten"
+    ],
+    "errorTraps": [
+      "Use 'als' for comparisons (schneller ALS) and 'wie' for equals (so schnell WIE)."
+    ],
+    "content": ""
+  },
+  {
+    "id": 11,
+    "title": "Reflexive Verbs and Pronouns",
+    "description": "Verbs where the subject and the object are the same (e.g. I wash myself).",
+    "category": "Verbs",
+    "level": "A2",
+    "examples": [
+      {
+        "german": "Ich wasche mich.",
+        "english": "I wash myself."
+      },
+      {
+        "german": "Wir freuen uns.",
+        "english": "We are happy/looking forward."
+      }
+    ],
+    "conjugationTable": [
+      "ich -> mich",
+      "du -> dich",
+      "er/sie/es -> sich",
+      "wir -> uns",
+      "ihr -> euch",
+      "sie/Sie -> sich"
+    ],
+    "errorTraps": [
+      "In German, many more verbs are reflexive than in English, like 'sich freuen' (to be happy/rejoice) or 'sich treffen' (to meet)."
+    ],
+    "content": ""
+  },
+  {
+    "id": 12,
+    "title": "Adjective Endings in Dative & Accusative",
+    "description": "Expanding adjective declension to the other cases.",
+    "category": "Adjectives",
+    "level": "A2",
+    "examples": [
+      {
+        "german": "Ich sehe den großen Hund.",
+        "english": "I see the big dog. (Accusative)"
+      },
+      {
+        "german": "Ich spiele mit dem kleinen Kind.",
+        "english": "I play with the small child. (Dative)"
+      }
+    ],
+    "conjugationTable": [
+      "Accusative Definite: den großen (M), die große (F), das große (N), die großen (Pl)",
+      "Dative Definite: ALL endings are -EN! (dem großen, der großen, dem großen, den großen)"
+    ],
+    "errorTraps": [
+      "In the Dative case, adjective endings after an article (definite or indefinite) are ALWAYS '-en'."
+    ],
+    "content": ""
+  },
+  {
+    "id": 13,
+    "title": "Konjunktiv II (Polite Requests)",
+    "description": "Using 'would' and 'could' to make polite requests.",
+    "category": "Verbs",
+    "level": "A2",
+    "examples": [
+      {
+        "german": "Ich hätte gern einen Kaffee.",
+        "english": "I would like a coffee."
+      },
+      {
+        "german": "Könnten Sie mir helfen?",
+        "english": "Could you help me?"
+      }
+    ],
+    "conjugationTable": [
+      "haben -> hätte, hättest, hätte, hätten, hättet, hätten",
+      "sein -> wäre, wärst, wäre, wären, wärt, wären",
+      "können -> könnte, könntest...",
+      "werden -> würde, würdest..."
+    ],
+    "errorTraps": [
+      "These behave exactly like modal verbs: 'Würden Sie mir das Salz GEBEN?' (main verb at the end)."
+    ],
+    "content": ""
+  },
+  {
+    "id": 14,
+    "title": "Sentence Order: TeKaMoLo",
+    "description": "When multiple elements are in a sentence, German prefers a specific order: Time, Cause, Manner, Place.",
+    "category": "Sentence Structure",
+    "level": "A2",
+    "examples": [
+      {
+        "german": "Ich fahre heute wegen des Regens schnell nach Hause.",
+        "english": "I am driving home fast today because of the rain."
+      }
+    ],
+    "conjugationTable": [
+      "Temporal (Wann?) - Time",
+      "Kausal (Warum?) - Cause",
+      "Modal (Wie?) - Manner",
+      "Lokal (Wo/Wohin?) - Place/Location"
+    ],
+    "errorTraps": [
+      "Time usually comes first. 'Ich spiele heute Fußball' is much more natural than 'Ich spiele Fußball heute'."
+    ],
+    "content": ""
+  },
+  {
+    "id": 15,
+    "title": "Verbs with Fixed Prepositions",
+    "description": "Some verbs are forever bound to specific prepositions, which then dictate the case of the object.",
+    "category": "Verbs",
+    "level": "A2",
+    "examples": [
+      {
+        "german": "Ich warte auf dich.",
+        "english": "I am waiting for you. (warten + auf + Acc)"
+      },
+      {
+        "german": "Sie träumt von einem Haus.",
+        "english": "She dreams of a house. (träumen + von + Dat)"
+      }
+    ],
+    "conjugationTable": [
+      "warten auf (+ Acc) - to wait for",
+      "denken an (+ Acc) - to think about",
+      "sprechen über (+ Acc) - to talk about",
+      "träumen von (+ Dat) - to dream of",
+      "helfen bei (+ Dat) - to help with"
+    ],
+    "errorTraps": [
+      "You cannot translate these literally from English. 'Wait FOR' becomes 'warten AUF' (wait ON)."
+    ],
+    "content": ""
+  }
+]

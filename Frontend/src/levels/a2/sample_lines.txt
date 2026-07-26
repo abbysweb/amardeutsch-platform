@@ -1,0 +1,80 @@
+0: Sprachniveau
+1: +
+2: A2
+3: Anne Buscha  Szilvia Szita
+4: Begegnungen
+5: Deutsch als Fremdsprache
+6: Redemittel
+7: Deutsch – Englisch
+8: zum Integrierten Kurs- und Arbeitsbuch
+9: Sprachniveau A2+
+10: Übersetzung: Leslie Ocker
+11: Begegnungen A2+ Redemittel | Kapitel 1
+12: Kapitel 1
+13: Etwas über sich selbst erzählen To say something about oneself
+14: Ich heiße/Mein Name ist … My name is ...
+15: Ich komme aus … I come from ...
+16: Mein Geburtsort ist … My place of birth is …
+17: Ich arbeite als (Produktmanager) bei (Mercedes). I work as (a product manager) at (Mercedes).
+18: Ich bin verheiratet/ledig/geschieden. I am single/married/divorced.
+19: Ich wohne in … I live in ...
+20: In meiner Freizeit (lese ich gern Fachzeitschriften). In my free time, (I like reading technical journals).
+21: Schule und Ausbildung School and education
+22: Ich bin am … in … geboren. I was born on … in …
+23: Von … bis … habe ich (die Schule/ I went to (school/
+24: das Gymnasium) besucht. secondary school) from … to …
+25: Meine Lieblings fächer waren … My favourite subjects were ...
+26: Ich habe mich für … interessiert. I was interested in ...
+27: In (Geschichte) habe ich gute Noten/Zensuren I received good marks in (history).
+28: bekommen.
+29: Nach der Schule habe ich eine Ausbildung After school, I trained as a …
+30: zu … gemacht.
+31: Von … bis … habe ich an der I studied … at university from … to …
+32: Universität … studiert.
+33: Ich habe (die Schule/die Ausbildung/die Universität) I completed (school/the training/university) in (2010) (with
+34: (mit der Mittleren Reife/dem Abitur/dem Bachelor O-levels/A-levels/a Bachelor of Arts degree/a Master of
+35: of Arts/dem Master of Science) (2010) abgeschlossen. Science degree).
+36: … habe ich ein Praktikum bei … gemacht/absolviert. In … I did/completed an internship at …
+37: Dort habe ich Arbeitserfahrungen/praktische I gained work experience/practical
+38: Erfahrungen gesammelt. experience there.
+39: Ich beherrsche (Englisch fließend/alle I am (fluent in English)/proficient in
+40: MS Office-Programme). (all MS Office programmes).
+41: Ich arbeite seit (2018) als (Marketingmanagerin). I have been working as (a (female) marketing manager)
+42: since (2018).
+43: Tagesablauf Daily routine
+44: Zu Hause: At home:
+45:  aufstehen  to get up
+46:  sich duschen  to take a shower
+47:  sich waschen  to wash oneself
+48:  sich föhnen  to blow-dry
+49:  sich schminken  to put on make up
+50:  frühstücken  to have breakfast
+51: © SCHUBERT-Verlag Leipzig | Alle Rechte vorbehalten. 2
+52: Begegnungen A2+ Redemittel | Kapitel 1
+53: Im Büro: At the office:
+54:  Kollegen begrüßen  to greet colleagues
+55:  E-Mails lesen und schreiben  to read and write emails
+56:  mit Kunden reden  to speak to clients
+57:  Besprechungen haben  to attend meetings
+58:  in der Kantine Mittag essen  to eat lunch in the canteen
+59:  Termine vereinbaren  to make appointments
+60:  Rechnungen schreiben  to write invoices
+61:  Ideen entwickeln  to develop ideas
+62:  ein Projekt präsentieren  to present a project
+63:  sich über kleine Erfolge freuen  to be happy about small successes
+64:  sich über eine Kundin ärgern  to be annoyed about a (female) client
+65:  Feierabend haben  to finish work/to leave work for the day
+66: Nach der Arbeit: After work:
+67:  einkaufen  to go shopping
+68:  kochen  to cook
+69:  fernsehen  to watch TV
+70:  Bücher lesen  to read books
+71: © SCHUBERT-Verlag Leipzig | Alle Rechte vorbehalten. 3
+72: Begegnungen A2+ Redemittel | Kapitel 2
+73: Kapitel 2
+74: Freizeitaktivitäten allgemein Recreational activities in general
+75: Auto fahren to go for a drive
+76: einen Ausflug machen to go on an excursion
+77: reisen to travel
+78: Zeitschriften/Zeitungen/Bücher lesen to read magazines/newspapers/books
+79: fotografieren to take photographs
