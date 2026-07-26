@@ -1,136 +1,139 @@
 # 🇩🇪 AmarDeutsch (`amardeutsch.com`)
-**Advanced Gamified German Learning Suite & Behavioral Intelligence Platform**
+### Advanced Gamified German Learning Suite & Behavioral Intelligence Platform
 
 [![Next.js 16](https://img.shields.io/badge/Next.js%2016-Black?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org)
 [![TypeScript 5](https://img.shields.io/badge/TypeScript%205-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Tailwind CSS v4](https://img.shields.io/badge/Tailwind%20CSS%20v4-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com)
-[![Turbopack](https://img.shields.io/badge/Turbopack-EF4444?style=for-the-badge&logo=turborepo&logoColor=white)](https://turbo.build/)
-[![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)](https://www.prisma.io/)
-[![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
-[![AdminLTE 4](https://img.shields.io/badge/AdminLTE%204-198754?style=for-the-badge&logo=bootstrap&logoColor=white)](https://adminlte.io/)
-[![Vercel Ready](https://img.shields.io/badge/Vercel%20CI-Ready-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com)
-
-Welcome to **AmarDeutsch (`amardeutsch.com`)**, an state-of-the-art, full-stack language learning ecosystem engineered for German mastery and customer behavioral analytics. Built as a high-velocity **Turborepo monorepo** running Next.js 16 and Tailwind CSS v4, AmarDeutsch bridges intuitive CEFR gamified curriculum tracks (A1, A2, B1, B2) with an enterprise-grade administrative intelligence panel.
+[![Prisma ORM](https://img.shields.io/badge/Prisma_3NF-2D3748?style=for-the-badge&logo=prisma&logoColor=white)](https://www.prisma.io/)
+[![SQLite Serverless](https://img.shields.io/badge/SQLite_Cloud-003B57?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
+[![Vercel Deployed](https://img.shields.io/badge/Vercel%20Production-Live-10B981?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com)
 
 ---
 
-## 🌟 Core Feature Highlights
+## 🚀 Live Cloud Deployments
 
-### 1. 🔒 Protected Gateway & Simple Authentication Suite
-* **Mandatory Registration Barrier**: Lesson modules, vocabulary flashcards, grammar lectures, interactive quizzes, and mini-games remain strictly protected behind an interactive login hub until user authentication.
-* **1-Click Google Account Registration**: Simplified sign-up flow (`Continue with Google Account 🚀`) that validates Google emails and generates instant student profiles without password friction.
-* **Streamlined Tabbed Auth UI**: Effortlessly transition between **Sign Up ✨**, **Google 🌐**, and **Log In 🔑** modes directly from the vibrant landing hero.
+We believe in testing in production. Try out our live student interfaces and administrative monitoring portals running on Vercel:
 
-### 2. 🎲 5-Digit Telemetry UID & Database Enforcement
-* **Automated Collision-Free IDs**: Upon registration via Email or Google, every user account is assigned a strictly verified **5-Digit Random User ID** (ranging from `#10000` to `#99999`) stored within the Prisma SQLite database.
-* **Active User Recognition**: Authenticated learners are welcomed with a dynamic identity banner highlighting their unique Student UID and real-time telemetry indicator:
+| Platform Layer | Live URL & Access Link | Description |
+| :--- | :--- | :--- |
+| **🎓 Student Learning Portal (Frontend)** | **[amardeutsch-navy.vercel.app](https://amardeutsch-navy.vercel.app)** | Gamified German learning arena, interactive flashcards, 3D pronunciation mechanics, and real-time CEFR grammar quizzes. |
+| **🛡️ Executive Analytics Panel (Backend)** | **[amardeutsch-platform-backend.vercel.app/backend/Dashboard](https://amardeutsch-platform-backend.vercel.app/backend/Dashboard)** | Real-time educator dashboard, live 3NF database management, student memory retention curves, and customer telemetry. |
+| **🌐 Official Brand Domain** | **[amardeutsch.com](https://amardeutsch.com)** | Primary portal mapping to our gamified German acquisition tracks and linguistic intelligence ecosystem. |
+
+---
+
+## 💡 Why We Built AmarDeutsch
+
+Learning German shouldn't feel like memorizing repetitive spreadsheet rows or clicking through lifeless syntax flashcards. Traditional language apps often isolate frontend presentation from pedagogical data, leaving educators without real insight into *why* a student struggles with Dative prepositions or *when* they drop out during vocabulary drills.
+
+**AmarDeutsch** reimagines language acquisition by combining **vibrant gamified UI craftsmanship** with **deep behavioral telemetry**. Whether a beginner is exploring basic A1 regular verbs or an advanced scholar is breaking down C2 academic argumentation syntax, our platform adapts to their pace. Behind the scenes, an intelligent non-intrusive monitoring engine observes student study habits, computes memory retention rates, and surfaces real-time learning insights to educators—all served out of a responsive Next.js 16 Turborepo monorepo.
+
+---
+
+## 🎨 What Makes AmarDeutsch Special?
+
+### 1. 🎮 Gamified CEFR Learning & Visual Memory Arenas
+* **From A1 Beginners to C2 Masters**: Structured curriculum tracks seamlessly guide learners through grammatical syntax, gender articles (*der*, *die*, *das* with intuitive semantic color-coding), and complex sentence structures.
+* **The Random Word & BaBaDum Arenas**: Experience dynamic vocabulary challenges wrapped in sleek glassmorphic cards with proportional scaling and vivid HD emoji fallback vectors.
+* **Zero-Latency Gameshow Audio**: We embedded native Web Audio API synthesis directly into interactive quizzes—triggering uplifting major chord arpeggios when you conquer a question, and gentle buzzer vibrations to reinforce positive cognitive memory when you err.
+* **Instant Phonetic Pronunciation**: Powered by HTML5 browser speech engines, students can articulate naturalistic German words and sample sentences at the push of a button.
+
+### 2. 🛰️ Real-Time Student Telemetry & Behavioral Intelligence
+* **We Celebrate Learning Habits**: As learners navigate between grammar lectures and mini-games, an intelligent background observer maps their interactive study journey without slowing down browser performance.
+* **5-Digit Telemetry UID Identification**: Every registered student is assigned a secure, collision-free Student ID (ranging from `#10000` to `#99999`). When logged in, learners see their personalized identity banner:
   ```text
   🌟 Willkommen zurück, Abdullah! [UID: #58942] ⚡ Telemetry Active
   ```
+* **Dwell-Time & Habitat Discovery**: Our analytics engine accurately pinpoints a learner's primary study zones and calculates personalized pedagogical memory retention rates—helping teachers recognize when a refresher deck is needed.
 
-### 3. 🎮 CEFR Interactive Games Arena & Visual Verification Engine (BaBaDum)
-* **Multi-Tier HD Visual Asset Delivery**: Our interactive picture-matching game (*BaBaDum*) utilizes an intelligent asset fallback pipeline, automatically surfacing the sharpest graphic resolution available:
-  * 🎨 *Tier 1*: 512px Ultra-HD Noto Emoji WebP vectors
-  * 🖼️ *Tier 2*: Official Twemoji Vector SVGs via Cloudflare CDN
-  * 🍎 *Tier 3*: Glossy Apple 3D Emojis & OpenMoji color primitives
-* **Spaced Repetition & Audio-Visual Reinforcement**: Integrated with `naturalTTS` German pronunciation engines to automatically articulate target nouns, articles, and grammar cases during competitive gamification rounds.
-
-### 4. 🛰️ Real-Time Behavioral Telemetry Engine
-* **Automated Navigation Ledgers**: An intelligent background observer tracks every curriculum page, grammar lecture, and interactive tool visited during a session.
-* **Dwell-Time Study Habitat Detection**: Calculates cumulative study duration across curriculum zones to determine the student's *Primary Learning Habitat*.
-* **Customer Retention & Loyalty Analytics**: Dynamically models return habits and dropout probability, generating unified JSON dossiers transmitted directly to the administrative monitoring suite.
-
-### 5. 📈 AdminLTE 4 Behavioral Intelligence Panel
-* **Zero Dummy Fallbacks**: Operates exclusively on genuine database records and validated student telemetry.
-* **Customer Dossier Inspection**: Clicking on any registered student UID in the Admin Dashboard immediately presents a high-tech **Behavioral Intelligence Well**:
-  * ⏱️ **Section Spent Most Time**: Identifies top module usage and total dwell duration.
-  * 📈 **Customer Retention Rate**: Displays computed loyalty percentages and dropout risk indicators.
-  * 👁️ **What User Opened Today**: An interactive tag ledger showing exact navigation sequences.
-* **Administrative Operations**: Award study bonus XP, assign SRS refresher vocabulary decks, export user audit logs to `.csv`, and schedule global HTML email broadcasts.
+### 3. 📈 Executive Educator Dashboard
+* **Real Insights, Zero Mock Data**: Accessed via our live administrative gateway, the executive suite empowers educators to inspect real student telemetry and manage curriculum structures on the fly.
+* **The Student Dossier Well**: Click on any active learner UID in the backend panel to immediately unveil:
+  * ⏱️ **Top Study Modules**: Where the student spends most of their learning duration.
+  * 📊 **Memory Retention Curvature**: Calculated consistency metrics and engagement trends.
+  * 👁️ **Daily Navigation Ledgers**: Transparent chronologies of completed grammar drills and vocabulary challenges.
+* **Live Content Engine (3NF CRUD)**: Add, edit, or remove quiz questions and vocabulary nodes directly in the SQLite database, instantly reflecting changes across all student frontends worldwide without static recompilation delays!
 
 ---
 
-## 🏗️ Architecture & Workspace Topology
+## 🏗️ How We Architected the Monorepo
 
-This project is structured as an enterprise-grade **Turborepo Monorepo**:
+We split our ecosystem into two highly cohesive, specialized Next.js applications communicating across universal API boundaries:
 
 ```text
-├── Frontend/                 # Student Learning Portal (Next.js 16, Tailwind CSS v4, Port 3000)
-│   ├── src/app/              # App Router, CEFR Tracks (A1, A2, B1, B2), Games Arena (BaBaDum)
-│   ├── src/context/          # AuthContext & Universal Behavioral Telemetry Observer
-│   └── src/shared/           # Reusable UI systems, Navbar, and interactive analytics charts
+amardeutsch-platform/
+├── Frontend/                 # 🎓 Student Portal (React 19, Tailwind CSS v4, Port 3000)
+│   ├── src/app/              # Next.js App Router, A1-B2 CEFR tracks & games arenas
+│   ├── src/context/          # Student session state & live background telemetry observers
+│   └── src/shared/           # Reusable UI tokens, sound synthesizers & interactive charts
 │
-├── Backend/                  # Administrative & Analytics Portal (Next.js 16, AdminLTE 4, Port 3001)
-│   ├── src/app/backend/      # Admin App Shell, Custom Routing & Security Headers
-│   ├── src/components/tabs/  # AnalyticsTab, UsersTab, NewsletterTab, Content Studio
-│   └── prisma/               # SQLite Schema (dev.db) & 3NF Normalized Models
+├── Backend/                  # 🛡️ Executive Portal & API Gateway (Next.js 16, Port 3001)
+│   ├── src/app/backend/      # Admin App Shell, Custom edge routing & security headers
+│   ├── src/components/tabs/  # Interactive Analytics, User Management, & Content Studio
+│   ├── src/proxy.ts          # Next.js 16 Edge Security Interceptor & JWT cookie auth
+│   └── prisma/dev.db         # 3NF Normalized SQLite database archive & schema definitions
 │
-├── .npmrc                    # CI enforcement rules for optional native compiler binaries
-└── package.json              # Monorepo Orchestration, Turborepo commands & elevated lockfile bindings
+├── Report/                   # 📄 Academic & Industry Technical Report (23-Page LaTeX Archive)
+└── package.json              # Monorepo orchestration & Turborepo build optimization scripts
 ```
 
----
-
-## 🛡️ Vercel CI & Monorepo Native Binding Resilience
-AmarDeutsch is architecturally reinforced for modern cloud deployments (Vercel, Docker, AWS):
-* **Cross-Platform Compiler Hoisting**: Specifically structured to hoist high-performance Rust CSS compile bindings (`lightningcss-linux-x64-gnu` & `@tailwindcss/oxide-linux-x64-gnu/musl`) directly to the workspace root, eliminating multi-platform build discrepancy bugs on serverless CI containers.
-* **Strict Type Safety**: Fully audited with zero TypeScript or ESLint compiler faults across both Frontend and Backend environments.
+### ☁️ Built for Vercel Serverless Resilience
+Deploying a relational SQLite database to cloud serverless containers often triggers read-only file filesystem crashes (`EROFS`). To solve this in production, AmarDeutsch incorporates an intelligent runtime database mirroring engine (`src/lib/prisma.ts`). On cold start in cloud Lambda containers, our platform automatically mirrors the authoritative seeded database into ephemeral cloud RAM (`/tmp/dev.db`) with SQLite Write-Ahead Logging (WAL) concurrency enabled—guaranteeing rapid read/write synchronization with zero cloud infrastructure complexity!
 
 ---
 
-## ⚡ Quick Start Guide (Local Development)
+## 💻 Get It Running Locally in 3 Minutes
 
-### Prerequisites
-* Node.js (v18.17+ or v20+ recommended)
-* npm (v10+ recommended)
+Want to explore the codebase, test out new grammar challenges, or contribute to our multi-agent governance workflow? Getting set up is quick and straightforward!
 
-### 1. Clone & Install Dependencies
-From the root directory, install all workspace packages in a single command:
+### What You'll Need
+* **Node.js**: Version 18.17+ or 20+ (recommended)
+* **npm**: Version 10+ (comes standard with newer Node releases)
+
+### Step 1: Clone & Install Dependencies
+Open your favorite terminal, clone the repository, and install packages for both workspaces in a single sweep:
 ```bash
 git clone https://github.com/abbysweb/amardeutsch-platform.git
 cd amardeutsch-platform
 npm install
 ```
 
-### 2. Configure Database & Environment
-Copy the example environment configuration inside the backend workspace:
+### Step 2: Prepare Your Database
+Navigate into the backend directory to apply our seeded template environment and Prisma schema:
 ```bash
 cd Backend
-cp .env.example .env
-npx prisma db push
+cp .env.example .env      # Or copy directly if setting custom variables
+npx prisma db push        # Synchronize schema and verify local SQLite binding
 cd ..
 ```
 
-### 3. Launch the Platform (Dual Dev Servers)
-Run the Turbo development engine to start both Frontend and Backend concurrently:
+### Step 3: Launch Dual Development Servers
+Use our simple Turborepo script to fire up both the student interactive arena and executive portal concurrently:
 ```bash
 npm run dev
 ```
 
-* 🌍 **Student Portal (Frontend)**: Open [http://localhost:3000](http://localhost:3000)
-* 🛡️ **Admin Portal (Backend)**: Open [http://localhost:3001/backend](http://localhost:3001/backend)
+Now grab a cup of coffee and open up your local instances:
+* 🌍 **Student Gamified Portal**: [http://localhost:3000](http://localhost:3000)
+* 🛡️ **Executive Analytics Panel**: [http://localhost:3001/backend/Dashboard](http://localhost:3001/backend/Dashboard)
 
 ---
 
-## 🌐 Free Hosting & Live Domain Testing Guide
+## 👨‍💻 Meet the Architect
 
-To deploy online using your custom domain **`amardeutsch.com`** with zero hosting fees, follow our cloud deployment playbook:
+Designed and engineered under an advanced multi-agent supervisory framework by:
 
-### Option 1: Vercel Deployments (Cloud Production)
-1. Import `https://github.com/abbysweb/amardeutsch-platform` into [Vercel](https://vercel.com) as **two separate projects**:
-   * **Project 1 (`amardeutsch-frontend`)**: Set Root Directory to `Frontend`. Link custom domain `amardeutsch.com`.
-   * **Project 2 (`amardeutsch-backend`)**: Set Root Directory to `Backend`. Link subdomain `admin.amardeutsch.com`.
-2. *Database Notice*: Since serverless environments reset local SQLite disk state on restart, connect a free remote serverless database via [Turso (LibSQL)](https://turso.tech) or [Neon Postgres](https://neon.tech) and place your `DATABASE_URL` in Vercel Environment Variables.
+**Abdullah Al Mamun**  
+*Software Engineering & Computational Linguistics Architecture*  
+*TU Wien (Vienna, Austria) & Daffodil International University*  
 
-### Option 2: Cloudflare Zero Trust Tunnels (Instant Local Exposing)
-1. Point your domain `amardeutsch.com` DNS to Cloudflare (Free Plan).
-2. Under **Zero Trust → Networks → Tunnels**, create a new secure tunnel.
-3. Map public hostnames directly to your machine ports without altering database adapters:
-   * `amardeutsch.com` ➔ `http://localhost:3000`
-   * `admin.amardeutsch.com` ➔ `http://localhost:3001`
-4. Run `npm run dev` locally to securely expose your system to global testers with free automatic SSL!
+* 📧 Email: [`mamun.swe.de@gmail.com`](mailto:mamun.swe.de@gmail.com)  
+* 🐙 GitHub: [`https://github.com/abbysweb`](https://github.com/abbysweb)  
+* 🔬 ORCID: [`0009-0006-7473-0024`](https://orcid.org/0009-0006-7473-0024)  
 
 ---
 
-## 📝 License
-Copyright © 2026 **AmarDeutsch (`amardeutsch.com`) — Created by @abbysweb**. All rights reserved.
+## 📝 License & Copyright
+
+Copyright © 2026 **AmarDeutsch (`amardeutsch.com`) — Engineered by @abbysweb**. All rights reserved.  
+*Approved under our internal Multi-Agent Divide & Conquer AI Governance Framework.*
