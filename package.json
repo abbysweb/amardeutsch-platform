@@ -14,6 +14,11 @@
     "lint": "turbo run lint"
   },
   "devDependencies": {
+    "lightningcss": "^1.29.1",
     "turbo": "latest"
+  },
+  "optionalDependencies": {
+    "lightningcss-linux-x64-gnu": "^1.29.1",
+    "lightningcss-linux-x64-musl": "^1.29.1"
   }
 }
