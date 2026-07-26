@@ -1,4 +1,4 @@
-### Advanced Gamified German Learning Suite & Behavioral Intelligence Platform
+## Advanced Gamified German Learning Suite & Behavioral Intelligence Platform
 
 [![Next.js 16](https://img.shields.io/badge/Next.js%2016-Black?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org)
 [![TypeScript 5](https://img.shields.io/badge/TypeScript%205-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
