@@ -7,21 +7,42 @@ import path from 'path';
 // and serverless execution paths (/var/task or /vercel/path0) are strictly read-only.
 // To guarantee zero build failures and prevent SQLite write errors during mutations or WAL PRAGMAs,
 // we automatically fallback DATABASE_URL and mirror dev.db to the writable ephemeral memory filesystem (/tmp).
-if (process.env.VERCEL || process.env.VERCEL_ENV || process.env.NODE_ENV === 'production') {
+if (process.env.VERCEL || process.env.VERCEL_ENV || process.env.AWS_LAMBDA_FUNCTION_NAME) {
   try {
     const tmpDbPath = path.join('/tmp', 'dev.db');
-    const sourceDbPath = path.join(process.cwd(), 'dev.db');
-    
-    // Mirror database to writable /tmp filesystem if it does not already exist
-    if (!fs.existsSync(tmpDbPath) && fs.existsSync(sourceDbPath)) {
-      fs.copyFileSync(sourceDbPath, tmpDbPath);
+    const tmpDir = path.dirname(tmpDbPath);
+    if (!fs.existsSync(tmpDir)) {
+      fs.mkdirSync(tmpDir, { recursive: true });
     }
     
-    if (fs.existsSync(tmpDbPath)) {
-      process.env.DATABASE_URL = `file:${tmpDbPath}`;
-    } else {
-      process.env.DATABASE_URL = process.env.DATABASE_URL || `file:${sourceDbPath}`;
+    // Search exhaustively for existing seeded dev.db across possible Vercel bundle locations
+    if (!fs.existsSync(tmpDbPath)) {
+      const cwd = process.cwd();
+      const possibleSources = [
+        path.join(/*turbopackIgnore: true*/ cwd, 'dev.db'),
+        path.join(/*turbopackIgnore: true*/ cwd, 'prisma', 'dev.db'),
+        path.join(/*turbopackIgnore: true*/ cwd, 'Backend', 'dev.db'),
+        path.join(/*turbopackIgnore: true*/ cwd, '..', 'dev.db'),
+        path.join(/*turbopackIgnore: true*/ __dirname, '..', '..', '..', 'dev.db'),
+        path.join(/*turbopackIgnore: true*/ __dirname, '..', '..', '..', 'prisma', 'dev.db'),
+        path.resolve(/*turbopackIgnore: true*/ './dev.db'),
+        path.resolve(/*turbopackIgnore: true*/ './prisma/dev.db')
+      ];
+
+      for (const src of possibleSources) {
+        if (fs.existsSync(src)) {
+          try {
+            fs.copyFileSync(src, tmpDbPath);
+            break;
+          } catch (copyErr) {
+            console.error(`Failed copying database from ${src} to /tmp:`, copyErr);
+          }
+        }
+      }
     }
+    
+    // On Vercel / Cloud Lambda, ALWAYS route DATABASE_URL to /tmp/dev.db since /var/task is read-only
+    process.env.DATABASE_URL = `file:${tmpDbPath}`;
   } catch (e) {
     // Fallback if fs access is restricted during early build evaluation
     process.env.DATABASE_URL = process.env.DATABASE_URL || 'file:./dev.db';

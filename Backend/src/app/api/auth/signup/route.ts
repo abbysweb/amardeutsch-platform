@@ -82,6 +82,6 @@ export async function POST(request: Request) {
 
   } catch (error: any) {
     console.error("Signup Error:", error);
-    return NextResponse.json({ error: "An unexpected error occurred during signup. Please try again." }, { status: 500 });
+    return NextResponse.json({ error: `Signup failed: ${error?.message || error || "An unexpected error occurred during signup."}` }, { status: 500 });
   }
 }
