@@ -156,7 +156,7 @@ export default function BabadumGamePage() {
   const [options, setOptions] = useState<EnrichedVocabularyWord[]>([]);
   
   // Game State & Scoring
-  const [selectedWordId, setSelectedWordId] = useState<string | null>(null);
+  const [selectedWordId, setSelectedWordId] = useState<number | null>(null);
   const [isAnswered, setIsAnswered] = useState<boolean>(false);
   const [score, setScore] = useState<number>(0);
   const [streak, setStreak] = useState<number>(0);
@@ -203,7 +203,7 @@ export default function BabadumGamePage() {
 
     // Fill with generic backup if pool was somehow constrained
     while (distractors.length < 3) {
-      distractors.push({ id: `fallback-${Math.random()}`, german: "Wort", english: "Word", emoji: "🇩🇪", level: "A1" });
+      distractors.push({ id: -Math.floor(Math.random() * 1000000) - 1, german: "Wort", english: "Word", emoji: "🇩🇪", level: "A1" } as unknown as EnrichedVocabularyWord);
     }
 
     const shuffledOptions = shuffleArray([newTarget, ...distractors]);

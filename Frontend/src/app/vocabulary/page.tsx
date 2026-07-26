@@ -298,10 +298,10 @@ export default function VocabularyPage() {
   const [activeLevel, setActiveLevel] = useState<ActiveTabId>("ALL");
   const [isContentLoaded, setIsContentLoaded] = useState(true);
 
-  const a1Stats = useRealtimeStats("a1", { vocabularyCount: A1_STATS.vocabularyCount || 338 });
-  const a2Stats = useRealtimeStats("a2", { vocabularyCount: A2_STATS.vocabularyCount || 645 });
-  const b1Stats = useRealtimeStats("b1", { vocabularyCount: B1_STATS.vocabularyCount || 482 });
-  const b2Stats = useRealtimeStats("b2", { vocabularyCount: B2_STATS.vocabularyCount || 512 });
+  const a1Stats = useRealtimeStats("a1", { vocabularyCount: A1_STATS.vocabularyCount || 338, grammarCount: 0, quizCount: 0, sentenceCount: 0 });
+  const a2Stats = useRealtimeStats("a2", { vocabularyCount: A2_STATS.vocabularyCount || 645, grammarCount: 0, quizCount: 0, sentenceCount: 0 });
+  const b1Stats = useRealtimeStats("b1", { vocabularyCount: B1_STATS.vocabularyCount || 482, grammarCount: 0, quizCount: 0, sentenceCount: 0 });
+  const b2Stats = useRealtimeStats("b2", { vocabularyCount: B2_STATS.vocabularyCount || 512, grammarCount: 0, quizCount: 0, sentenceCount: 0 });
 
   const totalVocabs = (a1Stats.vocabularyCount || 338) + (a2Stats.vocabularyCount || 645) + (b1Stats.vocabularyCount || 482) + (b2Stats.vocabularyCount || 512);
 
