@@ -3,6 +3,16 @@ import type { NextConfig } from "next";
 const nextConfig: NextConfig = {
   basePath: '/backend',
   compress: true,
+  async redirects() {
+    return [
+      {
+        source: '/',
+        destination: '/backend',
+        basePath: false,
+        permanent: false,
+      },
+    ];
+  },
   async headers() {
     // Admin Backend Enterprise Security Headers & Anti-Sniffing / Anti-Framing Defenses
     return [
@@ -22,7 +32,7 @@ const nextConfig: NextConfig = {
       {
         source: '/api/:path*',
         headers: [
-          { key: 'Access-Control-Allow-Origin', value: 'http://localhost:3000' }, // Restrict API access strictly to trusted user front-end portal
+          { key: 'Access-Control-Allow-Origin', value: '*' }, // Enable universal API access across local and Vercel cloud front-ends
           { key: 'Access-Control-Allow-Methods', value: 'GET, POST, PUT, DELETE, OPTIONS' },
           { key: 'Access-Control-Allow-Headers', value: 'Content-Type, Authorization, X-Requested-With' },
           { key: 'Access-Control-Max-Age', value: '86400' }
