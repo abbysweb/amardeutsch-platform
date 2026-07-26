@@ -4,7 +4,7 @@ import { verifyToken, ADMIN_COOKIE_NAME } from './lib/auth';
 
 const PUBLIC_PATHS = ['/login', '/signup', '/Customer-Analytics', '/customer-analytics', '/backend/Customer-Analytics', '/backend/customer-analytics'];
 
-export async function middleware(request: NextRequest) {
+export async function proxy(request: NextRequest) {
   const { pathname } = request.nextUrl;
 
   // Allow static resources, Next internals, analytics views, and authentication API routes to pass freely
