@@ -14,11 +14,11 @@ if (process.env.NODE_ENV !== 'production') globalForPrisma.prisma = prisma;
 prisma.$connect()
   .then(async () => {
     try {
-      await prisma.$executeRawUnsafe('PRAGMA journal_mode = WAL;');
-      await prisma.$executeRawUnsafe('PRAGMA synchronous = NORMAL;');
-      await prisma.$executeRawUnsafe('PRAGMA busy_timeout = 5000;');
-      await prisma.$executeRawUnsafe('PRAGMA cache_size = -64000;'); // Allocate ~64MB memory cache
-      await prisma.$executeRawUnsafe('PRAGMA temp_store = MEMORY;');
+      await prisma.$queryRawUnsafe('PRAGMA journal_mode = WAL;');
+      await prisma.$queryRawUnsafe('PRAGMA synchronous = NORMAL;');
+      await prisma.$queryRawUnsafe('PRAGMA busy_timeout = 5000;');
+      await prisma.$queryRawUnsafe('PRAGMA cache_size = -64000;'); // Allocate ~64MB memory cache
+      await prisma.$queryRawUnsafe('PRAGMA temp_store = MEMORY;');
     } catch (err) {
       // PRAGMAs might error if db is currently in use or read-only during initialization
     }
