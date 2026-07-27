@@ -99,24 +99,60 @@
 % ------------------------------------------------------------------------------
 \begin{titlepage}
     \centering
-    \vspace*{1.5cm}
-    {\Huge\bfseries\color{primaryBlue} Advanced Gamified German Learning Suite \&\\[0.35cm]
-    Behavioral Intelligence Platform}\\[2.5cm]
-    
-    {\Large\bfseries\color{primaryBlue} Abdullah Al Mamun}\\[0.25cm]
-    {\normalsize\bfseries Software Engineering}\\[0.2cm]
-    {\normalsize TU Wien (Vienna, Austria) \& Daffodil International University}\\[0.2cm]
-    {\normalsize\href{mailto:mamun.swe.de@gmail.com}{\texttt{mamun.swe.de@gmail.com}} \quad|\quad \url{https://github.com/abbysweb}}\\[0.2cm]
-    {\normalsize ORCID: \href{https://orcid.org/0009-0006-7473-0024}{\texttt{0009-0006-7473-0024}}}\\[2.2cm]
-    
-    \begin{tabular}{>{\bfseries\color{primaryBlue}}l l}
-        Document Version: & 3.0.0-PROD (Enterprise Serverless \& Analytics Release) \\
-        Target Ecosystem: & Next.js 16 (Turbopack) Monorepo, React 19, Tailwind CSS v4 \\
-        Database Engine: & SQLite 3NF with Ephemeral Cloud Memory RAM Mirroring \\
-        Date of Release: & July 27, 2026 \\
-    \end{tabular}
-    
+    \vspace*{0.4cm}
+
+    % Top decorative rule
+    {\color{primaryBlue}\rule{\textwidth}{2.5pt}}
+
+    \vspace{1.0cm}
+
+    % Main title
+    {\fontsize{28}{34}\selectfont\bfseries\color{primaryBlue} Advanced Gamified\\[0.3cm]
+    German Learning Suite}
+
+    \vspace{0.5cm}
+
+    {\fontsize{22}{28}\selectfont\bfseries\color{secondaryIndigo} Behavioral Intelligence Platform}
+
+    \vspace{1.8cm}
+
+    % Author block
+    {\Large\bfseries\color{darkGray} Abdullah Al Mamun}
+
+    \vspace{0.4cm}
+
+    {\normalsize\color{darkGray} Software Engineering}
+
+    \vspace{0.15cm}
+
+    {\normalsize\color{darkGray} TU Wien (Vienna, Austria) \& Daffodil International University}
+
+    \vspace{0.15cm}
+
+    {\normalsize\href{mailto:mamun.swe.de@gmail.com}{\texttt{mamun.swe.de@gmail.com}} \quad{\color{slate}|}\quad \url{https://github.com/abbysweb}}
+
+    \vspace{0.1cm}
+
+    {\normalsize ORCID: \href{https://orcid.org/0009-0006-7473-0024}{\texttt{0009-0006-7473-0024}}}
+
     \vfill
+
+    % Metadata info box — clean black border
+    \noindent\framebox[\textwidth]{%
+        \centering\scriptsize
+        \renewcommand{\arraystretch}{1.4}
+        \begin{tabularx}{0.96\textwidth}{>{\bfseries\color{darkGray}}r @{\hspace{0.5cm}} X}
+            Document Version: & 3.0.0-PROD (Enterprise Serverless \& Analytics Release) \\[2pt]
+            Target Ecosystem: & Next.js 16 (Turbopack) Monorepo, React 19, Tailwind CSS v4 \\[2pt]
+            Database Engine: & SQLite 3NF with Ephemeral Cloud Memory RAM Mirroring \\[2pt]
+            Date of Release: & July 27, 2026 \\
+        \end{tabularx}
+    }
+
+    \vspace{0.5cm}
+
+    % Bottom decorative rule
+    {\color{primaryBlue}\rule{\textwidth}{2.5pt}}
 \end{titlepage}
 
 \newpage
@@ -240,12 +276,12 @@ Figure~\ref{fig:architecture} models the end-to-end operational topology of the 
 \centering
 \resizebox{\textwidth}{!}{
 \begin{tikzpicture}[
-    node distance=2.8cm and 3.6cm,
-    box/.style={rectangle, draw=primaryBlue, thick, fill=white, text width=5.6cm, align=center, rounded corners=6pt, minimum height=2.2cm, font=\small, drop shadow},
-    db/.style={cylinder, draw=accentAmber, thick, fill=amber!15, shape border rotate=90, aspect=0.3, text width=5.0cm, align=center, minimum height=2.4cm, font=\small, drop shadow},
+    node distance=3.0cm and 4.2cm,
+    box/.style={rectangle, draw=primaryBlue, thick, fill=white, text width=6.2cm, align=center, rounded corners=6pt, minimum height=2.4cm, font=\small, drop shadow},
+    db/.style={cylinder, draw=accentAmber, thick, fill=amber!15, shape border rotate=90, aspect=0.3, text width=5.8cm, align=center, minimum height=2.6cm, font=\small, drop shadow},
     arrow/.style={-{Latex[length=4mm, width=2.5mm]}, thick, primaryBlue},
     dashed_arrow/.style={-{Latex[length=4mm, width=2.5mm]}, dashed, thick, secondaryIndigo},
-    lbl/.style={font=\scriptsize\bfseries, fill=white, inner sep=2pt, rounded corners=2pt}
+    lbl/.style={font=\scriptsize\bfseries, fill=white, inner sep=3pt, rounded corners=2pt, text width=4.0cm, align=center}
 ]
     % Nodes
     \node[box, fill=blue!5, label={[anchor=south, fill=primaryBlue, text=white, font=\bfseries\scriptsize, rounded corners=2pt, inner sep=3pt]north:CLIENT TIER}] (client) {\textbf{Student \& Admin Browser}\\[3pt] React 19 / Tailwind v4\\ UI Hydration State};
@@ -262,12 +298,12 @@ Figure~\ref{fig:architecture} models the end-to-end operational topology of the 
     \draw[arrow] (client) -- node[lbl, above, text=primaryBlue] {HTTPS JSON Request} (edge);
     \draw[arrow] (edge) -- node[lbl, above, text=secondaryIndigo] {Proxy Verified} (lambda);
     \draw[arrow] (lambda) -- node[lbl, right, text=teal!80!black] {Prisma ORM (WAL)} (ram);
-    \draw[dashed_arrow] (storage) -| node[lbl, pos=0.3, above left, text=accentAmber] {NFT Cold-Start RAM Mirror} (ram);
-    \draw[arrow] (lambda) -- ++(0,2.8cm) -| node[lbl, pos=0.5, above, text=primaryBlue] {Serialized 3NF JSON Payload} (client);
+    \draw[dashed_arrow] (storage) -| node[lbl, pos=0.3, above left, text=accentAmber, text width=5.0cm] {NFT Cold-Start RAM Mirror} (ram);
+    \draw[arrow] (lambda) -- ++(0,3.0cm) -| node[lbl, pos=0.5, above, text=primaryBlue] {Serialized 3NF JSON Payload} (client);
     
     % Background grouping frame
     \begin{scope}[on background layer]
-        \node[fit=(edge)(lambda)(ram)(storage), draw=darkGray, dashed, thick, rounded corners=10pt, fill=lightGray!30, inner sep=14pt] {};
+        \node[fit=(edge)(lambda)(ram)(storage), draw=darkGray, dashed, thick, rounded corners=10pt, fill=lightGray!30, inner sep=16pt] {};
         \node[anchor=north west, font=\bfseries\scriptsize\color{darkGray}, inner sep=0pt] at ([yshift=-2pt]current bounding box.north west) {VERCEL AWS LAMBDA};
         \node[anchor=north west, font=\bfseries\scriptsize\color{darkGray}, inner sep=0pt] at ([yshift=-22pt]current bounding box.north west) {SERVERLESS EXECUTION BOUNDARY};
     \end{scope}
@@ -297,13 +333,14 @@ Figure~\ref{fig:er_diagram} displays the normalized relational database schema a
 \centering
 \resizebox{\textwidth}{!}{
 \begin{tikzpicture}[
-    node distance=2.4cm and 3.0cm,
-    entity/.style={rectangle, draw=primaryBlue, thick, fill=white, text width=5.8cm, rounded corners=6pt, drop shadow, font=\small\ttfamily},
+    node distance=2.6cm and 3.4cm,
+    entity/.style={rectangle, draw=primaryBlue, thick, fill=white, text width=6.4cm, rounded corners=6pt, drop shadow, font=\small\ttfamily},
     rel/.style={-{Latex[length=3.5mm, width=2.5mm]}, thick, darkGray},
-    rel_dashed/.style={-{Latex[length=3.5mm, width=2.5mm]}, dashed, thick, secondaryIndigo}
+    rel_dashed/.style={-{Latex[length=3.5mm, width=2.5mm]}, dashed, thick, secondaryIndigo},
+    rlbl/.style={font=\scriptsize\bfseries, fill=white, inner sep=2pt, rounded corners=2pt, text width=4.0cm, align=center}
 ]
     % Row 1: User, Category, CefrLevel (left to right)
-    \node[entity, label={[anchor=south, fill=purple!80!black, text=white, font=\bfseries\small, rounded corners=3pt, minimum width=5.8cm]north:\textbf{User / AdminUser Table}}] (user) {
+    \node[entity, label={[anchor=south, fill=purple!80!black, text=white, font=\bfseries\small, rounded corners=3pt, minimum width=6.4cm]north:\textbf{User / AdminUser Table}}] (user) {
         \textbf{PK} id : Int \textit{5-Digit Random}\\
         email : String \textit{Unique Indexed}\\
         name : String?\\
@@ -314,7 +351,7 @@ Figure~\ref{fig:er_diagram} displays the normalized relational database schema a
         \textcolor{purple!80!black}{\small\normalfont JWT Cryptographic Cookie Subject}
     };
 
-    \node[entity, label={[anchor=south, fill=secondaryIndigo, text=white, font=\bfseries\small, rounded corners=3pt, minimum width=5.8cm]north:\textbf{Category Table}}, right=of user] (category) {
+    \node[entity, label={[anchor=south, fill=secondaryIndigo, text=white, font=\bfseries\small, rounded corners=3pt, minimum width=6.4cm]north:\textbf{Category Table}}, right=of user] (category) {
         \textbf{PK} id : Int \textit{AutoIncrement}\\
         name : String \textit{Unique}\\
         type : String \textit{VOCAB | GRAMMAR}\\
@@ -322,7 +359,7 @@ Figure~\ref{fig:er_diagram} displays the normalized relational database schema a
         \textcolor{secondaryIndigo}{\small\normalfont 1 : N $\rightarrow$ Vocabulary, GrammarLesson}
     };
 
-    \node[entity, label={[anchor=south, fill=primaryBlue, text=white, font=\bfseries\small, rounded corners=3pt, minimum width=5.8cm]north:\textbf{CefrLevel Table}}, right=of category] (cefr) {
+    \node[entity, label={[anchor=south, fill=primaryBlue, text=white, font=\bfseries\small, rounded corners=3pt, minimum width=6.4cm]north:\textbf{CefrLevel Table}}, right=of category] (cefr) {
         \textbf{PK} id : String \textit{[A1..C2]}\\
         name : String \textit{Unique}\\
         description : String?\\
@@ -331,7 +368,7 @@ Figure~\ref{fig:er_diagram} displays the normalized relational database schema a
     };
 
     % Row 2: Vocabulary (below cefr), Quiz (below cefr, right)
-    \node[entity, label={[anchor=south, fill=accentAmber, text=white, font=\bfseries\small, rounded corners=3pt, minimum width=5.8cm]north:\textbf{Vocabulary Table}}, below left=2.2cm and 0.8cm of cefr] (vocab) {
+    \node[entity, label={[anchor=south, fill=accentAmber, text=white, font=\bfseries\small, rounded corners=3pt, minimum width=6.4cm]north:\textbf{Vocabulary Table}}, below left=2.6cm and 0.6cm of cefr] (vocab) {
         \textbf{PK} id : Int \textit{AutoIncrement}\\
         german : String \textit{Unique Indexed}\\
         english : String\\
@@ -345,7 +382,7 @@ Figure~\ref{fig:er_diagram} displays the normalized relational database schema a
         \textcolor{accentAmber}{\small\normalfont Relational Linguistic Item}
     };
 
-    \node[entity, label={[anchor=south, fill=teal!80!black, text=white, font=\bfseries\small, rounded corners=3pt, minimum width=5.8cm]north:\textbf{Quiz Table}}, below right=2.2cm and 0.8cm of cefr] (quiz) {
+    \node[entity, label={[anchor=south, fill=teal!80!black, text=white, font=\bfseries\small, rounded corners=3pt, minimum width=6.4cm]north:\textbf{Quiz Table}}, below right=2.6cm and 0.6cm of cefr] (quiz) {
         \textbf{PK} id : Int \textit{AutoIncrement}\\
         title : String\\
         description : String?\\
@@ -356,7 +393,7 @@ Figure~\ref{fig:er_diagram} displays the normalized relational database schema a
     };
 
     % Row 3: QuizQuestion (below quiz)
-    \node[entity, label={[anchor=south, fill=dangerRed, text=white, font=\bfseries\small, rounded corners=3pt, minimum width=5.8cm]north:\textbf{QuizQuestion Table}}, below=of quiz] (question) {
+    \node[entity, label={[anchor=south, fill=dangerRed, text=white, font=\bfseries\small, rounded corners=3pt, minimum width=6.4cm]north:\textbf{QuizQuestion Table}}, below=2.6cm of quiz] (question) {
         \textbf{PK} id : Int \textit{AutoIncrement}\\
         questionText : String\\
         options : JSON \textit{Array [A,B,C,D]}\\
@@ -368,10 +405,10 @@ Figure~\ref{fig:er_diagram} displays the normalized relational database schema a
     };
 
     % Relational Connections (no crossings)
-    \draw[rel] (cefr.south) -- ++(0,-0.6) -| node[pos=0.25, above, font=\scriptsize\bfseries, text=primaryBlue] {1 : N (Level Binding)} (vocab.north);
-    \draw[rel_dashed] (cefr.south) -- ++(0,-0.6) -| node[pos=0.25, above, font=\scriptsize\bfseries, text=teal!80!black] {1 : N (Quiz Level)} (quiz.north);
-    \draw[rel] (category.south) |- ++(0,-1.2) -| node[pos=0.25, above, font=\scriptsize\bfseries, text=secondaryIndigo] {1 : N (Category Taxon)} (vocab.north west);
-    \draw[rel] (quiz.south) -- node[right, font=\scriptsize\bfseries, text=dangerRed] {1 : N (Questions Array)} (question.north);
+    \draw[rel] (cefr.south) -- ++(0,-0.8) -| node[rlbl, pos=0.2, above, text=primaryBlue] {1 : N (Level Binding)} (vocab.north);
+    \draw[rel_dashed] (cefr.south) -- ++(0,-0.8) -| node[rlbl, pos=0.2, above, text=teal!80!black] {1 : N (Quiz Level)} (quiz.north);
+    \draw[rel] (category.south) |- ++(0,-1.4) -| node[rlbl, pos=0.2, above, text=secondaryIndigo] {1 : N (Category Taxon)} (vocab.north west);
+    \draw[rel] (quiz.south) -- node[rlbl, right, pos=0.5, text=dangerRed] {1 : N (Questions Array)} (question.north);
 \end{tikzpicture}
 }
 \caption{Prisma ORM Normalized Third Normal Form (3NF) Relational Database Schema Architecture.}
@@ -462,53 +499,56 @@ Executive platform administrators operating via \texttt{/backend} exercise compl
 \subsection{Formal Use Case Diagram}
 Figure~\ref{fig:use_case} illustrates the role-based operational boundaries distinguishing Student Learners from Executive Administrators within the system runtime, rendered at full page dimensions for maximal graphical impact.
 
-\begin{figure}[H]
+\clearpage
+\begin{figure}[p]
 \centering
 \resizebox{\textwidth}{!}{
 \begin{tikzpicture}[
-    actor/.style={circle, draw=darkGray, thick, minimum size=1.8cm, fill=lightGray, font=\bfseries\small, align=center},
-    usecase/.style={ellipse, draw=primaryBlue, thick, fill=blue!5, text width=5.0cm, align=center, minimum height=1.4cm, font=\small, drop shadow},
-    link/.style={-, thick, darkGray},
-    link_admin/.style={-, thick, primaryBlue},
-    sys_boundary/.style={draw=secondaryIndigo, thick, rounded corners=14pt, fill=indigo!3, inner sep=20pt}
+    actor/.style={circle, draw=darkGray, thick, minimum size=2.8cm, fill=lightGray, font=\bfseries\large, align=center},
+    usecase/.style={ellipse, draw=primaryBlue, thick, fill=blue!5, text width=7.0cm, align=center, minimum height=2.4cm, font=\normalsize, drop shadow},
+    link/.style={-, very thick, darkGray},
+    link_admin/.style={-, very thick, primaryBlue},
+    llbl/.style={font=\scriptsize\bfseries, fill=white, inner sep=2pt, rounded corners=2pt},
+    sys_boundary/.style={draw=secondaryIndigo, thick, rounded corners=22pt, fill=indigo!3, inner sep=38pt}
 ]
-    % System Boundary Frame (explicit size to contain all use cases)
-    \node[sys_boundary, minimum width=8.5cm, minimum height=13cm, label={[anchor=south, font=\Large\bfseries\color{secondaryIndigo}, yshift=6pt]north:\textbf{AMARDEUTSCH ENTERPRISE SYSTEM BOUNDARY}}] (sys) at (5, 0) {};
+    % System Boundary Frame
+    \node[sys_boundary, minimum width=20.57cm, minimum height=22.0cm, label={[anchor=south, font=\LARGE\bfseries\color{secondaryIndigo}, yshift=11pt]north:\textbf{AMARDEUTSCH ENTERPRISE SYSTEM BOUNDARY}}] (sys) at (7, 0) {};
 
-    % Actors (left side, vertically aligned with their use cases)
-    \node[actor, fill=slate!20] (student) at (-5, 3.5) {\Huge$\ddot{\smile}$};
-    \node[below=4pt of student, font=\small\bfseries] {Student Learner};
+    % Actors (left side)
+    \node[actor, fill=slate!20] (student) at (-7.5, 7.0) {\Huge$\ddot{\smile}$};
+    \node[below=8pt of student, font=\large\bfseries] {Student Learner};
 
-    \node[actor, fill=primaryBlue!15, draw=primaryBlue] (admin) at (-5, -4.0) {\Huge$\star$};
-    \node[below=4pt of admin, font=\small\bfseries] {Executive Admin};
+    \node[actor, fill=primaryBlue!15, draw=primaryBlue] (admin) at (-7.5, -7.0) {\Huge$\star$};
+    \node[below=8pt of admin, font=\large\bfseries] {Executive Admin};
 
-    % Student Use Cases (top half of boundary)
-    \node[usecase] (uc1) at (5, 5.0) {\textbf{Execute Random Word Challenge}\\ \textit{Glassmorphic Card UI \& Scaling}};
-    \node[usecase] (uc2) at (5, 2.5) {\textbf{Complete Grammar Quizzes}\\ \textit{Real-Time Gameshow Sound FX}};
-    \node[usecase] (uc3) at (5, 0.0) {\textbf{Invoke Speech Synthesizer}\\ \textit{Phonetic Pronunciation Audio}};
+    % Student Use Cases (top half)
+    \node[usecase] (uc1) at (7, 9.0) {\textbf{Execute Random Word Challenge}\\[2pt] \textit{Glassmorphic Card UI \& Scaling}};
+    \node[usecase] (uc2) at (7, 5.0) {\textbf{Complete Grammar Quizzes}\\[2pt] \textit{Real-Time Gameshow Sound FX}};
+    \node[usecase] (uc3) at (7, 1.0) {\textbf{Invoke Speech Synthesizer}\\[2pt] \textit{Phonetic Pronunciation Audio}};
 
-    % Shared Use Case (center, highlighted)
-    \node[usecase, fill=yellow!10, draw=accentAmber, text width=5.5cm] (uc4) at (5, -2.2) {\textbf{Account Registration \& Login}\\ \textit{Cryptographic Cookie JWT Session}};
+    % Shared Use Case (center)
+    \node[usecase, fill=yellow!10, draw=accentAmber, text width=7.5cm] (uc4) at (7, -3.0) {\textbf{Account Registration \& Login}\\[2pt] \textit{Cryptographic Cookie JWT Session}};
 
     % Admin Use Cases (bottom half)
-    \node[usecase, fill=purple!10, draw=purple!80!black] (uc5) at (5, -4.5) {\textbf{Execute Live 3NF Quiz \& Vocab CRUD}\\ \textit{Real-Time Database Synchronization}};
-    \node[usecase, fill=purple!10, draw=purple!80!black] (uc6) at (5, -7.0) {\textbf{Run Batch Sentence Ingestion Engines}\\ \textit{Tatoeba \& Automated Translations}};
+    \node[usecase, fill=purple!10, draw=purple!80!black] (uc5) at (7, -7.0) {\textbf{Execute Live 3NF Quiz \& Vocab CRUD}\\[2pt] \textit{Real-Time Database Synchronization}};
+    \node[usecase, fill=purple!10, draw=purple!80!black] (uc6) at (7, -11.0) {\textbf{Run Batch Sentence Ingestion Engines}\\[2pt] \textit{Tatoeba \& Automated Translations}};
 
-    % Student Connections (clean horizontal then diagonal to use cases)
-    \draw[link] (student.east) -| node[above, font=\scriptsize, pos=0.25] {Interact} (uc1.west);
-    \draw[link] (student.east) -- node[above, font=\scriptsize, sloped, pos=0.35] {Attempt} (uc2.west);
-    \draw[link] (student.east) -- node[above, font=\scriptsize, sloped, pos=0.4] {Listen} (uc3.west);
-    \draw[link] (student.east) -- node[below, font=\scriptsize, sloped, pos=0.45] {Auth} (uc4.west);
+    % Student Connections
+    \draw[link] (student.east) -| node[llbl, above, pos=0.1] {Interact} (uc1.west);
+    \draw[link] (student.east) -- node[llbl, above, sloped, pos=0.25] {Attempt} (uc2.west);
+    \draw[link] (student.east) -- node[llbl, above, sloped, pos=0.3] {Listen} (uc3.west);
+    \draw[link] (student.east) -- node[llbl, below, sloped, pos=0.35] {Auth} (uc4.west);
 
-    % Admin Connections (different color, clean paths)
-    \draw[link_admin] (admin.east) -- node[above, font=\scriptsize, sloped, pos=0.35, text=primaryBlue] {Admin Auth} (uc4.west);
-    \draw[link_admin] (admin.east) -- node[above, font=\scriptsize, sloped, pos=0.4, text=primaryBlue] {Manage} (uc5.west);
-    \draw[link_admin] (admin.east) -- node[below, font=\scriptsize, sloped, pos=0.4, text=primaryBlue] {Batch Ingest} (uc6.west);
+    % Admin Connections
+    \draw[link_admin] (admin.east) -- node[llbl, above, sloped, pos=0.25, text=primaryBlue] {Admin Auth} (uc4.west);
+    \draw[link_admin] (admin.east) -- node[llbl, above, sloped, pos=0.3, text=primaryBlue] {Manage} (uc5.west);
+    \draw[link_admin] (admin.east) -- node[llbl, below, sloped, pos=0.3, text=primaryBlue] {Batch Ingest} (uc6.west);
 \end{tikzpicture}
 }
 \caption{System Use Case Architecture and Role-Based Functional Interaction Boundary.}
 \label{fig:use_case}
 \end{figure}
+\clearpage
 
 % ==============================================================================
 % CHAPTER 5: CORE ALGORITHMIC FLOWS & COMPONENT EXECUTION
@@ -529,35 +569,36 @@ Figure~\ref{fig:flowchart} presents a formal step-by-step decision flowchart del
 \centering
 \resizebox{\textwidth}{!}{
 \begin{tikzpicture}[
-    node distance=1.6cm and 2.2cm,
-    startstop/.style={rectangle, rounded corners=12pt, minimum width=5.2cm, minimum height=1.1cm, text centered, draw=primaryBlue, fill=blue!15, font=\bfseries\small, drop shadow},
-    process/.style={rectangle, draw=darkGray, thick, fill=white, minimum width=6.0cm, minimum height=1.2cm, text centered, text width=6.5cm, font=\small, rounded corners=4pt, drop shadow},
-    decision/.style={diamond, draw=secondaryIndigo, thick, fill=indigo!10, text width=3.6cm, align=center, aspect=1.8, font=\scriptsize\bfseries, drop shadow},
-    arrow/.style={-{Latex[length=4mm, width=2.5mm]}, thick, primaryBlue}
+    node distance=1.8cm and 2.6cm,
+    startstop/.style={rectangle, rounded corners=12pt, minimum width=5.5cm, minimum height=1.2cm, text centered, draw=primaryBlue, fill=blue!15, font=\bfseries\small, drop shadow},
+    process/.style={rectangle, draw=darkGray, thick, fill=white, minimum width=6.5cm, minimum height=1.4cm, text centered, text width=7.5cm, font=\small, rounded corners=4pt, drop shadow},
+    decision/.style={diamond, draw=secondaryIndigo, thick, fill=indigo!10, text width=4.5cm, align=center, aspect=1.8, font=\scriptsize\bfseries, drop shadow},
+    arrow/.style={-{Latex[length=4mm, width=2.5mm]}, thick, primaryBlue},
+    lbl/.style={font=\scriptsize\bfseries, fill=white, inner sep=2pt, rounded corners=2pt}
 ]
     % Nodes
     \node[startstop] (start) {Incoming HTTP Request};
     \node[decision, below=of start] (dec1) {Target Route Group?};
-    \node[process, left=of dec1, xshift=-1.0cm] (root) {\textbf{Intercept at Root Domain (\texttt{/})}\\ Automatic Redirection to \texttt{/backend}};
-    \node[process, below=of dec1] (proxy) {\textbf{Execute Edge Routing (\texttt{proxy.ts})}\\ Cryptographic Cookie Session Auth};
+    \node[process, left=of dec1, xshift=-1.2cm] (root) {\textbf{Intercept at Root Domain (\texttt{/})}\\[2pt] Automatic Redirection to \texttt{/backend}};
+    \node[process, below=of dec1] (proxy) {\textbf{Execute Edge Routing (\texttt{proxy.ts})}\\[2pt] Cryptographic Cookie Session Auth};
     
-    \node[decision, below=of proxy] (dec2) {Cloud Serverless Env? (\texttt{VERCEL} | \texttt{LAMBDA})};
-    \node[process, right=of dec2, xshift=1.2cm] (local) {\textbf{Standard Local Connection}\\ Connect directly to \texttt{file:./dev.db}};
+    \node[decision, below=of proxy] (dec2) {Cloud Serverless Env?\\(\texttt{VERCEL} | \texttt{LAMBDA})};
+    \node[process, right=of dec2, xshift=1.2cm] (local) {\textbf{Standard Local Connection}\\[2pt] Connect directly to \texttt{file:./dev.db}};
     
-    \node[process, below=of dec2] (mirror) {\textbf{Execute RAM Mirroring Strategy}\\ Scan NFT Bundles \& Copy \texttt{prisma/dev.db} $\rightarrow$ \texttt{/tmp/dev.db}};
-    \node[process, below=of mirror] (pragma) {\textbf{Apply SQLite WAL High-Concurrency PRAGMAs}\\ Bind Connection to Writable Ephemeral RAM};
-    \node[startstop, fill=successGreen!20, draw=successGreen, below=of pragma] (stop) {Return JSON 200 / 201 Success Payload};
+    \node[process, below=of dec2] (mirror) {\textbf{Execute RAM Mirroring Strategy}\\[2pt] Scan NFT Bundles \& Copy \texttt{prisma/dev.db} $\rightarrow$ \texttt{/tmp/dev.db}};
+    \node[process, below=of mirror] (pragma) {\textbf{Apply SQLite WAL PRAGMAs}\\[2pt] Bind to Writable Ephemeral RAM};
+    \node[startstop, fill=successGreen!20, draw=successGreen, below=of pragma] (stop) {Return JSON 200 / 201 Success};
 
     % Links
     \draw[arrow] (start) -- (dec1);
-    \draw[arrow] (dec1) -- node[above, font=\scriptsize\bfseries] {Root URL (\texttt{/})} (root);
+    \draw[arrow] (dec1) -- node[lbl, above, text=primaryBlue] {Root URL (\texttt{/})} (root);
     \draw[arrow] (root) |- (proxy);
-    \draw[arrow] (dec1) -- node[right, font=\scriptsize\bfseries] {API or Portal Path} (proxy);
+    \draw[arrow] (dec1) -- node[lbl, right, text=secondaryIndigo] {API or Portal Path} (proxy);
     \draw[arrow] (proxy) -- (dec2);
     
-    \draw[arrow] (dec2) -- node[above, font=\scriptsize\bfseries] {No (Local Dev)} (local);
+    \draw[arrow] (dec2) -- node[lbl, above, text=primaryBlue] {No (Local Dev)} (local);
     \draw[arrow] (local) |- (pragma);
-    \draw[arrow] (dec2) -- node[right, font=\scriptsize\bfseries] {Yes (Cloud Lambda Container)} (mirror);
+    \draw[arrow] (dec2) -- node[lbl, right, text=secondaryIndigo] {Yes (Cloud Lambda)} (mirror);
     \draw[arrow] (mirror) -- (pragma);
     \draw[arrow] (pragma) -- (stop);
 \end{tikzpicture}
@@ -569,195 +610,224 @@ Figure~\ref{fig:flowchart} presents a formal step-by-step decision flowchart del
 \subsection{Full System Sequence Diagram: End-to-Student Request Lifecycle}
 Figure~\ref{fig:sequence} presents the complete chronological message sequence of every HTTP request flowing through the AmarDeutsch platform, from the instant a student's browser initiates an HTTPS call to the final JSON payload delivery. Every vertical lifeline corresponds to an architectural component identified in the system topology (Figure~\ref{fig:architecture}), and every horizontal arrow represents a discrete, traceable network or inter-process message. The diagram is split into three distinct pedagogical flows: (i)~a vocabulary fetch, (ii)~a quiz submission with real-time audio feedback, and (iii)~an administrator CRUD mutation, all sharing the same serverless infrastructure path.
 
-\begin{figure}[H]
+\clearpage
+\begin{figure}[p]
 \centering
 \resizebox{\textwidth}{!}{
 \begin{tikzpicture}[
-    participant/.style={rectangle, draw=primaryBlue, thick, fill=white, text width=2.8cm, align=center, rounded corners=5pt, minimum height=1.4cm, font=\small\bfseries, drop shadow},
-    actor/.style={circle, draw=darkGray, thick, fill=lightGray, minimum size=1.5cm, font=\bfseries\small, align=center},
+    participant/.style={rectangle, draw=primaryBlue, thick, fill=white, text width=3.0cm, align=center, rounded corners=4pt, minimum height=1.4cm, font=\small\bfseries, drop shadow},
+    actor/.style={circle, draw=darkGray, thick, fill=lightGray, minimum size=1.6cm, font=\small\bfseries, align=center},
     msg/.style={-{Latex[length=3mm, width=2mm]}, thick, primaryBlue},
     msg_return/.style={-{Latex[length=3mm, width=2mm]}, thick, dashed, successGreen},
     msg_admin/.style={-{Latex[length=3mm, width=2mm]}, thick, purple!80!black},
-    activation/.style={fill=primaryBlue!12, draw=primaryBlue, thick, rounded corners=2pt, minimum width=0.5cm},
-    note/.style={rectangle, draw=accentAmber, thick, fill=amber!8, text width=3.8cm, align=left, rounded corners=4pt, font=\scriptsize, inner sep=4pt, drop shadow},
-    sectionlabel/.style={font=\footnotesize\bfseries, text=darkGray, anchor=east},
-    lbl/.style={font=\scriptsize\bfseries, fill=white, inner sep=1pt}
+    activation/.style={fill=primaryBlue!12, draw=primaryBlue, thick, rounded corners=1.5pt, minimum width=0.5cm},
+    sectionlabel/.style={font=\small\bfseries, text=darkGray, anchor=east},
+    flowsep/.style={draw=darkGray!30, thin, dashed}
 ]
-    % PARTICIPANT HEADERS
-    \node[actor, align=center] (student) at (0, 0) {\large$\ddot{\smile}$};
-    \node[below=2pt of student, font=\small\bfseries, align=center] {Student Browser};
+    % ============ PARTICIPANT HEADERS (spaced 4.0cm apart) ============
+    \node[actor, align=center] (student) at (0, 0) {\Large$\ddot{\smile}$};
+    \node[below=4pt of student, font=\small\bfseries, align=center] {Student\\Browser};
 
-    \node[participant] (proxy) at (5.5, 0) {Edge Proxy\\{\scriptsize\texttt{proxy.ts}}\\{\scriptsize JWT Auth}};
+    \node[participant] (proxy) at (4.0, 0) {Edge Proxy\\{\scriptsize\texttt{proxy.ts}}};
 
-    \node[participant, fill=teal!5] (lambda) at (11, 0) {AWS Lambda\\{\scriptsize Serverless}\\{\scriptsize NFT Scan}};
+    \node[participant, fill=teal!5] (lambda) at (8.0, 0) {AWS Lambda\\{\scriptsize Serverless}};
 
-    \node[participant, fill=indigo!5] (prisma) at (16.5, 0) {Prisma ORM\\{\scriptsize Singleton}\\{\scriptsize WAL Mode}};
+    \node[participant, fill=indigo!5] (prisma) at (12.0, 0) {Prisma ORM\\{\scriptsize Singleton}};
 
-    \node[participant, fill=yellow!10, draw=accentAmber] (db) at (22, 0) {SQLite 3NF\\{\scriptsize Ephemeral RAM}\\{\scriptsize \texttt{/tmp/dev.db}}};
+    \node[participant, fill=yellow!10, draw=accentAmber] (db) at (16.0, 0) {SQLite 3NF\\{\scriptsize RAM Cache}};
 
     % Vertical lifelines
-    \foreach \x in {0, 5.5, 11, 16.5, 22} {
-        \draw[dashed, thick, darkGray!50] (\x, -0.9) -- (\x, -62);
+    \foreach \x in {0, 4.0, 8.0, 12.0, 16.0} {
+        \draw[dashed, thick, darkGray!40] (\x, -0.85) -- (\x, -20.0);
     }
 
-    % ===================== FLOW 1: VOCABULARY FETCH =====================
-    \node[sectionlabel] at (-1.8, -2.5) {VOCAB};
-    \node[sectionlabel] at (-1.8, -3.2) {FETCH};
-    \node[fill=blue!8, rounded corners=3pt, inner sep=2pt] at (-1.8, -2.85) {\scriptsize\textbf{FLOW 1}};
+    % ==================== FLOW 1: VOCABULARY FETCH ====================
+    \node[sectionlabel] at (-1.6, -1.8) {FLOW 1};
+    \node[fill=blue!8, rounded corners=2pt, inner sep=2.5pt, font=\small\bfseries, text=primaryBlue] at (-1.6, -2.3) {VOCAB};
 
-    \node[activation, minimum height=8.5cm] at (0, -6.5) {};
-    \node[activation, minimum height=7.8cm] at (5.5, -6.85) {};
-    \node[activation, minimum height=6.5cm] at (11, -7.5) {};
-    \node[activation, minimum height=4.0cm] at (16.5, -8.75) {};
-    \node[activation, minimum height=2.5cm] at (22, -9.5) {};
+    \node[activation, minimum height=6.0cm] at (0, -5.5) {};
+    \node[activation, minimum height=5.4cm] at (4.0, -5.8) {};
+    \node[activation, minimum height=3.8cm] at (8.0, -6.5) {};
+    \node[activation, minimum height=1.6cm] at (12.0, -7.6) {};
+    \node[activation, minimum height=1.0cm] at (16.0, -7.9) {};
 
-    \draw[msg] (0, -2.0) -- node[above, font=\scriptsize\bfseries, text=primaryBlue, pos=0.4] {1: \texttt{GET /api/vocab?level=A1}} (5.5, -2.0);
-    \node[note, anchor=west] at (0.3, -1.4) {\textbf{Browser:} React 19 \texttt{useLevelVocabulary()} fires HTTPS GET with CEFR level query.};
+    \draw[msg] (0, -3.0) -- node[above, font=\small\bfseries, text=primaryBlue, pos=0.45] {1: \texttt{GET /api/vocab?level=A1}} (4.0, -3.0);
 
-    \draw[msg] (5.5, -3.2) -- (5.5, -3.8) node[midway, left, font=\scriptsize, text=secondaryIndigo] {2: Verify JWT Cookie};
-    \node[note, anchor=west] at (5.8, -3.0) {\textbf{Proxy:} \texttt{proxy.ts} reads \texttt{ADMIN\_COOKIE\_NAME}, validates HMAC. Invalid $\rightarrow$ 401.};
+    \draw[msg] (4.0, -3.6) -- (4.0, -4.0) node[midway, left, font=\small, text=secondaryIndigo] {2: JWT Verify};
 
-    \draw[msg] (5.5, -4.4) -- node[above, font=\scriptsize, text=secondaryIndigo, pos=0.4] {3: Forward Verified Request} (11, -4.4);
+    \draw[msg] (4.0, -4.6) -- node[above, font=\small, text=secondaryIndigo, pos=0.45] {3: Forward} (8.0, -4.6);
 
-    \draw[msg, densely dotted] (11, -5.2) -- (11, -5.8) node[midway, left, font=\scriptsize, text=teal!80!black] {4: Detect \texttt{VERCEL}};
-    \node[note, anchor=west] at (11.3, -5.0) {\textbf{Lambda:} \texttt{process.env.VERCEL} checked. Cold start $\rightarrow$ RAM mirror.};
+    \draw[msg, densely dotted] (8.0, -5.2) -- (8.0, -5.6) node[midway, left, font=\small, text=teal!80!black] {4: Detect \texttt{VERCEL}};
 
-    \draw[msg, densely dotted] (11, -6.3) -- (11, -6.9) node[midway, left, font=\scriptsize, text=teal!80!black] {5: Mirror DB to /tmp};
-    \node[note, anchor=west] at (11.3, -6.1) {\textbf{Cold-Start:} NFT scan across 9 dirs. \texttt{fs.copyFileSync()} copies 741KB to RAM.};
+    \draw[msg, densely dotted] (8.0, -6.1) -- (8.0, -6.5) node[midway, left, font=\small, text=teal!80!black] {5: Mirror DB};
 
-    \draw[msg] (11, -7.6) -- node[above, font=\scriptsize, text=teal!80!black, pos=0.4] {6: \texttt{prisma.vocabulary.findMany(\{where: \{levelId: A1\}\})}} (16.5, -7.6);
+    \draw[msg] (8.0, -7.0) -- node[above, font=\small, text=teal!80!black, pos=0.45] {6: \texttt{prisma.vocabulary.findMany()}} (12.0, -7.0);
 
-    \draw[msg] (16.5, -8.6) -- node[above, font=\scriptsize, text=secondaryIndigo, pos=0.4] {7: \texttt{SELECT * FROM Vocabulary WHERE levelId='A1'}} (22, -8.6);
+    \draw[msg] (12.0, -7.6) -- node[above, font=\small, text=secondaryIndigo, pos=0.45] {7: \texttt{SELECT WHERE levelId='A1'}} (16.0, -7.6);
 
-    \draw[msg_return] (22, -9.8) -- node[below, font=\scriptsize, text=successGreen, pos=0.4] {8: 850 Normalized 3NF Rows} (16.5, -9.8);
+    \draw[msg_return] (16.0, -8.2) -- node[below, font=\small, text=successGreen, pos=0.45] {8: 850 Rows} (12.0, -8.2);
 
-    \draw[msg_return] (16.5, -10.8) -- node[below, font=\scriptsize, text=successGreen, pos=0.4] {9: Typed \texttt{Vocabulary[]} Array} (11, -10.8);
+    \draw[msg_return] (12.0, -8.8) -- node[below, font=\small, text=successGreen, pos=0.45] {9: \texttt{Vocabulary[]} Array} (8.0, -8.8);
 
-    \draw[msg_return] (11, -11.8) -- node[below, font=\scriptsize, text=successGreen, pos=0.4] {10: HTTP 200 + JSON Payload} (5.5, -11.8);
+    \draw[msg_return] (8.0, -9.4) -- node[below, font=\small, text=successGreen, pos=0.45] {10: HTTP 200 + JSON} (4.0, -9.4);
 
-    \draw[msg_return] (5.5, -12.8) -- node[below, font=\scriptsize, text=successGreen, pos=0.4] {11: 3NF JSON to Client} (0, -12.8);
-    \node[note, anchor=west] at (0.3, -12.3) {\textbf{Browser:} React hydrates glassmorphic cards. Articles: \texttt{der}=blue, \texttt{die}=rose, \texttt{das}=emerald.};
+    \draw[msg_return] (4.0, -10.0) -- node[below, font=\small, text=successGreen, pos=0.45] {11: JSON to Client} (0, -10.0);
 
-    % ===================== FLOW 2: QUIZ SUBMISSION =====================
-    \node[sectionlabel] at (-1.8, -15.5) {QUIZ};
-    \node[sectionlabel] at (-1.8, -16.2) {SUBMIT};
-    \node[fill=red!8, rounded corners=3pt, inner sep=2pt] at (-1.8, -15.85) {\scriptsize\textbf{FLOW 2}};
+    % separator
+    \draw[flowsep] (-2.2, -10.8) -- (17.8, -10.8);
 
-    \draw[msg] (0, -14.5) -- node[above, font=\scriptsize\bfseries, text=primaryBlue, pos=0.4] {12: \texttt{POST /api/quizzes/submit \{quizId, answer\}}} (5.5, -14.5);
-    \node[note, anchor=west] at (0.3, -14.0) {\textbf{Browser:} Student selects option B. \texttt{useCentralQuizzes()} dispatches POST.};
+    % ==================== FLOW 2: QUIZ SUBMISSION ====================
+    \node[sectionlabel] at (-1.6, -11.4) {FLOW 2};
+    \node[fill=red!8, rounded corners=2pt, inner sep=2.5pt, font=\small\bfseries, text=dangerRed] at (-1.6, -11.9) {QUIZ};
 
-    \draw[msg] (5.5, -15.6) -- (5.5, -16.2) node[midway, left, font=\scriptsize, text=secondaryIndigo] {13: JWT Verify};
+    \draw[msg] (0, -12.4) -- node[above, font=\small\bfseries, text=primaryBlue, pos=0.45] {12: \texttt{POST /api/quizzes/submit}} (4.0, -12.4);
 
-    \draw[msg] (5.5, -16.7) -- node[above, font=\scriptsize, text=secondaryIndigo, pos=0.4] {14: Forward to Lambda} (11, -16.7);
+    \draw[msg] (4.0, -13.0) -- (4.0, -13.4) node[midway, left, font=\small, text=secondaryIndigo] {13: JWT Verify};
 
-    \draw[msg] (11, -17.7) -- node[above, font=\scriptsize, text=teal!80!black, pos=0.4] {15: \texttt{prisma.quizQuestion.findMany(\{where: \{quizId\}\})}} (16.5, -17.7);
+    \draw[msg] (4.0, -14.0) -- node[above, font=\small, text=secondaryIndigo, pos=0.45] {14: Forward} (8.0, -14.0);
 
-    \draw[msg_return] (16.5, -18.7) -- node[below, font=\scriptsize, text=successGreen, pos=0.4] {16: 1625 \texttt{QuizQuestion} Rows} (11, -18.7);
+    \draw[msg] (8.0, -14.6) -- node[above, font=\small, text=teal!80!black, pos=0.45] {15: \texttt{prisma.quizQuestion.findMany()}} (12.0, -14.6);
 
-    \draw[msg, densely dotted] (11, -19.5) -- (11, -20.1) node[midway, left, font=\scriptsize, text=teal!80!black] {17: Validate Answer};
-    \node[note, anchor=west] at (11.3, -19.3) {\textbf{Lambda:} Compare against \texttt{correctAnswer}. Calculate score.};
+    \draw[msg_return] (12.0, -15.2) -- node[below, font=\small, text=successGreen, pos=0.45] {16: Question Rows} (8.0, -15.2);
 
-    \draw[msg] (11, -20.6) -- node[above, font=\scriptsize, text=teal!80!black, pos=0.4] {18: \texttt{prisma.quizResult.create()}} (16.5, -20.6);
-    \draw[msg] (16.5, -21.4) -- node[above, font=\scriptsize, text=secondaryIndigo, pos=0.4] {19: \texttt{INSERT INTO QuizResult} + WAL Commit} (22, -21.4);
-    \draw[msg_return] (22, -22.2) -- node[below, font=\scriptsize, text=successGreen, pos=0.4] {20: INSERT Confirmation} (16.5, -22.2);
-    \draw[msg_return] (16.5, -22.8) -- node[below, font=\scriptsize, text=successGreen, pos=0.4] {21: Result Record} (11, -22.8);
+    \draw[msg, densely dotted] (8.0, -15.7) -- (8.0, -16.1) node[midway, left, font=\small, text=teal!80!black] {17: Validate};
 
-    \draw[msg_return] (11, -23.8) -- node[above, font=\scriptsize, text=successGreen, pos=0.4] {22: HTTP 201 \{correct: true, explanation\}} (5.5, -23.8);
+    \draw[msg] (8.0, -16.6) -- node[above, font=\small, text=teal!80!black, pos=0.45] {18: \texttt{prisma.quizResult.create()}} (12.0, -16.6);
+    \draw[msg] (12.0, -17.1) -- node[above, font=\small, text=secondaryIndigo, pos=0.45] {19: \texttt{INSERT} + WAL Commit} (16.0, -17.1);
+    \draw[msg_return] (16.0, -17.6) -- node[below, font=\small, text=successGreen, pos=0.45] {20: Confirm} (12.0, -17.6);
+    \draw[msg_return] (12.0, -18.1) -- node[below, font=\small, text=successGreen, pos=0.45] {21: Result Record} (8.0, -18.1);
 
-    \draw[msg_return] (5.5, -24.8) -- node[above, font=\scriptsize, text=successGreen, pos=0.4] {23: Score + Explanation JSON} (0, -24.8);
-    \node[note, anchor=west] at (0.3, -24.3) {\textbf{Browser:} Correct? $\rightarrow$ Web Audio API ascending arpeggio. Wrong $\rightarrow$ 110Hz buzzer + \texttt{animate-shake}.};
+    \draw[msg_return] (8.0, -18.6) -- node[above, font=\small, text=successGreen, pos=0.45] {22: HTTP 201 \{correct, explanation\}} (4.0, -18.6);
 
-    % ===================== FLOW 3: ADMIN CRUD =====================
-    \node[sectionlabel] at (-1.8, -28.0) {ADMIN};
-    \node[sectionlabel] at (-1.8, -28.7) {CRUD};
-    \node[fill=purple!8, rounded corners=3pt, inner sep=2pt] at (-1.8, -28.35) {\scriptsize\textbf{FLOW 3}};
+    \draw[msg_return] (4.0, -19.1) -- node[above, font=\small, text=successGreen, pos=0.45] {23: Score + Audio Trigger} (0, -19.1);
 
-    \node[actor, draw=purple!80!black, fill=purple!10, align=center] (admin) at (0, -27.0) {\large$\star$};
-    \node[below=2pt of admin, font=\small\bfseries, align=center] {Executive Admin};
+    % separator
+    \draw[flowsep] (-2.2, -19.8) -- (17.8, -19.8);
 
-    \node[activation, draw=purple!80!black, fill=purple!8, minimum height=7.5cm] at (0, -31.0) {};
+    % ==================== FLOW 3: ADMIN CRUD ====================
+    \node[sectionlabel] at (-1.6, -20.4) {FLOW 3};
+    \node[fill=purple!8, rounded corners=2pt, inner sep=2.5pt, font=\small\bfseries, text=purple!80!black] at (-1.6, -20.9) {ADMIN};
 
-    \draw[msg_admin] (0, -29.5) -- node[above, font=\scriptsize\bfseries, text=purple!80!black, pos=0.4] {24: \texttt{POST /api/admin/quizzes \{title, levelId, questions[]\}}} (5.5, -29.5);
-    \node[note, anchor=west, text=purple!80!black, draw=purple!80!black, fill=purple!5] at (0.3, -29.0) {\textbf{Admin:} \texttt{QuizzesTab.tsx} sends quiz + 1625 questions via \texttt{createMany}.};
+    \node[actor, draw=purple!80!black, fill=purple!10, align=center] (admin) at (0, -20.4) {\Large$\star$};
+    \node[below=4pt of admin, font=\small\bfseries, align=center] {Exec. Admin};
 
-    \draw[msg_admin] (5.5, -30.6) -- (5.5, -31.2) node[midway, left, font=\scriptsize, text=secondaryIndigo] {25: Admin JWT Verify};
+    \draw[msg_admin] (0, -21.4) -- node[above, font=\small\bfseries, text=purple!80!black, pos=0.45] {24: \texttt{POST /api/admin/quizzes}} (4.0, -21.4);
 
-    \draw[msg_admin] (5.5, -31.7) -- node[above, font=\scriptsize, text=secondaryIndigo, pos=0.4] {26: Forward to Lambda} (11, -31.7);
+    \draw[msg_admin] (4.0, -21.9) -- (4.0, -22.3) node[midway, left, font=\small, text=secondaryIndigo] {25: Admin JWT};
 
-    \draw[msg_admin] (11, -32.7) -- node[above, font=\scriptsize, text=teal!80!black, pos=0.4] {27: \texttt{prisma.quiz.create(\{data, include: \{questions: true\}\})}} (16.5, -32.7);
+    \draw[msg_admin] (4.0, -22.8) -- node[above, font=\small, text=secondaryIndigo, pos=0.45] {26: Forward} (8.0, -22.8);
 
-    \draw[msg] (16.5, -33.7) -- node[above, font=\scriptsize, text=secondaryIndigo, pos=0.4, align=center] {28: \texttt{BEGIN TX} $\rightarrow$ INSERT Quiz $\rightarrow$ INSERT QuizQuestion ($\times$1625) $\rightarrow$ COMMIT} (22, -33.7);
-    \node[note, anchor=west] at (11.3, -33.3) {\textbf{SQLite WAL:} Atomic transaction. Zero partial writes under concurrent student reads.};
+    \draw[msg_admin] (8.0, -23.3) -- node[above, font=\small, text=teal!80!black, pos=0.45] {27: \texttt{prisma.quiz.create()}} (12.0, -23.3);
 
-    \draw[msg_return] (22, -34.7) -- node[below, font=\scriptsize, text=successGreen, pos=0.4] {29: Transaction Committed} (16.5, -34.7);
-    \draw[msg_return] (16.5, -35.5) -- node[below, font=\scriptsize, text=successGreen, pos=0.4] {30: Created Quiz Record} (11, -35.5);
-    \draw[msg_return] (11, -36.5) -- node[above, font=\scriptsize, text=successGreen, pos=0.4] {31: HTTP 201 \{quiz: \{id, title, ...\}\}} (5.5, -36.5);
-    \draw[msg_return] (5.5, -37.5) -- node[above, font=\scriptsize, text=successGreen, pos=0.4] {32: Quiz Created Confirmation} (0, -37.5);
-    \node[note, anchor=west] at (0.3, -37.0) {\textbf{Admin:} \texttt{useCentralQuizzes()} cache invalidated. Students see new quiz on next navigation.};
+    \draw[msg] (12.0, -23.8) -- node[above, font=\small, text=secondaryIndigo, pos=0.45, align=center] {28: \texttt{BEGIN TX $\rightarrow$ INSERT $\times$1625 $\rightarrow$ COMMIT}} (16.0, -23.8);
 
-    % ===================== FLOW 4: USER REGISTRATION =====================
-    \node[sectionlabel] at (-1.8, -41.0) {USER};
-    \node[sectionlabel] at (-1.8, -41.7) {REGISTER};
-    \node[fill=amber!10, rounded corners=3pt, inner sep=2pt] at (-1.8, -41.35) {\scriptsize\textbf{FLOW 4}};
+    \draw[msg_return] (16.0, -24.3) -- node[below, font=\small, text=successGreen, pos=0.45] {29: Committed} (12.0, -24.3);
+    \draw[msg_return] (12.0, -24.8) -- node[below, font=\small, text=successGreen, pos=0.45] {30: Quiz Record} (8.0, -24.8);
+    \draw[msg_return] (8.0, -25.3) -- node[above, font=\small, text=successGreen, pos=0.45] {31: HTTP 201} (4.0, -25.3);
+    \draw[msg_return] (4.0, -25.8) -- node[above, font=\small, text=successGreen, pos=0.45] {32: Cache Invalidate} (0, -25.8);
 
-    \draw[msg] (0, -40.0) -- node[above, font=\scriptsize\bfseries, text=primaryBlue, pos=0.4] {33: \texttt{POST /api/user-auth/register \{email, name, password\}}} (5.5, -40.0);
-    \node[note, anchor=west] at (0.3, -39.5) {\textbf{Browser:} Registration form validated via React 19 hooks. Password over HTTPS.};
-
-    \draw[msg] (5.5, -41.1) -- (5.5, -41.7) node[midway, left, font=\scriptsize, text=secondaryIndigo] {34: Bypass Auth (public)};
-
-    \draw[msg] (5.5, -42.2) -- node[above, font=\scriptsize, text=secondaryIndigo, pos=0.4] {35: Forward to Lambda} (11, -42.2);
-
-    \draw[msg, densely dotted] (11, -43.0) -- (11, -43.6) node[midway, left, font=\scriptsize, text=teal!80!black] {36: Bcrypt Hash};
-    \node[note, anchor=west] at (11.3, -42.8) {\textbf{Lambda:} Password hashed (12 rounds). 5-digit random \texttt{id} generated.};
-
-    \draw[msg] (11, -44.1) -- node[above, font=\scriptsize, text=teal!80!black, pos=0.4] {37: \texttt{prisma.user.create(\{email, name, passwordHash\})}} (16.5, -44.1);
-    \draw[msg] (16.5, -44.9) -- node[above, font=\scriptsize, text=secondaryIndigo, pos=0.4] {38: \texttt{INSERT INTO User} + WAL Commit} (22, -44.9);
-    \draw[msg_return] (22, -45.7) -- node[below, font=\scriptsize, text=successGreen, pos=0.4] {39: User Record Created} (16.5, -45.7);
-    \draw[msg_return] (16.5, -46.3) -- node[below, font=\scriptsize, text=successGreen, pos=0.4] {40: User Object} (11, -46.3);
-
-    \draw[msg, densely dotted] (11, -47.1) -- (11, -47.7) node[midway, left, font=\scriptsize, text=teal!80!black] {41: Generate JWT Cookie};
-    \node[note, anchor=west] at (11.3, -46.9) {\textbf{Lambda:} JWT signed, set as \texttt{httpOnly} cookie. Future requests auto-authenticated at edge.};
-
-    \draw[msg_return] (11, -48.2) -- node[above, font=\scriptsize, text=successGreen, pos=0.4] {42: HTTP 201 + Set-Cookie: JWT} (5.5, -48.2);
-    \draw[msg_return] (5.5, -49.2) -- node[above, font=\scriptsize, text=successGreen, pos=0.4] {43: Registration Success + Session Cookie} (0, -49.2);
-    \node[note, anchor=west] at (0.3, -48.7) {\textbf{Browser:} JWT stored \texttt{httpOnly}. Router $\rightarrow$ \texttt{/dashboard}. Future calls carry session.};
-
-    % ===================== FLOW 5: COLD-START DB MIRROR =====================
-    \node[sectionlabel] at (-1.8, -53.0) {COLD};
-    \node[sectionlabel] at (-1.8, -53.7) {START};
-    \node[fill=yellow!10, rounded corners=3pt, inner sep=2pt] at (-1.8, -53.35) {\scriptsize\textbf{FLOW 5}};
-
-    \draw[msg, densely dotted] (11, -52.0) -- (11, -52.6) node[midway, left, font=\scriptsize, text=teal!80!black] {44: New Lambda Container};
-    \node[note, anchor=west] at (11.3, -51.8) {\textbf{Vercel:} Empty \texttt{/tmp}. 741KB \texttt{dev.db} must be discovered \& copied.};
-
-    \draw[msg, densely dotted] (11, -53.1) -- (11, -53.7) node[midway, left, font=\scriptsize, text=teal!80!black] {45: NFT Path Scan (9 dirs)};
-    \node[note, anchor=west] at (11.3, -52.9) {\textbf{Algorithm:} Iterates \texttt{prisma/dev.db}, \texttt{\_\_dirname}, \texttt{./}, \texttt{Backend/} + 5 fallbacks.};
-
-    \draw[msg] (11, -54.2) -- (11, -54.8) node[midway, left, font=\scriptsize, text=teal!80!black] {46: \texttt{fs.copyFileSync(src, '/tmp/dev.db')}};
-
-    \draw[msg, densely dotted] (11, -55.0) -- (11, -55.6) node[midway, left, font=\scriptsize, text=teal!80!black] {47: Set \texttt{DATABASE\_URL}};
-
-    \draw[msg] (11, -56.0) -- node[above, font=\scriptsize, text=teal!80!black, pos=0.4] {48: \texttt{new PrismaClient()} Singleton Init} (16.5, -56.0);
-
-    \draw[msg] (16.5, -56.8) -- node[above, font=\scriptsize, text=secondaryIndigo, pos=0.4] {49: \texttt{PRAGMA journal\_mode=WAL; busy\_timeout=5000}} (22, -56.8);
-    \node[note, anchor=west] at (11.3, -56.6) {\textbf{SQLite WAL:} Concurrent reads during writes. 5s retry under high load.};
-
-    \draw[msg_return] (22, -57.8) -- node[below, font=\scriptsize, text=successGreen, pos=0.4] {50: RAM Database Ready} (11, -57.8);
-
-    % Summary box
-    \node[note, draw=primaryBlue, fill=blue!5, text width=17cm, anchor=north, align=center] at (11, -60.0) {
-        \textbf{\textcolor{primaryBlue}{Lifecycle Summary:}}\\
-        Steps 1--11: Vocabulary Fetch (6 hops, $<$200ms) $\quad$
-        Steps 12--23: Quiz + Audio Feedback (9 hops)\\
-        Steps 24--32: Admin CRUD (6 hops, atomic WAL) $\quad$
-        Steps 33--43: Registration + JWT (7 hops)\\
-        Steps 44--50: Cold-Start DB Mirror (runs once per new Lambda container)
+    % Summary box at bottom
+    \node[rectangle, draw=primaryBlue, fill=blue!5, rounded corners=4pt, text width=14cm, anchor=north, align=center, font=\small, inner sep=6pt] at (8.0, -26.8) {
+        \textbf{\textcolor{primaryBlue}{Page 1 -- Request Lifecycle Flows}}\\[2pt]
+        Steps 1--11: Vocabulary Fetch (6 hops) \quad Steps 12--23: Quiz + Audio (9 hops) \quad Steps 24--32: Admin CRUD (6 hops)
     };
 \end{tikzpicture}
 }
-\caption{Full System Sequence Diagram: End-to-End Request Lifecycle Across Edge Proxy, Serverless Lambda, Prisma ORM, and 3NF SQLite Database.}
+\caption{Full System Sequence Diagram (Page~1 of~2): Vocabulary Fetch, Quiz Submission, and Administrator CRUD Request Lifecycle.}
 \label{fig:sequence}
 \end{figure}
+
+\clearpage
+\begin{figure}[p]
+\centering
+\resizebox{\textwidth}{!}{
+\begin{tikzpicture}[
+    participant/.style={rectangle, draw=primaryBlue, thick, fill=white, text width=3.0cm, align=center, rounded corners=4pt, minimum height=1.4cm, font=\small\bfseries, drop shadow},
+    actor/.style={circle, draw=darkGray, thick, fill=lightGray, minimum size=1.6cm, font=\small\bfseries, align=center},
+    msg/.style={-{Latex[length=3mm, width=2mm]}, thick, primaryBlue},
+    msg_return/.style={-{Latex[length=3mm, width=2mm]}, thick, dashed, successGreen},
+    msg_admin/.style={-{Latex[length=3mm, width=2mm]}, thick, purple!80!black},
+    activation/.style={fill=primaryBlue!12, draw=primaryBlue, thick, rounded corners=1.5pt, minimum width=0.5cm},
+    sectionlabel/.style={font=\small\bfseries, text=darkGray, anchor=east},
+    flowsep/.style={draw=darkGray!30, thin, dashed}
+]
+    % ============ PARTICIPANT HEADERS ============
+    \node[actor, align=center] (student) at (0, 0) {\Large$\ddot{\smile}$};
+    \node[below=4pt of student, font=\small\bfseries, align=center] {Student\\Browser};
+
+    \node[participant] (proxy) at (4.0, 0) {Edge Proxy\\{\scriptsize\texttt{proxy.ts}}};
+
+    \node[participant, fill=teal!5] (lambda) at (8.0, 0) {AWS Lambda\\{\scriptsize Serverless}};
+
+    \node[participant, fill=indigo!5] (prisma) at (12.0, 0) {Prisma ORM\\{\scriptsize Singleton}};
+
+    \node[participant, fill=yellow!10, draw=accentAmber] (db) at (16.0, 0) {SQLite 3NF\\{\scriptsize RAM Cache}};
+
+    % Vertical lifelines
+    \foreach \x in {0, 4.0, 8.0, 12.0, 16.0} {
+        \draw[dashed, thick, darkGray!40] (\x, -0.85) -- (\x, -17.5);
+    }
+
+    % ==================== FLOW 4: USER REGISTRATION ====================
+    \node[sectionlabel] at (-1.6, -1.8) {FLOW 4};
+    \node[fill=amber!10, rounded corners=2pt, inner sep=2.5pt, font=\small\bfseries, text=accentAmber] at (-1.6, -2.3) {REG};
+
+    \node[activation, minimum height=6.0cm] at (0, -5.5) {};
+    \node[activation, minimum height=5.2cm] at (4.0, -5.8) {};
+    \node[activation, minimum height=4.4cm] at (8.0, -6.2) {};
+    \node[activation, minimum height=1.8cm] at (12.0, -7.8) {};
+    \node[activation, minimum height=1.2cm] at (16.0, -8.1) {};
+
+    \draw[msg] (0, -3.0) -- node[above, font=\small\bfseries, text=primaryBlue, pos=0.45] {33: \texttt{POST /api/user-auth/register}} (4.0, -3.0);
+
+    \draw[msg] (4.0, -3.7) -- (4.0, -4.1) node[midway, left, font=\small, text=secondaryIndigo] {34: Public Bypass};
+
+    \draw[msg] (4.0, -4.8) -- node[above, font=\small, text=secondaryIndigo, pos=0.45] {35: Forward} (8.0, -4.8);
+
+    \draw[msg, densely dotted] (8.0, -5.4) -- (8.0, -5.8) node[midway, left, font=\small, text=teal!80!black] {36: Bcrypt Hash};
+
+    \draw[msg] (8.0, -6.4) -- node[above, font=\small, text=teal!80!black, pos=0.45] {37: \texttt{prisma.user.create()}} (12.0, -6.4);
+    \draw[msg] (12.0, -7.0) -- node[above, font=\small, text=secondaryIndigo, pos=0.45] {38: \texttt{INSERT} + WAL} (16.0, -7.0);
+    \draw[msg_return] (16.0, -7.6) -- node[below, font=\small, text=successGreen, pos=0.45] {39: Created} (12.0, -7.6);
+    \draw[msg_return] (12.0, -8.2) -- node[below, font=\small, text=successGreen, pos=0.45] {40: User Object} (8.0, -8.2);
+
+    \draw[msg, densely dotted] (8.0, -8.8) -- (8.0, -9.2) node[midway, left, font=\small, text=teal!80!black] {41: Generate JWT};
+
+    \draw[msg_return] (8.0, -9.8) -- node[above, font=\small, text=successGreen, pos=0.45] {42: HTTP 201 + Set-Cookie} (4.0, -9.8);
+    \draw[msg_return] (4.0, -10.4) -- node[above, font=\small, text=successGreen, pos=0.45] {43: Session Active} (0, -10.4);
+
+    % separator
+    \draw[flowsep] (-2.2, -11.4) -- (17.8, -11.4);
+
+    % ==================== FLOW 5: COLD-START DB MIRROR ====================
+    \node[sectionlabel] at (-1.6, -12.2) {FLOW 5};
+    \node[fill=yellow!10, rounded corners=2pt, inner sep=2.5pt, font=\small\bfseries, text=accentAmber] at (-1.6, -12.7) {COLD START};
+
+    \draw[msg, densely dotted] (8.0, -13.4) -- (8.0, -13.8) node[midway, left, font=\small, text=teal!80!black] {44: New Lambda};
+
+    \draw[msg, densely dotted] (8.0, -14.2) -- (8.0, -14.6) node[midway, left, font=\small, text=teal!80!black] {45: NFT Scan};
+
+    \draw[msg] (8.0, -15.0) -- (8.0, -15.4) node[midway, left, font=\small, text=teal!80!black] {46: \texttt{copyFileSync} $\rightarrow$ /tmp};
+
+    \draw[msg, densely dotted] (8.0, -15.8) -- (8.0, -16.2) node[midway, left, font=\small, text=teal!80!black] {47: Set \texttt{DATABASE\_URL}};
+
+    \draw[msg] (8.0, -16.6) -- node[above, font=\small, text=teal!80!black, pos=0.45] {48: Singleton Init} (12.0, -16.6);
+
+    \draw[msg] (12.0, -17.0) -- node[above, font=\small, text=secondaryIndigo, pos=0.45] {49: \texttt{PRAGMA WAL}} (16.0, -17.0);
+
+    \draw[msg_return] (16.0, -17.5) -- node[below, font=\small, text=successGreen, pos=0.45] {50: RAM DB Ready} (8.0, -17.5);
+
+    % Summary box at bottom
+    \node[rectangle, draw=primaryBlue, fill=blue!5, rounded corners=4pt, text width=14cm, anchor=north, align=center, font=\small, inner sep=6pt] at (8.0, -18.5) {
+        \textbf{\textcolor{primaryBlue}{Page 2 of 2 -- Registration \& Cold-Start Mirror}}\\[2pt]
+        Steps 33--43: User Registration + JWT Session (7 hops) \quad Steps 44--50: Cold-Start DB Mirror (runs once)
+    };
+\end{tikzpicture}
+}
+\caption{Full System Sequence Diagram (Page~2 of~2): User Registration \& Cold-Start Database Mirror Lifecycle.}
+\label{fig:sequence_p2}
+\end{figure}
+\clearpage
 
 \subsubsection{Sequence Diagram Explanation}
 The following detailed walkthrough explains every numbered step in Figure~\ref{fig:sequence}, organized by operational flow.
