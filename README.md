@@ -182,7 +182,8 @@ Two things we're actively working on:
 ## Author
 
 **Abdullah Al Mamun**
-Software Engineering & Computational Linguistics
+M.Sc. & B.Sc. In Software Engineering
+
 TU Wien (Vienna, Austria) & Daffodil International University
 
 - Email: [mamun.swe.de@gmail.com](mailto:mamun.swe.de@gmail.com)
