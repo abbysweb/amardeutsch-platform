@@ -90,7 +90,7 @@ export function useCentralQuizzes(targetLevel: string = "all") {
         try {
           res = await fetch(`/backend/api/admin/quizzes${queryParam}`);
         } catch {
-          res = await fetch(`http://localhost:3001/backend/api/admin/quizzes${queryParam}`);
+          res = await fetch(`https://amardeutsch-platform-backend.vercel.app/backend/api/admin/quizzes${queryParam}`);
         }
 
         if (res.ok && isMounted) {

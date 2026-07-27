@@ -1,5 +1,13 @@
 import type { NextConfig } from "next";
 
+// Intelligent Serverless & Local Gateway Resolver
+// Automatically links Vercel cloud deployments directly to the production backend,
+// while preserving zero-configuration local dual-port development (localhost:3001).
+const BACKEND_URL = process.env.NEXT_PUBLIC_BACKEND_URL || 
+  (process.env.NODE_ENV === 'production' || process.env.VERCEL 
+    ? 'https://amardeutsch-platform-backend.vercel.app' 
+    : 'http://localhost:3001');
+
 const nextConfig: NextConfig = {
   compress: true, // Enable strict gzip/Brotli compression to eliminate load time bottlenecks
   async rewrites() {
@@ -7,19 +15,19 @@ const nextConfig: NextConfig = {
       beforeFiles: [
         {
           source: '/backend/Customer-Analytics',
-          destination: 'http://localhost:3001/backend/Customer-Analytics',
+          destination: `${BACKEND_URL}/backend/Customer-Analytics`,
         },
         {
           source: '/backend/customer-analytics',
-          destination: 'http://localhost:3001/backend/Customer-Analytics',
+          destination: `${BACKEND_URL}/backend/Customer-Analytics`,
         },
         {
           source: '/backend',
-          destination: 'http://localhost:3001/backend/Dashboard',
+          destination: `${BACKEND_URL}/backend/Dashboard`,
         },
         {
           source: '/backend/:path*',
-          destination: 'http://localhost:3001/backend/:path*',
+          destination: `${BACKEND_URL}/backend/:path*`,
         },
       ],
       afterFiles: [],

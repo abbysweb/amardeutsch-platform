@@ -222,7 +222,7 @@ export default function Navbar() {
 
                     {user.role === "ADMIN" && (
                       <a
-                        href="http://localhost:3001/backend/login"
+                        href="/backend/Dashboard"
                         target="_blank"
                         rel="noreferrer"
                         className="block w-full text-left py-2 px-3 mb-1 bg-purple-50 hover:bg-purple-100 text-purple-900 font-extrabold text-xs rounded-xl transition-colors flex items-center justify-between"

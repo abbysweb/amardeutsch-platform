@@ -1,4 +1,5 @@
-## Advanced Gamified German Learning Suite & Behavioral Intelligence Platform
+# 🇩🇪 AmarDeutsch (`amardeutsch.com`)
+### Advanced Gamified German Learning Suite & Behavioral Intelligence Platform
 
 [![Next.js 16](https://img.shields.io/badge/Next.js%2016-Black?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org)
 [![TypeScript 5](https://img.shields.io/badge/TypeScript%205-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
@@ -123,7 +124,7 @@ Now grab a cup of coffee and open up your local instances:
 Designed and engineered under an advanced multi-agent supervisory framework by:
 
 **Abdullah Al Mamun**  
-*M.Sc. and B.Sc. In Software Engineering *  
+*Software Engineering & Computational Linguistics Architecture*  
 *TU Wien (Vienna, Austria) & Daffodil International University*  
 
 * 📧 Email: [`mamun.swe.de@gmail.com`](mailto:mamun.swe.de@gmail.com)  
