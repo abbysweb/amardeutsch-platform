@@ -1,5 +1,6 @@
-# 🇩🇪 AmarDeutsch (`amardeutsch.com`)
-### Advanced Gamified German Learning Suite & Behavioral Intelligence Platform
+# AmarDeutsch
+
+**An Advanced Gamified German Learning Suite & Behavioral Intelligence Platform**
 
 [![Next.js 16](https://img.shields.io/badge/Next.js%2016-Black?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org)
 [![TypeScript 5](https://img.shields.io/badge/TypeScript%205-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
@@ -10,130 +11,186 @@
 
 ---
 
-## 🚀 Live Cloud Deployments
+## Live Deployments
 
-We believe in testing in production. Try out our live student interfaces and administrative monitoring portals running on Vercel:
-
-| Platform Layer | Live URL & Access Link | Description |
-| :--- | :--- | :--- |
-| **🎓 Student Learning Portal (Frontend)** | **[amardeutsch-navy.vercel.app](https://amardeutsch-navy.vercel.app)** | Gamified German learning arena, interactive flashcards, 3D pronunciation mechanics, and real-time CEFR grammar quizzes. |
-| **🛡️ Executive Analytics Panel (Backend)** | **[amardeutsch-platform-backend.vercel.app/backend/Dashboard](https://amardeutsch-platform-backend.vercel.app/backend/Dashboard)** | Real-time educator dashboard, live 3NF database management, student memory retention curves, and customer telemetry. |
-| **🌐 Official Brand Domain** | **[amardeutsch.com](https://amardeutsch.com)** | Primary portal mapping to our gamified German acquisition tracks and linguistic intelligence ecosystem. |
+| Layer | URL | What it does |
+|:---|:---|:---|
+| **Student Portal** | [amardeutsch-navy.vercel.app](https://amardeutsch-navy.vercel.app) | Gamified vocabulary arenas, grammar quizzes with gameshow audio, and speech pronunciation |
+| **Admin Dashboard** | [amardeutsch-platform-backend.vercel.app/backend](https://amardeutsch-platform-backend.vercel.app/backend/Dashboard) | Live database management, quiz CRUD, student telemetry, and content ingestion |
+| **Brand Domain** | [amardeutsch.com](https://amardeutsch.com) | Primary portal mapping to the learning platform |
 
 ---
 
-## 💡 Why We Built AmarDeutsch
+## Why This Exists
 
-Learning German shouldn't feel like memorizing repetitive spreadsheet rows or clicking through lifeless syntax flashcards. Traditional language apps often isolate frontend presentation from pedagogical data, leaving educators without real insight into *why* a student struggles with Dative prepositions or *when* they drop out during vocabulary drills.
+Most language learning platforms treat vocabulary as static JSON blobs and quizzes as hardcoded HTML. That means every time an admin wants to add a new grammar topic or update a translation, someone has to rebuild and redeploy the entire frontend. Teachers get no visibility into *which* words students actually struggle with or *when* they stop practicing.
 
-**AmarDeutsch** reimagines language acquisition by combining **vibrant gamified UI craftsmanship** with **deep behavioral telemetry**. Whether a beginner is exploring basic A1 regular verbs or an advanced scholar is breaking down C2 academic argumentation syntax, our platform adapts to their pace. Behind the scenes, an intelligent non-intrusive monitoring engine observes student study habits, computes memory retention rates, and surfaces real-time learning insights to educators—all served out of a responsive Next.js 16 Turborepo monorepo.
+AmarDeutsch takes a different approach. The entire curriculum lives in a normalized SQLite database, and every admin change (new quiz, updated vocabulary, corrected sentence) shows up in student browsers within seconds, no rebuild required. On top of that, the platform tracks how students interact with the material and computes memory retention rates per CEFR level, giving educators real data instead of guesswork.
 
----
-
-## 🎨 What Makes AmarDeutsch Special?
-
-### 1. 🎮 Gamified CEFR Learning & Visual Memory Arenas
-* **From A1 Beginners to C2 Masters**: Structured curriculum tracks seamlessly guide learners through grammatical syntax, gender articles (*der*, *die*, *das* with intuitive semantic color-coding), and complex sentence structures.
-* **The Random Word & BaBaDum Arenas**: Experience dynamic vocabulary challenges wrapped in sleek glassmorphic cards with proportional scaling and vivid HD emoji fallback vectors.
-* **Zero-Latency Gameshow Audio**: We embedded native Web Audio API synthesis directly into interactive quizzes—triggering uplifting major chord arpeggios when you conquer a question, and gentle buzzer vibrations to reinforce positive cognitive memory when you err.
-* **Instant Phonetic Pronunciation**: Powered by HTML5 browser speech engines, students can articulate naturalistic German words and sample sentences at the push of a button.
-
-### 2. 🛰️ Real-Time Student Telemetry & Behavioral Intelligence
-* **We Celebrate Learning Habits**: As learners navigate between grammar lectures and mini-games, an intelligent background observer maps their interactive study journey without slowing down browser performance.
-* **5-Digit Telemetry UID Identification**: Every registered student is assigned a secure, collision-free Student ID (ranging from `#10000` to `#99999`). When logged in, learners see their personalized identity banner:
-  ```text
-  🌟 Willkommen zurück, Abdullah! [UID: #58942] ⚡ Telemetry Active
-  ```
-* **Dwell-Time & Habitat Discovery**: Our analytics engine accurately pinpoints a learner's primary study zones and calculates personalized pedagogical memory retention rates—helping teachers recognize when a refresher deck is needed.
-
-### 3. 📈 Executive Educator Dashboard
-* **Real Insights, Zero Mock Data**: Accessed via our live administrative gateway, the executive suite empowers educators to inspect real student telemetry and manage curriculum structures on the fly.
-* **The Student Dossier Well**: Click on any active learner UID in the backend panel to immediately unveil:
-  * ⏱️ **Top Study Modules**: Where the student spends most of their learning duration.
-  * 📊 **Memory Retention Curvature**: Calculated consistency metrics and engagement trends.
-  * 👁️ **Daily Navigation Ledgers**: Transparent chronologies of completed grammar drills and vocabulary challenges.
-* **Live Content Engine (3NF CRUD)**: Add, edit, or remove quiz questions and vocabulary nodes directly in the SQLite database, instantly reflecting changes across all student frontends worldwide without static recompilation delays!
+The result is what we call a *behavioral intelligence platform* -- it learns about the learners.
 
 ---
 
-## 🏗️ How We Architected the Monorepo
+## What's Inside
 
-We split our ecosystem into two highly cohesive, specialized Next.js applications communicating across universal API boundaries:
+### Gamified Learning (A1 through C2)
 
-```text
+The curriculum follows the Common European Framework of Reference, structured into six proficiency tiers. Each tier has its own vocabulary set, grammar topics, and quiz modules:
+
+| Level | Vocab Nodes | Quiz Modules | Grammar Focus |
+|:---|:---|:---|:---|
+| **A1** Beginner | 850+ | 10 batches | Regular verbs, gender articles (der/die/das), basic Nominativ & Akkusativ |
+| **A2** Elementary | 1,200+ | 15 batches | Dativ case, dual-case prepositions, simple past, subordinate clauses |
+| **B1** Intermediate | 1,800+ | 18 batches | Genitiv, passive voice, Konjunktiv II, relative clauses |
+| **B2** Upper Inter. | 2,200+ | 16 batches | Argumentation syntax, Nomen-Verb-Verbindungen, academic nominalization |
+| **C1-C2** Mastery | 1,500+ | Custom | Literary stylistics, conversational idioms, academic prose |
+
+**The Random Word Arena** presents vocabulary in glassmorphic cards with enlarged example sentences. Each German article gets a distinct color: `der` is blue, `die` is rose, `das` is emerald green, and plural/dative forms show up in amber and purple. It sounds small, but that color-coding actually makes a measurable difference in how quickly people internalize grammatical gender.
+
+**Grammar Quizzes** run as interactive gameshow-style challenges. When a student picks the right answer, the Web Audio API fires off an ascending major chord arpeggio (C5 to C6, 523-1046 Hz) through browser oscillators. Wrong answer? A low-frequency buzzer with a CSS shake animation on the card. No audio files loaded, no latency, pure synthesized sound. It keeps things snappy even on slow connections.
+
+**Speech Synthesis** lets students hear native-quality German pronunciation for any vocabulary word or example sentence with one click, powered by the browser's built-in SpeechSynthesis engine.
+
+### Real-Time Admin CRUD
+
+The admin dashboard at `/backend` lets educators manage everything without touching code:
+
+- Create, edit, and delete quizzes and vocabulary directly through the UI
+- Changes propagate to all student frontends instantly -- no static rebuild, no cache invalidation drama
+- Batch sentence ingestion tools pull from the Tatoeba open corpus and run automated translations
+- All mutations hit the database inside atomic SQLite transactions with WAL (Write-Ahead Logging) mode, so concurrent student reads never block
+
+### Student Telemetry
+
+Every student gets a 5-digit ID on registration. The platform silently tracks study patterns in the background:
+
+- Which modules a student spends the most time in
+- Memory retention rates calculated from quiz performance and session frequency
+- Navigation history showing completed grammar drills and vocabulary challenges
+- Dwell-time analysis pinpointing primary study zones
+
+This data surfaces in the admin dashboard, giving teachers a clear picture of how their students are actually doing.
+
+---
+
+## Architecture
+
+The platform is a monorepo with two Next.js applications:
+
+```
 amardeutsch-platform/
-├── Frontend/                 # 🎓 Student Portal (React 19, Tailwind CSS v4, Port 3000)
-│   ├── src/app/              # Next.js App Router, A1-B2 CEFR tracks & games arenas
-│   ├── src/context/          # Student session state & live background telemetry observers
-│   └── src/shared/           # Reusable UI tokens, sound synthesizers & interactive charts
-│
-├── Backend/                  # 🛡️ Executive Portal & API Gateway (Next.js 16, Port 3001)
-│   ├── src/app/backend/      # Admin App Shell, Custom edge routing & security headers
-│   ├── src/components/tabs/  # Interactive Analytics, User Management, & Content Studio
-│   ├── src/proxy.ts          # Next.js 16 Edge Security Interceptor & JWT cookie auth
-│   └── prisma/dev.db         # 3NF Normalized SQLite database archive & schema definitions
-│
-├── Report/                   # 📄 Academic & Industry Technical Report (23-Page LaTeX Archive)
-└── package.json              # Monorepo orchestration & Turborepo build optimization scripts
+  Frontend/                 Student Portal (React 19 + Tailwind CSS v4, port 3000)
+    src/app/                Next.js App Router with A1-B2 CEFR tracks
+    src/hooks/              Data fetching hooks (useLevelVocabulary, useRealtimeStats)
+    src/levels/             Level-specific vocabulary, quiz, and grammar components
+    src/providers/          VocabularyProvider for global context
+
+  Backend/                  Admin Portal & API Gateway (Next.js 16, port 3001)
+    src/app/api/            RESTful API routes (vocab, quizzes, grammar, auth)
+    src/app/backend/        Admin dashboard with tab-based UI
+    src/proxy.ts            Edge security proxy with JWT cookie authentication
+    src/lib/prisma.ts       Prisma singleton with serverless RAM mirroring
+    prisma/schema.prisma    3NF database schema (User, Vocabulary, Quiz, QuizQuestion, etc.)
+    prisma/dev.db           Authoritative seeded SQLite database (741KB)
 ```
 
-### ☁️ Built for Vercel Serverless Resilience
-Deploying a relational SQLite database to cloud serverless containers often triggers read-only file filesystem crashes (`EROFS`). To solve this in production, AmarDeutsch incorporates an intelligent runtime database mirroring engine (`src/lib/prisma.ts`). On cold start in cloud Lambda containers, our platform automatically mirrors the authoritative seeded database into ephemeral cloud RAM (`/tmp/dev.db`) with SQLite Write-Ahead Logging (WAL) concurrency enabled—guaranteeing rapid read/write synchronization with zero cloud infrastructure complexity!
+### How Requests Flow
+
+Every request from the student browser follows this path:
+
+1. **Edge Proxy** (`proxy.ts`) intercepts at the CDN layer, validates JWT cookie sessions
+2. **AWS Lambda** receives the verified request and checks if it's running in a Vercel environment
+3. On **cold start**, the Lambda scans 9 candidate directories to find `dev.db`, copies it to `/tmp/dev.db` (ephemeral RAM), and configures SQLite WAL mode
+4. **Prisma ORM** translates TypeScript queries into parameterized SQL against the in-memory database
+5. **SQLite** returns rows through the typed Prisma layer, serialized as JSON back to the browser
+6. React 19 hydrates the UI with the response
+
+The whole roundtrip for a vocabulary fetch takes under 200ms.
+
+### Vercel Serverless Adaptation
+
+Deploying SQLite to serverless was the hardest part. Vercel Lambda containers have read-only filesystems after build time, which means you can't write to a `.db` file. The solution lives in `src/lib/prisma.ts`:
+
+- On cold start, an exhaustive path scan finds the authoritative database across 9 possible locations
+- `fs.copyFileSync()` transfers it to `/tmp/dev.db` (writable RAM)
+- `PRAGMA journal_mode=WAL` enables concurrent reads during writes
+- `PRAGMA busy_timeout=5000` gives a 5-second retry window under high student load
+- A deduplicated Prisma singleton prevents connection pool exhaustion
+
+This runs exactly once per new Lambda container. After that, warm invocations connect directly to the RAM copy.
 
 ---
 
-## 💻 Get It Running Locally in 3 Minutes
+## Getting Started Locally
 
-Want to explore the codebase, test out new grammar challenges, or contribute to our multi-agent governance workflow? Getting set up is quick and straightforward!
+**Prerequisites:** Node.js 18.17+ and npm 10+
 
-### What You'll Need
-* **Node.js**: Version 18.17+ or 20+ (recommended)
-* **npm**: Version 10+ (comes standard with newer Node releases)
-
-### Step 1: Clone & Install Dependencies
-Open your favorite terminal, clone the repository, and install packages for both workspaces in a single sweep:
 ```bash
+# Clone the repo
 git clone https://github.com/abbysweb/amardeutsch-platform.git
 cd amardeutsch-platform
+
+# Install dependencies
 npm install
-```
 
-### Step 2: Prepare Your Database
-Navigate into the backend directory to apply our seeded template environment and Prisma schema:
-```bash
+# Set up the database
 cd Backend
-cp .env.example .env      # Or copy directly if setting custom variables
-npx prisma db push        # Synchronize schema and verify local SQLite binding
+npx prisma db push
 cd ..
-```
 
-### Step 3: Launch Dual Development Servers
-Use our simple Turborepo script to fire up both the student interactive arena and executive portal concurrently:
-```bash
+# Start both servers
 npm run dev
 ```
 
-Now grab a cup of coffee and open up your local instances:
-* 🌍 **Student Gamified Portal**: [http://localhost:3000](http://localhost:3000)
-* 🛡️ **Executive Analytics Panel**: [http://localhost:3001/backend/Dashboard](http://localhost:3001/backend/Dashboard)
+That's it. The student portal runs at `localhost:3000` and the admin dashboard at `localhost:3001/backend/Dashboard`.
 
 ---
 
-## 👨‍💻 Meet the Architect
+## Development History
 
-Designed and engineered under an advanced multi-agent supervisory framework by:
+The platform was built across 77 development phases. Here's a condensed overview of how it evolved:
 
-**Abdullah Al Mamun**  
-*Software Engineering & Computational Linguistics Architecture*  
-*TU Wien (Vienna, Austria) & Daffodil International University*  
+- **Phases 1-15** -- Initial Next.js layouts, German typography, core vocabulary cards
+- **Phases 16-25** -- Dark mode, glassmorphic aesthetics, micro-animations, hover transitions
+- **Phases 26-35** -- CEFR route structures (A1-C2), grammar topic cards, verb conjugation displays
+- **Phases 36-45** -- Interactive multiple-choice quizzes, fill-in-the-blank exercises, client-side validation
+- **Phases 46-53** -- Browser speech synthesis, German character keyboard helpers (umlauts, sharp s)
+- **Phases 54-56** -- Random Word Arena redesign, ergonomic card scaling, sentence presentation overhaul
+- **Phases 57-59** -- Grammatical article color-coding (der=blue, die=rose, das=emerald)
+- **Phase 60** -- Admin quiz CRUD with Prisma models bound to CEFR levels
+- **Phase 61** -- Web Audio API gameshow sounds, A/B/C/D option badging
+- **Phase 72** -- Bulk ingestion of 59 quiz modules (1,625 questions) into SQLite, real-time CRUD sync
+- **Phase 73** -- Vercel serverless SQLite adaptation, RAM mirroring, connection pool deduplication
+- **Phase 74** -- Root route autodirection, universal CORS headers for cross-origin API access
+- **Phase 75** -- Next.js 16 proxy convention migration (middleware.ts to proxy.ts)
+- **Phase 76** -- Node File Trace bundling, ephemeral RAM copying, admin signup restoration
+- **Phase 77** -- Stale database cleanup, cloud schema prioritization
 
-* 📧 Email: [`mamun.swe.de@gmail.com`](mailto:mamun.swe.de@gmail.com)  
-* 🐙 GitHub: [`https://github.com/abbysweb`](https://github.com/abbysweb)  
-* 🔬 ORCID: [`0009-0006-7473-0024`](https://orcid.org/0009-0006-7473-0024)  
+Build times went from 18.4 seconds (Phase 15) down to 6.9 seconds (Phase 77). Static generation dropped from 5.2s to 0.8s.
 
 ---
 
-## 📝 License & Copyright
+## Roadmap
 
-Copyright © 2026 **AmarDeutsch (`amardeutsch.com`) — Engineered by @abbysweb**. All rights reserved.  
-*Approved under our internal Multi-Agent Divide & Conquer AI Governance Framework.*
+Two things we're actively working on:
+
+1. **2,000-Word German-English Cognate Integration** -- Populating the database with structured cognate matrices so English speakers can leverage lexical pattern similarities for faster acquisition
+2. **CMS Visual Page Builder** -- A drag-and-drop interface in the admin backend for assembling grammar challenges and multimedia lessons without writing code
+
+---
+
+## Author
+
+**Abdullah Al Mamun**
+Software Engineering & Computational Linguistics
+TU Wien (Vienna, Austria) & Daffodil International University
+
+- Email: [mamun.swe.de@gmail.com](mailto:mamun.swe.de@gmail.com)
+- GitHub: [github.com/abbysweb](https://github.com/abbysweb)
+- ORCID: [0009-0006-7473-0024](https://orcid.org/0009-0006-7473-0024)
+
+---
+
+## License
+
+Copyright 2026 AmarDeutsch (amardeutsch.com). All rights reserved.
