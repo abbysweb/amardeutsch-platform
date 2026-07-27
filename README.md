@@ -1,4 +1,4 @@
-# AmarDeutsch
+# German-Edtech-Platform
 
 **An Advanced Gamified German Learning Suite & Behavioral Intelligence Platform**
 
