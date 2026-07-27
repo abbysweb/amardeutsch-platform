@@ -2,6 +2,9 @@
 
 import { useState, useEffect, useCallback } from 'react';
 
+const BACKEND_URL = process.env.NEXT_PUBLIC_BACKEND_URL ||
+  'https://amardeutsch-platform-backend.vercel.app';
+
 export interface LevelStats {
   vocabularyCount: number;
   grammarCount: number;
@@ -54,7 +57,8 @@ export function useRealtimeStats(levelId: string, defaultStats: DefaultStats): L
 
     // 1. Fetch live vocabulary count
     try {
-      const res = await fetch(`/backend/api/admin/vocab?level=${cleanLevel}`, { cache: 'no-store' });
+      let res = await fetch(`/backend/api/admin/vocab?level=${cleanLevel}`, { cache: 'no-store' });
+      if (!res.ok) res = await fetch(`${BACKEND_URL}/backend/api/admin/vocab?level=${cleanLevel}`, { cache: 'no-store' });
       if (res.ok) {
         const data = await res.json();
         if (Array.isArray(data)) {
@@ -73,7 +77,8 @@ export function useRealtimeStats(levelId: string, defaultStats: DefaultStats): L
 
     // 2. Fetch live interactive quizzes count
     try {
-      const res = await fetch(`/backend/api/admin/quizzes?level=${upperLevel}`, { cache: 'no-store' });
+      let res = await fetch(`/backend/api/admin/quizzes?level=${upperLevel}`, { cache: 'no-store' });
+      if (!res.ok) res = await fetch(`${BACKEND_URL}/backend/api/admin/quizzes?level=${upperLevel}`, { cache: 'no-store' });
       if (res.ok) {
         const data = await res.json();
         if (Array.isArray(data) && data.length > 0) {
@@ -98,7 +103,8 @@ export function useRealtimeStats(levelId: string, defaultStats: DefaultStats): L
 
     // 3. Fetch live grammar rules count
     try {
-      const res = await fetch(`/backend/api/admin/grammar`, { cache: 'no-store' });
+      let res = await fetch(`/backend/api/admin/grammar`, { cache: 'no-store' });
+      if (!res.ok) res = await fetch(`${BACKEND_URL}/backend/api/admin/grammar`, { cache: 'no-store' });
       if (res.ok) {
         const data = await res.json();
         if (Array.isArray(data)) {

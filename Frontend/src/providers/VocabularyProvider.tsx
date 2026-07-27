@@ -51,8 +51,14 @@ export function VocabularyProvider({ children }: { children: React.ReactNode }) 
   useEffect(() => {
     async function fetchVocab() {
       try {
-        const res = await fetch('http://localhost:3001/backend/api/admin/vocab');
-        if (!res.ok) throw new Error('Failed to fetch vocabulary');
+        const res = await fetch('/backend/api/admin/vocab');
+        if (!res.ok) {
+          const altRes = await fetch('https://amardeutsch-platform-backend.vercel.app/backend/api/admin/vocab');
+          if (!altRes.ok) throw new Error('Failed to fetch vocabulary from cloud backend');
+          const data = await altRes.json();
+          setVocabulary(data);
+          return;
+        }
         const data = await res.json();
         setVocabulary(data);
       } catch (err: any) {
